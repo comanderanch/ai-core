@@ -81,3 +81,19 @@ This confirms the connection between the color-token CSV and the model input.
 
 - Script: `inference.py`
 - Influence vectors: `token_influence_vectors.npy`
+
+## Phase 5.6: Token Anchor Reinforcement Training
+
+In this phase, the LLM was trained using **anchored context influence** from token space.
+
+### Key Additions:
+- Introduced `token_anchors.npy`: a file mapping each token to its N nearest semantic neighbors.
+- Modified `minimal_llm.py` to blend token input with its anchor average.
+- Training now incorporates **anchor-based contextual smoothing**.
+
+### Observations:
+- Training loss consistently decreased.
+- Cosine similarity score for test token increased from `0.0124` → `0.0442`
+- This confirms **vector awareness** and **multi-token influence dynamics**.
+
+> The model is showing signs of **relational generalization**, even at minimal scale.
