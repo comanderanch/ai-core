@@ -7,24 +7,30 @@ from training.training_pairs import training_pairs
 
 import csv
 
-def load_tokens(csv_path):
+def load_tokens(csv_path, influence_path=None):
     tokens = []
     with open(csv_path, 'r') as file:
         reader = csv.reader(file)
         next(reader)  # Skip header
         for row in reader:
-            # Parse binary values only (Hue, R, G, B)
             hue_bin = row[0]
             r_bin = row[1]
             g_bin = row[2]
             b_bin = row[3]
-            # Convert binary strings to floats (0 or 1 bits)
             token_vec = [int(b) for b in hue_bin + r_bin + g_bin + b_bin]
             tokens.append(token_vec)
-        # Append frequency as an additional dimension
+
+    # Add frequency
+    for i in range(len(tokens)):
+        freq = i / len(tokens)
+        tokens[i] = np.append(tokens[i], freq)
+
+    # If influence vectors are provided, combine them
+    if influence_path:
+        influences = np.load(influence_path)
         for i in range(len(tokens)):
-            frequency = i / len(tokens)  # Normalize frequency (or load real ones later)
-            tokens[i] = np.append(tokens[i], frequency)
+            tokens[i] = np.concatenate([tokens[i], influences[i]])
+
     return np.array(tokens)
 
 
@@ -91,7 +97,10 @@ def cosine_similarity(a, b):
 
 
 def main():
-    tokens = load_tokens("../tokenizer/full_color_tokens.csv")
+    tokens = load_tokens(
+    "../tokenizer/full_color_tokens.csv",
+    "token_influence_vectors.npy"
+)
     model = MinimalLLM(input_size=tokens[0].shape[0], hidden_size=8, output_size=tokens[0].shape[0])
     epochs = 10  # Number of training passes through all pairs
 
