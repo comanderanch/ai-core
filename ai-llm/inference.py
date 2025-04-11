@@ -1,5 +1,6 @@
 import sys
 import numpy as np
+import os
 from minimal_llm import MinimalLLM, load_tokens
 from training.training_pairs import training_pairs
 from sklearn.metrics.pairwise import cosine_similarity
@@ -28,7 +29,7 @@ def main():
     prediction = model.forward(test_input)
     print("Model prediction:", prediction)
 
-    log_token_activity(index, prediction, path="../memory/token_trail_log.json")
+    log_token_activity(index, prediction)
 
     # Compare to the target token
     target_idx = next((t[1] for t in training_pairs if t[0] == index), None)
@@ -36,8 +37,12 @@ def main():
         target_vector = tokens[target_idx].reshape(1, -1)
         score = cosine_similarity(prediction, target_vector)[0][0]
         print(f"Cosine Similarity to target token: {score:.4f}")
+
     else:
         print("No matching target found in training_pairs.")
+
+    # Automatically regenerate token map
+    os.system("python3 token_map.py")
 
 if __name__ == "__main__":
     main()

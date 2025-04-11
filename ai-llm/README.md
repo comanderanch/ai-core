@@ -100,3 +100,41 @@ In this phase, the LLM was trained using **anchored context influence** from tok
 
 - Added anchor-based reinforcement to training (Phase 5.6)
 - Integrated token trail logging (Phase 5.7)
+
+Phase 5.7 — Token Trail Mapping
+Objective:
+Track how token outputs evolve during training and inference, and generate visual maps of token activation and prediction paths.
+
+Key Features Added:
+
+token_trail.py in /memory:
+
+Logs token activity (timestamp, input index, summary stats like mean/max/min).
+
+Writes to token_trail_log.json.
+
+inference.py (Enhanced):
+
+Calculates cosine similarity between predicted and target token.
+
+Calls the logger on each run.
+
+Auto-generates an updated token map using token_map.py.
+
+token_map.py in ai-llm:
+
+Visualizes the latest log of token activity.
+
+Saves a PNG token_map.png to reflect prediction traces.
+
+Run Example:
+
+``` python3 inference.py 10 ```
+
+Outputs:
+
+Cosine similarity score
+
+JSON log entry (memory/token_trail_log.json)
+
+Regenerated token_map.png
