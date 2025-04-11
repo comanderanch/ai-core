@@ -58,3 +58,15 @@ This confirms the connection between the color-token CSV and the model input.
 - The result shows diagonal variance, distributed clusters, and strong spacing.
 - Confirms token structure integrity across RGB, Hue, and Frequency dimensions.
 - Visualization saved as: `token_projection.png`
+
+## Token Influence Vectors (TIV)
+
+- Introduced Phase 5.4: Each token now includes influence from its 5 nearest neighbors.
+- This expands tokens from 41D → 82D, combining identity and local context.
+- Result: smoother learning curves and enhanced memory potential.
+- Influence vectors saved as: `token_influence_vectors.npy`
+
+## Visualization
+
+- PCA projection of all tokens confirms structured distribution.
+- Chart: `token_projection.png`
