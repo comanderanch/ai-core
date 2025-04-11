@@ -3,6 +3,7 @@ import numpy as np
 from minimal_llm import MinimalLLM, load_tokens
 from training.training_pairs import training_pairs
 from sklearn.metrics.pairwise import cosine_similarity
+from memory.token_trail import log_token_activity
 
 def main():
     if len(sys.argv) < 2:
@@ -26,6 +27,8 @@ def main():
     test_input = tokens[index].reshape(1, -1)
     prediction = model.forward(test_input)
     print("Model prediction:", prediction)
+
+    log_token_activity(index, prediction, path="../memory/token_trail_log.json")
 
     # Compare to the target token
     target_idx = next((t[1] for t in training_pairs if t[0] == index), None)

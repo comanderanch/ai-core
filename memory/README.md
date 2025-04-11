@@ -24,3 +24,16 @@ This is the long-term and short-term memory layer of the AI system.
 ## Notes
 Memory is a core component for contextual continuity.  
 It may interface directly with `ai-engine` for thought recall and learning.
+
+# Memory System
+
+This directory stores token activity logs for the AI-Core minimal LLM.
+
+## Files
+
+- `token_trail_log.json`  
+  Contains timestamped logs of token activity including input index, output vector summary (mean, max, min), and contextual metadata.
+
+## Phase Reference
+- Introduced in Phase 5.7: Token Trail Mapping and Memory Simulation.
+- Used during inference to track LLM behavior and token flow.
