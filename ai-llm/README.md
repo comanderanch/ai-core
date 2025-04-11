@@ -33,3 +33,6 @@ This confirms the connection between the color-token CSV and the model input.
 - `inference.py` loads the trained model and runs predictions on token input.
 - Uses saved weights from `model_weights.npz`.
 - Demonstrates how the LLM can operate independently from training.
+
+- Supports command-line token index selection:
+  `python3 inference.py <index>`
