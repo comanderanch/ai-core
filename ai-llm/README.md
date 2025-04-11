@@ -26,3 +26,10 @@ This confirms the connection between the color-token CSV and the model input.
 - Model state can be saved and reloaded using `save_model()` and `load_model()`
 
 - Reloaded models can make predictions without retraining
+
+
+## Inference
+
+- `inference.py` loads the trained model and runs predictions on token input.
+- Uses saved weights from `model_weights.npz`.
+- Demonstrates how the LLM can operate independently from training.
