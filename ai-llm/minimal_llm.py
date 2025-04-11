@@ -101,17 +101,32 @@ def main():
     "../tokenizer/full_color_tokens.csv",
     "token_influence_vectors.npy"
 )
+    # Load token anchor map
+    anchor_matrix = np.load("../tokenizer/token_anchors.npy")
+
     model = MinimalLLM(input_size=tokens[0].shape[0], hidden_size=8, output_size=tokens[0].shape[0])
     epochs = 10  # Number of training passes through all pairs
 
-    print("Starting training...")
+    print("Starting training with anchor reinforcement...")
+
     for epoch in range(epochs):
         print(f"\nEpoch {epoch+1}/{epochs}")
         for i, (input_idx, target_idx) in enumerate(training_pairs):
             input_sample = tokens[input_idx].reshape(1, -1)
             target_sample = tokens[target_idx].reshape(1, -1)
 
-            loss = model.train_step(input_sample, target_sample, learning_rate=0.01)
+            # --- Influence: Include anchor vectors ---
+            neighbor_indices = anchor_matrix[input_idx]
+            anchor_vectors = tokens[neighbor_indices]  # shape (N, D)
+
+            # Average anchor vectors into a single influence vector
+            anchor_mean = np.mean(anchor_vectors, axis=0).reshape(1, -1)
+
+            # Combine input with its anchor influence (weighted)
+            blended_input = (0.7 * input_sample) + (0.3 * anchor_mean)
+
+            # Train
+            loss = model.train_step(blended_input, target_sample, learning_rate=0.01)
             print(f"Pair {i+1}: Loss = {loss:.6f}")
 
     save_model(model)
