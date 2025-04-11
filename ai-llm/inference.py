@@ -1,31 +1,40 @@
+import sys
 import numpy as np
-from minimal_llm import MinimalLLM, load_model, load_tokens
+from minimal_llm import MinimalLLM, load_tokens
 from training.training_pairs import training_pairs
+from sklearn.metrics.pairwise import cosine_similarity
 
-# Load token data
-tokens = load_tokens("../tokenizer/full_color_tokens.csv")
+def main():
+    if len(sys.argv) < 2:
+        print("Usage: python3 inference.py <token_index>")
+        return
 
-# Initialize and load trained model
-model = MinimalLLM(input_size=tokens[0].shape[0], hidden_size=8, output_size=tokens[0].shape[0])
-load_model(model)
-print("Model loaded from saved weights.")
+    index = int(sys.argv[1])
 
-# Pick a token to test (unseen or known)
-test_index = training_pairs[0][0]  # Replace with any index you want to test
-test_input = tokens[test_index].reshape(1, -1)
+    # Load tokens with influence vectors
+    tokens = load_tokens("../tokenizer/full_color_tokens.csv", "token_influence_vectors.npy")
+    model = MinimalLLM(input_size=tokens.shape[1], hidden_size=8, output_size=tokens.shape[1])
 
-# Get model output
-prediction = model.forward(test_input)
-print("Model prediction:", prediction)
+    # Load trained weights
+    data = np.load("model_weights.npz")
+    model.W1 = data["W1"]
+    model.b1 = data["b1"]
+    model.W2 = data["W2"]
+    model.b2 = data["b2"]
+    print("Model loaded from saved weights.")
 
-# Load target token for comparison (same as training target)
-from training.training_pairs import training_pairs
-target_index = [pair[1] for pair in training_pairs if pair[0] == test_index]
+    test_input = tokens[index].reshape(1, -1)
+    prediction = model.forward(test_input)
+    print("Model prediction:", prediction)
 
-if target_index:
-    target_vector = tokens[target_index[0]].reshape(1, -1)
-    from minimal_llm import cosine_similarity
-    score = cosine_similarity(prediction, target_vector)
-    print(f"Cosine Similarity to target token: {score:.4f}")
-else:
-    print("No associated target found for this token.")
+    # Compare to the target token
+    target_idx = next((t[1] for t in training_pairs if t[0] == index), None)
+    if target_idx is not None:
+        target_vector = tokens[target_idx].reshape(1, -1)
+        score = cosine_similarity(prediction, target_vector)[0][0]
+        print(f"Cosine Similarity to target token: {score:.4f}")
+    else:
+        print("No matching target found in training_pairs.")
+
+if __name__ == "__main__":
+    main()

@@ -70,3 +70,14 @@ This confirms the connection between the color-token CSV and the model input.
 
 - PCA projection of all tokens confirms structured distribution.
 - Chart: `token_projection.png`
+
+## Phase 5.5 — Influence-Aware Inference & Similarity Scoring
+
+- Inference updated to include Token Influence Vectors (TIV) in model input.
+- Cosine similarity is now calculated between prediction and expected target token.
+- Allows evaluation of semantic accuracy in high-dimensional token space.
+- Example result:
+
+
+- Script: `inference.py`
+- Influence vectors: `token_influence_vectors.npy`
