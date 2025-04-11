@@ -1,4 +1,9 @@
+import sys
+import os
+sys.path.append(os.path.abspath(".."))
+
 import numpy as np
+from training.training_pairs import training_pairs
 
 import csv
 
@@ -36,11 +41,14 @@ class MinimalLLM:
 
 def main():
     tokens = load_tokens("../tokenizer/full_color_tokens.csv")
-    input_sample = tokens[10].reshape(1, -1)
-    model = MinimalLLM(input_size=input_sample.shape[1], hidden_size=8, output_size=4)
-    print("Input sample:", input_sample)
-    output = model.forward(input_sample)
-    print("Output:", output)
+    model = MinimalLLM(input_size=tokens[0].shape[0], hidden_size=8, output_size=4)
+
+    print("Training on token pairs:")
+    for i, (input_idx, target_idx) in enumerate(training_pairs):
+        input_sample = tokens[input_idx].reshape(1, -1)
+        target_sample = tokens[target_idx].reshape(1, -1)
+        output = model.forward(input_sample)
+        print(f"Pair {i+1}: Output:", output)
 
 if __name__ == "__main__":
     main()
