@@ -39,16 +39,20 @@ class MinimalLLM:
         z2 = a1 @ self.W2 + self.b2
         return z2
 
+def mean_squared_error(predicted, target):
+    return np.mean((predicted - target) ** 2)
+
+
 def main():
     tokens = load_tokens("../tokenizer/full_color_tokens.csv")
-    model = MinimalLLM(input_size=tokens[0].shape[0], hidden_size=8, output_size=4)
-
+    model = MinimalLLM(input_size=tokens[0].shape[0], hidden_size=8, output_size=tokens[0].shape[0])
     print("Training on token pairs:")
     for i, (input_idx, target_idx) in enumerate(training_pairs):
         input_sample = tokens[input_idx].reshape(1, -1)
         target_sample = tokens[target_idx].reshape(1, -1)
         output = model.forward(input_sample)
-        print(f"Pair {i+1}: Output:", output)
+        loss = mean_squared_error(output, target_sample)
+        print(f"Pair {i+1}: Loss = {loss:.6f}")
 
 if __name__ == "__main__":
     main()

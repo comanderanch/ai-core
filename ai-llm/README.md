@@ -17,3 +17,4 @@ Prints the model output vector
 
 This confirms the connection between the color-token CSV and the model input.
 
+- Calculates loss using mean squared error for each training pair
