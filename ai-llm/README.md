@@ -51,3 +51,10 @@ This confirms the connection between the color-token CSV and the model input.
 - Token vectors now include a normalized frequency component (41D total).
 - Frequency serves as an added context dimension, improving semantic similarity.
 - Cosine similarity increased after retraining, verifying deeper pattern alignment.
+
+## Token Space Visualization
+
+- Tokens were projected to 2D space using PCA for inspection.
+- The result shows diagonal variance, distributed clusters, and strong spacing.
+- Confirms token structure integrity across RGB, Hue, and Frequency dimensions.
+- Visualization saved as: `token_projection.png`
