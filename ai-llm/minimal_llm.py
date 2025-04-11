@@ -76,13 +76,19 @@ def mean_squared_error(predicted, target):
 def main():
     tokens = load_tokens("../tokenizer/full_color_tokens.csv")
     model = MinimalLLM(input_size=tokens[0].shape[0], hidden_size=8, output_size=tokens[0].shape[0])
-    print("Training on token pairs:")
-    for i, (input_idx, target_idx) in enumerate(training_pairs):
-        input_sample = tokens[input_idx].reshape(1, -1)
-        target_sample = tokens[target_idx].reshape(1, -1)
+    epochs = 10  # Number of training passes through all pairs
 
-        loss = model.train_step(input_sample, target_sample, learning_rate=0.01)
-        print(f"Pair {i+1}: Loss = {loss:.6f}")
+    print("Starting training...")
+    for epoch in range(epochs):
+        print(f"\nEpoch {epoch+1}/{epochs}")
+        for i, (input_idx, target_idx) in enumerate(training_pairs):
+            input_sample = tokens[input_idx].reshape(1, -1)
+            target_sample = tokens[target_idx].reshape(1, -1)
+
+            loss = model.train_step(input_sample, target_sample, learning_rate=0.01)
+            print(f"Pair {i+1}: Loss = {loss:.6f}")
+
+
 
 if __name__ == "__main__":
     main()
