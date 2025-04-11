@@ -36,3 +36,9 @@ This confirms the connection between the color-token CSV and the model input.
 
 - Supports command-line token index selection:
   `python3 inference.py <index>`
+
+## Evaluation
+
+- `evaluate.py` runs the model against all known training pairs.
+- Outputs individual loss and average loss across the dataset.
+- Useful for verifying model retention and performance after training.
