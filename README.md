@@ -50,3 +50,8 @@ More info coming soon at:
 ---
 
 
+## Recent Updates
+
+- Token memory trail logging now active (Phase 5.7)
+- Anchor influence now blended during LLM training (Phase 5.6)
+- See respective folders (`ai-llm/`, `tokenizer/`) for more.
