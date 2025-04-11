@@ -67,7 +67,15 @@ class MinimalLLM:
         # Return loss
         return np.mean((output - y) ** 2)
 
+def save_model(model, path="model_weights.npz"):
+    np.savez(path, W1=model.W1, b1=model.b1, W2=model.W2, b2=model.b2)
 
+def load_model(model, path="model_weights.npz"):
+    data = np.load(path)
+    model.W1 = data["W1"]
+    model.b1 = data["b1"]
+    model.W2 = data["W2"]
+    model.b2 = data["b2"]
 
 def mean_squared_error(predicted, target):
     return np.mean((predicted - target) ** 2)
@@ -88,6 +96,17 @@ def main():
             loss = model.train_step(input_sample, target_sample, learning_rate=0.01)
             print(f"Pair {i+1}: Loss = {loss:.6f}")
 
+    save_model(model)
+    print("Model saved to model_weights.npz")
+
+    # Load model from file and run a test prediction
+    load_model(model)
+    print("\nModel reloaded from model_weights.npz")
+
+    # Test on a known pair
+    test_input = tokens[training_pairs[0][0]].reshape(1, -1)
+    test_output = model.forward(test_input)
+    print("Test output from loaded model:", test_output)
 
 
 if __name__ == "__main__":
