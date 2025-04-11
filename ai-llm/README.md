@@ -22,3 +22,7 @@ This confirms the connection between the color-token CSV and the model input.
 - Implements train_step with gradient descent to adjust model weights per input/output pair
 
 - Supports multiple epochs of training using custom token input pairs
+
+- Model state can be saved and reloaded using `save_model()` and `load_model()`
+
+- Reloaded models can make predictions without retraining
