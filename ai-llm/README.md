@@ -42,3 +42,6 @@ This confirms the connection between the color-token CSV and the model input.
 - `evaluate.py` runs the model against all known training pairs.
 - Outputs individual loss and average loss across the dataset.
 - Useful for verifying model retention and performance after training.
+
+- Calculates cosine similarity between model output and associated target token.
+- Allows quantitative evaluation of learned associations.
