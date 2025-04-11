@@ -20,3 +20,5 @@ This confirms the connection between the color-token CSV and the model input.
 - Calculates loss using mean squared error for each training pair
 
 - Implements train_step with gradient descent to adjust model weights per input/output pair
+
+- Supports multiple epochs of training using custom token input pairs
