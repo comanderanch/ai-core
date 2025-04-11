@@ -45,3 +45,9 @@ This confirms the connection between the color-token CSV and the model input.
 
 - Calculates cosine similarity between model output and associated target token.
 - Allows quantitative evaluation of learned associations.
+
+## Token Enrichment
+
+- Token vectors now include a normalized frequency component (41D total).
+- Frequency serves as an added context dimension, improving semantic similarity.
+- Cosine similarity increased after retraining, verifying deeper pattern alignment.

@@ -21,6 +21,10 @@ def load_tokens(csv_path):
             # Convert binary strings to floats (0 or 1 bits)
             token_vec = [int(b) for b in hue_bin + r_bin + g_bin + b_bin]
             tokens.append(token_vec)
+        # Append frequency as an additional dimension
+        for i in range(len(tokens)):
+            frequency = i / len(tokens)  # Normalize frequency (or load real ones later)
+            tokens[i] = np.append(tokens[i], frequency)
     return np.array(tokens)
 
 
@@ -79,6 +83,11 @@ def load_model(model, path="model_weights.npz"):
 
 def mean_squared_error(predicted, target):
     return np.mean((predicted - target) ** 2)
+
+def cosine_similarity(a, b):
+    a = a.flatten()
+    b = b.flatten()
+    return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b) + 1e-8)
 
 
 def main():
