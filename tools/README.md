@@ -50,3 +50,18 @@ From inside the `/tools` directory:
 
 ```bash
 python3 token_anomaly_detector.py
+
+Tool: Token Path Tracker (token_path_tracker.py)
+This tool visualizes the trail of token predictions over time using PCA for dimensionality reduction.
+Each token logged through inference.py is mapped and labeled on a 2D coordinate plane.
+It helps identify behavioral shifts, token prediction consistency, and memory pathing.
+
+Output: token_path.png
+Example visualization:
+
+Token 20 appears in green at (0.0, 1.25)
+
+Token 15 in orange near top-left at (0.6, 0.50)
+
+Another Token 20 in blue around bottom-left at (-0.6, -0.50)
+
