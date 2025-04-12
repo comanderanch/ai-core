@@ -1,30 +1,31 @@
-import numpy as np
+import os
 import json
+import numpy as np
 from datetime import datetime
 
-TRAIL_LOG_PATH = "token_trail_log.json"
+# Always resolve path relative to this script’s location
+TRAIL_LOG_PATH = os.path.join(os.path.dirname(__file__), "token_trail_log.json")
 
-def log_token_activity(input_index, output_vector):
-    """Logs the input index and the resulting output vector into a memory trail file."""
-    log_entry = {
-        "timestamp": datetime.now().isoformat(),
-        "input_index": input_index,
+def log_token_activity(index, prediction, path=TRAIL_LOG_PATH):
+    summary = {
+        "timestamp": datetime.utcnow().isoformat(),
+        "input_index": index,
         "output_summary": {
-            "mean": float(np.mean(output_vector)),
-            "max": float(np.max(output_vector)),
-            "min": float(np.min(output_vector))
+            "mean": float(np.mean(prediction)),
+            "max": float(np.max(prediction)),
+            "min": float(np.min(prediction)),
         }
     }
 
-    try:
-        with open(TRAIL_LOG_PATH, "r") as f:
-            data = json.load(f)
-    except FileNotFoundError:
-        data = []
+    if os.path.exists(path):
+        with open(path, "r") as f:
+            log = json.load(f)
+    else:
+        log = []
 
-    data.append(log_entry)
+    log.append(summary)
 
-    with open(TRAIL_LOG_PATH, "w") as f:
-        json.dump(data, f, indent=2)
+    with open(path, "w") as f:
+        json.dump(log, f, indent=2)
 
-    print(f"Logged token activity for index {input_index}")
+    print(f"Logged token activity for index {index}")
