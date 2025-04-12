@@ -26,3 +26,27 @@ They are isolated to avoid interfering with core engine logic and allow safe exp
 **Purpose:** Analyzes cosine similarity between color tokens to identify natural clusters.  
 **Output:** `token_clusters.png` — A visual map showing cluster formations and alignment paths between tokens.  
 **Notes:** Used for identifying emergent token relationships and validating anchor influence on spatial structure.
+
+# Token Anomaly Detector
+
+This tool scans the full set of token vectors and detects anomalies based on z-score analysis. Tokens with significantly higher or lower average activation values are flagged for review.
+
+## How It Works
+
+- Loads all token vectors from `../tokenizer/full_color_tokens.csv`.
+- Computes the average (mean) value for each token vector.
+- Calculates z-scores across all means.
+- Flags any token whose z-score is > 2 or < -2 as an anomaly.
+- Visualizes the full distribution and highlights anomaly zones.
+
+## Output
+
+- **Console**: List of anomalous token indices and their z-scores.
+- **Image**: `token_anomalies.png` is generated and saved in the same folder.
+
+## Usage
+
+From inside the `/tools` directory:
+
+```bash
+python3 token_anomaly_detector.py
