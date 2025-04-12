@@ -65,3 +65,43 @@ Token 15 in orange near top-left at (0.6, 0.50)
 
 Another Token 20 in blue around bottom-left at (-0.6, -0.50)
 
+## Token Meaning Mapper
+
+Filename: token_meaning_mapper.py
+Location: /opt/ai-core/tools
+Created: 2025-04-12 12:47:45 UTC
+
+Description:
+The Token Meaning Mapper tool visualizes the directional relationship between input and output tokens from training pairs. Each pair is treated as a "thought movement" from one token to another, capturing the difference vector and reducing it using PCA for visualization.
+
+Input:
+../tokenizer/full_color_tokens.csv: The color-token vectors.
+
+../training/training_pairs.py: A list of manually defined training token index pairs.
+
+Output:
+A 2D PCA projection of token meaning transitions saved as token_meaning_map.png.
+
+Usage:
+
+cd /opt/ai-core/tools
+python3 token_meaning_mapper.py
+
+Visualization Notes:
+Each dot represents the direction from a source token to its paired target token.
+
+Example:
+
+Red 40 → 60
+
+Blue 10 → 25
+
+Green 20 → 35
+
+Orange 15 → 30
+
+Purple 50 → 70
+
+The arrows or directions help indicate how tokens semantically transition during model training.
+
+
