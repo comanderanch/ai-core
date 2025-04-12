@@ -138,3 +138,20 @@ Cosine similarity score
 JSON log entry (memory/token_trail_log.json)
 
 Regenerated token_map.png
+
+## Token Frequency Heatmap Tool
+
+**Filename:** `token_heatmap.py`
+
+**Description:**
+Generates a visual heatmap of token activity using the logged output from `token_trail_log.json`. Helps in visualizing the most and least active tokens after inference runs.
+
+**Output:**
+- Saves a heatmap image as `token_heatmap.png`.
+
+**Dependencies:**
+- Requires `seaborn` and `matplotlib`.
+
+**Usage:**
+```bash
+python3 token_heatmap.py
