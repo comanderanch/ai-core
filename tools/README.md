@@ -19,3 +19,10 @@ This directory contains utilities that support development, debugging, and perfo
 ## Notes
 These tools are optional but highly recommended for serious development and debugging.  
 They are isolated to avoid interfering with core engine logic and allow safe experimentation.
+
+### Token Cluster Detector
+
+**File:** `token_cluster_detector.py`  
+**Purpose:** Analyzes cosine similarity between color tokens to identify natural clusters.  
+**Output:** `token_clusters.png` — A visual map showing cluster formations and alignment paths between tokens.  
+**Notes:** Used for identifying emergent token relationships and validating anchor influence on spatial structure.
