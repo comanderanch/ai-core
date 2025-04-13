@@ -22,3 +22,39 @@ Scripts should be modular and well-commented.
 Avoid hardcoding paths; use relative paths and environment configs where possible.
 
 Scripts should be executable (`chmod +x`) and tested in isolation before inclusion in the main workflow.
+
+# AI-Core Scripts
+
+This directory contains the scripts for the **AI-Core** project. These scripts implement the various stages of the AI system, including decision-making, behavior triggering, and autonomous reflexes.
+
+## Scripts Overview
+
+1. **`decision_chain_manager.py`**:
+   - Handles the logic for processing token events and triggering actions based on token activity.
+
+2. **`behavior_trigger_system.py`**:
+   - Triggers actions based on the decisions made in the decision chain and updates the system's memory.
+
+3. **`autonomous_reflex_behavior.py`**:
+   - Implements reflexive behavior based on token events and updates the internal state based on patterns of token activity.
+
+## Setup
+
+Ensure that the necessary dependencies are installed by running:
+```bash
+pip3 install -r requirements.txt
+
+
+Running the Scripts
+You can run each script individually:
+
+
+python3 decision_chain_manager.py
+python3 behavior_trigger_system.py
+python3 autonomous_reflex_behavior.py
+
+
+Future Work
+Enhancing the reflexive behavior system
+
+Integrating the system with additional components of the AI framework
