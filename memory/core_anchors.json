@@ -1,0 +1,11 @@
+[
+    {
+        "anchor": "Persistent Reinforcement",
+        "based_on": [
+            "Trigger Action A",
+            "Trigger Action A",
+            "Trigger Action A"
+        ],
+        "count": 12
+    }
+]
