@@ -694,3 +694,28 @@ Introduces a middleware control system that reviews reflexively triggered action
 
 **Significance:**  
 The AI system now exhibits foundational self-control — enabling conscious inhibition of reflexes that conflict with identity or emotional history.
+
+## Phase 23 — Reflective Autonomy Trainer
+
+**Overview:**  
+Enables the AI to assess its past decisions and propose behavioral improvements based on tone history, preference, avoidance, and core alignment.
+
+**Module:**  
+- `reflective_autonomy_trainer.py`
+
+**Inputs:**
+- `emotionally_weighted_decisions.json`
+- `preferred_actions.json`
+- `avoidance_actions.json`
+- `reflex_override_log.json` (optional)
+
+**Output:**
+- `self_reflection_log.json`
+
+**Logic:**
+- Actions with negative tone but high scores are flagged
+- Missed positive reinforcement is proposed for boosting
+- Inconsistencies with preference/avoidance lists are highlighted
+
+**Significance:**  
+The system now reflects on its own reasoning to suggest improvements. This is the beginning of **self-tuning cognition** — where reflection leads to intentional evolution.
