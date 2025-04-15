@@ -1,0 +1,12 @@
+[
+    {
+        "concept": "Persistent Reinforcement",
+        "decision_score": 54.0,
+        "context_tokens": [
+            "Trigger Action A"
+        ],
+        "resonance_weight": 17,
+        "harmony_average": 70.0,
+        "timestamp": "2025-04-15T10:19:19.774400Z"
+    }
+]
