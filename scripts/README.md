@@ -103,3 +103,22 @@ Serves as the central integration engine for Phase 7. It consumes token reflex d
 **Run Command:**
 ```bash
 python3 scripts/cognitive_reflex_engine.py
+
+
+## Reflex Feedback Logging (Phase 7.1)
+
+**Overview:**  
+The behavior system now logs every triggered reflex action into `reflex_feedback_log.json`.  
+This marks the first instance of **cognitive memory recording**, allowing the AI to retain awareness of its decisions over time.
+
+**Log File:**  
+`memory/reflex_feedback_log.json`
+
+**Log Structure:**
+```json
+[
+    {
+        "action": "Trigger Action A",
+        "timestamp": "2025-04-15T02:52:26.945349Z"
+    }
+]
