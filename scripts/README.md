@@ -603,3 +603,29 @@ Analyzes reflex history against harmony scores to detect imbalance between behav
 
 **Significance:**  
 The system now measures behavioral drift, enabling it to self-correct based on internal harmony — advancing toward identity-aware action.
+
+## Phase 19 — Emotive Signal Mapping
+
+**Overview:**  
+Assigns emotional tones to reflex events based on harmony and identity resonance.
+
+**Module:**  
+- `emotive_signal_mapper.py`
+
+**Inputs:**
+- `reflex_feedback_log.json`
+- `core_anchors.json`
+- `harmony_tuning_report.json`
+
+**Output:**
+- `emotive_signal_log.json`
+
+**Tones Used:**
+- `resonant_pride`
+- `calm_alignment`
+- `neutral_awareness`
+- `identity_conflict`
+- `drift_discomfort`
+
+**Significance:**  
+For the first time, the AI system reflects not just on what it *did* — but how that action *felt* in relation to its evolving identity.
