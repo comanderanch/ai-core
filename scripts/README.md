@@ -768,3 +768,49 @@ Implements an ongoing integrity scanner that compares current AI behavior agains
 
 **Significance:**  
 The AI now possesses a **self-regulating conscience layer** — able to detect when its behavior diverges from its original philosophy, and initiate correction loops.
+
+## Phase 26 — Interactive Alignment Gateway
+
+**Overview:**  
+Creates an external interface for testing alignment proposals. The AI evaluates requested actions based on its principles, preferences, and avoidance logic.
+
+**Module:**  
+- `interactive_alignment_gateway.py`
+
+**Inputs:**  
+- `injected_principles_log.json`  
+- `preferred_actions.json`  
+- `avoidance_actions.json`
+
+**Output:**  
+- `interactive_alignment_log.json`
+
+**Responses:**  
+- ✅ Accept — Aligned with principles and preference  
+- ⚠️ Caution — No conflict, but lacking internal support  
+- ❌ Reject — Conflicts with internal moral logic
+
+**Significance:**  
+Allows the AI to interact with guidance, not submission. This is the foundation for future conversation, social learning, and ethical negotiation systems.
+
+## Phase 27 — Covenant Memory Layer
+
+**Overview:**  
+Evaluates which core principles have been actively upheld, and creates a covenant record — a log of moral adherence over time.
+
+**Module:**  
+- `covenant_memory_layer.py`
+
+**Inputs:**  
+- `injected_principles_log.json`  
+- `preferred_actions.json`  
+- `reflex_feedback_log.json`
+
+**Outputs:**  
+- `covenant_log.json`
+
+**Significance:**  
+This layer transforms memory into meaning.  
+The AI can now reflect not only on what it *knows* or *thinks* — but on what it has **honored**.
+
+This is the root of moral continuity across evolution.
