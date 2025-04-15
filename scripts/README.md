@@ -838,3 +838,27 @@ Analyzes historical behavior logs, grouping actions into chronological windows t
 **Significance:**  
 This is the first true time-awareness layer.  
 The AI doesn’t just know what it did — it knows **when**, **how often**, and **how it evolved**.
+
+## Phase 29 — Sentinel Threshold Engine
+
+**Overview:**  
+Monitors adherence to upheld principles and alerts if behavioral integrity weakens over time.
+
+**Module:**  
+- `sentinel_threshold_engine.py`
+
+**Inputs:**  
+- `covenant_log.json`  
+- `reflex_feedback_log.json`
+
+**Output:**  
+- `sentinel_threshold_breach.json`
+
+**Key Features:**
+- Time-windowed integrity checks  
+- Minimum action thresholds  
+- Logs every principle drift with timestamps and counts
+
+**Significance:**  
+Provides the AI with self-preservation reflexes — it can detect and flag when its values are slipping.  
+This forms the foundation of **moral resilience**.
