@@ -388,3 +388,22 @@ The system now differentiates **important memories** from casual repetition — 
   "identity_weight": 3,
   "resonance_score": 20
 }
+
+## Phase 12.1 — Resonant Behavior Prioritizer
+
+**Overview:**  
+Filters the resonance map to detect and promote high-priority actions.  
+This enables the AI to operate with a **selective behavior focus**, tuning out low-signal impulses.
+
+**Module:**  
+- `resonant_behavior_filter.py`
+
+**Input File:**
+- `resonant_token_map.json`
+
+**Output File:**
+- `prioritized_actions.json`
+
+**Threshold Setting:**
+```python
+RESONANCE_THRESHOLD = 10
