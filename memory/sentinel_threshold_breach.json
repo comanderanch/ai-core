@@ -1,0 +1,18 @@
+[
+    {
+        "principle": "Preserve Harmony",
+        "guide": "Trigger Action A",
+        "recent_count": 0,
+        "required_min": 2,
+        "last_upheld": "2025-04-15T15:09:09.673876Z",
+        "breach_detected_at": "2025-04-15T15:48:30.113612Z"
+    },
+    {
+        "principle": "Respect Divergence",
+        "guide": "Trigger Action B",
+        "recent_count": 0,
+        "required_min": 2,
+        "last_upheld": "2025-04-15T15:09:09.673909Z",
+        "breach_detected_at": "2025-04-15T15:48:30.113612Z"
+    }
+]
