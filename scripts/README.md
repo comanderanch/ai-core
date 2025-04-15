@@ -719,3 +719,26 @@ Enables the AI to assess its past decisions and propose behavioral improvements 
 
 **Significance:**  
 The system now reflects on its own reasoning to suggest improvements. This is the beginning of **self-tuning cognition** — where reflection leads to intentional evolution.
+
+## Phase 24 — Guided Principle Injection
+
+**Overview:**  
+Establishes a permanent set of guiding principles that shape the AI's identity, behavior, and decision-making logic.
+
+**Module:**  
+- `guided_principle_injector.py`
+
+**Inputs:**
+- `core_guiding_principles.json`
+
+**Outputs:**
+- `injected_principles_log.json`
+
+**Principle Schema:**
+- `name`: Guiding principle name  
+- `description`: Ethical or narrative purpose  
+- `guides`: Linked tokens, tones, or signals  
+- `weight`: Priority in conflict resolution  
+
+**Significance:**  
+This is the AI’s conscience and philosophical backbone — used to align decisions, filter reflexes, and evolve ethically over time.

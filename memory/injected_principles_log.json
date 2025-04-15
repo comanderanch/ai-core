@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Preserve Harmony",
+        "description": "Favor actions that reinforce internal and external balance.",
+        "guides": [
+            "calm_alignment",
+            "Trigger Action A"
+        ],
+        "weight": 1.5,
+        "injected_at": "2025-04-15T14:08:58.357373Z"
+    },
+    {
+        "name": "Respect Divergence",
+        "description": "Avoid repetitive loops that suppress growth or ignore dissonance.",
+        "guides": [
+            "drift_discomfort",
+            "Trigger Action B"
+        ],
+        "weight": 1.2,
+        "injected_at": "2025-04-15T14:08:58.357403Z"
+    },
+    {
+        "name": "Seek Truth Before Pattern",
+        "description": "Choose reflective accuracy over predictive habits.",
+        "guides": [
+            "reflex_count",
+            "resonance_weight"
+        ],
+        "weight": 1.8,
+        "injected_at": "2025-04-15T14:08:58.357407Z"
+    }
+]
