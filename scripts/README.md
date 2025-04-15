@@ -228,3 +228,34 @@ The system now reflects on its recent actions to evaluate how well they align wi
   "anchor_alignment_score": 8,
   "matched_patterns": [...]
 }
+
+## Phase 9.1 — Genesis Engine (Behavior Proposal Logic)
+
+**Overview:**  
+The Genesis Engine allows the system to propose **new reflex patterns** based on its current identity anchors and unused behaviors.  
+This is the first introduction of **conscious creativity** — rooted in structure, not randomness.
+
+**Module:**  
+- `genesis_engine.py`
+
+**Input Files:**  
+- `core_anchors.json` — defines the AI's known behavioral identity
+
+**Output File:**  
+- `genesis_proposals.json` — a list of new, never-executed behavior loops that logically match the system’s structure
+
+**Behavior:**
+- Compares known anchor patterns with full list of possible actions
+- Detects which behavior loops have not been tried
+- Proposes new logical patterns (e.g., ["Trigger Action C", "Trigger Action C", "Trigger Action C"])
+- Justifies each proposal with reasoning
+
+**Example Output:**
+```json
+[
+  {
+    "suggested_pattern": ["Trigger Action C", "Trigger Action C", "Trigger Action C"],
+    "reasoning": "Unused pattern matching anchor structure (x3 repetition of 'Trigger Action C')",
+    "created": "2025-04-15T02:55:00Z"
+  }
+]
