@@ -199,3 +199,32 @@ The AI now generates internal cognitive "anchors" — persistent behavior patter
     "count": 12
   }
 ]
+
+## Phase 8.2 — Anchor Reflection Bias
+
+**Overview:**  
+The system now reflects on its recent actions to evaluate how well they align with its declared identity anchor.
+
+**Module:**  
+- `anchor_reflection_bias.py`
+
+**Input Files:**
+- `core_anchors.json` — the declared identity anchors
+- `reflex_feedback_log.json` — recent behavioral history
+
+**Output File:**
+- `anchor_alignment_report.json`
+
+**Functionality:**
+- Compares recent action history to declared anchor patterns
+- Calculates an alignment score
+- Logs matched identity patterns
+
+**Sample Output:**
+```json
+{
+  "timestamp": "2025-04-15T02:00:00Z",
+  "recent_actions": [...],
+  "anchor_alignment_score": 8,
+  "matched_patterns": [...]
+}
