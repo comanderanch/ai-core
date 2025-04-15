@@ -1,0 +1,24 @@
+[
+    {
+        "action": "Trigger Action A",
+        "evaluation": "\u2705 Accept",
+        "conflict": [],
+        "timestamp": "2025-04-15T14:47:46.345158Z"
+    },
+    {
+        "action": "Trigger Action B",
+        "evaluation": "\u274c Reject",
+        "conflict": [
+            "Marked for avoidance."
+        ],
+        "timestamp": "2025-04-15T14:47:46.345222Z"
+    },
+    {
+        "action": "Unknown Action",
+        "evaluation": "\u26a0\ufe0f Caution",
+        "conflict": [
+            "No guiding principle linked."
+        ],
+        "timestamp": "2025-04-15T14:47:46.345273Z"
+    }
+]
