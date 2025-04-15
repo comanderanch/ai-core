@@ -469,3 +469,31 @@ All behaviors are currently operating within alignment. No reinforcement needed.
 
 **Significance:**  
 The AI system is now demonstrating **self-sustaining harmony** — with no outside correction required.
+
+## Phase 13 — Memory Expansion Mapper
+
+**Overview:**  
+Builds a concept-linked memory map by analyzing anchors, reflex logs, and harmony states.  
+Each concept forms a cognitive node, representing a meaningful structure in memory.
+
+**Module:**  
+- `memory_expansion_mapper.py`
+
+**Inputs:**
+- `reflex_feedback_log.json`
+- `core_anchors.json`
+- `reflex_harmony_report.json`
+
+**Output:**
+- `expanded_memory_map.json`
+
+**Structure:**
+```json
+{
+  "ConceptName": {
+    "linked_tokens": [...],
+    "resonance_weight": int,
+    "anchor_count": int,
+    "harmony_average": float
+  }
+}
