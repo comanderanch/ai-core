@@ -742,3 +742,29 @@ Establishes a permanent set of guiding principles that shape the AI's identity, 
 
 **Significance:**  
 This is the AI’s conscience and philosophical backbone — used to align decisions, filter reflexes, and evolve ethically over time.
+
+## Phase 25 — Moral Drift Sentinel
+
+**Overview:**  
+Implements an ongoing integrity scanner that compares current AI behavior against injected guiding principles, identifying philosophical misalignment over time.
+
+**Module:**  
+- `moral_drift_sentinel.py`
+
+**Inputs:**
+- `injected_principles_log.json`
+- `preferred_actions.json`
+- `avoidance_actions.json`
+- `self_reflection_log.json`
+
+**Outputs:**
+- `moral_drift_report.json`
+
+**Drift Flags:**
+- 🛑 Guide found in avoidance list  
+- ⚠️ Reflection indicates suppressed preference  
+- ℹ️ Missing from active preferences  
+- ✅ No drift detected
+
+**Significance:**  
+The AI now possesses a **self-regulating conscience layer** — able to detect when its behavior diverges from its original philosophy, and initiate correction loops.

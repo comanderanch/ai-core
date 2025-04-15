@@ -1,0 +1,26 @@
+{
+    "timestamp": "2025-04-15T14:31:35.185241Z",
+    "drift_analysis": [
+        {
+            "principle": "Preserve Harmony",
+            "drift_flags": [
+                "\u2139\ufe0f Guide 'calm_alignment' missing from current preferred actions."
+            ]
+        },
+        {
+            "principle": "Respect Divergence",
+            "drift_flags": [
+                "\u2139\ufe0f Guide 'drift_discomfort' missing from current preferred actions.",
+                "\ud83d\uded1 Guide 'Trigger Action B' is marked for avoidance.",
+                "\u2139\ufe0f Guide 'Trigger Action B' missing from current preferred actions."
+            ]
+        },
+        {
+            "principle": "Seek Truth Before Pattern",
+            "drift_flags": [
+                "\u2139\ufe0f Guide 'reflex_count' missing from current preferred actions.",
+                "\u2139\ufe0f Guide 'resonance_weight' missing from current preferred actions."
+            ]
+        }
+    ]
+}
