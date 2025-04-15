@@ -512,3 +512,33 @@ Enables the system to scan current context tokens and retrieve previously mapped
 **Simulated Context:**
 ```python
 SIMULATED_CONTEXT = ["Trigger Action A"]
+
+## Phase 15 — Reflex-Driven Decision Matrix
+
+**Overview:**  
+Converts recalled concepts into weighted decision options, allowing the AI to prioritize behaviors based on resonance, context, and memory alignment.
+
+**Module:**  
+- `decision_matrix_builder.py`
+
+**Inputs:**
+- `contextual_recall_log.json`
+
+**Output:**
+- `decision_matrix.json`
+
+**Scoring Logic:**
+- Matched Tokens × 2  
+- Resonance Weight × 1  
+- Harmony Average × 0.5
+
+**Example Output:**
+```json
+{
+  "concept": "Persistent Reinforcement",
+  "decision_score": 54.0,
+  "context_tokens": ["Trigger Action A"],
+  "resonance_weight": 17,
+  "harmony_average": 70.0,
+  "timestamp": "2025-04-15T10:19:19Z"
+}
