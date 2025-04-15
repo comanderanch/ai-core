@@ -58,3 +58,24 @@ Future Work
 Enhancing the reflexive behavior system
 
 Integrating the system with additional components of the AI framework
+
+
+## token_reflex_loop.py
+
+**Purpose:**  
+Scans token trail data and identifies reflex loops — repeated appearances of the same token across trail passes. This allows the system to detect potential reinforcing nodes, recursive memory references, or structural loops in token behavior.
+
+**Functionality:**
+- Analyzes existing token trail data for reoccurrences.
+- Tallies how many times each token appears in a looped sequence.
+- Outputs a structured JSON array showing each reflexive token and its count.
+
+**Example Output:**
+```json
+[
+    { "token": 10, "count": 2 },
+    { "token": 15, "count": 2 },
+    { "token": 20, "count": 2 }
+]
+
+json saved in memory ~/ai-core/memory/reflex_tokens_log.json
