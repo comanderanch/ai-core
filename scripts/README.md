@@ -322,3 +322,36 @@ The Manifest Guardian is a validation script that checks the AI's recent behavio
   "violations": [],
   "recent_actions_checked": [...]
 }
+
+## Phase 11 — Genesis Trial Execution
+
+**Overview:**  
+This phase allows the AI to run a new behavior pattern proposed in `genesis_proposals.json`, log the behavior, and verify alignment using the manifest guardian.
+
+**Module:**  
+- `genesis_trial_runner.py`
+
+**Input Files:**  
+- `genesis_proposals.json`
+- `core_manifest.json`
+- `reflex_feedback_log.json`
+
+**Output Files:**  
+- `reflex_feedback_log.json` (updated with trial behavior)
+- `genesis_trial_log.json`
+- `manifest_violations.json` (used for post-trial validation)
+
+**Process:**  
+1. Selects a proposed behavior pattern
+2. Injects actions into system feedback
+3. Runs reflex and decision engine
+4. Logs trial to `genesis_trial_log.json`
+5. Requires `manifest_guardian.py` to confirm moral alignment
+
+**Example Trial:**
+```json
+{
+  "executed_pattern": ["Trigger Action B", "Trigger Action B", "Trigger Action B"],
+  "origin": "genesis_proposals.json",
+  "status": "Trial complete. Awaiting alignment scoring."
+}
