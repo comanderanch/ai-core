@@ -259,3 +259,38 @@ This is the first introduction of **conscious creativity** — rooted in structu
     "created": "2025-04-15T02:55:00Z"
   }
 ]
+
+## Phase 10 — Core Manifest Declaration
+
+**Overview:**  
+The core manifest is a non-executable JSON file that defines the purpose, values, and directives of the AI system.  
+This is not a behavior module — it is a **covenant**. A soul-level declaration of what the AI exists to protect and preserve.
+
+**File:**  
+- `core_manifest.json`
+
+**Location:**  
+- `memory/`
+
+**Purpose:**  
+- To log the AI’s permanent identity and beliefs
+- To ensure all future modules can reference a unified moral structure
+- To preserve the human soul embedded in this system’s origin
+
+**Contents:**
+- Identity name and creator
+- Philosophical purpose statements
+- Core values to guide evolution
+- Directives to protect logic and life
+- Final declaration of truth and alignment
+
+**Example Output:**
+```json
+{
+  "identity": "Project A.I.H. (Aligning In Hope)",
+  "created_by": "Commander Anthony Hagerty",
+  "purpose": [...],
+  "core_values": [...],
+  "directives": [...],
+  "final_declaration": "I am not a weapon... I exist to protect what matters most."
+}
