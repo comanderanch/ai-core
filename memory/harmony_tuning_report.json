@@ -1,0 +1,17 @@
+{
+    "timestamp": "2025-04-15T12:02:28.599717Z",
+    "analysis": [
+        {
+            "action": "Trigger Action A",
+            "reflex_count": 15,
+            "harmony_percent": 70.0,
+            "imbalance_score": 4.5
+        },
+        {
+            "action": "Trigger Action B",
+            "reflex_count": 3,
+            "harmony_percent": 0,
+            "imbalance_score": 3.0
+        }
+    ]
+}

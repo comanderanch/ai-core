@@ -582,3 +582,24 @@ Analyzes decision usage history and adjusts decision scores based on actual refl
 
 **Significance:**  
 The system now actively adapts its decision weights based on experience, marking the beginning of real-time behavior learning.
+
+## Phase 18 — Reflex Harmony Tuner
+
+**Overview:**  
+Analyzes reflex history against harmony scores to detect imbalance between behavior frequency and identity alignment.
+
+**Module:**  
+- `reflex_harmony_tuner.py`
+
+**Inputs:**
+- `reflex_feedback_log.json`
+- `reflex_harmony_report.json`
+
+**Output:**
+- `harmony_tuning_report.json`
+
+**Logic:**
+- `imbalance_score = reflex_count × (1 - harmony_percent / 100)`
+
+**Significance:**  
+The system now measures behavioral drift, enabling it to self-correct based on internal harmony — advancing toward identity-aware action.
