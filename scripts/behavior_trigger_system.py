@@ -91,6 +91,22 @@ if __name__ == "__main__":
 
 # === External Reflex Trigger Entry Point ===
 
+# === External Reflex Trigger Entry Point ===
+
+def load_action_weights():
+    path = "memory/reflex_behavior_summary.json"
+    weights = {}
+    if os.path.exists(path):
+        with open(path, "r") as f:
+            try:
+                data = json.load(f)
+                for entry in data:
+                    weights[entry["action"]] = entry["count"]
+            except json.JSONDecodeError:
+                print("[Behavior] Warning: Summary file is invalid.")
+    return weights
+
+
 # Global instance (can be reused across modules)
 behavior_trigger_system_instance = None
 
@@ -98,17 +114,30 @@ def trigger_from_tokens(tokens):
     global behavior_trigger_system_instance
 
     if behavior_trigger_system_instance is None:
-        # Assume decision_chain_manager is self-contained or mock for now
         from decision_chain_manager import DecisionChainManager, TokenMonitor
         token_monitor = TokenMonitor()
         decision_chain_manager = DecisionChainManager(token_monitor)
         behavior_trigger_system_instance = BehaviorTriggerSystem(decision_chain_manager)
 
+    action_weights = load_action_weights()
+
     for token in tokens:
         print(f"[External Trigger] Processing token: {token}")
+
         if token == 20:
-            behavior_trigger_system_instance.execute_triggered_action("Trigger Action A")
+            action = "Trigger Action A"
         elif token == 40:
-            behavior_trigger_system_instance.execute_triggered_action("Trigger Action B")
+            action = "Trigger Action B"
         else:
             print(f"No behavior mapped for token {token}")
+            continue
+
+        weight = action_weights.get(action, 0)
+        print(f"[Weighted Reflex] Action: {action}, Weight: {weight}")
+
+        if weight >= 1:
+            behavior_trigger_system_instance.execute_triggered_action(action)
+        else:
+            print(f"[Reflex] Action {action} skipped due to low priority.")
+
+

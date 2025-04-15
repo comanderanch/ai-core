@@ -122,3 +122,25 @@ This marks the first instance of **cognitive memory recording**, allowing the AI
         "timestamp": "2025-04-15T02:52:26.945349Z"
     }
 ]
+
+## Phase 7.3 — Weighted Reflex Cognition
+
+**Overview:**  
+The AI now evaluates its own behavior patterns and makes decisions based on past frequency of actions.  
+This introduces **reflex bias** — a primitive form of reinforcement learning based on logical memory, not prediction.
+
+**What It Does:**
+- Loads behavior summary from `memory/reflex_behavior_summary.json`
+- Calculates action weights (based on occurrence count)
+- Only executes behaviors with weight ≥ 1
+- Logs skipped actions that fall below threshold
+
+**Impacted Module:**  
+- `BehaviorTriggerSystem.trigger_from_tokens()`
+
+**Weight Source File:**  
+- `memory/reflex_behavior_summary.json`
+
+**Next Steps:**  
+- Thresholds can be adjusted
+- Future modules may decay weights over time or introduce dynamic prioritization
