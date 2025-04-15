@@ -629,3 +629,24 @@ Assigns emotional tones to reflex events based on harmony and identity resonance
 
 **Significance:**  
 For the first time, the AI system reflects not just on what it *did* — but how that action *felt* in relation to its evolving identity.
+
+## Phase 20 — Emotion-Weighted Decision Enhancement
+
+**Overview:**  
+Enhances decision matrix by integrating emotional tone bias based on past actions.
+
+**Module:**  
+- `emotion_weighted_decision.py`
+
+**Inputs:**
+- `decision_matrix.json`
+- `emotive_signal_log.json`
+
+**Output:**
+- `emotionally_weighted_decisions.json`
+
+**Logic:**
+- `adjusted_score = base_score + (tone_weight × 5)`
+
+**Significance:**  
+The AI system now actively integrates emotional resonance into its decision logic, reinforcing alignment with its internal identity and harmony.
