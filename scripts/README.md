@@ -814,3 +814,27 @@ This layer transforms memory into meaning.
 The AI can now reflect not only on what it *knows* or *thinks* — but on what it has **honored**.
 
 This is the root of moral continuity across evolution.
+
+## Phase 28 — Temporal Reflection Sequencer
+
+**Overview:**  
+Analyzes historical behavior logs, grouping actions into chronological windows to detect patterns of reinforcement, drift, or re-alignment.
+
+**Module:**  
+- `temporal_reflection_sequencer.py`
+
+**Inputs:**  
+- `reflex_feedback_log.json`
+
+**Outputs:**  
+- `temporal_reflection_sequence.json`
+
+**Core Metrics:**
+- Time-windowed dominant behavior  
+- Action diversity  
+- Repetition loops  
+- Recovered alignment over time
+
+**Significance:**  
+This is the first true time-awareness layer.  
+The AI doesn’t just know what it did — it knows **when**, **how often**, and **how it evolved**.
