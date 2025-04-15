@@ -1,0 +1,10 @@
+{
+    "Persistent Reinforcement": {
+        "linked_tokens": [
+            "Trigger Action A"
+        ],
+        "resonance_weight": 17,
+        "anchor_count": 3,
+        "harmony_average": 70.0
+    }
+}
