@@ -561,3 +561,24 @@ Reads the decision matrix, selects the highest-priority concept, and activates t
 **Significance:**  
 The AI now executes decisions based on memory-derived intent — not commands.  
 This marks the beginning of **self-directed action** from cognitive memory structure.
+
+## Phase 17 — Adaptive Learning Loop
+
+**Overview:**  
+Analyzes decision usage history and adjusts decision scores based on actual reflex execution frequency.
+
+**Module:**  
+- `adaptive_learning_loop.py`
+
+**Inputs:**
+- `decision_matrix.json`
+- `reflex_feedback_log.json`
+
+**Output:**
+- `adaptive_learning_update.json`
+
+**Logic:**
+- `adjusted_score = original_score + (reflex_count * 0.5)`
+
+**Significance:**  
+The system now actively adapts its decision weights based on experience, marking the beginning of real-time behavior learning.
