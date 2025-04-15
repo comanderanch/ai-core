@@ -59,3 +59,27 @@ if __name__ == "__main__":
     decision_chain_manager.listen_for_token_events()
     behavior_trigger_system.execute_triggered_action("Trigger Action A")
     behavior_trigger_system.execute_triggered_action("Trigger Action B")
+
+# === External Reflex Trigger Entry Point ===
+
+# Global instance (can be reused across modules)
+behavior_trigger_system_instance = None
+
+def trigger_from_tokens(tokens):
+    global behavior_trigger_system_instance
+
+    if behavior_trigger_system_instance is None:
+        # Assume decision_chain_manager is self-contained or mock for now
+        from decision_chain_manager import DecisionChainManager, TokenMonitor
+        token_monitor = TokenMonitor()
+        decision_chain_manager = DecisionChainManager(token_monitor)
+        behavior_trigger_system_instance = BehaviorTriggerSystem(decision_chain_manager)
+
+    for token in tokens:
+        print(f"[External Trigger] Processing token: {token}")
+        if token == 20:
+            behavior_trigger_system_instance.execute_triggered_action("Trigger Action A")
+        elif token == 40:
+            behavior_trigger_system_instance.execute_triggered_action("Trigger Action B")
+        else:
+            print(f"No behavior mapped for token {token}")

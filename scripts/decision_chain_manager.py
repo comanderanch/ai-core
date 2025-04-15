@@ -69,3 +69,20 @@ if __name__ == "__main__":
     token_monitor = TokenMonitor()
     decision_chain_manager = DecisionChainManager(token_monitor)
     decision_chain_manager.listen_for_token_events()
+
+# === External Reflex Entry Point ===
+
+# Global instance for reuse
+decision_chain_manager_instance = None
+
+def construct_from_reflex(tokens):
+    global decision_chain_manager_instance
+
+    if decision_chain_manager_instance is None:
+        token_monitor = TokenMonitor()
+        decision_chain_manager_instance = DecisionChainManager(token_monitor)
+
+    for token in tokens:
+        token_event = {"token_id": token, "timestamp": "AUTO-GENERATED"}
+        print(f"[External Reflex] Simulating token event: {token_event}")
+        decision_chain_manager_instance.process_token_event(token_event)
