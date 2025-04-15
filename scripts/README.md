@@ -497,3 +497,18 @@ Each concept forms a cognitive node, representing a meaningful structure in memo
     "harmony_average": float
   }
 }
+
+## Phase 14 — Contextual Recall Engine
+
+**Overview:**  
+Enables the system to scan current context tokens and retrieve previously mapped memory concepts, ranked by relevance.
+
+**Module:**  
+- `contextual_recall_engine.py`
+
+**Inputs:**
+- `expanded_memory_map.json`
+
+**Simulated Context:**
+```python
+SIMULATED_CONTEXT = ["Trigger Action A"]

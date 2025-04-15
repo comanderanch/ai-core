@@ -1,0 +1,12 @@
+[
+    {
+        "concept": "Persistent Reinforcement",
+        "matched_tokens": 1,
+        "linked_tokens": [
+            "Trigger Action A"
+        ],
+        "resonance_weight": 17,
+        "harmony_average": 70.0,
+        "timestamp": "2025-04-15T10:06:33.579382Z"
+    }
+]
