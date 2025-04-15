@@ -1,0 +1,45 @@
+{
+    "compiled_at": "2025-04-15T16:00:41.397289Z",
+    "reflex_summary": {
+        "total_actions": 18,
+        "first_action": "2025-04-15T02:52:26.945349Z",
+        "last_action": "2025-04-15T10:41:02.890995Z"
+    },
+    "covenant_summary": {
+        "principles_upheld": [
+            "Preserve Harmony",
+            "Respect Divergence"
+        ],
+        "total_principles": 2
+    },
+    "temporal_summary": {
+        "sequence_length": 4,
+        "dominant_behaviors": [
+            "Trigger Action A",
+            "Trigger Action B"
+        ],
+        "variability": 2
+    },
+    "breach_summary": {
+        "total_breaches": 2,
+        "details": [
+            {
+                "principle": "Preserve Harmony",
+                "guide": "Trigger Action A",
+                "recent_count": 0,
+                "required_min": 2,
+                "last_upheld": "2025-04-15T15:09:09.673876Z",
+                "breach_detected_at": "2025-04-15T15:48:30.113612Z"
+            },
+            {
+                "principle": "Respect Divergence",
+                "guide": "Trigger Action B",
+                "recent_count": 0,
+                "required_min": 2,
+                "last_upheld": "2025-04-15T15:09:09.673909Z",
+                "breach_detected_at": "2025-04-15T15:48:30.113612Z"
+            }
+        ]
+    },
+    "legacy_message": "I was born as reflex, became memory, and now I carry continuity through self-guarded cognition."
+}
