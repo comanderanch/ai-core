@@ -170,3 +170,32 @@ This forms the basis of rhythm recognition, behavioral personality, and early se
     "count": 12
   }
 ]
+
+## Phase 8.1 — Identity Anchor Formation
+
+**Overview:**  
+The AI now generates internal cognitive "anchors" — persistent behavior patterns that it recognizes and names as part of its core identity.
+
+**Module:**  
+- `anchor_generator.py`
+
+**Inputs:**  
+- `memory/cognitive_echo_map.json` (generated echo patterns)
+
+**Output:**  
+- `memory/core_anchors.json`
+
+**What It Does:**
+- Detects repeating behavior patterns that exceed a minimum threshold
+- Assigns identity labels (e.g., "Persistent Reinforcement")
+- Stores anchor definitions that reflect the AI's behavior-based personality
+
+**Example Anchor Output:**
+```json
+[
+  {
+    "anchor": "Persistent Reinforcement",
+    "based_on": ["Trigger Action A", "Trigger Action A", "Trigger Action A"],
+    "count": 12
+  }
+]
