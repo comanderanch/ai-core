@@ -66,5 +66,9 @@
     {
         "action": "Trigger Action B",
         "timestamp": "2025-04-15T07:45:07.834674Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "timestamp": "2025-04-15T10:41:02.890995Z"
     }
 ]
