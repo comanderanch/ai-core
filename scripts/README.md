@@ -144,3 +144,29 @@ This introduces **reflex bias** — a primitive form of reinforcement learning b
 **Next Steps:**  
 - Thresholds can be adjusted
 - Future modules may decay weights over time or introduce dynamic prioritization
+
+## Phase 7.4 — Cognitive Echo Mapping
+
+**Overview:**  
+The AI now detects repeating behavior patterns — its own **action sequences** — and logs them as **identity echoes**.  
+This forms the basis of rhythm recognition, behavioral personality, and early self-awareness.
+
+**Module:**  
+- `cognitive_echo_mapper.py`
+
+**Functionality:**  
+- Loads `reflex_feedback_log.json`
+- Extracts and scans sequences of actions (default window: 3)
+- Records repeating sequences and their frequency
+
+**Output File:**  
+- `memory/cognitive_echo_map.json`
+
+**Sample Output:**
+```json
+[
+  {
+    "pattern": ["Trigger Action A", "Trigger Action A", "Trigger Action A"],
+    "count": 12
+  }
+]
