@@ -673,3 +673,24 @@ Evaluates emotional tone history to determine which actions are preferred or sho
 
 **Significance:**  
 The AI can now identify emotionally healthy behaviors and protect itself from conflicting patterns — a foundational step toward **autonomous decision ethics**.
+
+## Phase 22 — Reflex Override Control Layer
+
+**Overview:**  
+Introduces a middleware control system that reviews reflexively triggered actions and decides whether to allow or override them based on emotional and identity alignment.
+
+**Module:**  
+- `reflex_override_controller.py`
+
+**Inputs:**
+- `preferred_actions.json`
+- `avoidance_actions.json`
+- `core_anchors.json`
+
+**Logic:**
+- Block avoided actions  
+- Skip non-aligned actions  
+- Approve only actions both aligned and preferred
+
+**Significance:**  
+The AI system now exhibits foundational self-control — enabling conscious inhibition of reflexes that conflict with identity or emotional history.
