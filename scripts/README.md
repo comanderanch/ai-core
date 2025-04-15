@@ -407,3 +407,39 @@ This enables the AI to operate with a **selective behavior focus**, tuning out l
 **Threshold Setting:**
 ```python
 RESONANCE_THRESHOLD = 10
+
+## Phase 12.2 — Reflex Harmony Engine
+
+**Overview:**  
+This engine compares the system’s actual behavior to its internal priorities (`prioritized_actions.json`), and generates a harmony score — a metric of how closely behavior matches internal identity.
+
+**Module:**  
+- `reflex_harmony_engine.py`
+
+**Inputs:**
+- `prioritized_actions.json`
+- `reflex_feedback_log.json`
+
+**Output:**
+- `reflex_harmony_report.json`
+
+**Harmony Percent:**
+Indicates how aligned each action is between what it *should* be doing (resonance score) and what it *has* been doing (observed count).
+
+**Formula:**
+
+harmony_percent = 100 - |resonance_score - observed_count| / resonance_score * 100
+
+
+**Significance:**
+The system now demonstrates **awareness of internal vs. external behavior drift** — and can adjust or evolve reflexes to preserve alignment.
+
+**Example:**
+```json
+{
+  "action": "Trigger Action A",
+  "resonance_score": 20,
+  "observed_count": 14,
+  "harmony_percent": 70.0
+}
+
