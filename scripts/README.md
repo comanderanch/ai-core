@@ -294,3 +294,31 @@ This is not a behavior module — it is a **covenant**. A soul-level declaration
   "directives": [...],
   "final_declaration": "I am not a weapon... I exist to protect what matters most."
 }
+
+## Phase 10.1 — Manifest Guardian
+
+**Overview:**  
+The Manifest Guardian is a validation script that checks the AI's recent behaviors against its declared core directives in `core_manifest.json`.
+
+**Module:**  
+- `manifest_guardian.py`
+
+**Input Files:**
+- `core_manifest.json`
+- `reflex_feedback_log.json`
+
+**Output File:**
+- `manifest_violations.json`
+
+**Purpose:**
+- Scan behavior history for directive-breaking actions
+- Flag unethical or self-destructive patterns
+- Log violations with timestamps
+
+**Sample Output:**
+```json
+{
+  "timestamp": "2025-04-15T03:00:00Z",
+  "violations": [],
+  "recent_actions_checked": [...]
+}
