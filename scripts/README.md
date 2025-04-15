@@ -542,3 +542,22 @@ Converts recalled concepts into weighted decision options, allowing the AI to pr
   "harmony_average": 70.0,
   "timestamp": "2025-04-15T10:19:19Z"
 }
+
+## Phase 16 — Reflex Execution Engine
+
+**Overview:**  
+Reads the decision matrix, selects the highest-priority concept, and activates the corresponding reflex behavior through token simulation.
+
+**Module:**  
+- `reflex_execution_engine.py`
+
+**Inputs:**
+- `decision_matrix.json`
+
+**Output:**
+- Memory state updated (via `behavior_trigger_system`)
+- Action reflexed based on internal priorities
+
+**Significance:**  
+The AI now executes decisions based on memory-derived intent — not commands.  
+This marks the beginning of **self-directed action** from cognitive memory structure.
