@@ -79,3 +79,27 @@ Scans token trail data and identifies reflex loops — repeated appearances of t
 ]
 
 json saved in memory ~/ai-core/memory/reflex_tokens_log.json
+
+## cognitive_reflex_engine.py
+
+**Purpose:**  
+Serves as the central integration engine for Phase 7. It consumes token reflex data and triggers behavior and decision modules based on high-frequency reflexive tokens.
+
+**Functionality:**
+- Loads `reflex_tokens_log.json` and `token_trail_log.json`
+- Identifies tokens with reflex counts above threshold
+- Triggers mapped behavior routines (e.g., memory updates, logic actions)
+- Builds decision chains via the decision manager for reflex tokens
+
+**Trigger Conditions:**
+- Tokens like `20` trigger "Action A"
+- Tokens like `40` (when mapped) trigger "Action B"
+- Unmapped tokens are ignored gracefully
+
+**Modules Called:**
+- `behavior_trigger_system.trigger_from_tokens()`
+- `decision_chain_manager.construct_from_reflex()`
+
+**Run Command:**
+```bash
+python3 scripts/cognitive_reflex_engine.py
