@@ -1,4 +1,7 @@
 # behavior_trigger_system.py
+import json
+from datetime import datetime
+import os
 
 class BehaviorTriggerSystem:
     def __init__(self, decision_chain_manager):
@@ -9,18 +12,44 @@ class BehaviorTriggerSystem:
         self.decision_chain_manager = decision_chain_manager
         self.memory = {}  # A simple dictionary to simulate memory updates
 
+    
+
     def execute_triggered_action(self, action):
         """
-        Execute the action triggered by the decision chain
+        Execute the action triggered by the decision chain and log reflex feedback.
         :param action: The action to execute (as a string)
         """
         print(f"Executing behavior for action: {action}")
+        
+        # Log reflex feedback to memory/reflex_feedback_log.json
+        feedback_entry = {
+            "action": action,
+            "timestamp": datetime.utcnow().isoformat() + "Z"
+        }
+
+        log_path = os.path.join("memory", "reflex_feedback_log.json")
+        existing = []
+
+        if os.path.exists(log_path):
+            with open(log_path, "r") as f:
+                try:
+                    existing = json.load(f)
+                except json.JSONDecodeError:
+                    print("[FeedbackLog] Warning: Existing log is invalid, starting fresh.")
+
+        existing.append(feedback_entry)
+
+        with open(log_path, "w") as f:
+            json.dump(existing, f, indent=4)
+
+        # Continue normal execution
         if action == "Trigger Action A":
             self.trigger_action_a()
         elif action == "Trigger Action B":
             self.trigger_action_b()
         else:
             print("Unknown action.")
+
 
     def trigger_action_a(self):
         """
