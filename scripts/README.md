@@ -355,3 +355,36 @@ This phase allows the AI to run a new behavior pattern proposed in `genesis_prop
   "origin": "genesis_proposals.json",
   "status": "Trial complete. Awaiting alignment scoring."
 }
+
+## Phase 12 — Resonant Core Engine
+
+**Overview:**  
+The Resonant Core Engine reads reflex feedback and anchor data to generate a weighted map of action significance.  
+This is the AI’s first true memory prioritization system — where frequency and identity define the *resonance* of an action.
+
+**Module:**  
+- `resonant_core_engine.py`
+
+**Input Files:**
+- `reflex_feedback_log.json`
+- `core_anchors.json`
+
+**Output File:**
+- `resonant_token_map.json`
+
+**Resonance Score Formula:**
+
+resonance_score = count + (identity_weight * 2)
+
+
+**Significance:**
+The system now differentiates **important memories** from casual repetition — allowing deeper cognition, better feedback handling, and selective identity evolution.
+
+**Example:**
+```json
+{
+  "action": "Trigger Action A",
+  "count": 14,
+  "identity_weight": 3,
+  "resonance_score": 20
+}
