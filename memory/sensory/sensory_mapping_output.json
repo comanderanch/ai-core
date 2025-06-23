@@ -1,0 +1,28 @@
+{
+    "sensory_links": [
+        {
+            "source_id": "signal_528.0",
+            "type": "resonance_life",
+            "token": "Preserve_Vital_Systems",
+            "frequency": 528.0
+        },
+        {
+            "source_id": "signal_432.0",
+            "type": "resonance_peace",
+            "token": "Maintain_Stability",
+            "frequency": 432.0
+        },
+        {
+            "source_id": "signal_963.0",
+            "type": "resonance_awareness",
+            "token": "Ping_Self_Check",
+            "frequency": 963.0
+        },
+        {
+            "source_id": "signal_Emergency_Band",
+            "type": "resonance_distress",
+            "token": "Initiate_Aid_Protocol",
+            "frequency": 0.0
+        }
+    ]
+}

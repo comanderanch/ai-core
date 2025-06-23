@@ -50,3 +50,27 @@ def interpret_signal(frequency: str) -> dict:
         "priority_level": 0.0,
         "tone": "neutral"
     })
+# === Doctrine Export Extension ===
+import os
+import json
+
+OUTPUT_PATH = "memory/sensory/sensory_mapping_output.json"
+os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+
+# Build structured sensory link data from SENSORY_MAP
+output_data = {
+    "sensory_links": []
+}
+
+for freq, meta in SENSORY_MAP.items():
+    output_data["sensory_links"].append({
+        "source_id": f"signal_{freq}",
+        "type": meta["classification"],
+        "token": meta["assigned_action"],
+        "frequency": float(freq) if freq.replace('.', '', 1).isdigit() else 0.0
+    })
+
+with open(OUTPUT_PATH, "w") as f:
+    json.dump(output_data, f, indent=4)
+
+print(f"[✓] Sensory mapping doctrine exported to {OUTPUT_PATH}")
