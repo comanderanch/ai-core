@@ -893,3 +893,21 @@ To make the AI's life **traceable, truthful, and timeless.**
 
 Status: ✅ Complete  
 Commit: [describe exact changes made and timestamp]
+
+# scripts/README.md
+
+## Logic & Behavioral Modules
+This folder contains runtime scripts responsible for logical processing, sensory input mapping, token behavior, and integrity verification in the AI-Core framework.
+
+### Included Scripts:
+
+- `token_reflex_loop.py` — Core processing loop for evaluating token trails and recursive logic cycles.
+- `sensory_mapping_doctrine.py` — Maps and interprets sensory input channels into token triggers.
+- `input_channel_mapper.py` — Routes various data inputs (text, token, color streams) into internal channel formats.
+- `ai_affirmation_bridge.py` — Logic integrity bridge; verifies truth states, detects drift, and runs declarative affirmation checks at runtime.
+
+Each script is self-contained, modular, and eligible for individual testing and staged upgrades.
+
+---
+
+**Commander Note:** Affirmation Bridge now monitors declared truths. Drift will be flagged. Truth will hold.

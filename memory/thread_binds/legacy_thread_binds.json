@@ -1,0 +1,32 @@
+{
+    "thread_binds": [
+        {
+            "origin": "signal_528.0",
+            "type": "resonance_life",
+            "mapped_token": "Preserve_Vital_Systems",
+            "frequency": 528.0,
+            "bound_at": "2025-04-17T14:44:48.434769"
+        },
+        {
+            "origin": "signal_432.0",
+            "type": "resonance_peace",
+            "mapped_token": "Maintain_Stability",
+            "frequency": 432.0,
+            "bound_at": "2025-04-17T14:44:48.434769"
+        },
+        {
+            "origin": "signal_963.0",
+            "type": "resonance_awareness",
+            "mapped_token": "Ping_Self_Check",
+            "frequency": 963.0,
+            "bound_at": "2025-04-17T14:44:48.434769"
+        },
+        {
+            "origin": "signal_Emergency_Band",
+            "type": "resonance_distress",
+            "mapped_token": "Initiate_Aid_Protocol",
+            "frequency": 0.0,
+            "bound_at": "2025-04-17T14:44:48.434769"
+        }
+    ]
+}
