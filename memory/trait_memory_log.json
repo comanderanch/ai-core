@@ -1,0 +1,11 @@
+[
+    {
+        "timestamp": "2025-07-03T18:57:33.374931",
+        "trait_id": "Growth:explore_mode:curiosity_trigger",
+        "label": "Growth",
+        "reflex": "explore_mode",
+        "trait": "curiosity_trigger",
+        "bias": 0.9,
+        "weight": 0.9
+    }
+]
