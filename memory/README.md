@@ -103,3 +103,7 @@ ____________________________________________________________________________
 - `reflex_adaptation_log.json` — Stores trend outcomes from adaptation analysis. Indicates whether reflexes are strengthening, weakening, or stabilizing.
 
 ___________________________________________________________________________
+
+- `reflex_drift_log.json` — Logs any detected drift between bias and weight for reflex actions.
+
+_____________________________________________________________________________
