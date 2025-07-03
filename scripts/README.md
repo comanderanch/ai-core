@@ -952,3 +952,8 @@ ____________________________________________________________________
 - `reflex_drift_monitor.py` — Compares reflex bias and weight logs to detect cognitive drift. Outputs anomalies to `reflex_drift_log.json`.
 
 ________________________________________________________________________
+
+- `reflex_stability_evaluator.py` — Analyzes reflex bias-to-weight variance to determine system stability.
+
+______________________________________________________________________
+

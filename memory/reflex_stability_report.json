@@ -1,0 +1,10 @@
+{
+    "explore_mode": {
+        "weight": 1.05,
+        "reinforced": 1,
+        "decayed": 1,
+        "score": 0.85,
+        "status": "stable",
+        "timestamp": "2025-07-03T16:22:35.527290"
+    }
+}
