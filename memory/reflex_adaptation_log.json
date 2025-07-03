@@ -1,0 +1,13 @@
+[
+    {
+        "timestamp": "2025-07-03T15:55:36.429116",
+        "reflex": "explore_mode",
+        "label": "Growth",
+        "trait": "curiosity_trigger",
+        "original_weight": 1.0,
+        "reinforced_weight": 1.05,
+        "decayed_weight": 0.997,
+        "score": 0.85,
+        "trend": "stable"
+    }
+]
