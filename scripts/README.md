@@ -933,3 +933,10 @@ reflex_response_logger.py — Logs reflex activations during runtime for introsp
 reflex_weight_adjuster.py — Analyzes reflex activation logs to determine behavioral influence weights.
 
 _________________________________________________________________
+
+- `reflex_response_logger.py` — Logs triggered reflex responses with timestamp and trait context.
+- `reflex_influence_tracker.py` — Aggregates and summarizes reflex activity patterns over time.
+- `reflex_weight_adjuster.py` — Applies calculated weights to influence future decision paths.
+- `reflex_reinforcement_trainer.py` — Finalizes weight reinforcement based on usage metrics.
+
+______________________________________________________________
