@@ -111,3 +111,5 @@ _____________________________________________________________________________
 - `reflex_stability_log.json` — Logs per-reflex stability scoring derived from bias/weight evaluations.
 
 _____________________________________________________________________________
+
+- `reflex_drift_log.json` — Records calculated drift values between expected (bias) and observed (weight) reflex responses. Includes timestamps, labels, and deviation magnitude.
