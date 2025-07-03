@@ -86,3 +86,12 @@ reflex_response_log.json — Stores all reflex responses triggered from label ma
 reflex_weight_adjustments.json — Reflects calculated strength of reflex triggers from log frequency.
 
 _____________________________________________________________________________
+
+### Reflex Weight & Reinforcement Logs
+
+- `reflex_response_log.json` — Raw log of reflex responses triggered.
+- `reflex_influence_summary.json` — Reflex frequency aggregation.
+- `reflex_weight_log.json` — Reflex weights used in influence calculations.
+- `reflex_reinforcement_log.json` — Record of reinforcement adjustments to reflex weights.
+
+____________________________________________________________________________
