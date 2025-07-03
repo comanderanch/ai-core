@@ -921,3 +921,15 @@ ___________________________________________________________
 
 - `reflex_response_emulator.py` — Emulates reflexive responses from labeled traits. Writes output to `reflex_feedback_log.json` for memory-based analysis and system behavior tracking.
 
+___________________________________________________________
+
+
+New scripts:
+
+reflex_label_binder.py — Binds learned labels to behavioral traits and reflexes for logical alignment.
+
+reflex_response_logger.py — Logs reflex activations during runtime for introspection and memory correlation.
+
+reflex_weight_adjuster.py — Analyzes reflex activation logs to determine behavioral influence weights.
+
+_________________________________________________________________

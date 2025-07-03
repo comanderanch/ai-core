@@ -70,3 +70,19 @@ ___________________________________________________________________
 - `memory_bias_log.json` – Records injected bias per label.
 
 ____________________________________________________________________
+
+New files:
+
+label_trait_loader.py — Loads label-to-trait mappings from JSON.
+
+label_trait_map.json — Contains label ➝ trait ➝ reflex ➝ memory bias mapping table.
+
+memory_bias_injector.py — Injects memory bias values associated with labeled tokens.
+
+memory_bias_log.json — Records all memory bias injections chronologically.
+
+reflex_response_log.json — Stores all reflex responses triggered from label mapping during inference.
+
+reflex_weight_adjustments.json — Reflects calculated strength of reflex triggers from log frequency.
+
+_____________________________________________________________________________
