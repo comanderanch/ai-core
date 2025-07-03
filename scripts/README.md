@@ -961,3 +961,7 @@ ______________________________________________________________________
 
 ______________________________________________________________________
 
+- `reflex_drift_handler.py` — Detects drift between memory bias and reflex weights.
+- `reflex_correction_engine.py` — Applies drift-based correction to stabilize reflex weight alignment.
+
+_____________________________________________________________________
