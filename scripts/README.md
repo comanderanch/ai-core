@@ -916,3 +916,8 @@ ____________________________________________________________
 
 
 - `reflex_label_binder.py` — Binds output labels from training to defined reflex traits and memory weights using `label_trait_map.json`. Essential for converting language results into behavioral responses.
+
+___________________________________________________________
+
+- `reflex_response_emulator.py` — Emulates reflexive responses from labeled traits. Writes output to `reflex_feedback_log.json` for memory-based analysis and system behavior tracking.
+
