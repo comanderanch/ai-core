@@ -1,0 +1,5 @@
+input_token,target_token,label,weight
+10,25,Hot,1.0
+15,30,Cold,1.0
+20,35,Growth,1.0
+...

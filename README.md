@@ -81,4 +81,69 @@ This section logs the most recent growth in the AI-Core project without erasing 
 This isn't just an update — it's a fingerprint of the day the vision clarified.  
 The README evolves, but never forgets.
 
+_______________________________________________________________
+
+
+---
+
+## 📦 Phase 33 – CSV-Based Training Integration
+
+This phase replaces static `training_pairs.py` with a dynamic, scalable loader system using:
+
+- **File:** `training_set.csv`
+- **Loader:** `training_loader.py`
+- **Bridge Module:** `training_from_csv.py`
+
+### CSV Schema:
+| input_token | target_token | label  | weight |
+|-------------|--------------|--------|--------|
+| 10          | 25           | Hot    | 1.0    |
+| 15          | 30           | Cold   | 1.0    |
+
+### Usage:
+Import the `training_data` list from `training_from_csv.py` in any training script:
+
+```python
+from training.training_from_csv import training_data
+
+_______________________________________________________
+
+---
+
+## 🧠 Phase 33.2 – Training Logic Rewrite (CSV Pipeline)
+
+- **Script:** `train_model_from_csv.py`
+- **Input:** `training_set.csv` (via `training_from_csv.py`)
+- **Behavior:** Simulates LLM training loop with labeled token transitions
+
+### Example Output:
+
+_______________________________________________________
+
+[TRAINING] 10 ➡ 25 | Label: 'Hot' | Weight: 1.0
+
+
+
+> Malformed or incomplete rows in the CSV are skipped with a warning, allowing robust handling during development.
+
+This script now serves as the foundation for live training loop integration with the token reflex pipeline in future phases.
+
+_______________________________________________________
+
+- `training_set.csv` – Structured CSV format including input token, target token, label, and weight. Enables associative learning.
+
+________________________________________________________
+
+✅ training_loader.py
+Already in use and tested via load_training_data() ✔️
+
+________________________________________________
+
+- `training_from_csv.py` – Parses structured training data from CSV into memory for model training access.
+🆕 train_model_from_csv.py
+Also to training/README.md:
+
+_______________________________________________
+
+- `train_model_from_csv.py` – Loads CSV data and simulates minimal token-based learning with label association output.
 
