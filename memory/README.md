@@ -126,3 +126,8 @@ ______________________________________________________________________________
 Stores timestamped snapshots of all reflex weights. This serves as a historical ledger for weight evolution over time and supports trend monitoring or rollbacks.
 
 _____________________________________________________________________________
+
+### reflex_convergence_log.json
+Stores the convergence trend of each reflex based on historical weight snapshots. Includes timestamp, weight variability, and stability trend.
+
+________________________________________________________________________________
