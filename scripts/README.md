@@ -948,3 +948,7 @@ ________________________________________________________________
 - `reflex_adaptation_engine.py` — Analyzes trends between reflex reinforcement and decay. Labels reflex behavior as increasing, decreasing, or stable. Logs findings for downstream optimization.
 
 ____________________________________________________________________
+
+- `reflex_drift_monitor.py` — Compares reflex bias and weight logs to detect cognitive drift. Outputs anomalies to `reflex_drift_log.json`.
+
+________________________________________________________________________
