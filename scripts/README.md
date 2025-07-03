@@ -974,3 +974,11 @@ Captures the current `reflex_weight_log.json` snapshot and appends it to `reflex
 - Used for later comparison, rollback, or drift trend analysis.
 
 ________________________________________________________________________
+
+### reflex_convergence_tracker.py
+Tracks convergence patterns of reflex weights over time by analyzing sync snapshots. It evaluates stability by computing variability (standard deviation) and classifies reflexes as `converging`, `oscillating`, or `diverging`.
+
+**Input**: `memory/reflex_weight_sync_log.json`  
+**Output**: `memory/reflex_convergence_log.json`
+
+__________________________________________________________________________
