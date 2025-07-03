@@ -95,3 +95,7 @@ _____________________________________________________________________________
 - `reflex_reinforcement_log.json` — Record of reinforcement adjustments to reflex weights.
 
 ____________________________________________________________________________
+
+- `reflex_response_score.json` — Stores the final score reflecting reflex alignment strength.
+
+____________________________________________________________________________
