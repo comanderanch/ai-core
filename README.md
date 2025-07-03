@@ -147,3 +147,21 @@ _______________________________________________
 
 - `train_model_from_csv.py` – Loads CSV data and simulates minimal token-based learning with label association output.
 
+_________________________________________________
+
+
+New scripts:
+
+training_loader.py — Loads structured token training data from CSV.
+
+training_from_csv.py — Imports and provides access to loaded training pairs for training scripts.
+
+train_model_from_csv.py — Executes basic training on token pairs with weights and labels.
+
+training_set.csv — CSV file storing token pair input/target, label, and weight for structured training.
+
+Also mark:
+
+training_pairs.py — ✅ Deleted (mention replaced by CSV flow)
+
+_______________________________________________________
