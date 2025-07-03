@@ -172,3 +172,21 @@ Tracks finalized combinations of label, reflex, and trait for long-term memory m
 }
 
 _____________________________________________________________________
+
+### trait_relationship_map.json
+
+A dictionary mapping each trait to:
+- All labels that use it
+- All reflexes linked with it
+
+Example:
+```json
+{
+  "curiosity_trigger": {
+    "labels": ["Growth"],
+    "reflexes": ["explore_mode"]
+  }
+}
+
+________________________________________________________________________
+
