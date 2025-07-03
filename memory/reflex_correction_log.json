@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2025-07-03T17:00:15.235068",
+        "reflex": "explore_mode",
+        "old_weight": 0.975,
+        "drift": 0.15,
+        "correction_applied": -0.075,
+        "new_weight": 0.9
+    }
+]

@@ -113,3 +113,10 @@ _____________________________________________________________________________
 _____________________________________________________________________________
 
 - `reflex_drift_log.json` — Records calculated drift values between expected (bias) and observed (weight) reflex responses. Includes timestamps, labels, and deviation magnitude.
+
+_____________________________________________________________________________
+
+- `reflex_drift_log.json` — Logs drift values (bias vs weight) over time.
+- `reflex_correction_log.json` — Logs corrective adjustments to reflex weights after drift detection.
+
+______________________________________________________________________________
