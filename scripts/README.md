@@ -940,3 +940,7 @@ _________________________________________________________________
 - `reflex_reinforcement_trainer.py` — Finalizes weight reinforcement based on usage metrics.
 
 ______________________________________________________________
+
+- `reflex_response_evaluator.py` — Evaluates how well a reflex aligns with bias and weight; generates score for reinforcement.
+
+________________________________________________________________
