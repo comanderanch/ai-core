@@ -1,0 +1,17 @@
+{
+  "Hot": {
+    "trait": "stimulus_alert",
+    "reflex_trigger": "increase_attention",
+    "memory_bias": 0.75
+  },
+  "Cold": {
+    "trait": "withdrawal_response",
+    "reflex_trigger": "decrease_activity",
+    "memory_bias": -0.4
+  },
+  "Growth": {
+    "trait": "curiosity_trigger",
+    "reflex_trigger": "explore_mode",
+    "memory_bias": 0.9
+  }
+}

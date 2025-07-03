@@ -37,3 +37,36 @@ This directory stores token activity logs for the AI-Core minimal LLM.
 ## Phase Reference
 - Introduced in Phase 5.7: Token Trail Mapping and Memory Simulation.
 - Used during inference to track LLM behavior and token flow.
+
+_____________________________________________________________
+
+- `train_model_from_csv.py` – Loads CSV data and simulates minimal token-based learning with label association output.
+
+_____________________________________________________________
+
+### label_trait_loader.py
+
+- Loads label ➜ trait mappings from `label_trait_map.json`.
+- Maps each label to a reflex trigger and memory bias score.
+- Used to inform learning traits in Phase 33 association processing.
+
+✅ Status: Complete (Phase 33.2)
+
+_______________________________________________________________
+
+### memory_bias_injector.py
+
+- Records and stores trait-related memory bias changes based on labeled training associations.
+- Outputs to `memory_bias_log.json` with label and bias value.
+- Used in runtime to inform AI reflex leanings and reinforcement tendencies.
+
+✅ Status: Complete (Phase 33.3.3)
+
+___________________________________________________________________
+
+### Memory Outputs (Generated)
+
+- `label_trait_map.json` – Defines label ➜ trait ➜ bias associations.
+- `memory_bias_log.json` – Records injected bias per label.
+
+____________________________________________________________________

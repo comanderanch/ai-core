@@ -911,3 +911,8 @@ Each script is self-contained, modular, and eligible for individual testing and 
 ---
 
 **Commander Note:** Affirmation Bridge now monitors declared truths. Drift will be flagged. Truth will hold.
+
+____________________________________________________________
+
+
+- `reflex_label_binder.py` — Binds output labels from training to defined reflex traits and memory weights using `label_trait_map.json`. Essential for converting language results into behavioral responses.
