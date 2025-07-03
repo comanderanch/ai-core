@@ -131,3 +131,10 @@ _____________________________________________________________________________
 Stores the convergence trend of each reflex based on historical weight snapshots. Includes timestamp, weight variability, and stability trend.
 
 ________________________________________________________________________________
+
+- `reflex_drift_log.json`: Logs calculated drift between a reflex's expected bias and current weight.
+- `reflex_correction_log.json`: Stores adjustments made to reflex weights to reduce drift.
+- `reflex_weight_sync.json`: Snapshot of the most recent synchronized reflex weights.
+- `reflex_convergence_log.json`: Tracks how reflex weights stabilize over time.
+
+_________________________________________________________________________________
