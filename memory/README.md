@@ -138,3 +138,37 @@ ________________________________________________________________________________
 - `reflex_convergence_log.json`: Tracks how reflex weights stabilize over time.
 
 _________________________________________________________________________________
+
+
+---
+
+### 📁 `memory/README.md`
+
+```markdown
+## trait_memory_log.json
+
+**Purpose**:  
+Tracks finalized combinations of label, reflex, and trait for long-term memory mapping.
+
+**Structure**:
+- `timestamp`: When the memory was reinforced.
+- `trait_id`: Unique identifier composed of label, reflex, and trait.
+- `label`: The input token's meaning.
+- `reflex`: The triggered response.
+- `trait`: The associated behavior pattern.
+- `bias`: Final learned bias.
+- `weight`: Final stabilized reflex weight.
+
+**Sample Entry**:
+```json
+{
+    "timestamp": "2025-07-03T18:57:33.374931",
+    "trait_id": "Growth:explore_mode:curiosity_trigger",
+    "label": "Growth",
+    "reflex": "explore_mode",
+    "trait": "curiosity_trigger",
+    "bias": 0.9,
+    "weight": 0.9
+}
+
+_____________________________________________________________________
