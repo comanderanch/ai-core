@@ -982,3 +982,20 @@ Tracks convergence patterns of reflex weights over time by analyzing sync snapsh
 **Output**: `memory/reflex_convergence_log.json`
 
 __________________________________________________________________________
+
+### reflex_drift_handler.py
+Tracks the difference between memory bias and reflex weight. Records drift in `reflex_drift_log.json`.
+
+### reflex_correction_engine.py
+Applies corrections to reflex weights based on drift values. Adjusts and logs corrections in `reflex_correction_log.json`.
+
+### reflex_weight_synchronizer.py
+Synchronizes current reflex weights to maintain system stability. Stores values in `reflex_weight_sync.json`.
+
+### reflex_convergence_tracker.py
+Analyzes reflex weight convergence over time. Logs to `reflex_convergence_log.json`.
+
+### reflex_integrity_scanner.py
+Scans all reflex-related logs for mismatches or inconsistencies. Outputs a PASS/FAIL status.
+
+__________________________________________________________________________
