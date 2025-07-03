@@ -965,3 +965,12 @@ ______________________________________________________________________
 - `reflex_correction_engine.py` — Applies drift-based correction to stabilize reflex weight alignment.
 
 _____________________________________________________________________
+
+### reflex_weight_synchronizer.py
+
+Captures the current `reflex_weight_log.json` snapshot and appends it to `reflex_weight_sync_log.json`, timestamped.
+
+- Logs system-wide reflex weight states over time.
+- Used for later comparison, rollback, or drift trend analysis.
+
+________________________________________________________________________

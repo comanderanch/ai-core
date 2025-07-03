@@ -120,3 +120,9 @@ _____________________________________________________________________________
 - `reflex_correction_log.json` — Logs corrective adjustments to reflex weights after drift detection.
 
 ______________________________________________________________________________
+
+### reflex_weight_sync_log.json
+
+Stores timestamped snapshots of all reflex weights. This serves as a historical ledger for weight evolution over time and supports trend monitoring or rollbacks.
+
+_____________________________________________________________________________
