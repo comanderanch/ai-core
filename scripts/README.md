@@ -944,3 +944,7 @@ ______________________________________________________________
 - `reflex_response_evaluator.py` — Evaluates how well a reflex aligns with bias and weight; generates score for reinforcement.
 
 ________________________________________________________________
+
+- `reflex_adaptation_engine.py` — Analyzes trends between reflex reinforcement and decay. Labels reflex behavior as increasing, decreasing, or stable. Logs findings for downstream optimization.
+
+____________________________________________________________________

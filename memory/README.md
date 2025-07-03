@@ -99,3 +99,7 @@ ____________________________________________________________________________
 - `reflex_response_score.json` — Stores the final score reflecting reflex alignment strength.
 
 ____________________________________________________________________________
+
+- `reflex_adaptation_log.json` — Stores trend outcomes from adaptation analysis. Indicates whether reflexes are strengthening, weakening, or stabilizing.
+
+___________________________________________________________________________
