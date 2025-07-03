@@ -1026,3 +1026,13 @@ Reinforces trait memory by logging a consolidated record of label, reflex, and t
 
 _____________________________________________________________________
 
+### trait_relationship_mapper.py
+
+Generates a map linking each trait to its associated labels and reflexes.
+
+- Input: `trait_memory_log.json`
+- Output: `trait_relationship_map.json`
+- Purpose: Understand how traits are interconnected across the system.
+
+________________________________________________________________________
+
