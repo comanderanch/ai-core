@@ -1,10 +1,10 @@
 {
     "Growth:explore_mode:curiosity_trigger": {
+        "label": "Growth",
+        "reflex": "explore_mode",
+        "trait": "curiosity_trigger",
         "bias": 0.9,
         "weight": 0.9,
-        "trait": "curiosity_trigger",
-        "reflex": "explore_mode",
-        "label": "Growth",
-        "timestamp": "2025-07-03T05:14:25.916498"
+        "timestamp": "2025-07-03T18:57:33.374931"
     }
 }

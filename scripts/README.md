@@ -1036,3 +1036,71 @@ Generates a map linking each trait to its associated labels and reflexes.
 
 ________________________________________________________________________
 
+trait_memory_indexer.py
+Purpose:
+Indexes all reinforced trait memory entries into a structured format for fast lookup and reference.
+
+Inputs:
+
+memory/trait_memory_log.json — Contains individual trait reinforcement records.
+
+Output:
+
+memory/trait_memory_index.json — Indexed by trait_id for efficient reference.
+
+Structure Example:
+------------------------------------------------
+{
+    "Growth:explore_mode:curiosity_trigger": {
+        "label": "Growth",
+        "reflex": "explore_mode",
+        "trait": "curiosity_trigger",
+        "bias": 0.9,
+        "weight": 0.9,
+        "timestamp": "2025-07-03T18:57:33.374931"
+    }
+}
+------------------------------------------------
+
+Usage:
+
+python3 scripts/trait_memory_indexer.py
+
+-------------------------------------------------
+
+Result:
+Confirms total indexed entries and updates the index file.
+
+
+
+_______________________________________________________________________
+
+trait_feedback_analyzer.py
+Purpose:
+Analyzes the consistency of reinforced traits by calculating average bias, average weight, and overall drift for each trait ID in the trait_memory_log.json.
+
+Inputs:
+
+memory/trait_memory_log.json — Log of all trait reinforcements.
+
+Output:
+
+memory/trait_feedback_log.json — Contains averaged metrics per trait:
+
+entries: Number of reinforcements
+
+avg_bias: Average of all bias values
+
+avg_weight: Average of all weight values
+
+drift: Difference between average bias and weight
+
+---------------------------------------------------
+
+Run:
+
+python3 -m scripts.trait_feedback_analyzer
+
+------------------------------------------------------
+
+______________________________________________________________
