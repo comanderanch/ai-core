@@ -1256,3 +1256,22 @@ Cluster format:
     "Label:Reflex": [ "trait1", "trait2", ... ]
   }
 }
+
+_________________________________________________________________
+
+✅ Phase 34.10 – Trait Memory Unifier
+Script: scripts/trait_memory_unifier.py
+Output: memory/trait_master_log.json
+
+Purpose:
+Consolidates all available trait data into a single unified record. It combines individual logs including memory, feedback, influence, drift, anchor stability, and clustering, providing a centralized unified_traits map for future recall and processing.
+
+Key Features:
+
+Merges cross-script data for each trait ID.
+
+Stores feedback, influence, anchor stability, cluster associations, and summaries.
+
+Ensures a singular reference point for all trait-linked memory processes.
+
+__________________________________________________________________
