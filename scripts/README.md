@@ -1300,3 +1300,30 @@ Output Format:
 }
 
 ____________________________________________________________
+
+---
+
+### 🧮 `trait_priority_resolver.py`
+**Phase 34.12**: Resolves priority conflicts between traits with identical scores using fallback logic:
+- Traits are sorted by:
+  1. Stability score (descending)
+  2. Drift magnitude (ascending)
+  3. Alphabetical order
+- Produces: `memory/trait_priority_resolution.json`
+
+Command:
+```bash
+python3 -m scripts.trait_priority_resolver
+
+-------------------------------------------------------
+
+Output:
+
+{
+    "timestamp": "2025-07-04T14:59:27.541683",
+    "resolved_priorities": {
+        "Growth:explore_mode:curiosity_trigger": 0.0
+    }
+
+__________________________________________________________________________
+
