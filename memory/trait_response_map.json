@@ -1,0 +1,12 @@
+{
+    "timestamp": "2025-07-04T17:28:18.675198",
+    "responses": {
+        "Growth:explore_mode:curiosity_trigger": {
+            "bias": 0.9,
+            "weight": 0.95,
+            "priority": 0.0,
+            "stability_score": 1.0,
+            "response_strength": 0.7125
+        }
+    }
+}
