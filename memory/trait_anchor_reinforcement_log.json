@@ -1,0 +1,9 @@
+[
+    {
+        "timestamp": "2025-07-04T15:32:28.972291",
+        "trait_id": "Growth:explore_mode:curiosity_trigger",
+        "old_weight": 0.9,
+        "new_weight": 0.95,
+        "stability_score": 1.0
+    }
+]
