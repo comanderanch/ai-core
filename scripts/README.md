@@ -1670,3 +1670,42 @@ cat memory/trait_response_validation_log.json
 
 ________________________________________________________________
 
+Phase 34.20 - Trait Stability Summarizer
+• Analyzes anchor and equilibrium metrics
+• Produces an integrated view of trait stability
+• Output: memory/trait_stability_summary.json
+
+--------------command:-----------------------
+
+python3 -m scripts.trait_stability_summarizer
+
+---------------output-----------------------
+
+📊 Summarizing Trait Stability...
+[STABILITY] Stability summary saved for 1 traits.
+
+----------------verify----------------------
+
+cat memory/trait_stability_summary.json
+
+----------------output----------------------
+
+{
+    "timestamp": "2025-07-04T20:27:05.641623",
+    "stability_summary": {
+        "Growth:explore_mode:curiosity_trigger": {
+            "bias": 0.9,
+            "weight": 0.95,
+            "drift": 0.05,
+            "stability_score": 1.0,
+            "state": "stable",
+            "equilibrium_deviation": null,
+            "equilibrium_state": null
+        }
+    }
+}
+
+_______________________________________________________________
+
+
+
