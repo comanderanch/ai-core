@@ -1327,3 +1327,29 @@ Output:
 
 __________________________________________________________________________
 
+---
+
+### 📦 Phase 34.13: Trait Priority Balancer
+
+**Script:** `scripts/trait_priority_balancer.py`  
+**Output:** `memory/trait_priority_balance.json`
+
+This module balances trait priority scores across all active traits to prevent runaway influence. It applies normalization to maintain harmony in trait weighting, ensuring no trait becomes dominant due to unbounded priority elevation.
+
+------------------------------------------------------------------
+
+command:
+
+python3 -m scripts.trait_priority_balancer
+
+cat memory/trait_priority_balance_log.json
+
+{
+    "timestamp": "2025-07-04T15:13:33.349478",
+    "balanced_scores": {
+        "Growth:explore_mode:curiosity_trigger": 0.0
+    }
+
+    _____________________________________________________________
+
+    
