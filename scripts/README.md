@@ -1275,3 +1275,28 @@ Stores feedback, influence, anchor stability, cluster associations, and summarie
 Ensures a singular reference point for all trait-linked memory processes.
 
 __________________________________________________________________
+
+trait_priority_sorter.py — Phase 34.11
+Purpose:
+Calculates and maps the priority score of each trait using available drift and influence data. Traits with higher instability or behavioral influence receive higher priority scores for correction or attention.
+
+Inputs:
+
+trait_influence_log.json
+
+trait_drift_summary.json
+
+Output:
+
+trait_priority_map.json
+
+Output Format:
+
+{
+  "timestamp": "2025-07-04T14:40:04.022839",
+  "priority_scores": {
+    "Growth:explore_mode:curiosity_trigger": 0.0
+  }
+}
+
+____________________________________________________________
