@@ -1583,4 +1583,33 @@ output:
 
 ________________________________________________________________
 
+Phase 34.18 — Trait Equilibrium Adjuster (trait_equilibrium_adjuster.py)
+Purpose:
+Balances the equilibrium of traits by examining recent drift, feedback, and influence. Adjusts weights if imbalances are detected beyond a defined threshold.
+
+Input Files:
+
+memory/trait_equilibrium_summary.json
+
+memory/trait_master_log.json
+
+Output Files:
+
+memory/trait_equilibrium_adjustments.json (only if adjustments were made)
+
+Behavior:
+
+If equilibrium imbalance exceeds defined limits, weight adjustments are logged.
+
+If no traits require adjustment, the script exits cleanly without modifying memory.
+
+---------------Run with:-----------------------
+
+python3 -m scripts.trait_equilibrium_adjuster
+
+---------------verify with------------------
+
+cat memory/trait_equilibrium_adjustments.json
+
+________________________________________________________________
 
