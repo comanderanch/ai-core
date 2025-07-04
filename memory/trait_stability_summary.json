@@ -1,0 +1,14 @@
+{
+    "timestamp": "2025-07-04T20:27:05.641623",
+    "stability_summary": {
+        "Growth:explore_mode:curiosity_trigger": {
+            "bias": 0.9,
+            "weight": 0.95,
+            "drift": 0.05,
+            "stability_score": 1.0,
+            "state": "stable",
+            "equilibrium_deviation": null,
+            "equilibrium_state": null
+        }
+    }
+}
