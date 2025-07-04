@@ -1470,5 +1470,42 @@ output:
 
     __________________________________________________________
 
-    
+
+### 📘 Phase 34.16 – Trait Equilibrium Tracker
+
+**Script:** `trait_equilibrium_tracker.py`  
+**Output:** `memory/trait_equilibrium_log.json`
+
+This module evaluates the average balance across all traits in the system. It calculates:
+- Average bias
+- Average weight
+- Average drift (difference between weight and bias)
+- Imbalance score across traits
+
+Used to assess global emotional/cognitive stability within the AI-core.
+
+--------------run command-----------
+
+python3 -m scripts.trait_equilibrium_tracker
+
+output:
+
+🧮 Tracking Trait Equilibrium...
+[EQUILIBRIUM] Summary recorded for 1 traits.
+
+--------------verification command----------------
+
+cat memory/trait_equilibrium_log.json
+
+{
+    "timestamp": "2025-07-04T17:09:55.083300",
+    "summary": {
+        "total_traits": 1,
+        "avg_bias": 0.9,
+        "avg_weight": 0.95,
+        "avg_drift": 0.05,
+        "imbalance_score": 0.05
+    }
+
+_______________________________________________
 

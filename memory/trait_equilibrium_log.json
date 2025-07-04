@@ -1,0 +1,10 @@
+{
+    "timestamp": "2025-07-04T17:09:55.083300",
+    "summary": {
+        "total_traits": 1,
+        "avg_bias": 0.9,
+        "avg_weight": 0.95,
+        "avg_drift": 0.05,
+        "imbalance_score": 0.05
+    }
+}
