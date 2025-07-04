@@ -1104,3 +1104,119 @@ python3 -m scripts.trait_feedback_analyzer
 ------------------------------------------------------
 
 ______________________________________________________________
+
+trait_influence_correlator.py
+Location: scripts/
+Purpose: Correlates trait memory logs with feedback to compute influence magnitude and behavioral drift.
+Inputs:
+
+memory/trait_memory_log.json
+
+memory/trait_feedback_log.json
+
+Outputs:
+
+memory/trait_influence_log.json
+
+Description:
+This script calculates the average influence per trait based on changes in weight and bias. It analyzes behavioral drift magnitude and maps them to identifiable traits, helping reinforce or adjust system behavior based on cumulative trends.
+
+-----------------------------------------------------
+
+Example Run:
+
+python3 -m scripts.trait_influence_correlator
+
+-----------------------------------------------------
+
+_______________________________________________________
+
+📘 Phase 34.6 – trait_drift_regulator.py
+Purpose:
+Monitors and regulates trait drift by adjusting traits that have deviated significantly over time based on trait_feedback_log.json.
+
+Input Files:
+
+memory/trait_feedback_log.json – Contains feedback on each trait’s current bias and weight.
+
+memory/trait_memory_log.json – Source of baseline trait data.
+
+Output File:
+
+memory/trait_drift_corrections.json – Records any corrections made to traits experiencing drift.
+
+Logic:
+
+For each trait, calculate drift as |bias - weight|.
+
+If drift exceeds 0.05, the script records a correction.
+
+If no drift is found, the script exits without changes.
+
+----------------------------------------------------------------
+
+Example Output:
+
+[
+  {
+    "timestamp": "2025-07-03T23:45:10.812347",
+    "trait_id": "Growth:explore_mode:curiosity_trigger",
+    "drift": 0.07,
+    "correction": -0.035
+  }
+]
+
+Console Output:
+
+🧪 Running Trait Drift Regulator...
+[DRIFT-REG] No drift data found. Regulation skipped.
+
+---------------------------------------------------------
+
+________________________________________________________________
+
+Phase 34.7 – Trait Drift Reinforcer
+Script: scripts/trait_drift_reinforcer.py
+Output: None (only updates internal weights)
+Purpose:
+Applies reinforcement to traits that have shown stable or beneficial drift patterns. This is the counterpart to the Drift Regulator. When a trait shows no negative drift or remains aligned, this tool rewards and locks in the trend.
+
+Log Analyzed:
+
+memory/trait_drift_log.json
+
+Effect:
+
+Applies positive reinforcement to reflex weights based on trait alignment.
+
+May optionally be expanded to record reinforcement logs in future phases.
+
+-----------------------------------------------------------------------
+
+Trigger Command:
+
+python3 -m scripts.trait_drift_reinforcer
+
+_________________________________________________________________
+
+Phase 34.8 – Trait Drift Summarizer
+Script: scripts/trait_drift_summarizer.py
+Output: memory/trait_drift_summary.json
+Purpose:
+Summarizes the cumulative drift of all traits by analyzing trait_drift_log.json. This tool provides a compressed view of how much each trait has deviated over time, helping to identify persistent shifts or stabilizations in behavior.
+
+Log Analyzed:
+
+memory/trait_drift_log.json
+
+Log Generated:
+
+memory/trait_drift_summary.json
+
+-------------------------------------------------------
+
+Trigger Command:
+
+python3 -m scripts.trait_drift_summarizer
+
+____________________________________________________________________
