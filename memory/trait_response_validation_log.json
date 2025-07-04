@@ -1,0 +1,16 @@
+{
+    "timestamp": "2025-07-04T19:50:29.047307",
+    "validated": [
+        {
+            "trait_id": "Growth:explore_mode:curiosity_trigger",
+            "response": {
+                "bias": 0.9,
+                "weight": 0.95,
+                "priority": 0.0,
+                "stability_score": 1.0,
+                "response_strength": 0.7125
+            },
+            "status": "valid"
+        }
+    ]
+}
