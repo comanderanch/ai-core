@@ -1229,3 +1229,30 @@ memory/trait_anchor_stability_map.json
 Includes label, reflex, trait, bias, weight, and calculated stability score.
 
 ______________________________________________________________________
+
+📌 Phase 34.9: Trait Anchoring and Clustering
+1. trait_anchor_stability_mapper.py
+Maps each trait’s core stability by comparing bias and weight.
+✅ Outputs: memory/trait_anchor_stability_map.json
+
+Fields logged:
+
+trait_id
+
+label, reflex, trait
+
+bias, weight
+
+stability_score (range: 0.0–1.0)
+
+2. trait_cluster_synthesizer.py
+Synthesizes clusters of traits grouped by their shared label:reflex pair.
+✅ Outputs: memory/trait_cluster_map.json
+
+Cluster format:
+
+{
+  "clusters": {
+    "Label:Reflex": [ "trait1", "trait2", ... ]
+  }
+}
