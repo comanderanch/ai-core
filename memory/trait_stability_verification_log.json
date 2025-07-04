@@ -1,0 +1,15 @@
+{
+    "timestamp": "2025-07-04T20:50:25.440569",
+    "verification": [
+        {
+            "trait_id": "Growth:explore_mode:curiosity_trigger",
+            "bias": 0.9,
+            "weight": 0.95,
+            "drift": 0.0,
+            "anchor_state": "stable",
+            "response_strength": 0.7125,
+            "equilibrium_drift": 0.05,
+            "status": "unstable"
+        }
+    ]
+}
