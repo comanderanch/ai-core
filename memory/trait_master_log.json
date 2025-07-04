@@ -6,7 +6,7 @@
             "reflex": "explore_mode",
             "trait": "curiosity_trigger",
             "bias": 0.9,
-            "weight": 0.9,
+            "weight": 0.95,
             "feedback": {
                 "entries": 1,
                 "avg_bias": 0.9,

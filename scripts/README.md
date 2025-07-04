@@ -1435,5 +1435,40 @@ cat memory/trait_anchor_reinforcement_log.json
 
     ______________________________________________________
 
+    📌 Phase 34.15: Trait Anchor Stabilizer
+Script: scripts/trait_anchor_stabilizer.py
+Log Output: memory/trait_anchor_stability_log.json
+
+Purpose:
+Analyzes the drift between bias and weight for each trait anchor. Determines overall stability and logs the state (stable, unstable, or drifting) for reinforcement, decay, or correction decisions in downstream phases.
+
+--------------to run command:-----------
+
+python3 -m scripts.trait_anchor_stabilizer
+
+output:
+
+🧷 Running Trait Anchor Stabilizer...
+[ANCHOR-STABILIZE] 1 anchors evaluated and saved.
+
+------------verification---------------
+
+cat memory/trait_anchor_stability_log.json
+
+output:
+
+
+    {
+        "timestamp": "2025-07-04T16:50:37.130570",
+        "trait_id": "Growth:explore_mode:curiosity_trigger",
+        "bias": 0.9,
+        "weight": 0.95,
+        "drift": 0.05,
+        "stability_score": 1.0,
+        "state": "stable"
+    }
+
+    __________________________________________________________
+
     
 
