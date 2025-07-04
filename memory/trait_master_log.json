@@ -1,0 +1,36 @@
+{
+    "timestamp": "2025-07-04T03:00:51.151054",
+    "unified_traits": {
+        "Growth:explore_mode:curiosity_trigger": {
+            "label": "Growth",
+            "reflex": "explore_mode",
+            "trait": "curiosity_trigger",
+            "bias": 0.9,
+            "weight": 0.9,
+            "feedback": {
+                "entries": 1,
+                "avg_bias": 0.9,
+                "avg_weight": 0.9,
+                "drift": 0.0
+            },
+            "influence": {
+                "bias": 0.9,
+                "weight": 0.9,
+                "drift": 0.0,
+                "magnitude": 0.0
+            },
+            "drift_summary": {},
+            "anchor": {
+                "label": "Growth",
+                "reflex": "explore_mode",
+                "trait": "curiosity_trigger",
+                "bias": 0.9,
+                "weight": 0.9,
+                "stability_score": 1.0
+            },
+            "cluster": [
+                "Growth:explore_mode"
+            ]
+        }
+    }
+}
