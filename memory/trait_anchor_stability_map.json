@@ -1,0 +1,13 @@
+{
+    "timestamp": "2025-07-04T02:26:06.502012",
+    "anchors": {
+        "Growth:explore_mode:curiosity_trigger": {
+            "label": "Growth",
+            "reflex": "explore_mode",
+            "trait": "curiosity_trigger",
+            "bias": 0.9,
+            "weight": 0.9,
+            "stability_score": 1.0
+        }
+    }
+}

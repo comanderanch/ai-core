@@ -1220,3 +1220,12 @@ Trigger Command:
 python3 -m scripts.trait_drift_summarizer
 
 ____________________________________________________________________
+
+trait_anchor_stability_mapper.py – Phase 34.9
+Maps anchor stability for each trait by comparing bias and weight values. Anchors represent foundational connections between trait label, reflex, and trait type. A perfect match results in a stability score of 1.0.
+
+Output:
+memory/trait_anchor_stability_map.json
+Includes label, reflex, trait, bias, weight, and calculated stability score.
+
+______________________________________________________________________
