@@ -3,7 +3,7 @@ import os
 sys.path.append(os.path.abspath(".."))
 
 import numpy as np
-from training.training_pairs import training_pairs
+#from training.training_pairs import training_pairs
 
 import csv
 
