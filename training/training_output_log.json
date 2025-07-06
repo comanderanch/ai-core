@@ -1,9 +1,25 @@
 {
-  "training_status": "data_loaded",
+  "training_status": "completed",
   "start_time": null,
-  "end_time": null,
-  "epochs_completed": 0,
-  "errors": [],
-  "output_summary": {},
+  "end_time": "2025-07-06T22:40:14.376908",
+  "epochs_completed": 10,
+  "errors": [
+    "Training error: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 3 is different from 2)"
+  ],
+  "output_summary": {
+    "final_loss": 0.006447732323064278,
+    "loss_history": [
+      6.416627286734193,
+      2.9799282943984102,
+      1.383900944370821,
+      0.6426941855714439,
+      0.29847222094541975,
+      0.13861290964119843,
+      0.0643729967154242,
+      0.029895386253647533,
+      0.013883698540595589,
+      0.006447732323064278
+    ]
+  },
   "sample_count": 3
 }

@@ -36,9 +36,10 @@ else:
     print(f"[✓] Log file already exists: {output_path}")
 
 # === Model Bootstrap Interface ===
-input_size = 3
+input_size = 2   # ← was 3
 hidden_size = 5
 output_size = 1
+
 
 try:
     model = MinimalLLM(input_size, hidden_size, output_size)
@@ -112,6 +113,51 @@ except Exception as e:
         log_data = json.load(f)
 
     log_data["errors"].append(f"Data load error: {str(e)}")
+    log_data["training_status"] = "error"
+
+    with open(output_path, "w") as f:
+        json.dump(log_data, f, indent=2)
+
+# === Training Loop ===
+epochs = config.get("epochs", 10)
+loss_history = []
+
+print(f"[•] Starting training for {epochs} epochs...")
+
+try:
+    for epoch in range(epochs):
+        epoch_loss = 0.0
+        for x, y in zip(x_data, y_data):
+            x_batch = np.array([x])
+            y_batch = np.array([y])
+            loss = model.train_step(x_batch, y_batch)
+            epoch_loss += loss
+
+        avg_loss = epoch_loss / len(x_data)
+        loss_history.append(avg_loss)
+        print(f"[✓] Epoch {epoch+1}/{epochs} – Avg Loss: {avg_loss:.6f}")
+
+    # Final log update
+    with open(output_path, "r") as f:
+        log_data = json.load(f)
+
+    log_data["training_status"] = "completed"
+    log_data["end_time"] = datetime.utcnow().isoformat()
+    log_data["epochs_completed"] = epochs
+    log_data["output_summary"]["final_loss"] = loss_history[-1]
+    log_data["output_summary"]["loss_history"] = loss_history
+
+    with open(output_path, "w") as f:
+        json.dump(log_data, f, indent=2)
+
+    print("[✓] Training complete. Log updated.")
+
+except Exception as e:
+    print(f"[✗] Training failed: {e}")
+    with open(output_path, "r") as f:
+        log_data = json.load(f)
+
+    log_data["errors"].append(f"Training error: {str(e)}")
     log_data["training_status"] = "error"
 
     with open(output_path, "w") as f:

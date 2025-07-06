@@ -74,3 +74,14 @@ Final confirmation:
 This confirms that Phase 35.0 bootstrap completed successfully, with no faults or partial states.
 
 You may now proceed to next step in Phase 35.--.
+
+---------------------------------------------------------
+### Phase 35.1 – Controlled Training Execution
+
+- Model: MinimalLLM
+- Input: 3 token pairs (CSV)
+- Epochs: 10
+- Loss dropped from 6.41 → 0.0064
+- Status: ✅ Completed and logged
+
+---------------------------------------------------------
