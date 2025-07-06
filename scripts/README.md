@@ -1788,4 +1788,72 @@ output:
 
 ______________________________________________________________________
 
+### bootstrap_training_engine.py
+
+- Loads config and CSV training samples
+- Initializes model
+- Runs training loop with error handling and epoch logging
+- Updates training_output_log.json with status and loss history
+
+-------------------command------------------------------
+python3 scripts/bootstrap_training_engine.py
+
+first run set to test error state awarness
+
+[✓] Log file already exists: training/training_output_log.json
+[✓] Model initialized.
+[✓] Loaded 3 training samples.
+[•] Starting training for 10 epochs...
+[✗] Training failed: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 3 is different from 2)
+
+second run with corected tokens and 10 epoch
+
+[✓] Log file already exists: training/training_output_log.json
+[✓] Model initialized.
+[✓] Loaded 3 training samples.
+[•] Starting training for 10 epochs...
+[✓] Epoch 1/10 – Avg Loss: 6.416627
+[✓] Epoch 2/10 – Avg Loss: 2.979928
+[✓] Epoch 3/10 – Avg Loss: 1.383901
+[✓] Epoch 4/10 – Avg Loss: 0.642694
+[✓] Epoch 5/10 – Avg Loss: 0.298472
+[✓] Epoch 6/10 – Avg Loss: 0.138613
+[✓] Epoch 7/10 – Avg Loss: 0.064373
+[✓] Epoch 8/10 – Avg Loss: 0.029895
+[✓] Epoch 9/10 – Avg Loss: 0.013884
+[✓] Epoch 10/10 – Avg Loss: 0.006448
+[✓] Training complete. Log updated.
+
+----------------verifiy------------------
+
+cat training/training_output_log.json
+
+output:--------------------------------
+
+{
+  "training_status": "completed",
+  "start_time": null,
+  "end_time": "2025-07-06T22:40:14.376908",
+  "epochs_completed": 10,
+  "errors": [
+    "Training error: matmul: Input operand 1 has a mismatch in its core dimension 0, with gufunc signature (n?,k),(k,m?)->(n?,m?) (size 3 is different from 2)"
+  ],
+  "output_summary": {
+    "final_loss": 0.006447732323064278,
+    "loss_history": [
+      6.416627286734193,
+      2.9799282943984102,
+      1.383900944370821,
+      0.6426941855714439,
+      0.29847222094541975,
+      0.13861290964119843,
+      0.0643729967154242,
+      0.029895386253647533,
+      0.013883698540595589,
+      0.006447732323064278
+    ]
+  },
+  "sample_count": 3
+
+  ________________________________________________________________
 
