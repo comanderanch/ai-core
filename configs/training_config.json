@@ -1,0 +1,7 @@
+{
+  "input_file": "training/training_set.csv",
+  "output_log": "training/training_output_log.json",
+  "epochs": 10,
+  "batch_size": 1,
+  "model_script": "ai-llm/minimal_llm.py"
+}
