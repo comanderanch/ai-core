@@ -1907,3 +1907,12 @@ Monitors the last two linked training phases from `trait_memory_log.json` to det
 - Skips execution if fewer than two phases are logged.
 
 _______________________________________________________________________
+
+---
+
+### trait_recall_projector.py
+Generates a recall projection based on the training history in `memory/trait_memory_log.json`.  
+- Calculates a `retention_score` inversely proportional to final loss.  
+- Saves summary for each phase to `logs/trait_recall_projection.json`.
+
+_______________________________________________________________________
