@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 training/training_set.csv
 training/training_set.csv
+training/*.csv
