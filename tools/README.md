@@ -115,3 +115,29 @@ The arrows or directions help indicate how tokens semantically transition during
 
 --------------------------------------------------------------------------------
 
+
+---
+
+### 📁 `tools/README.md`
+
+```markdown
+## Tool: merge_trait_memory_formats.py
+
+**Purpose:** Upgrades legacy trait logs to dual-format compatibility.
+
+### Function:
+- Loads legacy list-format trait memory
+- Wraps it into a dict format with:
+  - `linked_phases`
+  - `trait_evolution`
+  - `history` (original array preserved)
+
+### Output:
+- Replaces `memory/trait_memory_log.json` with upgraded format
+- Backs up original to `memory/trait_memory_log_backup.json`
+
+### Notes:
+- Ensures compatibility for both list-style and structured memory tools
+- Should only be run once (or if format reset is required)
+
+________________________________________________________________________________
