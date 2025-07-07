@@ -203,3 +203,32 @@ Structure includes:
 _____________________________________________________________________
 
 
+"conscious": """# conscious/
+
+Stores output JSON files for traits that have been elevated to conscious awareness.
+These traits represent the highest level of processing in AI-Core.
+""",
+    "entropy_snapshots": """# entropy_snapshots/
+
+Contains historical snapshots of the Qbithue network after entropy drift has been applied.
+Used for tracking long-term memory and stability evolution.
+""",
+    "fold": """# fold/
+
+Secure memory vault for Queen’s Fold metadata and signature anchors.
+Used to verify trust, enforce Guardian Protocol, and prevent prediction drift.
+""",
+    "sensory": """# sensory/
+
+Memory data representing real-time or simulated input signals.
+Acts as a perceptual buffer layer for reflective reasoning.
+""",
+    "snapshots": """# snapshots/
+
+Raw snapshots of the Qbithue network at specific moments in time.
+Used for rollback, debugging, and memory comparison.
+""",
+    "thread_binds": """# thread_binds/
+
+Contains legacy and active memory thread maps used in trait relationship analysis.
+Supports linking across sessions and cyclical behavior traces.
