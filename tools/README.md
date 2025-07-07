@@ -141,3 +141,19 @@ The arrows or directions help indicate how tokens semantically transition during
 - Should only be run once (or if format reset is required)
 
 ________________________________________________________________________________
+
+Add: generate_training_set_from_tokens_fixed.py, describe conversion purpose.
+
+## Tools Added in Phase 35.2
+
+### `generate_training_set_from_tokens_fixed.py`
+- Converts `full_color_tokens.csv` into a fully structured `training_set.csv`.
+- Filters malformed rows and extracts `input_token`, `target_token`, `label`, and `weight`.
+- Output: `training/training_set.csv`
+
+### `batch_token_trainer_fixed.py`
+- Processes token batches in 10-token groups.
+- Runs 10 epochs per batch.
+- Logs output to `training/training_output_log.json`.
+- Includes debug output, reflection pauses, and loss tracking.
+""",

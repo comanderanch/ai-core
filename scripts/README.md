@@ -1916,3 +1916,43 @@ Generates a recall projection based on the training history in `memory/trait_mem
 - Saves summary for each phase to `logs/trait_recall_projection.json`.
 
 _______________________________________________________________________
+
+## Script: import_patcher.py
+
+**Purpose:**  
+Provides a dynamic way to resolve import path issues across the AI-Core folder structure. This is especially useful when dealing with Python's import limitations around dashes (`-`) in folder names or when running scripts from nested locations.
+
+### Why This Matters
+
+Some scripts like `batch_token_trainer.py` need to access modules inside folders like `ai-llm/` and `training/`.  
+But since `ai-llm` has a dash, Python cannot import it using `import ai-llm.minimal_llm`.
+
+Instead of renaming the folder or modifying many existing scripts, this patcher adjusts `sys.path` dynamically at runtime so all modules are accessible — regardless of folder naming.
+
+### How to Use
+
+At the top of any script, add:
+
+```python
+from scripts.import_patcher import patch_ai_core_paths
+patch_ai_core_paths()
+---------------------------------------------
+_Then proceed with your normal imports:
+
+from ai_llm.minimal_llm import MinimalLLM
+from training.training_loader import load_training_data
+
+Notes
+This method preserves legacy naming (ai-llm/) without breaking imports.
+
+It works consistently even if the script is run from inside containers, subdirectories, or alternate root paths.
+_____________________________________________________________
+
+## Scripts Directory (No new files added in Phase 35.2)
+
+- Training logic handled in `tools/` this phase.
+- Scripts will be updated with cognition forking logic in Phase 35.3.
+"""
+
+___________________________________________________________________________________________________
+

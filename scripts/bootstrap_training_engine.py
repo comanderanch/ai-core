@@ -3,7 +3,7 @@ from pathlib import Path
 from datetime import datetime
 import numpy as np
 import sys
-sys.path.append("ai-llm")
+sys.path.append("ai_llm")
 
 from minimal_llm import MinimalLLM
 
