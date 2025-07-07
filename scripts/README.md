@@ -1899,3 +1899,11 @@ ___________________________________________________________
 
 _______________________________________________________________________
 
+---
+
+### trait_drift_monitor.py
+Monitors the last two linked training phases from `trait_memory_log.json` to detect significant drift in learning traits.  
+- Outputs a warning if change exceeds 50% between phases.
+- Skips execution if fewer than two phases are logged.
+
+_______________________________________________________________________

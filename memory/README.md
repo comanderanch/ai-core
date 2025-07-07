@@ -190,3 +190,16 @@ Example:
 
 ________________________________________________________________________
 
+---
+
+### trait_memory_log.json
+Stores memory-linked summaries of all completed training phases.
+
+Structure includes:
+- `linked_phases`: names of all phases analyzed.
+- `trait_evolution`: trait metrics (sample count, epochs, final loss) per phase.
+- `history`: timestamped log of phase data for chronological review.
+
+_____________________________________________________________________
+
+
