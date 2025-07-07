@@ -85,3 +85,13 @@ You may now proceed to next step in Phase 35.--.
 - Status: ✅ Completed and logged
 
 ---------------------------------------------------------
+
+### Training Dataset Management
+
+- Original token training set (3 samples) has been archived as: `training/training_set_original.csv`
+- Token generator script added: `tools/generate_training_set_from_tokens.py`
+  - Pulls 10-token batches from `tokenizer/full_color_tokens.csv`
+  - Converts raw color rows into `input_token`, `target_token`, `label`, and `weight`
+- Current training set is auto-regenerated for each training run
+
+-----------------------------------------------------------------

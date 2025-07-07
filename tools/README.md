@@ -104,4 +104,14 @@ Purple 50 → 70
 
 The arrows or directions help indicate how tokens semantically transition during model training.
 
+---------------------------------------------------------------------------------------------------------
+
+## generate_training_set_from_tokens.py
+
+- Converts structured color token data from `tokenizer/full_color_tokens.csv`
+- Extracts RGB values and builds token pairs
+- Default: pulls 10 samples per run
+- Output: `training/training_set.csv` (overwrites each time)
+
+--------------------------------------------------------------------------------
 
