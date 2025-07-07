@@ -1857,3 +1857,15 @@ output:--------------------------------
 
   ________________________________________________________________
 
+---
+
+### bootstrap_training_engine.py
+
+Now includes support for:
+
+- Batch training phases with automatic phase indexing.
+- JSON logging of loss per phase.
+- Error tracing and log preservation.
+- Model initialization from `MinimalLLM`.
+
+Updated in **Phase 35.2**.

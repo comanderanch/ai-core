@@ -152,6 +152,33 @@ try:
 
     print("[✓] Training complete. Log updated.")
 
+    # === Batch Phase Logging Extension ===
+
+    # Load existing log again
+    with open(output_path, "r") as f:
+        log_data = json.load(f)
+
+    # Determine current phase index
+    output_summary = log_data.get("output_summary", {})
+    phases = output_summary.get("phases", {})
+    current_phase = f"phase_{len(phases) + 1}"
+
+    # Record current batch training
+    phases[current_phase] = {
+        "sample_count": len(x_data),
+        "epochs": epochs,
+        "final_loss": loss_history[-1],
+        "loss_history": loss_history
+    }
+
+    log_data["output_summary"]["phases"] = phases
+
+    with open(output_path, "w") as f:
+        json.dump(log_data, f, indent=2)
+
+    print(f"[✓] Phase logged as: {current_phase}")
+
+
 except Exception as e:
     print(f"[✗] Training failed: {e}")
     with open(output_path, "r") as f:
