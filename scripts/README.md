@@ -1956,3 +1956,74 @@ _____________________________________________________________
 
 ___________________________________________________________________________________________________
 
+"cognitive_anchor_harmonizer.py": """# cognitive_anchor_harmonizer.py
+
+This script stabilizes cognitive anchor points across the AI-Core's memory structure.
+It ensures that elevated traits maintain logical cohesion and harmonize with existing
+neural pathways. Used during trait elevation and inheritance phases.
+""",
+    "conscious_path_resolver.py": """# conscious_path_resolver.py
+
+Resolves conscious trait pathways by bridging reflexive behavior to stable awareness.
+This script aids in determining which traits rise to conscious processing based on
+linked reflex and anchor arcs.
+""",
+    "conscious_trait_engine.py": """# conscious_trait_engine.py
+
+Processes elevated traits and identifies dominant patterns forming conscious awareness.
+Used in the final stage of trait emergence to log top-level traits into memory.
+""",
+    "cultural_entropy_engine.py": """# cultural_entropy_engine.py
+
+Applies entropy drift across the Qbithue network to simulate memory evolution
+and cultural variability. Ensures the network dynamically adapts without collapsing.
+""",
+    "vault_guardian_encoder.py": """# vault_guardian_encoder.py
+
+Generates multilingual passwords and encrypts them using binary encoding.
+Used as a foundational component of the Queen's Fold security layer.
+""",
+    "memory_snapshot_saver.py": """# memory_snapshot_saver.py
+
+Saves a snapshot of the Qbithue network's current state.
+Used to create reference points for trait analysis and rollback recovery.
+""",
+    "qbithue_gate_engine.py": """# qbithue_gate_engine.py
+
+Simulates Q-bit hue logic for cognitive flow management. 
+Implements -1 (gray), 0 (black), +1 (white) states for trait routing and entropy control.
+""",
+    "qbithue_reflex_interpreter.py": """# qbithue_reflex_interpreter.py
+
+Analyzes the Qbithue network to detect reflexive connections between nodes.
+Used as a basis for building subconscious behavior patterns.
+""",
+    "qbithue_resonance_engine.py": """# qbithue_resonance_engine.py
+
+Evaluates and adjusts node resonance values within the Qbithue network.
+Ensures trait stability and reflective capacity within token relationships.
+""",
+    "queens_fold_initializer.py": """# queens_fold_initializer.py
+
+Initializes the Queen’s Fold layer, generating a trust signature and 
+secure metadata anchor for downstream protocol enforcement.
+""",
+    "subconscious_router.py": """# subconscious_router.py
+
+Establishes subconscious pathways by analyzing reflex connections.
+Lays down implicit behavior routes prior to conscious interpretation.
+""",
+    "trait_anchor_relinker.py": """# trait_anchor_relinker.py
+
+Relinks trait anchors by evaluating recent trait elevation data.
+Ensures continuous alignment of memory structures as traits evolve.
+""",
+    "trait_elevation_engine.py": """# trait_elevation_engine.py
+
+Scans the reflex arcs to elevate potential traits based on thresholds.
+Creates a promoted trait log for further linking and conscious evaluation.
+""",
+    "trait_inheritance_binder.py": """# trait_inheritance_binder.py
+
+Links elevated traits based on observed path overlaps.
+Binds patterns together as inherited behavior across cognitive cycles.
