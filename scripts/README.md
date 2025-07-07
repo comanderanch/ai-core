@@ -1869,3 +1869,33 @@ Now includes support for:
 - Model initialization from `MinimalLLM`.
 
 Updated in **Phase 35.2**.
+
+___________________________________________________________
+
+## Script: trait_memory_linker.py
+
+**Phase:** 35.2  
+**Purpose:** Links each completed training phase into memory, recording trait evolution and history.
+
+### Function:
+- Loads `training_output_log.json`
+- Extracts `phases` from completed training
+- For each unlinked phase:
+  - Captures sample count, epochs, final loss
+  - Logs them under `memory/trait_memory_log.json`
+  - Appends history entry with timestamp
+
+### Output:
+- `memory/trait_memory_log.json` (dual format)
+- Example structure:
+  ```json
+  {
+    "linked_phases": ["phase_1"],
+    "trait_evolution": {
+      "phase_1": { "sample_count": ..., "epochs": ..., "final_loss": ... }
+    },
+    "history": [ ... ]
+  }
+
+_______________________________________________________________________
+

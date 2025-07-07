@@ -108,3 +108,12 @@ You may now proceed to next step in Phase 35.--.
 
 --------------------------------------------------------------
 
+---
+
+### Phase 35.2 – Trait Memory Linker
+
+- Introduced `trait_memory_linker.py` to formally capture memory traits from training logs.
+- Tracks training history over time to enable cognitive evolution features.
+- Integrated dual-format upgrade script (`merge_trait_memory_formats.py`) to ensure compatibility across toolchains.
+
+_____________________________________________________________________
