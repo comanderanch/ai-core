@@ -65,4 +65,27 @@ Each token includes:
 
 This enables multi-function, field-driven, superposition-based token logic within the AI-Core system.
 
+## Testing  (python3 tokenizer/test_q_layer_token.py)
+
+The `test_q_layer_token.py` file is included to verify the behavior of the `QLayerToken` class.
+
+It performs:
+- Token creation with base color
+- Field state assignment
+- Fluorescence tagging
+- Q-state shifting
+- Output verification via `.describe()`
+
+Run it with:
+
+```bash
+python3 tokenizer/test_q_layer_token.py
+
+-----------------output------------------------------------------------
+
+
+Token Description:
+{'color': (255, 0, 0), 'fluorescence': ['logic', 'memory'], 'q_state': 1, 'field': {'frequency': 13.5, 'amplitude': 0.72}, 'mode': 'propagate'}
+
+
 _____________________________________________________________________________________________________________________
