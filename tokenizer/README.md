@@ -46,3 +46,23 @@ Contains the complete set of color tokens for use in training custom LLMs with a
 This tokenizer is part of a broader experimental framework to explore tokenizing language via color and frequency,
 allowing for a potentially more compact and expressive token set that reduces overhead and expands token space.
 
+______________________________________________________________________________________________________________________
+
+# tokenizer/
+
+Contains token processing logic for AI-Core, including color-based encoding and Q-layer behavior.
+
+## q_layer_token.py
+
+Defines the `QLayerToken` class for advanced cognitive token structures.
+
+Each token includes:
+- **base_color**: RGB identity
+- **fluorescence_tag**: Function overlay (e.g., logic, memory)
+- **q_state**: Qbithue access level (-1: subconscious, 0: static, +1: conscious)
+- **field_state**: Dict for frequency and amplitude (EM routing)
+- **mode**: Operational mode ('propagate', 'collapse', 'echo')
+
+This enables multi-function, field-driven, superposition-based token logic within the AI-Core system.
+
+_____________________________________________________________________________________________________________________
