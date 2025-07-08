@@ -2067,3 +2067,40 @@ Node B:
 
 ________________________________________________________________________________________
 
+## q_layer_token.py
+
+This script provides a reusable logic engine for handling Q-layer token behavior across AI-Core.
+
+Functions:
+- `generate_q_token()` — Create a token with color, tag(s), and mode.
+- `route_token()` — Apply simulated EM field routing (frequency + amplitude).
+- `adjust_fluorescence()` — Add or clear fluorescence tags.
+- `shift_token_q_state()` — Set the Q-state (-1: subconscious, 0: static, +1: conscious).
+
+Used to power memory routing, node logic, trait elevation, and system behavior layers.
+
+## test_q_layer_token_engine.py
+
+Tests the `q_layer_token.py` engine. Validates token creation, state mutation, field propagation, and functional overlays.
+
+Run with:
+
+```bash
+PYTHONPATH=. python3 scripts/test_q_layer_token_engine.py
+
+_______________________----------output-----------________________________
+
+[Step 1] Generated Token:
+{'color': (128, 0, 255), 'fluorescence': ['init'], 'q_state': 0, 'field': {'frequency': 0.0, 'amplitude': 0.0}, 'mode': 'propagate'}
+
+[Step 2] Added 'logic' Fluorescence:
+{'color': (128, 0, 255), 'fluorescence': ['init', 'logic'], 'q_state': 0, 'field': {'frequency': 0.0, 'amplitude': 0.0}, 'mode': 'propagate'}
+
+[Step 3] Shifted Q-State to +1:
+{'color': (128, 0, 255), 'fluorescence': ['init', 'logic'], 'q_state': 1, 'field': {'frequency': 0.0, 'amplitude': 0.0}, 'mode': 'propagate'}
+
+[Step 4] Routed Token with EM Field:
+{'color': (128, 0, 255), 'fluorescence': ['init', 'logic'], 'q_state': 1, 'field': {'frequency': 22.4, 'amplitude': 0.94}, 'mode': 'propagate'}
+
+________________________________________________________________________________________________________
+
