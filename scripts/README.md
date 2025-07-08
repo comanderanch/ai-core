@@ -2027,3 +2027,43 @@ Creates a promoted trait log for further linking and conscious evaluation.
 
 Links elevated traits based on observed path overlaps.
 Binds patterns together as inherited behavior across cognitive cycles.
+
+____________________________________________________________________________
+
+## q_node.py
+
+This module defines the `QNode` class, which represents a cognition-aware node
+capable of operating across conscious and subconscious logic layers.
+
+QNode integrates a `QLayerToken` to:
+- Simulate Q-state shifts (subconscious, static, conscious)
+- React to fluorescence tags (e.g., 'memory', 'logic')
+- Adjust token behavior via simulated EM field input
+- Build neural bridges across logic flows
+
+Each QNode is linkable to other QNodes for reflex pattern formation and trait elevation paths.
+
+## test_q_node.py
+
+This file tests the functionality of `QNode`, including:
+- Token initialization
+- Fluorescence tagging
+- Conscious state shifts
+- Electromagnetic field state updates
+- Node linking behavior
+
+To run the test:
+
+```bash
+PYTHONPATH=. python3 scripts/test_q_node.py
+
+_______----------------output-----------------_______________
+
+Node A:
+{'type': 'logic', 'token': {'color': (0, 255, 0), 'fluorescence': ['reflex'], 'q_state': 1, 'field': {'frequency': 19.7, 'amplitude': 0.81}, 'mode': 'propagate'}, 'connected_to': 'memory'}
+
+Node B:
+{'type': 'memory', 'token': {'color': (0, 0, 255), 'fluorescence': [], 'q_state': 0, 'field': {'frequency': 0.0, 'amplitude': 0.0}, 'mode': 'propagate'}, 'connected_to': None}
+
+________________________________________________________________________________________
+
