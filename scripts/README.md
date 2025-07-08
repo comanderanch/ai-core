@@ -2104,3 +2104,139 @@ _______________________----------output-----------________________________
 
 ________________________________________________________________________________________________________
 
+## em_field_balancer.py
+
+Simulates a dynamic electromagnetic field that regulates cognitive energy in AI-Core systems.
+
+Fields:
+- `internal_fluctuation` – chaos/tension from within (e.g., trait conflict)
+- `external_resistance` – outside pressure (e.g., complex memory load)
+- `field_strength` – cognitive energy pool available for recall and routing
+
+Methods:
+- `detect_fluctuations()` – simulates internal disturbance
+- `detect_resistance()` – simulates resistance from external demands
+- `balance_field()` – uses energy to stabilize the system
+- `apply_force()` – applies field effort for targeted action
+- `report()` – returns current field state
+
+Intended to power future Q-layer decisions, memory access priority, and cognitive thread balancing.
+
+-------------
+
+## test_em_field_balancer.py
+
+Tests the `ElectromagneticField` class by simulating a full cycle of:
+
+- Internal fluctuation detection
+- External resistance simulation
+- Field balancing through kinetic energy
+- Application of force to maintain stability
+- Final report of remaining field strength
+
+Run it with:
+
+```bash
+PYTHONPATH=. python3 scripts/test_em_field_balancer.py
+
+__________________-------------output------------________________
+
+[Step 1] Internal Fluctuation: 2.93
+[Step 2] External Resistance: 2.20
+[Step 3] Applied 7.70 units of kinetic energy to stabilize.
+[Step 4] Applied 14.57 units of field force.
+
+[Final State]
+field_strength: 977.73
+internal_fluctuation: 2.93
+external_resistance: 2.20
+
+________________________________________________________________________________
+
+### test_electromagnetic_field.py
+
+This test script simulates a one-time run of the ElectromagneticField system.
+It initializes the field, detects random fluctuations and resistance, balances the field, and applies force.
+The output includes internal state and final field strength for verification.
+
+scripts/test_electromagnetic_field.py
+test with 
+PYTHONPATH=. python3 scripts/test_electromagnetic_field.py
+
+
+_________________-----------------------output-----------------_____________
+
+[Test] Initializing Electromagnetic Field with strength 1000.0
+
+[Test] Detecting internal fluctuation...
+[Step 1] Internal Fluctuation: -7.27
+[Test] Detecting external resistance...
+[Step 2] External Resistance: 0.20
+[Test] Balancing field...
+[Step 3] Applied -10.61 units of kinetic energy to stabilize.
+[Test] Applying force...
+[Step 4] Applied 14.45 units of field force.
+
+[Result] Final State:
+field_strength: 996.16
+internal_fluctuation: -7.27
+external_resistance: 0.20
+
+__________________________________________________________________________________________
+
+### test_energy_pool.py
+
+This test script verifies the functionality of `energy_pool.py`, which manages energy flow between a central pool and a rechargeable battery unit. It performs:
+
+- Energy push into the battery (with overflow logic).
+- Energy pull prioritizing battery usage before falling back to the main pool.
+- Displays final energy state for validation.
+
+Used to simulate energy regulation within AI-Core’s electromagnetic and cognitive subsystems.
+
+scripts/test_energy_pool.py
+test with
+python3 scripts/test_energy_pool.py
+
+_______________________________________________------------output---------____________
+
+[Test] Initializing EnergyPool with battery capacity = 500
+
+[Test] Pushing 300 energy into battery...
+Pushed 300 energy into the battery. Battery storage: 300
+
+[Test] Pulling 200 energy...
+Pulled 200 from the battery. Battery storage: 100
+
+[Test] Pulling 400 energy (should deplete battery and use pool)...
+Pulled 100 from the battery. Now pulling 300 from the pool.
+Pulled 300 energy from the pool. Remaining pool energy: 700
+
+[Test] Pushing 600 energy (should overflow into pool)...
+Battery full! Pushed 100 energy into the pool. Pool energy: 800
+
+[Result] Final Energy States:
+  Battery Storage: 500
+  Pool Energy: 800
+
+  _____________________________________________________________________________________
+
+  ### test_energy_nodes.py
+
+**Purpose**: Tests interaction of `energy_node.py` and `energy_node_2.py` using simultaneous task and energy logic simulation.
+
+**Behavior**:
+- Initializes two nodes with different energy levels.
+- Runs 3 cycles:
+  - Each node performs a task (complexity increases per cycle).
+  - Each node flips state (simulates energy exchange).
+- Tracks and prints:
+  - Remaining energy
+  - Energy requests and contributions
+
+**Outcome**:
+- Confirms energy logic, state flipping, and task performance work across both implementations.
+
+scripts/test_energy_nodes.py
+test with 
+python3 scripts/test_energy_nodes.py
