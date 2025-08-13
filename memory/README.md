@@ -261,3 +261,6 @@ Run Command:
 
 
 python3 scripts/thread_bind_converter.py
+
+**Verification (2025-08-13 UTC):** `scripts/thread_bind_converter.py` preserves `bound_at` from legacy binds.
+Sample observed in `memory/thread_binds/bind_map.json`: token `Preserve_Vital_Systems` → `bound_at: 2025-07-09T02:10:32.611314`.
