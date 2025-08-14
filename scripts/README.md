@@ -2265,3 +2265,113 @@ python3 scripts/subconscious_dryrun.py \
   --network memory/qbithue_network.json \
   --binds memory/thread_binds/bind_map.json \
   --snapshots memory/snapshots/qbithue_state_log.json
+
+------------------------------------------------------------------------------------
+
+📁 scripts/hemisphere_manager.py
+
+Purpose:
+Manages dual hemisphere logic for AI-Core token sets:
+
+Loads left and right token JSON files
+
+Tracks active hemisphere
+
+Provides tools to switch, query, and retrieve current token sets
+
+-------------------------------------------------------------------------------
+
+📁 scripts/llm_output_resolver.py
+
+Purpose:
+Resolves dual LLM outputs for the current token set:
+
+Generates simulated responses from both hemispheres
+
+Compares for consistency
+
+Flags drift between outputs and prevents invalid response propagation
+
+--------------------------------------------------------------------------------
+
+📁 scripts/drift_switcher.py
+
+Purpose:
+Automatically flips hemisphere upon drift detection:
+
+Monitors llm_output_resolver results
+
+Logs drift events and switches hemisphere using HemisphereManager
+
+Writes output to memory/snapshots/drift_switch_log.json
+
+----------------------------------------------------------------------------------
+
+📁 scripts/test_llm_interaction.py
+
+Purpose:
+Command-line simulation of LLM interaction:
+
+Takes user input
+
+Routes through LLM resolver
+
+Displays output from both hemispheres
+
+Automatically responds or blocks response based on drift
+
+----------------------------------------------------------------------------------------
+
+📁 scripts/color_token_input_feeder.py
+
+Purpose:
+Manually feed individual sentences into either hemisphere:
+
+Prompts for sentence and target hemisphere
+
+Converts to word-position tokens (e.g. sky_1, fall_2)
+
+Appends to token JSON set
+
+-------------------------------------------------------------------------------------------
+
+📁 scripts/feed_text_to_tokens.py
+
+Purpose:
+Tokenizes .txt files into structured memory format:
+
+Accepts book, paragraph, or sentence input
+
+Converts into token lists and stores in hemisphere token sets
+
+Simulates long-form reading and memory ingestion
+
+--------------------------------------------------------------------------------------------
+
+📁 scripts/hash_token_memory.py
+
+Purpose:
+Hashes memory blocks for AI-Core recall tracking:
+
+Breaks tokens into fixed blocks (e.g. 10)
+
+Hashes each block with SHA256
+
+Appends timestamped memory hashes to memory/snapshots/token_hash_log.json
+
+--------------------------------------------------------------------------------------------
+
+📁 scripts/token_size_reporter.py
+
+Purpose:
+Reports current memory state and size usage:
+
+Counts tokens in left/right sets
+
+Counts hashes in memory log
+
+Displays total memory size in KB
+
+Used to track token growth and compression efficiency
+
+--------------------------------------------------------------------------------------------------
