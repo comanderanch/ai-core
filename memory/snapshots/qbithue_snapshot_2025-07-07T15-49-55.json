@@ -132,7 +132,8 @@
   {
     "token_id": 13,
     "hue_state": "WHITE",
-    "resonance": 0.5,
+    "resonance": 0.625,
+    "q_state": 1,
     "links": [
       11,
       16,

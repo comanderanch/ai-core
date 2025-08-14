@@ -2,7 +2,7 @@
   {
     "token_id": 0,
     "hue_state": "BLACK",
-    "resonance": 0.125,
+    "resonance": 0.0,
     "links": [
       7,
       9,
@@ -12,7 +12,7 @@
   {
     "token_id": 1,
     "hue_state": "WHITE",
-    "resonance": 0.075,
+    "resonance": 0.0,
     "links": [
       3,
       11,
@@ -22,7 +22,7 @@
   {
     "token_id": 2,
     "hue_state": "BLACK",
-    "resonance": 0.125,
+    "resonance": 0.0,
     "links": [
       14,
       1,
@@ -32,7 +32,7 @@
   {
     "token_id": 3,
     "hue_state": "WHITE",
-    "resonance": 0.2625,
+    "resonance": 0.0,
     "links": [
       19,
       12,
@@ -42,7 +42,7 @@
   {
     "token_id": 4,
     "hue_state": "GRAY",
-    "resonance": 0.1,
+    "resonance": 0.6,
     "links": [
       6,
       17,
@@ -52,7 +52,7 @@
   {
     "token_id": 5,
     "hue_state": "BLACK",
-    "resonance": 0.125,
+    "resonance": 0.0,
     "links": [
       8,
       0,
@@ -62,7 +62,7 @@
   {
     "token_id": 6,
     "hue_state": "WHITE",
-    "resonance": 0.012499999999999997,
+    "resonance": 1.0,
     "links": [
       7,
       15,
@@ -72,7 +72,7 @@
   {
     "token_id": 7,
     "hue_state": "GRAY",
-    "resonance": 0.475,
+    "resonance": 0.0,
     "links": [
       1,
       5,
@@ -82,7 +82,7 @@
   {
     "token_id": 8,
     "hue_state": "BLACK",
-    "resonance": 0.0625,
+    "resonance": 0.0,
     "links": [
       14,
       16,
@@ -92,7 +92,7 @@
   {
     "token_id": 9,
     "hue_state": "GRAY",
-    "resonance": 0.35,
+    "resonance": 0.0,
     "links": [
       13,
       11,
@@ -102,7 +102,7 @@
   {
     "token_id": 10,
     "hue_state": "GRAY",
-    "resonance": 0.225,
+    "resonance": 0.0,
     "links": [
       9,
       19,
@@ -112,7 +112,7 @@
   {
     "token_id": 11,
     "hue_state": "GRAY",
-    "resonance": 0.4125,
+    "resonance": 0.0,
     "links": [
       18,
       3,
@@ -122,7 +122,7 @@
   {
     "token_id": 12,
     "hue_state": "GRAY",
-    "resonance": 0.35,
+    "resonance": 0.0,
     "links": [
       9,
       19,
@@ -132,7 +132,7 @@
   {
     "token_id": 13,
     "hue_state": "WHITE",
-    "resonance": 0.45,
+    "resonance": 0.0,
     "links": [
       11,
       16,
@@ -142,7 +142,7 @@
   {
     "token_id": 14,
     "hue_state": "WHITE",
-    "resonance": 0.95,
+    "resonance": 0.0,
     "links": [
       15,
       10,
@@ -152,7 +152,7 @@
   {
     "token_id": 15,
     "hue_state": "GRAY",
-    "resonance": 0.225,
+    "resonance": 0.0,
     "links": [
       7,
       12,
@@ -162,7 +162,7 @@
   {
     "token_id": 16,
     "hue_state": "GRAY",
-    "resonance": 0.225,
+    "resonance": 0.0,
     "links": [
       13,
       3,
@@ -172,7 +172,7 @@
   {
     "token_id": 17,
     "hue_state": "WHITE",
-    "resonance": 0.1375,
+    "resonance": 0.0,
     "links": [
       3,
       2,
@@ -182,7 +182,7 @@
   {
     "token_id": 18,
     "hue_state": "GRAY",
-    "resonance": 0.2875,
+    "resonance": 0.0,
     "links": [
       18,
       11,
@@ -192,7 +192,7 @@
   {
     "token_id": 19,
     "hue_state": "BLACK",
-    "resonance": 0.1875,
+    "resonance": 0.0,
     "links": [
       2,
       12,

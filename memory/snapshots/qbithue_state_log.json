@@ -1,0 +1,7 @@
+{
+  "Preserve_Vital_Systems": {
+    "q_state": 1,
+    "resonance": 0.5,
+    "links": [1, 2, 3]
+  }
+}

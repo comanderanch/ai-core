@@ -2240,3 +2240,28 @@ Battery full! Pushed 100 energy into the pool. Pool energy: 800
 scripts/test_energy_nodes.py
 test with 
 python3 scripts/test_energy_nodes.py
+
+------------------------------------------------------------------------------
+08-14-2024
+
+## subconscious_dryrun.py
+Purpose: Inspect Qbithue network and list GRAY→WHITE reflex arcs (resonance>0) without writing files.
+
+### Inputs (read-only)
+- memory/qbithue_network.json (supports dict or list format)
+- memory/thread_binds/bind_map.json (optional)
+- memory/snapshots/qbithue_state_log.json (optional)
+
+### Output
+- JSON to stdout:
+  - counts: BLACK/GRAY/WHITE, total nodes, arc count
+  - resonance_sum
+  - arc_samples (up to 5)
+  - srt_samples (up to 5) summarizing node state and linkage
+- **No writes**, exit code 0 on success.
+
+### Run
+python3 scripts/subconscious_dryrun.py \
+  --network memory/qbithue_network.json \
+  --binds memory/thread_binds/bind_map.json \
+  --snapshots memory/snapshots/qbithue_state_log.json
