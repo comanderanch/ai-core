@@ -28,7 +28,7 @@ def get_file_size_kb(path):
     return os.path.getsize(path) / 1024
 
 # === Report Generator ===
-def report():
+def report_token_memory_size():
     left_tokens = count_tokens(LEFT_PATH)
     right_tokens = count_tokens(RIGHT_PATH)
     hash_blocks = count_hashes(HASH_PATH)
@@ -46,5 +46,6 @@ def report():
     print(f"Total Token Count: {left_tokens + right_tokens}")
     print(f"Approx Memory Use: {size_left + size_right + size_hash:.2f} KB\n")
 
+# Optional direct run
 if __name__ == "__main__":
-    report()
+    report_token_memory_size()
