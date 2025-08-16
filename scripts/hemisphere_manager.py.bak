@@ -1,0 +1,57 @@
+# hemisphere_manager.py
+# Phase 38.1 – Manages left/right hemisphere token sets for AI-Core
+
+import json
+from pathlib import Path
+
+class HemisphereManager:
+    def __init__(self,
+                 left_path=Path("tokenizer/token_set_left.json"),
+                 right_path=Path("tokenizer/token_set_right.json")):
+
+        self.paths = {
+            "left": left_path,
+            "right": right_path
+        }
+        self.active = "left"
+        self.token_sets = {
+            "left": self._load_tokens(left_path),
+            "right": self._load_tokens(right_path)
+        }
+
+        self.tokens = {
+        "left": [],
+        "right": []
+        }
+
+    def _load_tokens(self, path):
+        if not path.exists():
+            raise FileNotFoundError(f"Token file missing: {path}")
+        with path.open("r") as f:
+            return json.load(f)
+
+    def get_active_tokens(self):
+        return self.token_sets[self.active]
+
+    def switch_hemisphere(self):
+        self.active = "right" if self.active == "left" else "left"
+        print(f"[⇄] Hemisphere switched. Now using: {self.active.upper()}")
+
+    def get_current_hemisphere(self):
+        return self.active
+
+    def get_all_tokens(self):
+        return {
+            "left": self.token_sets["left"],
+            "right": self.token_sets["right"]
+        }
+    def add_tokens(self, hemisphere: str, tokens: list):
+        if hemisphere not in self.tokens:
+           self.tokens[hemisphere] = []
+        self.tokens[hemisphere].extend(tokens)
+  
+
+if __name__ == "__main__":
+    manager = HemisphereManager()
+    print(f"[🧠] Active hemisphere: {manager.get_current_hemisphere()}")
+    print("[🔡] Token sample:", manager.get_active_tokens()[:5])
