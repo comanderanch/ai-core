@@ -1,17 +1,26 @@
-# ai-core
+# AI-Core: Token-Based Modular Intelligence System
 
-This project is the starting point for AI-Core.
+**AI-Core** is a custom full-stack framework for building tokenized intelligence systems from the ground up — bypassing transformer dependency and black-box embeddings.
 
-## Purpose
+This isn’t a typical LLM project.
 
-- Set up a clean, minimal project structure.
-- Initialize Git version control.
-- Push to the remote GitHub repository.
-- Begin with empty folders and placeholder `README.md` files.
+AI-Core operates through:
+- Color → Binary tokenization
+- Slot/Matrix address mapping
+- Q-layer state logic anchoring
+- Frequency-aligned memory binding
 
-No code or functionality has been added yet. This is the foundational setup only.
+Every component is auditable, modular, and designed to simulate self-evolving structure over time.
 
-# AI-Core: Custom Token-Based AI Framework
+> ⚠️ Some systems are intentionally not shown in this public repo.  
+> Due to token scale, memory slot expansion, and live testing across multiple dev machines, several builds are running in parallel in my private network.
+
+What’s visible here is just the **core** — the base spine.  
+The living system continues to evolve.
+
+---
+
+
 
 Welcome to the AI-Core project -  a full-stack custom AI architecture focused on tokenization through RGB, hue, frequency, and influence vectors.
 
