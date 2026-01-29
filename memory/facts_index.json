@@ -1,0 +1,1758 @@
+{
+  "done": [
+    {
+      "event": "ingested",
+      "filename": "1,001 Basic Math and Pre-Algebra Practice Problems For Dummies.pdf",
+      "sha256": "bf9e6a886a51a509cbe89f5cbcc76b55fade2495678048fa20030bfd31d474f9",
+      "ts": 1756154139
+    },
+    {
+      "event": "ingested",
+      "filename": "100 linux tips and tricks.pdf",
+      "sha256": "f58ee1d24b151f7c63b5548f044f6641ea3aaef5b0b42274c70d4fd5f9ce4369",
+      "ts": 1756155028
+    },
+    {
+      "event": "ingested",
+      "filename": "1000 Books To Read Before You Die - A Life Changing List.pdf",
+      "sha256": "47ec3b91ac1dd2befcb47ba0ddf589d82663d25373093d525f4ba390dd732a7a",
+      "ts": 1756155327
+    },
+    {
+      "event": "ingested",
+      "filename": "101 Do-it-yourself Projects.pdf",
+      "sha256": "556eb73ba3400fa575c0ec90063bfd6ab74b96345e75d048771c2bfe00855633",
+      "ts": 1756155648
+    },
+    {
+      "event": "ingested",
+      "filename": "11 DIY Christmas Decorations and Gift Ideas.pdf",
+      "sha256": "a197643b1bdaecd336da0f95a0c2f1f7ad4f160920dae24da93246b5cbefebb4",
+      "ts": 1756156140
+    },
+    {
+      "event": "ingested",
+      "filename": "110 Amazing Magic Tricks With Everyday Objects.pdf",
+      "sha256": "2eaeba94835c0fe3b7b66be13bb8ab1bdefdcc9efac6b902f2711da7b20546a8",
+      "ts": 1756156182
+    },
+    {
+      "event": "ingested",
+      "filename": "120 Banned Books, Censorship Histories of World Literature (2nd ed) - Karolides, Bald, Sova.pdf",
+      "sha256": "2d2b79412cbfc13287313b1deeb8c56eef7c7f508401f08ea375c9e2b079ec46",
+      "ts": 1756157204
+    },
+    {
+      "event": "ingested",
+      "filename": "23 Mini-Makeovers - Simple DIY Projects for Your Home - Milligan Charity, Hollowood Amber..pdf",
+      "sha256": "7ecab47ae0a987d07f2eacfbc8989566e40f3f965793c43ce2a2393564e219e1",
+      "ts": 1756157299
+    },
+    {
+      "event": "ingested",
+      "filename": "270 Mini Electronics Project with Circuit Diagram (Book 23) - v23 - Unknown.pdf",
+      "sha256": "724f342b068925f896dca37699fbfa3011ebcb0c5b6d227faf1921a429681c69",
+      "ts": 1756157441
+    },
+    {
+      "event": "ingested",
+      "filename": "30 Arduino Projects for the Evil Genius.pdf",
+      "sha256": "16e9a861063d386ff49e07ff717fba27105337bc5543e038a1950508a0117a08",
+      "ts": 1756157740
+    },
+    {
+      "event": "ingested",
+      "filename": "344 Questions - The Creative Person's Do-It-Yourself Guide to Insight, Survival, and Artistic Fulfillment.pdf",
+      "sha256": "762ca0bd983eb9913b61579d5aae07c328dbf8cd515c1b3fc60044af7bb80a49",
+      "ts": 1756157896
+    },
+    {
+      "event": "ingested",
+      "filename": "A Beginner's Guide to Mathematical Logic.pdf",
+      "sha256": "e03d193dfc39dde6b22fdf3d6296a8a7cbd395ebdf1842bffd448c0678e06d49",
+      "ts": 1756158040
+    },
+    {
+      "event": "ingested",
+      "filename": "A Comparative Analysis of Methods of Defense against Buffer Overflow Attacks.pdf",
+      "sha256": "01eb8c5f4d3fda26ec9e3e5eeae31fa09e7987f38973fd25ea93644594ae4227",
+      "ts": 1756158340
+    },
+    {
+      "event": "ingested",
+      "filename": "A DIY Guide to Telemedicine for Clinicians.pdf",
+      "sha256": "b9c8ee2a3993b90c83f24c4a523dea9202eeb452b3d231a9e3e0d2a629a72948",
+      "ts": 1756158640
+    },
+    {
+      "event": "ingested",
+      "filename": "A Field Guide to the Planets.pdf",
+      "sha256": "e51657578d20004298bc100911018702b65ce5693c6b59084a819821d723e14a",
+      "ts": 1756158941
+    },
+    {
+      "event": "ingested",
+      "filename": "A Guide to battery Charging.pdf",
+      "sha256": "d4ef6f4fc8c5456bdc864be72a830c6d3c6f7c552b14726459c4d6883179c27d",
+      "ts": 1756159241
+    },
+    {
+      "event": "ingested",
+      "filename": "A History of India.pdf",
+      "sha256": "23efe4694c71f38ed3cbba394a7aed103d8318b6a2559193db9a22970465f060",
+      "ts": 1756159541
+    },
+    {
+      "event": "ingested",
+      "filename": "A Little Bit about Buffer Overflows.pdf",
+      "sha256": "b5618dc26630a9abddbd11c2fd3d6f6f2d8cfd55fe3effe229c432cb185adc2b",
+      "added_lines": 15,
+      "ts": 1756163226
+    },
+    {
+      "event": "ingested",
+      "filename": "A Mind for Numbers - How to Excel at Math and Science.pdf",
+      "sha256": "cf5d48d5733c0cfde2dbf6dc4d4d8134b8a25541fda8c9d552843fc19e28517f",
+      "added_lines": 30,
+      "ts": 1756169253
+    },
+    {
+      "event": "ingested",
+      "filename": "A. Carsetti - Causality, Meaningful Complexity and Embodied Cognition.pdf",
+      "sha256": "af7e6784b9e9a5dded742fd3b0a90679cec45c9352e9f4a419525bfe4ef4c123",
+      "added_lines": 30,
+      "ts": 1756169408
+    },
+    {
+      "event": "ingested",
+      "filename": "A..Roterberg.-.Later.Day.Tricks.pdf",
+      "sha256": "fcc77b415c67341832c0f860c037586503029cf45a239f5277d917d9ffdac9e2",
+      "added_lines": 30,
+      "ts": 1756169707
+    },
+    {
+      "event": "ingested",
+      "filename": "AC-DC 110V to 12V LM317 Buck Voltage Converter DIY Kit.pdf",
+      "sha256": "65f74dbe05b144361cfe59eec3a4548a2befc0d92804ca34cef0e9b8ac60c63f",
+      "added_lines": 20,
+      "ts": 1756170007
+    },
+    {
+      "event": "ingested",
+      "filename": "AC_Electrical_Generators_ASOPE.pdf",
+      "sha256": "75c6759f456098d34607d488f8a22c9bd095da385cb8f16c25e0b9fc7ab96728",
+      "added_lines": 30,
+      "ts": 1756170307
+    },
+    {
+      "event": "ingested",
+      "filename": "AJAX and PHP, 2nd Edition - Build user friendly Web 2.0 Applications with JavaScript and PHP.pdf",
+      "sha256": "26809f34d96b01122a01033d9cab30b502bd351aae06ef9c3b7cbc0bfd9fc730",
+      "added_lines": 30,
+      "ts": 1756170608
+    },
+    {
+      "event": "ingested",
+      "filename": "ARM Architecture Reference Manual 2nd ed Addison Wesley 2000.pdf",
+      "sha256": "fa405a69d371c533f91aab331c8265c1d50ad0f5fe856f232f3a05f93f687114",
+      "added_lines": 30,
+      "ts": 1756170909
+    },
+    {
+      "event": "ingested",
+      "filename": "Abortion Cognitive Dissonance.pdf",
+      "sha256": "4d4a744edb062ef266edeadf40994442675b493354726d4140a12f18b8952081",
+      "added_lines": 30,
+      "ts": 1756171212
+    },
+    {
+      "event": "ingested",
+      "filename": "Achim Zielesny - From Curve Fitting to Machine Learning.pdf",
+      "sha256": "0ea8684913cc0f41cfcb319e3b041389132c9c0cb4fe4d4cc37ae35564d063cd",
+      "added_lines": 30,
+      "ts": 1756185402
+    },
+    {
+      "event": "ingested",
+      "filename": "Adaptive_Control_Systems.pdf",
+      "sha256": "12bf1561b8176b174d0d5fdac75e3023c73850bc0e119ccd4978d2dc61738308",
+      "added_lines": 30,
+      "ts": 1756185658
+    },
+    {
+      "event": "ingested",
+      "filename": "Addiction & Recovery For Dummies, 2nd Edition.pdf",
+      "sha256": "b82b514a57257d698219087944944340ee4520c2a99c49268ace7fbd95ca4c75",
+      "added_lines": 30,
+      "ts": 1756185957
+    },
+    {
+      "event": "ingested",
+      "filename": "Adobe Integrated Runtime (AIR) for JavaScript Developers Pocket Guide (Adobe Developer Library).pdf",
+      "sha256": "1e8af44c168048bdf3c50d6678008dd98fe8f629dab8c748158eac7f302a4186",
+      "added_lines": 30,
+      "ts": 1756186256
+    },
+    {
+      "event": "ingested",
+      "filename": "Adobe Photoshop 2023 User Guide by Golden MCpherson.pdf",
+      "sha256": "ec6292e4fc4c08ddc36021db3cdca088765b7c96e04d8f54a525de69064a7631",
+      "added_lines": 30,
+      "ts": 1756186557
+    },
+    {
+      "event": "ingested",
+      "filename": "Adobe Photoshop 2023 by Golden MCpherson.pdf",
+      "sha256": "cc727b8158e35bc00b91da295e4202e8948fab91cd937d6f49d056e0e095382f",
+      "added_lines": 30,
+      "ts": 1756186857
+    },
+    {
+      "event": "ingested",
+      "filename": "Adriano A. G. Siqueira, Marco H. Terra, Marcel Bergerman - Robust Control of Robots.pdf",
+      "sha256": "595e7b8e72f6e0a1944748846f38a256453a9fdaaa2c321afb9fe9817d45231c",
+      "added_lines": 30,
+      "ts": 1756187158
+    },
+    {
+      "event": "ingested",
+      "filename": "Adulting For Dummies.pdf",
+      "sha256": "1c919d64673185b6ec5bd560ca7833d74b0e3378ab2666ca42aaeba65aa188f7",
+      "added_lines": 30,
+      "ts": 1756187458
+    },
+    {
+      "event": "ingested",
+      "filename": "Advance Cyber Security by Manmohan Singh.pdf",
+      "sha256": "24a0cd5268c323df2d98439b7ab986ecd6d79691e85a926c09820dcdd0e8c1cf",
+      "added_lines": 30,
+      "ts": 1756187758
+    },
+    {
+      "event": "ingested",
+      "filename": "Advanced Bash Shell Scripting Gude.pdf",
+      "sha256": "9ad98809bb46f84716d98c3bc14b483664eae92e16d1beb0045bf61a6a7cd0b0",
+      "added_lines": 30,
+      "ts": 1756188058
+    },
+    {
+      "event": "ingested",
+      "filename": "Advanced Game Design with HTML5 and JavaScript.pdf",
+      "sha256": "7f0beddceac924172df6e7f7d37552452e72d00645e3666de405d5616dfe3950",
+      "added_lines": 30,
+      "ts": 1756188357
+    },
+    {
+      "event": "ingested",
+      "filename": "Advanced Investments.pdf",
+      "sha256": "f2f0b6cb2d824c4f9678f333c5acac421b3923419b75d39d80a24d89a0b8b974",
+      "added_lines": 30,
+      "ts": 1756188657
+    },
+    {
+      "event": "ingested",
+      "filename": "Advanced SQL Injection In SQL Server Applications.pdf",
+      "sha256": "9a2d19f808f46b5a134aa5e51db7251a877221d0b62f28ec5afe84ed7b16beb6",
+      "added_lines": 30,
+      "ts": 1756188956
+    },
+    {
+      "event": "ingested",
+      "filename": "Advanced Wireless Networks - 4G Technologies.pdf",
+      "sha256": "fcc7b279972b5b322d55fa509ed3bf43aedf7e427d4dd604cbcff36989cae915",
+      "added_lines": 30,
+      "ts": 1756189262
+    },
+    {
+      "event": "ingested",
+      "filename": "Ajit Kumar Verma, Srividya Ajit, Manoj Kumar - Dependability of Networked Computer-based Systems.pdf",
+      "sha256": "c1907e965e19415feee2230fd8c0f15ae6c4ea1dc380df66cba287bf93c0287b",
+      "added_lines": 30,
+      "ts": 1756189557
+    },
+    {
+      "event": "ingested",
+      "filename": "Al.Baker.&.Co..-.Our.Mysteries.pdf",
+      "sha256": "766007b09144c30f24b848747bbdab3171ffcb8cf1751a5bcc83a92c11f69564",
+      "added_lines": 30,
+      "ts": 1756189856
+    },
+    {
+      "event": "ingested",
+      "filename": "Alain Bernard - Global Product Development.pdf",
+      "sha256": "32247b11c102a8417a6ce2a57fbc54e4db86ec0981e269877f8b66349718b19e",
+      "added_lines": 30,
+      "ts": 1756190159
+    },
+    {
+      "event": "ingested",
+      "filename": "Alan Lacer\u2019s Woodturning Projects & Techniques.pdf",
+      "sha256": "cf72e9da2a13e79eb6bbc4004692cd87d05f00be12a45ecc952a93c797a632ef",
+      "added_lines": 30,
+      "ts": 1756190458
+    },
+    {
+      "event": "ingested",
+      "filename": "Alessandro Soro, Eloisa Vargiu, Giuliano Armano, Gavino Paddeu - Information Retrieval and Mining in Distributed Environments.pdf",
+      "sha256": "af23506e87f5248f81cf507f000d580967e2e7acc062db538432d5729515cc4a",
+      "added_lines": 30,
+      "ts": 1756190757
+    },
+    {
+      "event": "ingested",
+      "filename": "Alex Doboli, Edward H. Currie - Introduction to Mixed-Signal, Embedded Design.pdf",
+      "sha256": "987f869c32a64efb471fe47964672dc528efe7a1314713cfdeae9f04b42d5a06",
+      "added_lines": 30,
+      "ts": 1756191060
+    },
+    {
+      "event": "ingested",
+      "filename": "Alexander Biedermann, H. Gregor Molter - Design Methodologies for Secure Embedded Systems.pdf",
+      "sha256": "91d2e03268f56f641f6212770d7710fdea72d924bfa490d72ab0e4ea76e4cba4",
+      "added_lines": 30,
+      "ts": 1756191357
+    },
+    {
+      "event": "ingested",
+      "filename": "Alexander Clemm, Ralf Wolter - Advances in Network-Embedded Management and Applications.pdf",
+      "sha256": "095ec21101d00a23221e9a5022a2fff77be2ff788dc45546c35f16814325b3b2",
+      "added_lines": 30,
+      "ts": 1756191656
+    },
+    {
+      "event": "ingested",
+      "filename": "Alexander Gegov - Fuzzy Networks for Complex Systems.pdf",
+      "sha256": "a4eb9c103bb5c8e7d12cf3f045976940848d44782d0a969b251670cfead212a1",
+      "added_lines": 30,
+      "ts": 1756191957
+    },
+    {
+      "event": "ingested",
+      "filename": "Alexander Schlaefer, Ole Blaurock - Robotic Sailing.pdf",
+      "sha256": "4c5b22872ebd73b656ac9b73c1c4ce6b1be96403bc041941b3f1d176d021e08c",
+      "added_lines": 30,
+      "ts": 1756192257
+    },
+    {
+      "event": "ingested",
+      "filename": "Alexander the Great and the Macedonian Empire.pdf",
+      "sha256": "e75a9d04ec7ffca05a219fad7d1dbaa16693047c4158dbccd23c7f2ad03e625a",
+      "added_lines": 30,
+      "ts": 1756192557
+    },
+    {
+      "event": "ingested",
+      "filename": "Alexiei Dingli - Knowledge Annotation_ Making Implicit Knowledge Explicit.pdf",
+      "sha256": "c4283f5981c73e1bc1005949bffbe61c7494f7b173e7963f9c41b348f607f54c",
+      "added_lines": 30,
+      "ts": 1756192857
+    },
+    {
+      "event": "ingested",
+      "filename": "All the Math You'll Ever Need - A Self-Teaching Guide.pdf",
+      "sha256": "0f97fe2ddf47ce40202b7b9419db6d011e38ed348d1a911c5a53aac0a176adb8",
+      "added_lines": 30,
+      "ts": 1756193157
+    },
+    {
+      "event": "ingested",
+      "filename": "Alsabbagh M. Build Your Own Robot. Using Python,...Raspberry Pi (MEAP v2) 2023.pdf",
+      "sha256": "6ada37896d0dbe58b909e5b3a50720978687952b2f9dd76411a669c18e6d4a81",
+      "added_lines": 30,
+      "ts": 1756193457
+    },
+    {
+      "event": "ingested",
+      "filename": "Alternate Data Streams in NTFS.pdf",
+      "sha256": "42897dcaf03edf882d5907ad194b49d4235d7f15e35b08ed9483635df6e41717",
+      "added_lines": 15,
+      "ts": 1756193756
+    },
+    {
+      "event": "ingested",
+      "filename": "Amar Mitiche, Ismail Ben Ayed - Variational and Level Set Methods in Image Segmentation.pdf",
+      "sha256": "33d3659adc573cd1b3d67dfecc5b31f023e97b398b012b79b0dc17ecf98d051b",
+      "added_lines": 30,
+      "ts": 1756194056
+    },
+    {
+      "event": "ingested",
+      "filename": "Amazon.com For Dummies.pdf",
+      "sha256": "3ff9c5d06c42f36915529e93e3b6e15e00e44e317cf2b57430c2e64e1e15e714",
+      "added_lines": 30,
+      "ts": 1756194358
+    },
+    {
+      "event": "ingested",
+      "filename": "An introduction to HTML and JavaScript for scientists and engineers.pdf",
+      "sha256": "c31cf9ed0cc265929b87ea94f0e0f9e7cfe660619ab8a0288a0d67f2167ff5dc",
+      "added_lines": 30,
+      "ts": 1756204936
+    },
+    {
+      "event": "ingested",
+      "filename": "Ana Madureira, Judite Ferreira, Zita Vale - Computational Intelligence for Engineering Systems.pdf",
+      "sha256": "825c1a1ba160a513347be6e71093fe32d3d71ee2eeffec6f3e0bf0e93fa51d53",
+      "added_lines": 30,
+      "ts": 1756205714
+    },
+    {
+      "event": "ingested",
+      "filename": "Analog Circuits Cookbook 2nd ed I Hickman 1999.pdf",
+      "sha256": "3e2d8c405ab3a51737417e2edb325399c478a4dd616df0d8de1bf628012006b7",
+      "added_lines": 30,
+      "ts": 1756206014
+    },
+    {
+      "event": "ingested",
+      "filename": "Analog_Interfacing_to_Embedded_Microprocessors.pdf",
+      "sha256": "831df5cf81c9e2a273c8d4db4f65d4aa7b509591132aea36dc96d68e1be16587",
+      "added_lines": 30,
+      "ts": 1756206314
+    },
+    {
+      "event": "ingested",
+      "filename": "Analysis of a Telnet Session Hijack via Spoofed MAC Addresses.pdf",
+      "sha256": "b75de2ed0ff129adedc917009187c2cac8452315aabc9bd68d688347474b4931",
+      "added_lines": 14,
+      "ts": 1756206612
+    },
+    {
+      "event": "ingested",
+      "filename": "Andre van Bezooijen, Reza Mahmoudi, Arthur van Roermund - Adaptive RF Front-Ends for Hand-held Applications.pdf",
+      "sha256": "1b612dbc9365742ebdc274bf127233b7f848da1dcdecbe2dae8c2eac919ed2fb",
+      "added_lines": 30,
+      "ts": 1756207214
+    },
+    {
+      "event": "ingested",
+      "filename": "Andreas Hansson, Kees Goossens - On-Chip Interconnect with aelite.pdf",
+      "sha256": "fcf91815ec413f84f243248bbe90d0a2859ec18aaa5276bc5fe5f89057dd644f",
+      "added_lines": 30,
+      "ts": 1756207515
+    },
+    {
+      "event": "ingested",
+      "filename": "Andreas Rauh, Ekaterina Auer - Modeling, Design, and Simulation of Systems with Uncertainties.pdf",
+      "sha256": "89f13cfc6d32d7efdf483bb37270f03a5ff8ae67e968ebd2305edc936d8caeba",
+      "added_lines": 30,
+      "ts": 1756207815
+    },
+    {
+      "event": "ingested",
+      "filename": "Andreas Tolk, Lakhmi C. Jain - Intelligence-Based Systems Engineering.pdf",
+      "sha256": "1066b32c0b4834ea4438267bbcd95f726ba93536485a936d1eea296ee5deed5b",
+      "added_lines": 30,
+      "ts": 1756208115
+    },
+    {
+      "event": "ingested",
+      "filename": "Andrei Alexandrescu - Modern C++ Design.pdf",
+      "sha256": "49893002467393e53cdc353f63e05be889be5a3a0ec2b0b77d9b60aae42f6a71",
+      "added_lines": 30,
+      "ts": 1756208414
+    },
+    {
+      "event": "ingested",
+      "filename": "Andrew B. Kahng, Jens Lienig, Igor L. Markov, Jin Hu - VLSI Physical Design_ From Graph Partitioning to Timing Closure.pdf",
+      "sha256": "bd7312e9b05e14086ea9ebccd6ec545bdb277206f2b22b1ae406220542746052",
+      "added_lines": 30,
+      "ts": 1756208715
+    },
+    {
+      "event": "ingested",
+      "filename": "Andrew Hunt & David Thomas - Pragmatic Programmer.pdf",
+      "sha256": "b43ca7abddb1ec615fe2ea5f8ea26a5b468e44d7a43d423035bcbc4ce79f607b",
+      "added_lines": 30,
+      "ts": 1756209014
+    },
+    {
+      "event": "ingested",
+      "filename": "Andrew Wheen - Dot-Dash to Dot.Com.pdf",
+      "sha256": "2d8fcbd1f945c9cb395d0d9bcfd471c5d3affe72be15af210ccf7d15b9614acb",
+      "added_lines": 30,
+      "ts": 1756209915
+    },
+    {
+      "event": "ingested",
+      "filename": "Ann Britt Skjerve, Andreas Bye - Simulator-based Human Factors Studies Across 25 Years.pdf",
+      "sha256": "0457e77745322f138ce4921c10f36229811071c584f5e06f826d489dfe93b23b",
+      "added_lines": 30,
+      "ts": 1756210215
+    },
+    {
+      "event": "ingested",
+      "filename": "Annalisa Bonfiglio, Danilo De Rossi - Wearable Monitoring Systems.pdf",
+      "sha256": "9d5b74cbe07fc27bf1c2e0131160af1962d34e6c059f5dcc3b55250297811cb5",
+      "added_lines": 30,
+      "ts": 1756210514
+    },
+    {
+      "event": "ingested",
+      "filename": "Anonymous.-.Magic.Tricks.for.the.Beginning.Magician.pdf",
+      "sha256": "8c5904d30eec8ae040a3b62428efab827c57da75ff34c61b91946b17c8cc92be",
+      "added_lines": 25,
+      "ts": 1756210813
+    },
+    {
+      "event": "ingested",
+      "filename": "Antenna Engineering Handbook 4th Edition.pdf",
+      "sha256": "7fc342427fce37f237a0776431ba093753947deac7f9624bc400e19ea4bad7c5",
+      "added_lines": 30,
+      "ts": 1756211122
+    },
+    {
+      "event": "ingested",
+      "filename": "Antenna_Toolkit_2E.pdf",
+      "sha256": "9436f2b3ec885cc498fa0a3fa39969ddd993450cd971653181515495681eb9ff",
+      "added_lines": 30,
+      "ts": 1756211414
+    },
+    {
+      "event": "ingested",
+      "filename": "Antonino Freno, Edmondo Trentin - Hybrid Random Fields.pdf",
+      "sha256": "a7f3b7d89f8a66a3d89b4e8517033eaaf1dec9b4a8986d771e05e3f7dd3b4075",
+      "added_lines": 30,
+      "ts": 1756211715
+    },
+    {
+      "event": "ingested",
+      "filename": "Antonio Liotta, George Exarchakos - Networks for Pervasive Services.pdf",
+      "sha256": "6d276dbbe4bf9ccd113bb82771225c4b41b5b47b9c97890849c12551bfbe2f1f",
+      "added_lines": 30,
+      "ts": 1756212014
+    },
+    {
+      "event": "ingested",
+      "filename": "Antony Polukhin - Boost C++ Application Development Cookbook.pdf",
+      "sha256": "6342513c423624165deaaea8f9edf2a26f87bd1aa67270c714b3c14006c0afb2",
+      "added_lines": 30,
+      "ts": 1756212314
+    },
+    {
+      "event": "ingested",
+      "filename": "Anxiety For Dummies.pdf",
+      "sha256": "5c8233ffc147abe78376e5538467f58fc445f45dbedbb2bc9b77cabe49797da4",
+      "added_lines": 30,
+      "ts": 1756212614
+    },
+    {
+      "event": "ingested",
+      "filename": "Apache Server 2 Bible.pdf",
+      "sha256": "e1ae8b3f8e0c70b7b3b36c3e557c024125dc4dc0decb92636de89d507f5f002b",
+      "added_lines": 30,
+      "ts": 1756212918
+    },
+    {
+      "event": "ingested",
+      "filename": "Apple One For Dummies.pdf",
+      "sha256": "6171ea3677d6a9dac84f035fe13ab61bec29f386738e8567851e3b4dfddb7787",
+      "added_lines": 30,
+      "ts": 1756213214
+    },
+    {
+      "event": "ingested",
+      "filename": "Apple Watch For Dummies, 2022 Edition.pdf",
+      "sha256": "0b599527f3143bead689116a69a4f8e2e68d9ca20fafa926802e4f2c9db917a4",
+      "added_lines": 30,
+      "ts": 1756213514
+    },
+    {
+      "event": "ingested",
+      "filename": "Applications_of_Nonlinear_Fiber_Optics.pdf",
+      "sha256": "de0364a8bcbea7f89cb37b67c48f34fdc95687e047bb69a1205a986836f9d3a1",
+      "added_lines": 30,
+      "ts": 1756213816
+    },
+    {
+      "event": "ingested",
+      "filename": "Applied Microsoft .Net Framework Programming.pdf",
+      "sha256": "b4e61954adc8f2bbb4a8e52cab0043a0e4d19f741cceb4832739ad140f5189fd",
+      "added_lines": 30,
+      "ts": 1756214114
+    },
+    {
+      "event": "ingested",
+      "filename": "Apress - Arduino and Kinect Projects 2012 RETAiL eBOOk-rebOOk.pdf",
+      "sha256": "1abab56d4962ef0b3f24b1820b6d07d4e3d4ae96025bfabbcb3c20de7a7d5ed4",
+      "added_lines": 30,
+      "ts": 1756216816
+    },
+    {
+      "event": "ingested",
+      "filename": "Apress Arduino Adventures 2013 Retail eBook-BitBook.pdf",
+      "sha256": "f3d1aa7a5ec630537b70cda605c1719bf4452dcbb83bdba49252df83b59404c8",
+      "added_lines": 30,
+      "ts": 1756217112
+    },
+    {
+      "event": "ingested",
+      "filename": "Arabic for Dummies, 3rd Edition.pdf",
+      "sha256": "c77e03c5124333f4bebbe84102e617265efee361f5b97943a14fd7cb7ef53c07",
+      "added_lines": 30,
+      "ts": 1756217412
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino - A Quick Start Guide Quick Start Guide.pdf",
+      "sha256": "e1c4c234d51f28079dbced9ad11c5b762b24fa3e29e9d1abe28c9377068b3aca",
+      "added_lines": 30,
+      "ts": 1756217712
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino - A Technical Reference - A Handbook for Technicians, Engineers, and Makers.pdf",
+      "sha256": "fd5379db0ecf9a3a5c5607ddf685ef8dcbb9bf3b97d87e27043062d90aaef684",
+      "added_lines": 30,
+      "ts": 1756218018
+    },
+    {
+      "event": "ingested",
+      "filename": "A Science of Mindfulness.pdf",
+      "sha256": "11830facdf6d155ccc01c0b42c93b836aef4f7d4d0a6fc13c98fec9261c8c587",
+      "added_lines": 30,
+      "ts": 1756219239
+    },
+    {
+      "event": "ingested",
+      "filename": "A Shot in the Dark - A Creative DIY Guide to Digital Video Lighting on (Almost) No Budget.pdf",
+      "sha256": "115f79b49e7c650d6e7294fbf2cdbbb3903bb07645616e8bfae3d2ca931029ba",
+      "added_lines": 30,
+      "ts": 1756219539
+    },
+    {
+      "event": "ingested",
+      "filename": "A Smarter Way to Learn HTML & CSS Learn it faster. Remember it longer by Mark Myers.pdf",
+      "sha256": "7fc76cd16f993c2eece4eadd90192b566474b2b0e3d6e510c2c8df33c968abdf",
+      "added_lines": 30,
+      "ts": 1756219839
+    },
+    {
+      "event": "ingested",
+      "filename": "A Smarter Way to Learn JavaScript - The new approach that uses technology to cut your effort in half.pdf",
+      "sha256": "bea3ecc7b003c985a5617b9bce858db9e1a28cb847dcbecb9ec8195af7238d39",
+      "added_lines": 30,
+      "ts": 1756220138
+    },
+    {
+      "event": "ingested",
+      "filename": "AXIAL_FLUX_HowItWorks.pdf",
+      "sha256": "72ac0aa137e4a057899855a089f3ef36aa2a7c54c8050f6472578b1c688b700f",
+      "added_lines": 24,
+      "ts": 1756220438
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino Cookbook.pdf",
+      "sha256": "466114206270bddcb158b8a7a27feb71e39816899578d60efc18afc8affd2396",
+      "added_lines": 30,
+      "ts": 1756220743
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino Internals 2.pdf",
+      "sha256": "e26b6a0551bf7621e98e66ea69b3c81bf8dddeed2e88535232701a54a8f69419",
+      "added_lines": 30,
+      "ts": 1756221041
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino Lab 1.pdf",
+      "sha256": "9901cdf4516b6fcb4a40fe6fbb7270ae3b4ee824ecc99e8baadbe89c36f6ccd7",
+      "added_lines": 9,
+      "ts": 1756221339
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino Projects For Dummies - Brock Craft.pdf",
+      "sha256": "926276253f4ccd94c939155538268dc5733c5e9a6e87b6739af5b7986308c634",
+      "added_lines": 30,
+      "ts": 1756221939
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino Robotics.pdf",
+      "sha256": "3b609e7227db3af7ebdcf5f4ccf5f4120fbe9f845d5490d973a33f9aef9dd0c0",
+      "added_lines": 30,
+      "ts": 1756222241
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino Wearables-2010kaiser.pdf",
+      "sha256": "b8a7f11a6a37e91d33b747decd5b56228787dd81785e7fc235b2c3002d037798",
+      "added_lines": 30,
+      "ts": 1756222539
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino Workshop.pdf",
+      "sha256": "9d7c702988ad0f1b01c3239bff95ec2bb18ac5baf7451a4fe31872c5a580cc24",
+      "added_lines": 30,
+      "ts": 1756222839
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino in Action.pdf",
+      "sha256": "594f153eeb0f31e4f76944770bf186b674b27b4ee8c44dd4a4a9a137808d3d41",
+      "added_lines": 30,
+      "ts": 1756223140
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino projects to save the world.pdf",
+      "sha256": "ddd9e5ac6b28ee77349fda9cbe0b9af07fa7ea0add30443550dc605daa5a2107",
+      "added_lines": 30,
+      "ts": 1756223440
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino_Massimo.pdf",
+      "sha256": "13d600ce55b6f79e7fe5a0e9b76d26941dbb9872fb6d274b68242cfc0ddac439",
+      "added_lines": 30,
+      "ts": 1756224938
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino_Starter_Kit_Manual-Mar2010.pdf",
+      "sha256": "c1e1d0403405a6e1b4673085257fdac5a498bcbf0e764b152f4c5bb41f405b12",
+      "added_lines": 30,
+      "ts": 1756225239
+    },
+    {
+      "event": "ingested",
+      "filename": "Arduino_workshop_sensors.pdf",
+      "sha256": "4326ca67993705507270489cfb8e5020d7e052128e7248747f6f555fed526915",
+      "added_lines": 28,
+      "ts": 1756225539
+    },
+    {
+      "event": "ingested",
+      "filename": "Arie Karniel, Yoram Reich - Managing the Dynamics of New Product Development Processes.pdf",
+      "sha256": "d3cf864b5cfb43a18c55c6b25e04b162438161165a33a66668cc9ab7557b7260",
+      "added_lines": 30,
+      "ts": 1756225839
+    },
+    {
+      "event": "ingested",
+      "filename": "Arne Schuldt - Multiagent Coordination Enabling Autonomous Logistics.pdf",
+      "sha256": "88ab3e2f9e2e632a8f8682624fbfe6030fa8b44ac2b64f51f1aec65b8284ed9a",
+      "added_lines": 30,
+      "ts": 1756226140
+    },
+    {
+      "event": "ingested",
+      "filename": "Art of Designing Embedded Systems (Book 38) - v38, The - Jack Ganssle.pdf",
+      "sha256": "a445cb54d416a8cf9acf286c4dff47b1d95f0493e10059738161b8ae4daa2455",
+      "added_lines": 30,
+      "ts": 1756226739
+    },
+    {
+      "event": "ingested",
+      "filename": "Art of Electronics (Book 15) - v15, The - Paul Horowitz & Winfield Hill.pdf",
+      "sha256": "dfe4e6d81f678ce5d692518ad2e6cd410570f45064bc72569ac62657229140b6",
+      "added_lines": 30,
+      "ts": 1756227347
+    },
+    {
+      "event": "ingested",
+      "filename": "Artificial Intelligence For Dummies, 2nd Edition.pdf",
+      "sha256": "65afebf67666416e5e99fc018ea9595bdf91c485aff9cdd2fc2fbea63127ae13",
+      "added_lines": 30,
+      "ts": 1756227641
+    },
+    {
+      "event": "ingested",
+      "filename": "Athena Vakali, Lakhmi C. Jain - New Directions in Web Data Management 1.pdf",
+      "sha256": "34e8205cf5f9cd34f19bb409348a9090d57b9c021151215e37345771808b4b97",
+      "added_lines": 30,
+      "ts": 1756228240
+    },
+    {
+      "event": "ingested",
+      "filename": "Atmospheric Monitoring With Arduino V413HAV.pdf",
+      "sha256": "db523c66f84696bb5a668a493849b79736c1d449075ec2baa4fceb3a412e8a10",
+      "added_lines": 30,
+      "ts": 1756228539
+    },
+    {
+      "event": "ingested",
+      "filename": "Atomic-Scale Electronics Beyond CMOS.pdf",
+      "sha256": "dc00e656106bd8d176adc18700fa0c1f3d2b951eec87afa91f18c85533f7ebbc",
+      "added_lines": 30,
+      "ts": 1756228844
+    },
+    {
+      "event": "ingested",
+      "filename": "Australian Politics For Dummies, 2nd Edition.pdf",
+      "sha256": "7dde8bb802a6e50e604111425bfb763dac19d68090d921ec24d80cfb2b1dd238",
+      "added_lines": 30,
+      "ts": 1756229139
+    },
+    {
+      "event": "ingested",
+      "filename": "Automate The Boring Stuff With Python - Practical Programming For Total Beginners.pdf",
+      "sha256": "5ecd2cee12548fa8798f6216b1254d5ebb60ed8184ed739fd21a32eea68cbb0e",
+      "added_lines": 30,
+      "ts": 1756229442
+    },
+    {
+      "event": "ingested",
+      "filename": "Axial Flux Permanent Magnet Coreless Machine.pdf",
+      "sha256": "496207b6d2c409c2d3a42c8e92c8606cf1e79ca14099c500fcbbefaa9017d57d",
+      "added_lines": 30,
+      "ts": 1756229739
+    },
+    {
+      "event": "ingested",
+      "filename": "B.Carter, R.Mancini - Op Amps for Everyone - 2018.pdf",
+      "sha256": "4e6b79e9dd7ec6a24a155ae0695fc7f84d540cd0712559e4f9811f0d0388115a",
+      "added_lines": 30,
+      "ts": 1756230040
+    },
+    {
+      "event": "ingested",
+      "filename": "BDM. Linux For Beginners 14ed 2023.pdf",
+      "sha256": "957f487abbcbc3cdd8f0128e32666a10044049dc5c4e374dabe0e8184eb0d001",
+      "added_lines": 30,
+      "ts": 1756230341
+    },
+    {
+      "event": "ingested",
+      "filename": "Backup And Recovery.pdf",
+      "sha256": "fd445e1dbc551822352e53d28fbc749514b1cb7abfb71354843500e66fb06167",
+      "added_lines": 30,
+      "ts": 1756230639
+    },
+    {
+      "event": "ingested",
+      "filename": "Banned Books - The World's Most Controversial Books, Past and Present.pdf",
+      "sha256": "545675f1f977daf2bbffa22972de21bc1f038dce40fdd5eea559bd6407fa01e3",
+      "added_lines": 30,
+      "ts": 1756232139
+    },
+    {
+      "event": "ingested",
+      "filename": "Basic Arduino Projects - 26 Experiments with Microcontrollers and Electronics.pdf",
+      "sha256": "a4a536a4043d24f2f0ade0020675ca138b21c66e2af00b11d1b239e51da8ff54",
+      "added_lines": 30,
+      "ts": 1756232440
+    },
+    {
+      "event": "ingested",
+      "filename": "Basic Electrical Engineering.pdf",
+      "sha256": "b39b2d574fb52f0bd814b804f319af4b5e265b330f24d7d97ae30f03d5fc6c27",
+      "added_lines": 30,
+      "ts": 1756232742
+    },
+    {
+      "event": "ingested",
+      "filename": "Basic Electronics Engineering_ Including Laboratory Manual (Books 45) - v45 - Satya Sai Srikant & Prakash Kumar Chaturvedi.pdf",
+      "sha256": "94cfc265428a05fd7767bd413f26686c7eeed5b25e69c5228a3bae2951c9d093",
+      "added_lines": 30,
+      "ts": 1756233049
+    },
+    {
+      "event": "ingested",
+      "filename": "Basic Electronics and Project Manual.pdf",
+      "sha256": "014a932626c83e2aa947ed73cf50abcee64b6abf7e5ed9effd158cd8b7e5ad9c",
+      "added_lines": 30,
+      "ts": 1756233340
+    },
+    {
+      "event": "ingested",
+      "filename": "Basic Electronics.pdf",
+      "sha256": "156f78ebc3a2c8d0718db14e5eb73fd76eb883c36a5e5a32d56f12ab379f1459",
+      "added_lines": 30,
+      "ts": 1756233642
+    },
+    {
+      "event": "ingested",
+      "filename": "Basic Math and Pre-Algebra For Dummies .pdf",
+      "sha256": "bf9e6a886a51a509cbe89f5cbcc76b55fade2495678048fa20030bfd31d474f9",
+      "added_lines": 30,
+      "ts": 1756233940
+    },
+    {
+      "event": "ingested",
+      "filename": "Basic Math and Pre-Algebra Workbook For Dummies - Zegarelli, Mark.pdf",
+      "sha256": "d1f4f3394f68c36ac2ce26efd8b6d0ca313147014556a38781eedad6fcaa7360",
+      "added_lines": 30,
+      "ts": 1756234240
+    },
+    {
+      "event": "ingested",
+      "filename": "Battery_Reference_Book_3E.pdf",
+      "sha256": "cd8f4a0f2b921f19fa8b26e6fc64be98e1297a79c5ce74d00b71579443dfbf70",
+      "added_lines": 30,
+      "ts": 1756234541
+    },
+    {
+      "event": "ingested",
+      "filename": "Bearden - Final secret of free energy (1993).pdf",
+      "sha256": "05c8ec686f3e4266c95a4dbe31818e88fa01bd624da0789e947511195e243724",
+      "added_lines": 30,
+      "ts": 1756234838
+    },
+    {
+      "event": "ingested",
+      "filename": "Beating IT Risks.pdf",
+      "sha256": "b4ef4e2e19edcdb548d147639a16c713d33e40c2ad6a6c35dc7662fe2994eb25",
+      "added_lines": 30,
+      "ts": 1756235139
+    },
+    {
+      "event": "ingested",
+      "filename": "Becoming A Graphic And Digital Designer.pdf",
+      "sha256": "e07d6b8558c96d6fc79aaf2f8096ea09a5d5700481d8a874418a65b72d695b22",
+      "added_lines": 30,
+      "ts": 1756235441
+    },
+    {
+      "event": "ingested",
+      "filename": "Beej - Guide to Network Programming.pdf",
+      "sha256": "ccfce14424f812109f93ce0c670750e9a01041a86929b1aca8aad47440255011",
+      "added_lines": 30,
+      "ts": 1756236938
+    },
+    {
+      "event": "ingested",
+      "filename": "Beginners Guide To Drawing.pdf",
+      "sha256": "30ec9bd8b2652bf4760a34216d3f4fe1598a182ccdca8acace70f11f0b23538e",
+      "added_lines": 30,
+      "ts": 1756237238
+    },
+    {
+      "event": "ingested",
+      "filename": "Beginning Android ADK with Arduino.pdf",
+      "sha256": "6c6f83380f091cc1e3cdcc1f9a5f26fb7c54f707b4a68a915cd9444212ef0142",
+      "added_lines": 30,
+      "ts": 1756237539
+    },
+    {
+      "event": "ingested",
+      "filename": "Beginning Arduino Programming,-2010kaiser.pdf",
+      "sha256": "88ac274f003f398830ee96da691235883a8e77f71798a6ced39a54b2e5b5efb1",
+      "added_lines": 30,
+      "ts": 1756237854
+    },
+    {
+      "event": "ingested",
+      "filename": "Beginning HTML5 and CSS3 - The Web Evolved.pdf",
+      "sha256": "69eb22f5c84cd65f21ca8a35c38d665730f1b889912f857d51edfbb0a8f966ce",
+      "added_lines": 30,
+      "ts": 1756238140
+    },
+    {
+      "event": "ingested",
+      "filename": "Beginning Programming With Python For Dummies.pdf",
+      "sha256": "a28d19b96deae4a6dbf1a40031f843a2f622532e14ac914da9101efe62617b9a",
+      "added_lines": 30,
+      "ts": 1756238440
+    },
+    {
+      "event": "ingested",
+      "filename": "Beginning Red Hat Linux 9 (Wrox Press 2003).pdf",
+      "sha256": "ab3c320d2fb7dc2343f6aba872284c32e94694e3251691058e42b89f0fa773cf",
+      "added_lines": 30,
+      "ts": 1756238739
+    },
+    {
+      "event": "ingested",
+      "filename": "Beginning Webgl For Html5 (Expert'S Voice In Web Development).pdf",
+      "sha256": "e7d1df67faec581641452de672d069781c135627eda46f57a6900a9893feae14",
+      "added_lines": 30,
+      "ts": 1756239040
+    },
+    {
+      "event": "ingested",
+      "filename": "Being Human.pdf",
+      "sha256": "3260394b0ec543e017796b17444d51d2d1432dc49dc96a5ed90aad7902a24e5e",
+      "added_lines": 30,
+      "ts": 1756239338
+    },
+    {
+      "event": "ingested",
+      "filename": "Bell D. C++. A Step-by-Step Guide for Absolute Beginners 2019.pdf",
+      "sha256": "575cd206a8a9a4d1c0aa417c6c857c3a6ce8e778943e022e6505497f7d0b91af",
+      "added_lines": 30,
+      "ts": 1756239639
+    },
+    {
+      "event": "ingested",
+      "filename": "Ben Lynn - Git Magic.pdf",
+      "sha256": "ade329d4bd0699c8081f47659cad4eedeaffe1ca190b11b8ae91e592308fd8e0",
+      "added_lines": 30,
+      "ts": 1756239939
+    },
+    {
+      "event": "ingested",
+      "filename": "Beniamino Murgante, Giuseppe Borruso, Alessandra Lapucci - Geocomputation, Sustainability and Environmental Planning.pdf",
+      "sha256": "248daaff26a060b6dfc2f888737468ce75cc70aee7596d2faab758d25984757e",
+      "added_lines": 30,
+      "ts": 1756240239
+    },
+    {
+      "event": "ingested",
+      "filename": "Benoit Badrignans, Jean Luc Danger, Viktor Fischer, Guy Gogniat, Lionel Torres - Security Trends for FPGAS.pdf",
+      "sha256": "09ca31fe8b46b7915f2fc33f595ae86b5f7dfb6be5b9fc1a71dcfc19d92cc405",
+      "added_lines": 30,
+      "ts": 1756240539
+    },
+    {
+      "event": "ingested",
+      "filename": "Big Book of Magic Tricks (Dover Books on Magic).pdf",
+      "sha256": "450a3545189cc70df08387a0370b396916c442cff7e84b4b9335c6253b4d8ea9",
+      "added_lines": 30,
+      "ts": 1756240839
+    },
+    {
+      "event": "ingested",
+      "filename": "Bike Repair and Maintenance For Dummies.pdf",
+      "sha256": "ee28a84680891df47086f4221c52bccf1ad6accf9a944181e445bacc6899346f",
+      "added_lines": 30,
+      "ts": 1756241140
+    },
+    {
+      "event": "ingested",
+      "filename": "Bind9 Administration Reference Manual.pdf",
+      "sha256": "8ad84adf49bab63aabfd411c91ee7f66a2db76dc325a422f13b407ed9cd2ab45",
+      "added_lines": 30,
+      "ts": 1756241439
+    },
+    {
+      "event": "ingested",
+      "filename": "Biographical Encyclopedia Of The Modern Middle East And North Africa Vol 2.pdf",
+      "sha256": "71891fcbf3e254b9e14b35e2156ed966877d50f8de8507d1e11f174ca2329d4d",
+      "added_lines": 30,
+      "ts": 1756241740
+    },
+    {
+      "event": "ingested",
+      "filename": "Biology Workbook for Dummies.pdf",
+      "sha256": "fd42a384ddf6f55f3f3e631d46fef06df6f5d2c5601b9ed988af48f8afc54814",
+      "added_lines": 30,
+      "ts": 1756242040
+    },
+    {
+      "event": "ingested",
+      "filename": "Biology and Human Behavior.pdf",
+      "sha256": "1b719f81995d1982e6b1a3d6afd51aada33aaba6956ba836196a9f1371e4cd5e",
+      "added_lines": 30,
+      "ts": 1756242338
+    },
+    {
+      "event": "ingested",
+      "filename": "Biomechanics For Dummies.pdf",
+      "sha256": "f7067b04827cdc87902086dd9da2290f4da266132ef1b7b38633c8224362dca4",
+      "added_lines": 30,
+      "ts": 1756242641
+    },
+    {
+      "event": "ingested",
+      "filename": "Biopunk - DIY Scientists Hack the Software of Life.pdf",
+      "sha256": "e62a4b9959c4232f75c0f17f5fedf8eb69660a154c5cde5c0961a93b9a870f48",
+      "added_lines": 30,
+      "ts": 1756242939
+    },
+    {
+      "event": "ingested",
+      "filename": "Birds for Dummies, 2nd Edition.pdf",
+      "sha256": "88d06fe05ba3e907f9e90a9d747f31d879a8dd5351478a0780f68dde6da40179",
+      "added_lines": 30,
+      "ts": 1756243240
+    },
+    {
+      "event": "ingested",
+      "filename": "Biswas D. A Beginner's Guide to Lasers and Their Applications Part 1. 2023.pdf",
+      "sha256": "c3b0be82d8843c5244341344a6206c92e0003ab660be7acdefe55b8b97229ddc",
+      "added_lines": 30,
+      "ts": 1756243546
+    },
+    {
+      "event": "ingested",
+      "filename": "Bjarne Stroustrup - Programming Principles and Practice Using C++.pdf",
+      "sha256": "5c6561c7e762dc3c513c92d23985004cfb782a21e1ac01d407396a92d839f29e",
+      "added_lines": 30,
+      "ts": 1756243843
+    },
+    {
+      "event": "ingested",
+      "filename": "Bjarne Stroustrup - The C++ Programming Language 4th Edition - 2013.pdf",
+      "sha256": "208b059d404342955d708fadfe832403ca5e4f06b5e0a2539da8f139dbe2c78f",
+      "added_lines": 30,
+      "ts": 1756244142
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker  Custom grills & smokers - build your own backyard cooking.pdf",
+      "sha256": "92e5918ecd7027c494a7bdf42a9055d0579ba8d33379e43bc69878a8232a6ab2",
+      "added_lines": 30,
+      "ts": 1756244442
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker - The Complete Guide to a Better Lawn.pdf",
+      "sha256": "57534536fe24aeb581a2d229f64abf47a0c2d8aa2b22b5bedd1a1136b0557b82",
+      "added_lines": 30,
+      "ts": 1756244739
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker Advanced Home Wiring.pdf",
+      "sha256": "7cb160a9678468d1adf04fd07a0325a88f224aac18bfc25bc6def99ef4de8442",
+      "added_lines": 30,
+      "ts": 1756245041
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker Ceramic Tile.pdf",
+      "sha256": "0668022ef4083edc8d72920e1f1c1fac521b2ef28dc9b099014621e06df81bac",
+      "added_lines": 30,
+      "ts": 1756245338
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker DIY Roofing - Shingles - Shakes - Tile - Rubber - Metal - PLUS Roof Repair.pdf",
+      "sha256": "61324cd6ef51f0f5e5e2955fa1fd556c849c32d3d4b357d4c94e9628334d652d",
+      "added_lines": 30,
+      "ts": 1756245640
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker Finishing & Refinishing Wood - Techniques & Projects for Fine Wood Finishes.pdf",
+      "sha256": "4f0a8097ea0ed1bfb2c5fd02b10e6383505068f35aa75ecc6cad4b717f41a753",
+      "added_lines": 30,
+      "ts": 1756245940
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker Flooring 101 - 25 Projects You Really Can Do Yourself.pdf",
+      "sha256": "de0adcfe47909c60bd996ba608432366ce45587d7f4b501fe93d88083757479d",
+      "added_lines": 30,
+      "ts": 1756246240
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker Greenhouses & Garden Projects.pdf",
+      "sha256": "527381fbeb98c4fbc36b08b4812d4021ccb41bc2cfdc3ec5bdc36fd46cdf60be",
+      "added_lines": 30,
+      "ts": 1756246539
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker Play Structures & Backyard Fun - How To Build Playsets, Sports Courts, Games.pdf",
+      "sha256": "580a43a71852afb9abef4e530a1278d53de43e679ff02b471bba7ce70a27a29d",
+      "added_lines": 30,
+      "ts": 1756246849
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker Plumbing 101.pdf",
+      "sha256": "738327b2be2f979a6776e8b20dc8000b9b757faf4e5b20df59e2985a609cad8c",
+      "added_lines": 30,
+      "ts": 1756247139
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker Readymade home furniture.pdf",
+      "sha256": "4286095712a4a045c070ee1d8a9cfb3782a5f2ec5037394d70836d9c8da8b79c",
+      "added_lines": 30,
+      "ts": 1756247445
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Book of Home Improvement - The Most Popular Remodeling Projects Shown in Full Detail.pdf",
+      "sha256": "d38faab5e3770d2f7a3faa018cd9823711882db7fe62fa271165078e73afe8b8",
+      "added_lines": 30,
+      "ts": 1756247748
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Guide - Maintain Your Pool & Spa - Repair & Upkeep Made Easy.pdf",
+      "sha256": "2b052b99c76a9b4e00c3bd51a2b2b277b81dccf4def69527e22b4bee8941c65d",
+      "added_lines": 30,
+      "ts": 1756248039
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Guide To Cabinets & Countertops  How To Customize Your Home With Cabinetry 2.pdf",
+      "sha256": "156e34b83bf5394f9f441ff481759e0e1b6a0215c7dd03c801eaf7d4f731cb4c",
+      "added_lines": 30,
+      "ts": 1756248344
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Guide To Masonry & Stonework.pdf",
+      "sha256": "25beeab794e2c3a4bd806863f98e6546b29fc3e53ceb7ded6385b51031a2635c",
+      "added_lines": 30,
+      "ts": 1756248712
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Guide To Walls & Ceilings  Framing   Drywall   Painting   Trimwork.pdf",
+      "sha256": "60366efc0848636a8d035765996f88e766419e82c8252b1bbdc7afb688fe4bf4",
+      "added_lines": 30,
+      "ts": 1756248952
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Guide to Bathrooms, Third Edition - Remodeling on a budget.pdf",
+      "sha256": "3f8b00fc049047d6b2738fa52ad59c83655c34c8a782aa3a305cd1509e6249bb",
+      "added_lines": 30,
+      "ts": 1756249244
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Guide to DIY Projects for Luxurious Living.pdf",
+      "sha256": "45678727b1fd9867a61f9660aef31d313b1fae7adb7f32a7629f4044e4d88d04",
+      "added_lines": 30,
+      "ts": 1756249544
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Guide to Kitchens - Do-it-yourself and Save, 3rd Edition.pdf",
+      "sha256": "e86a4d70c34bc1221146b19aa7b6a6f636a7606d220656260e071159c60157e7",
+      "added_lines": 30,
+      "ts": 1756249843
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Guide to Plumbing - Expanded 4th Edition.pdf",
+      "sha256": "7313bd647b0c29c82b294faea0f1f5c0dc6230a329e1d5c1962ffc22ddfd888d",
+      "added_lines": 30,
+      "ts": 1756250162
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Guide to Roofing Siding & Trim - How to Protect and Beautify the Exterior of Your Home.pdf",
+      "sha256": "6b6d4e5e11216e7a51fe7a21210853af78cdd7024db7cd799596c5a1567c6998",
+      "added_lines": 30,
+      "ts": 1756250449
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The Complete Outdoor Builder - Updated Edition From Arbors to Walkways 150 DIY Projects.pdf",
+      "sha256": "75312a4a342722cf6fabbad3eea4300a8e901aeb5c088cbcc3deca6876046e2d",
+      "added_lines": 30,
+      "ts": 1756250754
+    },
+    {
+      "event": "ingested",
+      "filename": "Black & Decker The book of home how-to.pdf",
+      "sha256": "b57589d7f7f3893b1bbae5072ae3c56b295c5c72444d09b8a808da7cba068ba2",
+      "added_lines": 30,
+      "ts": 1756251041
+    },
+    {
+      "event": "ingested",
+      "filename": "Black Art of 3D Game Programming - Writing Your Own High-Speed 3D Polygon Video Games in C.pdf",
+      "sha256": "8ca3f510dbe6a794498b25362d250d5d62fe258bb2b8f924db54a74d393da08c",
+      "added_lines": 30,
+      "ts": 1756251344
+    },
+    {
+      "event": "ingested",
+      "filename": "Black Hat Python Python Programming For Hackers And Pentesters 2021.pdf",
+      "sha256": "2861bdc9644acd5b9275cb887c88733966278a71331687a6a45000ca8cd5fd86",
+      "added_lines": 30,
+      "ts": 1756251640
+    },
+    {
+      "event": "ingested",
+      "filename": "Blender 3D By Example.pdf",
+      "sha256": "cef61d34997e041a8a62803712018432122b96ddeb049558f283b1d2a837c968",
+      "added_lines": 30,
+      "ts": 1756251942
+    },
+    {
+      "event": "ingested",
+      "filename": "Blindfolded SQL Injection.pdf",
+      "sha256": "e1272c865db944ce1bf5ede83f37dfde3edef0a8ab21c309ce5f75fc0abfb70d",
+      "added_lines": 30,
+      "ts": 1756252238
+    },
+    {
+      "event": "ingested",
+      "filename": "Blogging For Dummies, 4th Edition.pdf",
+      "sha256": "f20c7f36634510b8312f117ff2272a407e07a8b9f3be427194a68295a68af58f",
+      "added_lines": 30,
+      "ts": 1756252540
+    },
+    {
+      "event": "ingested",
+      "filename": "Blomqvist H. 2D Computer Graphics in Modern C++ and Standard Library 2023.pdf",
+      "sha256": "43e0f2d807b2c4d8246cb1f605b023e3b24f15576b6a5c6e70c4eb22863f392f",
+      "added_lines": 30,
+      "ts": 1756252841
+    },
+    {
+      "event": "ingested",
+      "filename": "Bluetooth Security.pdf",
+      "sha256": "005bfccbef758a31cfb6229570d5d6fe2796006d94252ec8ae0c5cc62b7429bf",
+      "added_lines": 30,
+      "ts": 1756253139
+    },
+    {
+      "event": "ingested",
+      "filename": "Bojan Jakimovski - Biologically Inspired Approaches for Locomotion, Anomaly Detection and Reconfiguration for Walking Robots.pdf",
+      "sha256": "0207f6450d8e48d90470fc5b3d7f1a613b5e5b07cd5db056224a7f9bec82b55b",
+      "added_lines": 30,
+      "ts": 1756253439
+    },
+    {
+      "event": "ingested",
+      "filename": "Borar M. The Secrets of AI. a Math-Free Guide to Thinking Machines 2023.pdf",
+      "sha256": "ea463db89a308ba895499bb87ce94374a24ac5e45976f9cd5c8be2833db84a87",
+      "added_lines": 30,
+      "ts": 1756253738
+    },
+    {
+      "event": "ingested",
+      "filename": "Bormin Huang - Satellite Data Compression.pdf",
+      "sha256": "4f7a06c366fc709c73f6481a51a3b3f344a1f6a9f32b6c39a52f94a2af2080eb",
+      "added_lines": 30,
+      "ts": 1756254040
+    },
+    {
+      "event": "ingested",
+      "filename": "Brew It Yourself - Professional Craft Blueprints for Home Brewing.pdf",
+      "sha256": "8f88e05a5ed32c024d0ea633aa1f1948514c4e3676cefd4a512d6eaf845920fd",
+      "added_lines": 30,
+      "ts": 1756254342
+    },
+    {
+      "event": "ingested",
+      "filename": "Brian Wood Adobe Illustrator Cc Classroom In A Book.pdf",
+      "sha256": "60d5fc1b4430058499708d791f55b971d1030fef9bac3b5cb3c552b072e396a8",
+      "added_lines": 30,
+      "ts": 1756254641
+    },
+    {
+      "event": "ingested",
+      "filename": "Brickwork and Bricklaying - a DIY Guide.pdf",
+      "sha256": "510b417fdb8be9eec9500ea11180b4cd05a3f62e8c2105bee09b1a6d790f7615",
+      "added_lines": 30,
+      "ts": 1756254939
+    },
+    {
+      "event": "ingested",
+      "filename": "Brigs & Stratton Repair Manual.pdf",
+      "sha256": "07d1947be7cdf2c4f3776be2aec1622b473f1c9ecdbbedbfae411b84877d3916",
+      "added_lines": 30,
+      "ts": 1756255239
+    },
+    {
+      "event": "ingested",
+      "filename": "Broadband Packet Switching Technologies.pdf",
+      "sha256": "8e6036dc946deaa11c9edd48dac96adad48e50fd9c867673f4dafa48c6c506cd",
+      "added_lines": 30,
+      "ts": 1756255540
+    },
+    {
+      "event": "ingested",
+      "filename": "Broadband Telecommunications Handbook.pdf",
+      "sha256": "37f5c7a130145d905c84f0b72bafff00c412d0f25c3dbad244fff37113c29f4f",
+      "added_lines": 30,
+      "ts": 1756255839
+    },
+    {
+      "event": "ingested",
+      "filename": "Bruce Eckel - Thinking in Java 4th Edition.pdf",
+      "sha256": "eef11394975ad72b3f856d86693a9502bd1777053af2423e7000668a0f5e1c27",
+      "added_lines": 30,
+      "ts": 1756256140
+    },
+    {
+      "event": "ingested",
+      "filename": "Bruno Baruque, Emilio Corchado - Fusion Methods for Unsupervised Learning Ensembles.pdf",
+      "sha256": "841a1966d56e379eacc6d94e04d3163899a1d75ef1f563d095dbf9bf027f2152",
+      "added_lines": 30,
+      "ts": 1756256438
+    },
+    {
+      "event": "ingested",
+      "filename": "Bryan.Plumb.-.Creating.Rapport.Cheating.the.Chemistry.pdf",
+      "sha256": "5e72537aa9e50115f07043e2973ed632554eb232051fb3ca68ae938f5514a22c",
+      "added_lines": 30,
+      "ts": 1756256738
+    },
+    {
+      "event": "ingested",
+      "filename": "Buffer Overflow Attacks -  Detect, Exploit, Prevent.pdf",
+      "sha256": "011271c05eecad5ea780afbd06b728215b7a207872bf31b31fbf688873172b63",
+      "added_lines": 30,
+      "ts": 1756257040
+    },
+    {
+      "event": "ingested",
+      "filename": "Build Your Own 2D Game Engine and Create Great Web Games - Using HTML5, JavaScript, and WebGL2.pdf",
+      "sha256": "50b34e074a186a3d26a69020b67485347e8b29777b9e762c497118f0fa3dbc64",
+      "added_lines": 30,
+      "ts": 1756257358
+    },
+    {
+      "event": "ingested",
+      "filename": "Build Your Own PC Do-It-Yourself For Dummies (For Dummies (Computer Tech)).pdf",
+      "sha256": "e528d5b281f26eb0faf06b3ca9511340de7ef6d1f6de78cf99e58090def786ec",
+      "added_lines": 30,
+      "ts": 1756257641
+    },
+    {
+      "event": "ingested",
+      "filename": "Building Android Apps with HTML, CSS, and JavaScript.pdf",
+      "sha256": "940f64823407f7be2d96569b70f769f62f4493f1dcbb2a5d11d576504ae7045e",
+      "added_lines": 30,
+      "ts": 1756257939
+    },
+    {
+      "event": "ingested",
+      "filename": "Building Autonomous Line Followers using Arduino and PID.pdf",
+      "sha256": "f20c481e8a97e7f18f9624b3ed6bd9b5c3b4b68f0efa09f981c2ab5c9a392c2f",
+      "added_lines": 30,
+      "ts": 1756258238
+    },
+    {
+      "event": "ingested",
+      "filename": "Building iPhone Apps with HTML, CSS, and JavaScript.pdf",
+      "sha256": "9f65a9a150492fef9220a73ef1f4f0e47c4833c5c702d21ae4c578199443da89",
+      "added_lines": 30,
+      "ts": 1756258839
+    },
+    {
+      "event": "ingested",
+      "filename": "Building iPhone and iPad electronic projects.pdf",
+      "sha256": "58fa393c66862660fd427c1c61cf02e5c1db9f550ac4f07e9dea6cf7dc76646f",
+      "added_lines": 30,
+      "ts": 1756259142
+    },
+    {
+      "event": "ingested",
+      "filename": "Bulletproof Wireless Security - GSM, UMTS, 802.11, and Ad Hoc Security (Communications Engineering).pdf",
+      "sha256": "b7a60f78d3f33b6671527655b4db4fd44ea21edb691a0aa569e17830cdd56c08",
+      "added_lines": 30,
+      "ts": 1756259439
+    },
+    {
+      "event": "ingested",
+      "filename": "Business Statistics For Dummies.pdf",
+      "sha256": "88066e380471b0c8498586dceefb83dc2380fe33d256f0dd312f496e4dfcd945",
+      "added_lines": 30,
+      "ts": 1756259741
+    },
+    {
+      "event": "ingested",
+      "filename": "Bypassing Firewalls Tools and Techniques.pdf",
+      "sha256": "f022cdeaf806c00cf43da8c9dbe9da8e106005267f72dbd8d3fe79079100389d",
+      "added_lines": 21,
+      "ts": 1756260038
+    },
+    {
+      "event": "ingested",
+      "filename": "C++ All in one for dummies, 4th edition.pdf",
+      "sha256": "2518b98d9aa1bb30ac7c0f57fbcc1d783302b9a3286598e8e399bb78558361f9",
+      "added_lines": 30,
+      "ts": 1756260341
+    },
+    {
+      "event": "ingested",
+      "filename": "Cabling - The Complete Guide to Network Wiring.pdf",
+      "sha256": "c367d740e4ffda81e82e613245940b6a54a7e2a508f8f5e56b768f90b073830c",
+      "added_lines": 30,
+      "ts": 1756260642
+    },
+    {
+      "event": "ingested",
+      "filename": "Cambridge mathematics - 3 unit, Extension 1. Year 12, Enhanced.pdf",
+      "sha256": "aa3e104e5c55c3b63796b86130948abe45b89097a227365c471767a3e1a1c4d9",
+      "added_lines": 30,
+      "ts": 1756260941
+    },
+    {
+      "event": "ingested",
+      "filename": "Cambridge mathematics - 3 unit. Year 11, Enhanced.pdf",
+      "sha256": "0eab1d9fd86d228c2882d9442a71e2aad12c03648855d24395da3f71434b2ac5",
+      "added_lines": 30,
+      "ts": 1756261243
+    },
+    {
+      "event": "ingested",
+      "filename": "CambridgeMATHS Stage 6 - Mathematics Extension 2 Year 12.pdf",
+      "sha256": "829889d2b197e4aa70ffe5c4cd015c84120920c33506cdccac1453b98b5ecb4d",
+      "added_lines": 30,
+      "ts": 1756261540
+    },
+    {
+      "event": "ingested",
+      "filename": "CambridgeMATHS Stage 6. Year 12, Mathematics extension 1.pdf",
+      "sha256": "9091f6a94328b968dbfdb30789c5cf7d96831750b8610ceb15cb4791f2963557",
+      "added_lines": 30,
+      "ts": 1756261844
+    },
+    {
+      "event": "ingested",
+      "filename": "CambridgeMATHS stage 6. Year 11, Mathematics Advanced.pdf",
+      "sha256": "5f65fe259b8faeb93d08013edb1cfbdff6b5eb1fffce7ee05d71f10df3e4b63c",
+      "added_lines": 30,
+      "ts": 1756262142
+    },
+    {
+      "event": "ingested",
+      "filename": "CambridgeMaths stage 6. Year 11, Mathematics extension 1.pdf",
+      "sha256": "0b2bb147352ac764625d90938e18a55f714bbe7f5eba9470ae4db1ba1af3906c",
+      "added_lines": 30,
+      "ts": 1756262446
+    },
+    {
+      "event": "ingested",
+      "filename": "CambridgeMaths stage 6. Year 11, Mathematics standard.pdf",
+      "sha256": "1a3b6b23201d0cbd79d826aacad1f54c760b4fae02c1b7b814ec4ef81ce705c5",
+      "added_lines": 30,
+      "ts": 1756262741
+    },
+    {
+      "event": "ingested",
+      "filename": "CambridgeMaths stage 6. Year 12, Mathematics standard 1.pdf",
+      "sha256": "3082daee0d64be023f5293f4c21cb6dba04b8a3587844b2233c4170a3d3470f9",
+      "added_lines": 30,
+      "ts": 1756263041
+    },
+    {
+      "event": "ingested",
+      "filename": "CambridgeMaths stage 6. Year 12, Mathematics standard 2.pdf",
+      "sha256": "db04c15c0c1f3114ae2c02d3ada7ef18537a72a8ff0bf744beb14d6123d4744f",
+      "added_lines": 30,
+      "ts": 1756263355
+    },
+    {
+      "event": "ingested",
+      "filename": "Cameron N. Electronics Projects with the ESP8266 and ESP32 2020.pdf",
+      "sha256": "dcb58227ed1be08e6ce719bf3faf1753706acf5f07c47103ee44bb7a940c4df7",
+      "added_lines": 30,
+      "ts": 1756263656
+    },
+    {
+      "event": "ingested",
+      "filename": "Campbell A. Python Machine Learning for Beginners. All You Need to Know...2022.pdf",
+      "sha256": "e98444520f2ded8811ca45e66dbf64a75229eda125b342df5943ebacab1489bc",
+      "added_lines": 30,
+      "ts": 1756263938
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Data Science Fundamentals Pocket Primer 2021.pdf",
+      "sha256": "30453120ec174277de20528f4e3dfb1df7dd50d3b5eee9cd53c62367fe5d3488",
+      "added_lines": 30,
+      "ts": 1756264239
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Data Structures in Java 2023.pdf",
+      "sha256": "80d2791dd909f9d12c9b84e32588f5bc23f09e1300a407a1fdff43db467ba3c7",
+      "added_lines": 30,
+      "ts": 1756264539
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Data Wrangling Using Pandas, SQL, and Java 2022.pdf",
+      "sha256": "e5ec1d83974c4c31757f22d37f3afcdb7e98bf1ccf1b59bdbc7995732dab61b1",
+      "added_lines": 30,
+      "ts": 1756264839
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Java for Developers. Pocket Primer 2022.pdf",
+      "sha256": "4491f8645227d11615440f3e7e803009d9770cea0247fa759a943f2853a144c5",
+      "added_lines": 30,
+      "ts": 1756265139
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Managing Datasets and Models 2023.pdf",
+      "sha256": "0d7247e7d19b5217187bb5fa6c32a4d13dba9c53e4302197d6b8f2c5de5979c4",
+      "added_lines": 30,
+      "ts": 1756265440
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Natural Language Processing Fundamentals for Developers 2021.pdf",
+      "sha256": "cc9888b3df8e7eacd59f5da235b1e557f3cb2f27768cbe7bc4cad21dd60fa8cc",
+      "added_lines": 30,
+      "ts": 1756265749
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Natural Language Processing...for Developers 2021.pdf",
+      "sha256": "79d10479e1052965b1d0c58062f324d9c522aa87b9e48dcbdb79c9a79c56b977",
+      "added_lines": 30,
+      "ts": 1756266041
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Python Data Structures. Pocket Primer 2023.pdf",
+      "sha256": "06bfb89f7b21ab10051dd0eee810a703c5416dc2ed4400026198997ae50ff4b1",
+      "added_lines": 30,
+      "ts": 1756266338
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Python Tools for Data Scientists. Pocket Primer 2022.pdf",
+      "sha256": "2df8f9fb5ecb41c680cb7cf37d55938cd250e4d00423d6522d5de66da1113007",
+      "added_lines": 30,
+      "ts": 1756266640
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. Python for Programmers 2022.pdf",
+      "sha256": "7175ffc145adf8e09ba1c293c4d61ac1dc09daeaa2744c1e130dfb81f4d08c63",
+      "added_lines": 30,
+      "ts": 1756266940
+    },
+    {
+      "event": "ingested",
+      "filename": "Campesato O. SQL Pocket Primer 2022.pdf",
+      "sha256": "321186ed34655acd85a1130537489f69ea4f09660094ab5d5a66663b4bf603bc",
+      "added_lines": 30,
+      "ts": 1756267247
+    },
+    {
+      "event": "ingested",
+      "filename": "Canon EOS 7D Mark II For Dummies.pdf",
+      "sha256": "b1f76e96da56c8e389930e9daecd379a4313bce1a85e3b0338debddda532b2ba",
+      "added_lines": 30,
+      "ts": 1756267540
+    },
+    {
+      "event": "ingested",
+      "filename": "Canon EOS Rebel T1i  500D For Dummies.pdf",
+      "sha256": "8a95f5080e1d11e5eb5e5bdbe8715176ed4504b0a728744baa8e9e72d4869e45",
+      "added_lines": 30,
+      "ts": 1756267840
+    },
+    {
+      "event": "ingested",
+      "filename": "Canon EOS Rebel T5 1200D For Dummies.pdf",
+      "sha256": "1775b9d864acce7bd0f608be2165b2fded4650e0dc5439e3f0e92cd6c97d18e9",
+      "added_lines": 30,
+      "ts": 1756268139
+    },
+    {
+      "event": "ingested",
+      "filename": "Capacitors v-5.pdf",
+      "sha256": "2e122162b9fc9a599d2fa782b0d8b97d6b027cb7ac7797f2636b3c6b8235aadf",
+      "added_lines": 30,
+      "ts": 1756268439
+    },
+    {
+      "event": "ingested",
+      "filename": "Car Audio For Dummies.pdf",
+      "sha256": "49c034cceb6169ed79daea98ef8600572363cccfdcb9bdc3e80219aa2b3cfe18",
+      "added_lines": 30,
+      "ts": 1756268741
+    },
+    {
+      "event": "ingested",
+      "filename": "ac-circuits-ebook v8.pdf",
+      "sha256": "9c4eace72edca4437dae0f90aae2067eb64ff0da0e09d624cc98a8c973653a87",
+      "added_lines": 30,
+      "ts": 1756269039
+    },
+    {
+      "event": "ingested",
+      "filename": "ac-theory-ebook v7.pdf",
+      "sha256": "19847322083c5fbb368d5559d4114ba6ff52b12489efbfb2a67bce1b451a7569",
+      "added_lines": 19,
+      "ts": 1756269339
+    },
+    {
+      "event": "ingested",
+      "filename": "advanced-linux-programming.pdf",
+      "sha256": "cc763a82402fb8c02370698382b7b8c0b9466968a823e90ba90dc64f664b18b3",
+      "added_lines": 30,
+      "ts": 1756269639
+    },
+    {
+      "event": "ingested",
+      "filename": "an_introduction_to_electronics_printable.pdf",
+      "sha256": "8e539bd1290705718609f73437aca79b4a6b28a9cc0b08b153f74ec5c5e969b9",
+      "added_lines": 30,
+      "ts": 1756269940
+    },
+    {
+      "event": "ingested",
+      "filename": "anarchy - ! - Anarchists Cookbook  IV 4.14.pdf",
+      "sha256": "7e8890392d5ca16399bf4684a16d5301f5bf96eb7b37f2d228e9900b98b733fb",
+      "added_lines": 30,
+      "ts": 1756270238
+    },
+    {
+      "event": "ingested",
+      "filename": "anarchy - Jack_the_Rippa - Murder Inc. - The Book.pdf",
+      "sha256": "cb58a2f48d247b1a303afa04eec538349aeb1b39f43c1316181e123603f8ba82",
+      "added_lines": 30,
+      "ts": 1756270539
+    },
+    {
+      "event": "ingested",
+      "filename": "arduino-mini-user-guide.pdf",
+      "sha256": "652f99c83ad6f28474977fc8bfd1d0c28de674e067809cdcbbcfde2fd067525f",
+      "added_lines": 7,
+      "ts": 1756270838
+    },
+    {
+      "event": "ingested",
+      "filename": "arduino_projects.pdf",
+      "sha256": "591e45e840b724faf7818216b1879161bddeffb5b3cc86b7034f4a9fb24a3edf",
+      "added_lines": 12,
+      "ts": 1756272340
+    },
+    {
+      "event": "ingested",
+      "filename": "arduino_projects_book.pdf",
+      "sha256": "c099555c960adf219a6d82fb00e72dfacedffc5d2b31dd42f4fdae56b8246e0d",
+      "added_lines": 30,
+      "ts": 1756272639
+    },
+    {
+      "event": "ingested",
+      "filename": "bionic_arduino_class1.pdf",
+      "sha256": "82eb83a63747ae53f354f0c91aac90aa8e8c17b6ea3c4b7cefd3301fcc1c7d50",
+      "added_lines": 8,
+      "ts": 1756272939
+    },
+    {
+      "event": "ingested",
+      "filename": "bionic_arduino_class2.pdf",
+      "sha256": "833429e30a8fbdc0c0f2c9d22b9d142566cb1e3a439949d72d87212398c35cc9",
+      "added_lines": 24,
+      "ts": 1756273238
+    },
+    {
+      "event": "ingested",
+      "filename": "bionic_arduino_class3.pdf",
+      "sha256": "349f1d67c206b1579eb5b74ac0f1b686d50f778cb63245fb52e33f8d53f7807a",
+      "added_lines": 8,
+      "ts": 1756273539
+    },
+    {
+      "event": "ingested",
+      "filename": "bionic_arduino_class4.pdf",
+      "sha256": "c1b40e0eaf338bdae1fe72b295f72f080e421b2a17b005888c2a3c811fcf3508",
+      "added_lines": 8,
+      "ts": 1756273839
+    },
+    {
+      "event": "ingested",
+      "filename": "bjt-transistor-ebook v-13.pdf",
+      "sha256": "49f46987b2998ee167d1e1f4f8528a3775d55d75edc79f9fe49d43cb967df62e",
+      "added_lines": 30,
+      "ts": 1756274139
+    },
+    {
+      "event": "ingested",
+      "filename": "boolean-algebra-ebook v-20.pdf",
+      "sha256": "a067aa494908543c9fe1ce499f4d4abe9623f564a4d0e6fc1103fd64c42a9f7f",
+      "added_lines": 20,
+      "ts": 1756274438
+    }
+  ]
+}

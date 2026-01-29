@@ -1,0 +1,9 @@
+{
+    "timestamp": "2025-04-15T13:04:29.419888Z",
+    "avoid": [
+        {
+            "action": "Trigger Action B",
+            "avoidance_score": -3.0
+        }
+    ]
+}

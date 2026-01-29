@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2025-08-14T18:39:06.804304Z",
+    "active_hemisphere": "left",
+    "drift_detected": false,
+    "switched": false,
+    "new_active_hemisphere": "left"
+  }
+]

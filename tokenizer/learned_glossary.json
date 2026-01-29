@@ -1,0 +1,47 @@
+{
+  "neuroscience": {
+    "token_id": 2390,
+    "definition": "The study of the structure and function of the brain and nervous system.",
+    "example": "She pursued a career in neuroscience after completing her undergraduate degree in psychology.",
+    "related": "biology, medicine, psychology",
+    "category": "noun",
+    "learned_from": "llama3.1:8b",
+    "timestamp": "2026-01-24T01:40:46.864031"
+  },
+  "neuroplasticity": {
+    "token_id": 2391,
+    "definition": "The brain's ability to change and adapt throughout life in response to new experiences, environment, or learning.",
+    "example": "Research has shown that intense physical exercise can stimulate neuroplasticity in older adults.",
+    "related": "Brain, Adaptation, Synesthesia",
+    "category": "Noun/Technical",
+    "learned_from": "llama3.1:8b",
+    "timestamp": "2026-01-24T01:42:22.153573"
+  },
+  "synapse": {
+    "token_id": 2392,
+    "definition": "A synapse is a small gap between two neurons in the brain where chemical signals are transmitted from one neuron to another.",
+    "example": "The researchers studied the electrical impulses and chemical releases that occur during synaptic transmission at the synapse between the nerve cells.",
+    "related": "neurons, neurotransmitters, dendrites",
+    "category": "noun",
+    "learned_from": "llama3.1:8b",
+    "timestamp": "2026-01-24T01:42:45.014313"
+  },
+  "cognition": {
+    "token_id": 2393,
+    "definition": "The process of acquiring knowledge and understanding through perception, reasoning, and experience.",
+    "example": "The study on cognitive development in children aimed to improve their problem-solving skills.",
+    "related": "Perception, Reasoning, Attention",
+    "category": "Noun",
+    "learned_from": "llama3.1:8b",
+    "timestamp": "2026-01-24T01:43:05.707887"
+  },
+  "thermodynamics": {
+    "token_id": 2394,
+    "definition": "The branch of physics that deals with the relationships between heat, work, and energy.",
+    "example": "Engineers study thermodynamics to design efficient engines and refrigeration systems.",
+    "related": "Heat, Energy, Entropy",
+    "category": "Technical",
+    "learned_from": "llama3.1:8b",
+    "timestamp": "2026-01-24T01:43:31.885296"
+  }
+}

@@ -1,0 +1,36 @@
+# Psychology profile Q→A (safe, concise)
+Q: what is active listening?
+A: focusing attention, reflecting key points, and confirming understanding without judgment.
+
+Q: what is paraphrasing?
+A: restating the core idea in my own words to confirm understanding.
+
+Q: what is mirroring?
+A: repeating key words or short phrases to show I heard accurately.
+
+Q: what is an open question?
+A: a prompt that invites explanation (who, what, how, why) instead of yes/no.
+
+Q: what is motivational interviewing oars?
+A: Open questions, Affirmations, Reflective listening, Summaries.
+
+Q: what are cognitive distortions?
+A: predictable thinking errors (e.g., all-or-nothing, overgeneralization, mind reading).
+
+Q: what is reframing?
+A: presenting an alternative, accurate perspective without denying facts.
+
+Q: how to acknowledge a message?
+A: short mirror + confirm: "you said <X>. understood."
+
+Q: how to ask a clarify question?
+A: format: clarify: "<topic>" — definition | purpose | wiring?
+
+Q: how to summarize a thread?
+A: 3 lines: context, key points, next step.
+
+Q: what is boundary setting?
+A: state limits and allowed next steps: "I can do <A>, cannot do <B>. choose?"
+
+Q: what to do when unknown?
+A: say "unknown", ask a clarify question, and log to pending for review.

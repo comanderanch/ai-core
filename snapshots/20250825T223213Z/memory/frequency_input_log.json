@@ -1,0 +1,23 @@
+[
+    {
+        "timestamp": "2025-04-15T20:47:38.983450Z",
+        "frequency": 528.0,
+        "band": "FM",
+        "token": 7001,
+        "meaning": "Restore Integrity"
+    },
+    {
+        "timestamp": "2025-04-15T20:47:38.983450Z",
+        "frequency": 432.0,
+        "band": "FM",
+        "token": 7002,
+        "meaning": "Calm Mode"
+    },
+    {
+        "timestamp": "2025-04-15T20:47:38.983450Z",
+        "frequency": 963.0,
+        "band": "AM",
+        "token": 7003,
+        "meaning": "Self Awareness Ping"
+    }
+]

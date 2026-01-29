@@ -1,0 +1,13 @@
+{
+  "entry_schema": {
+    "id": "string (hash)",
+    "claim": "string",
+    "sources": "array[string]",
+    "supporting_evidence": "array[string]",
+    "contradictions": "array[string]",
+    "status": "pending | promoted | rejected",
+    "confidence": "float 0.0–1.0",
+    "created_at": "ISO-8601 timestamp",
+    "last_reviewed": "ISO-8601 | null"
+  }
+}

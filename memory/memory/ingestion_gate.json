@@ -1,0 +1,43 @@
+
+{
+  "mode": "epistemic_gate",
+
+  "rules": {
+    "fact_requires_verification": true,
+    "minimum_independent_sources": 3,
+    "allow_contradiction_storage": true,
+    "allow_unverified_storage": true,
+    "auto_promote_verified_facts": false
+  },
+
+  "states": {
+    "fact": {
+      "write_to": "memory/conscious",
+      "requires_verification": true
+    },
+    "empirical": {
+      "write_to": "memory/fold",
+      "requires_verification": true
+    },
+    "contradiction": {
+      "write_to": "memory/drift",
+      "requires_resolution": false
+    },
+    "unknown": {
+      "write_to": "memory/memory",
+      "requires_resolution": false
+    }
+  },
+
+  "triggers": {
+    "contradiction_threshold": 1,
+    "verification_threshold": 3,
+    "seek_external_validation": false
+  },
+
+  "behavior": {
+    "on_no_answer": "silent",
+    "on_contradiction": "store_and_flag",
+    "on_unverified_claim": "store_as_unknown"
+  }
+}

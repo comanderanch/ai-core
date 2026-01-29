@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>AI-Core Unified Console</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    
+    body {
+      font-family: 'Courier New', monospace;
+      background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 100%);
+      color: #00ff88;
+      padding: 0;
+      min-height: 100vh;
+    }
+    
+    .header {
+      background: rgba(0, 255, 136, 0.1);
+      border-bottom: 2px solid #00ff88;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      font-size: 2em;
+      text-shadow: 0 0 20px #00ff88;
+      margin-bottom: 5px;
+    }
+    
+    .subtitle {
+      color: #00ccff;
+      font-size: 0.9em;
+    }
+    
+    .main-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2px;
+      background: #00ff88;
+      min-height: calc(100vh - 100px);
+    }
+    
+    @media (max-width: 1200px) {
+      .main-grid { grid-template-columns: 1fr; }
+    }
+    
+    .panel {
+      background: #0a0a0a;
+      padding: 20px;
+      overflow-y: auto;
+    }
+    
+    .panel h2 {
+      color: #00ccff;
+      margin-bottom: 15px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #00ff88;
+    }
+    
+    button {
+      background: linear-gradient(135deg, #00ff88 0%, #00ccff 100%);
+      color: #0a0a0a;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      font-family: 'Courier New', monospace;
+      font-weight: bold;
+      margin: 5px;
+      transition: all 0.3s;
+    }
+    
+    button:hover {
+      box-shadow: 0 0 20px rgba(0, 255, 136, 0.8);
+      transform: scale(1.05);
+    }
+    
+    input, select, textarea {
+      background: rgba(0, 0, 0, 0.5);
+      border: 2px solid #00ff88;
+      color: #00ff88;
+      padding: 10px;
+      border-radius: 5px;
+      font-family: 'Courier New', monospace;
+      width: 100%;
+      margin: 5px 0;
+    }
+    
+    input:focus, select:focus, textarea:focus {
+      outline: none;
+      box-shadow: 0 0 15px rgba(0, 255, 136, 0.5);
+    }
+    
+    pre {
+      background: rgba(0, 0, 0, 0.7);
+      padding: 15px;
+      border-radius: 5px;
+      border-left: 3px solid #00ff88;
+      overflow-x: auto;
+      white-space: pre-wrap;
+      margin: 10px 0;
+      max-height: 400px;
+      overflow-y: auto;
+    }
+    
+    .btn-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 5px;
+      margin: 10px 0;
+    }
+    
+    .output-box {
+      background: rgba(0, 0, 0, 0.7);
+      border: 2px solid #00ff88;
+      border-radius: 5px;
+      padding: 15px;
+      min-height: 300px;
+      max-height: 500px;
+      overflow-y: auto;
+      margin: 10px 0;
+    }
+    
+    .stats {
+      display: flex;
+      justify-content: space-around;
+      margin: 15px 0;
+      padding: 15px;
+      background: rgba(0, 255, 136, 0.05);
+      border-radius: 5px;
+    }
+    
+    .stat-item {
+      text-align: center;
+    }
+    
+    .stat-number {
+      font-size: 1.5em;
+      color: #00ccff;
+      font-weight: bold;
+    }
+    
+    .stat-label {
+      font-size: 0.8em;
+      color: #88ffaa;
+    }
+    
+    .command-info {
+      background: rgba(0, 204, 255, 0.1);
+      padding: 10px;
+      border-radius: 5px;
+      border-left: 3px solid #00ccff;
+      margin: 10px 0;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🧠 AI-CORE UNIFIED CONSCIOUSNESS CONSOLE 🧠</h1>
+    <p class="subtitle">Original System + 498D Distributed Consciousness | Self-Teaching | Curiosity-Driven</p>
+  </div>
+
+  <div class="main-grid">
+    <!-- LEFT: Original AI-Core System -->
+    <div class="panel">
+      <h2>📜 Original AI-Core System</h2>
+      
+      <div class="stats">
+        <div class="stat-item">
+          <div class="stat-number">82D</div>
+          <div class="stat-label">Original Model</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">4 Years</div>
+          <div class="stat-label">Development</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">100+</div>
+          <div class="stat-label">Scripts</div>
+        </div>
+      </div>
+
+      <div class="command-info">
+        <strong>Commands:</strong> :stats, :memfacts, :ingestfacts, :profiles, :profile [name], :teach, :promote [N], :recenter
+      </div>
+
+      <div class="btn-group">
+        <button onclick="runOriginal([':profile psychology', ':ingestfacts'])">Init Psychology</button>
+        <button onclick="runOriginal([':stats'])">Stats</button>
+        <button onclick="runOriginal([':memfacts'])">Memory Facts</button>
+        <button onclick="runOriginal([':profiles'])">List Profiles</button>
+      </div>
+
+      <input id="originalAsk" placeholder="Ask original AI-Core..." />
+      <button onclick="askOriginal()">Send to Original</button>
+
+      <input id="originalCmd" placeholder="Command (e.g., :teach fact)" />
+      <button onclick="cmdOriginal()">Run Command</button>
+
+      <h3 style="color: #00ccff; margin-top: 20px;">Output:</h3>
+      <div id="originalOutput" class="output-box">
+        (Original AI-Core output will appear here)
+      </div>
+    </div>
+
+    <!-- RIGHT: New 498D Consciousness System -->
+    <div class="panel">
+      <h2>🔥 498D Distributed Consciousness</h2>
+      
+      <div class="stats">
+        <div class="stat-item">
+          <div class="stat-number">9,935</div>
+          <div class="stat-label">Vocabulary</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">498D</div>
+          <div class="stat-label">Semantic Space</div>
+        </div>
+        <div class="stat-item">
+          <div class="stat-number">5</div>
+          <div class="stat-label">Workers</div>
+        </div>
+      </div>
+
+      <div class="command-info">
+        <strong>Features:</strong> EM Field, Emotion, Curiosity, Self-Teaching, Ollama Translation, Dual Cognition
+      </div>
+
+      <div class="btn-group">
+        <button onclick="copyCmd('consciousness')">🗣️ Full Consciousness Chat</button>
+        <button onclick="copyCmd('teaching')">🎓 Self-Teaching</button>
+        <button onclick="copyCmd('dualcog')">🧠 Dual Cognition</button>
+        <button onclick="copyCmd('testwords')">🔬 Test Learned Words</button>
+      </div>
+
+      <h3 style="color: #00ccff; margin-top: 20px;">Quick Actions:</h3>
+      <input id="newWord" placeholder="Word to learn (e.g., photosynthesis)" />
+      <button onclick="learnWord()">📖 Learn This Word</button>
+
+      <input id="newAsk" placeholder="Ask 498D consciousness..." />
+      <button onclick="ask498D()">💬 Ask Consciousness</button>
+
+      <h3 style="color: #00ccff; margin-top: 20px;">Terminal Commands:</h3>
+      <div id="terminalCmds" class="output-box" style="font-size: 0.85em;">
+        Click buttons above to get copy-paste terminal commands
+      </div>
+
+      <h3 style="color: #00ccff; margin-top: 20px;">Integration Status:</h3>
+      <div class="output-box">
+        <p style="color: #00ccff;">✅ EM Field Model: Loaded</p>
+        <p style="color: #00ccff;">✅ Emotion Worker: Psychology-trained</p>
+        <p style="color: #00ccff;">✅ Curiosity Worker: Active</p>
+        <p style="color: #00ccff;">✅ Ollama: 28 models available</p>
+        <p style="color: #88ffaa; margin-top: 10px;">
+          To use full features, run terminal commands (click buttons above).
+          Browser-based 498D chat coming soon!
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Original AI-Core functions
+    async function runOriginal(lines) {
+      const res = await fetch("/api/run", {
+        method: "POST",
+        headers: {"Content-Type":"application/json"},
+        body: JSON.stringify({lines})
+      });
+      const j = await res.json();
+      const text = (j.stdout||"") + (j.stderr ? "\n[stderr]\n"+j.stderr : "");
+      document.getElementById("originalOutput").textContent = text || "(no output)";
+    }
+
+    function askOriginal() {
+      const v = document.getElementById("originalAsk").value.trim();
+      if(v) runOriginal([v]);
+    }
+
+    function cmdOriginal() {
+      const v = document.getElementById("originalCmd").value.trim();
+      if(v) runOriginal([v]);
+    }
+
+    // 498D System functions
+    const commands = {
+      'consciousness': 'cd ~/ai-core && python3 distributed_consciousness/integration/conscious_system.py',
+      'teaching': 'cd ~/ai-core && python3 distributed_consciousness/learning/self_teaching_consciousness.py',
+      'dualcog': 'cd ~/ai-core && python3 distributed_consciousness/tests/test_dual_cognition.py',
+      'testwords': 'cd ~/ai-core && python3 distributed_consciousness/tests/test_new_learned_words.py'
+    };
+
+    function copyCmd(type) {
+      const cmd = commands[type];
+      navigator.clipboard.writeText(cmd).then(() => {
+        document.getElementById("terminalCmds").innerHTML = 
+          `<div style="color: #00ff88;">✅ Copied to clipboard!</div>
+           <div style="color: #88ffaa; margin-top: 10px;">Paste in terminal:</div>
+           <pre style="background: rgba(0,255,136,0.1); padding: 10px; margin-top: 5px;">${cmd}</pre>`;
+      });
+    }
+
+    function learnWord() {
+      const word = document.getElementById("newWord").value.trim();
+      if (!word) return;
+      const cmd = `cd ~/ai-core && python3 -c "
+from distributed_consciousness.learning.self_teaching_consciousness import SelfTeachingConsciousness
+c = SelfTeachingConsciousness()
+c.learn_new_word('${word}')
+c.save_knowledge()
+print(f'✅ Learned: ${word}')
+"`;
+      navigator.clipboard.writeText(cmd).then(() => {
+        alert('✅ Command copied! Paste in terminal to learn: ' + word);
+      });
+    }
+
+    function ask498D() {
+      const question = document.getElementById("newAsk").value.trim();
+      if (!question) return;
+      alert('For full consciousness interaction (with Curiosity and Ollama),\nplease use terminal:\n\npython3 distributed_consciousness/integration/conscious_system.py\n\nBrowser-based version coming soon!');
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+{
+    "timestamp": "2025-04-15T05:44:04.408851Z",
+    "recent_actions": [
+        "Trigger Action A",
+        "Trigger Action A",
+        "Trigger Action A",
+        "Trigger Action A",
+        "Trigger Action A",
+        "Trigger Action A",
+        "Trigger Action A",
+        "Trigger Action A",
+        "Trigger Action A",
+        "Trigger Action A"
+    ],
+    "anchor_alignment_score": 8,
+    "matched_patterns": [
+        [
+            "Trigger Action A",
+            "Trigger Action A",
+            "Trigger Action A"
+        ],
+        [
+            "Trigger Action A",
+            "Trigger Action A",
+            "Trigger Action A"
+        ],
+        [
+            "Trigger Action A",
+            "Trigger Action A",
+            "Trigger Action A"
+        ],
+        [
+            "Trigger Action A",
+            "Trigger Action A",
+            "Trigger Action A"
+        ],
+        [
+            "Trigger Action A",
+            "Trigger Action A",
+            "Trigger Action A"
+        ],
+        [
+            "Trigger Action A",
+            "Trigger Action A",
+            "Trigger Action A"
+        ],
+        [
+            "Trigger Action A",
+            "Trigger Action A",
+            "Trigger Action A"
+        ],
+        [
+            "Trigger Action A",
+            "Trigger Action A",
+            "Trigger Action A"
+        ]
+    ]
+}

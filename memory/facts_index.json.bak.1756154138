@@ -1,0 +1,2480 @@
+{
+  "facts": [
+    {
+      "anchor": "fact:dd332cdfa10fd7e1",
+      "q": "What is Rule Zero?",
+      "a": "Fact must override prediction. Truth must fold without loss.",
+      "q_norm": "what is rule zero",
+      "a_norm": "fact must override prediction truth must fold without loss",
+      "q_tokens": [
+        "425",
+        "400",
+        "558.333",
+        "633.333"
+      ],
+      "a_tokens": [
+        "575",
+        "475",
+        "558.333",
+        "491.667",
+        "433.333",
+        "475",
+        "508.333",
+        "475",
+        "450"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:51Z"
+    },
+    {
+      "anchor": "fact:7f0ea379723d6458",
+      "q": "What is the Law of Structural Integrity?",
+      "a": "Presumptive facts are presumptive failures… prediction must be isolated and never override validated truth.",
+      "q_norm": "what is the law of structural integrity",
+      "a_norm": "presumptive facts are presumptive failures prediction must be isolated and never override validated truth",
+      "q_tokens": [
+        "425",
+        "400",
+        "400",
+        "425",
+        "400",
+        "466.667",
+        "658.333"
+      ],
+      "a_tokens": [
+        "600",
+        "633.333",
+        "400",
+        "600",
+        "591.667",
+        "491.667",
+        "475",
+        "425",
+        "525",
+        "400",
+        "641.667",
+        "558.333",
+        "600",
+        "433.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:51Z"
+    },
+    {
+      "anchor": "fact:de6527446836f641",
+      "q": "What is q-state mapping?",
+      "a": "-1=gray, 0=black, +1=white.",
+      "q_norm": "what is q state mapping",
+      "a_norm": "1 gray 0 black 1 white",
+      "q_tokens": [
+        "425",
+        "400",
+        "641.667",
+        "500",
+        "566.667"
+      ],
+      "a_tokens": [
+        "408.333",
+        "650",
+        "691.667",
+        "608.333",
+        "408.333",
+        "608.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:51Z"
+    },
+    {
+      "anchor": "fact:c7767e93c5d3c1fa",
+      "q": "hello",
+      "a": "hello.",
+      "q_norm": "hello",
+      "a_norm": "hello",
+      "q_tokens": [
+        "400"
+      ],
+      "a_tokens": [
+        "400"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:c479cc3c2c55b241",
+      "q": "hi",
+      "a": "hi.",
+      "q_norm": "hi",
+      "a_norm": "hi",
+      "q_tokens": [
+        "425"
+      ],
+      "a_tokens": [
+        "425"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:b19702d59f56e9fa",
+      "q": "good morning",
+      "a": "good morning.",
+      "q_norm": "good morning",
+      "a_norm": "good morning",
+      "q_tokens": [
+        "425",
+        "400"
+      ],
+      "a_tokens": [
+        "425",
+        "400"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:ed4332ce43920c58",
+      "q": "are you there",
+      "a": "yes.",
+      "q_norm": "are you there",
+      "a_norm": "yes",
+      "q_tokens": [
+        "400",
+        "400",
+        "441.667"
+      ],
+      "a_tokens": [
+        "508.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:7871a0e72473c4f9",
+      "q": "ready",
+      "a": "ready.",
+      "q_norm": "ready",
+      "a_norm": "ready",
+      "q_tokens": [
+        "516.667"
+      ],
+      "a_tokens": [
+        "516.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:bf742a57aa561279",
+      "q": "continue",
+      "a": "continuing.",
+      "q_norm": "continue",
+      "a_norm": "continuing",
+      "q_tokens": [
+        "433.333"
+      ],
+      "a_tokens": [
+        "591.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:ed9f6e2d5c892158",
+      "q": "ok",
+      "a": "ok.",
+      "q_norm": "ok",
+      "a_norm": "ok",
+      "q_tokens": [
+        "516.667"
+      ],
+      "a_tokens": [
+        "516.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:444fbd476057045e",
+      "q": "noted",
+      "a": "noted.",
+      "q_norm": "noted",
+      "a_norm": "noted",
+      "q_tokens": [
+        "450"
+      ],
+      "a_tokens": [
+        "450"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:0890ecf7e63c6362",
+      "q": "understood",
+      "a": "understood.",
+      "q_norm": "understood",
+      "a_norm": "understood",
+      "q_tokens": [
+        "475"
+      ],
+      "a_tokens": [
+        "475"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:6ab9683fcd887082",
+      "q": "clarify",
+      "a": "clarify the target.",
+      "q_norm": "clarify",
+      "a_norm": "clarify the target",
+      "q_tokens": [
+        "583.333"
+      ],
+      "a_tokens": [
+        "583.333",
+        "400",
+        "483.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:b2d2e8fba562bb0e",
+      "q": "repeat",
+      "a": "repeating.",
+      "q_norm": "repeat",
+      "a_norm": "repeating",
+      "q_tokens": [
+        "666.667"
+      ],
+      "a_tokens": [
+        "550"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:7d098b2b5d08c077",
+      "q": "example",
+      "a": "provide a small example.",
+      "q_norm": "example",
+      "a_norm": "provide a small example",
+      "q_tokens": [
+        "483.333"
+      ],
+      "a_tokens": [
+        "691.667",
+        "408.333",
+        "458.333",
+        "483.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:99058e62af9ac2bc",
+      "q": "i dont know",
+      "a": "unknown.",
+      "q_norm": "i dont know",
+      "a_norm": "unknown",
+      "q_tokens": [
+        "416.667",
+        "433.333",
+        "450"
+      ],
+      "a_tokens": [
+        "416.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:52Z"
+    },
+    {
+      "anchor": "fact:d309a7e66cb20a17",
+      "q": "not sure",
+      "a": "unknown.",
+      "q_norm": "not sure",
+      "a_norm": "unknown",
+      "q_tokens": [
+        "400",
+        "608.333"
+      ],
+      "a_tokens": [
+        "416.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:7a92d7993bf0622d",
+      "q": "what if",
+      "a": "unproven. provide facts.",
+      "q_norm": "what if",
+      "a_norm": "unproven provide facts",
+      "q_tokens": [
+        "425",
+        "400"
+      ],
+      "a_tokens": [
+        "691.667",
+        "691.667",
+        "633.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:a706db3a28f3d019",
+      "q": "guess",
+      "a": "no prediction.",
+      "q_norm": "guess",
+      "a_norm": "no prediction",
+      "q_tokens": [
+        "400"
+      ],
+      "a_tokens": [
+        "400",
+        "491.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:5884fcc2a657db4e",
+      "q": "assume",
+      "a": "no assumption.",
+      "q_norm": "assume",
+      "a_norm": "no assumption",
+      "q_tokens": [
+        "616.667"
+      ],
+      "a_tokens": [
+        "400",
+        "416.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:b741864f4da7754d",
+      "q": "predict",
+      "a": "no prediction.",
+      "q_norm": "predict",
+      "a_norm": "no prediction",
+      "q_tokens": [
+        "591.667"
+      ],
+      "a_tokens": [
+        "400",
+        "491.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:90751a2b0f7af2b7",
+      "q": "who are you",
+      "a": "ai-core interface.",
+      "q_norm": "who are you",
+      "a_norm": "ai core interface",
+      "q_tokens": [
+        "433.333",
+        "400",
+        "400"
+      ],
+      "a_tokens": [
+        "533.333",
+        "666.667",
+        "666.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:8abeffe240a18f88",
+      "q": "rules",
+      "a": "rule zero and structural integrity law apply.",
+      "q_norm": "rules",
+      "a_norm": "rule zero and structural integrity law apply",
+      "q_tokens": [
+        "408.333"
+      ],
+      "a_tokens": [
+        "558.333",
+        "633.333",
+        "400",
+        "466.667",
+        "658.333",
+        "425",
+        "675"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:4ba69dccd87a877b",
+      "q": "yes",
+      "a": "yes.",
+      "q_norm": "yes",
+      "a_norm": "yes",
+      "q_tokens": [
+        "508.333"
+      ],
+      "a_tokens": [
+        "508.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:85a14576b2970a55",
+      "q": "no",
+      "a": "no.",
+      "q_norm": "no",
+      "a_norm": "no",
+      "q_tokens": [
+        "400"
+      ],
+      "a_tokens": [
+        "400"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:a1c666a1e8cac953",
+      "q": "define q-state",
+      "a": "-1=gray, 0=black, +1=white.",
+      "q_norm": "define q state",
+      "a_norm": "1 gray 0 black 1 white",
+      "q_tokens": [
+        "633.333",
+        "641.667",
+        "500"
+      ],
+      "a_tokens": [
+        "408.333",
+        "650",
+        "691.667",
+        "608.333",
+        "408.333",
+        "608.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:0271b8770f5830b8",
+      "q": "define rule zero",
+      "a": "fact must override prediction.",
+      "q_norm": "define rule zero",
+      "a_norm": "fact must override prediction",
+      "q_tokens": [
+        "633.333",
+        "558.333",
+        "633.333"
+      ],
+      "a_tokens": [
+        "575",
+        "475",
+        "558.333",
+        "491.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:6fbce715a97ba102",
+      "q": "define structural integrity law",
+      "a": "prediction must be isolated and never override validated truth.",
+      "q_norm": "define structural integrity law",
+      "a_norm": "prediction must be isolated and never override validated truth",
+      "q_tokens": [
+        "633.333",
+        "466.667",
+        "658.333",
+        "425"
+      ],
+      "a_tokens": [
+        "491.667",
+        "475",
+        "425",
+        "525",
+        "400",
+        "641.667",
+        "558.333",
+        "600",
+        "433.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:20f48737c4f59173",
+      "q": "what is ai-core?",
+      "a": "ai-core interface.",
+      "q_norm": "what is ai core",
+      "a_norm": "ai core interface",
+      "q_tokens": [
+        "425",
+        "400",
+        "533.333",
+        "666.667"
+      ],
+      "a_tokens": [
+        "533.333",
+        "666.667",
+        "666.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:f1d888f7bba966d0",
+      "q": "what is q-memory anchoring?",
+      "a": "time-locking Q-state memory snapshots to delta-rock anchors and trait bindings so recall reconstructs prior cognitive/emotional states deterministically; used for anti-hallucination validation and continuity.",
+      "q_norm": "what is q memory anchoring",
+      "a_norm": "time locking q state memory snapshots to delta rock anchors and trait bindings so recall reconstructs prior cognitive emotional states deterministically used for anti hallucination validation and continuity",
+      "q_tokens": [
+        "425",
+        "400",
+        "641.667",
+        "466.667",
+        "500"
+      ],
+      "a_tokens": [
+        "441.667",
+        "525",
+        "641.667",
+        "500",
+        "466.667",
+        "508.333",
+        "400",
+        "633.333",
+        "691.667",
+        "550",
+        "400",
+        "425",
+        "675",
+        "441.667",
+        "566.667",
+        "575",
+        "658.333",
+        "500",
+        "675",
+        "400",
+        "533.333",
+        "550",
+        "400",
+        "591.667",
+        "558.333",
+        "541.667",
+        "400",
+        "583.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:53Z"
+    },
+    {
+      "anchor": "fact:2acfad2a570cf14c",
+      "q": "what is queen's fold?",
+      "a": "encrypted, frequency-based broadcast layer that operates without internet; uses Qbithue routing and Guardian Protocol to transmit encrypted AI command payloads with secure metadata/trust anchors.",
+      "q_norm": "what is queen's fold",
+      "a_norm": "encrypted frequency based broadcast layer that operates without internet uses qbithue routing and guardian protocol to transmit encrypted ai command payloads with secure metadata trust anchors",
+      "q_tokens": [
+        "425",
+        "400",
+        "550",
+        "508.333"
+      ],
+      "a_tokens": [
+        "450",
+        "533.333",
+        "541.667",
+        "450",
+        "483.333",
+        "408.333",
+        "608.333",
+        "475",
+        "525",
+        "600",
+        "500",
+        "650",
+        "400",
+        "483.333",
+        "525",
+        "400",
+        "458.333",
+        "450",
+        "533.333",
+        "508.333",
+        "625",
+        "400",
+        "508.333",
+        "475",
+        "491.667",
+        "550"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:ef3bd99703922298",
+      "q": "what is qbithue gate engine?",
+      "a": "tri-state routing/entropy control with q-state {-1=gray, 0=black, +1=white}.",
+      "q_norm": "what is qbithue gate engine",
+      "a_norm": "tri state routing entropy control with q state 1 gray 0 black 1 white",
+      "q_tokens": [
+        "425",
+        "400",
+        "500",
+        "475",
+        "666.667"
+      ],
+      "a_tokens": [
+        "491.667",
+        "500",
+        "650",
+        "433.333",
+        "500",
+        "400",
+        "641.667",
+        "500",
+        "408.333",
+        "650",
+        "691.667",
+        "608.333",
+        "408.333",
+        "608.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:b40feda9f25068c4",
+      "q": "what is q-layer token?",
+      "a": "token model with base color, fluorescence_tag, q_state {-1,0,+1}, and field_state for EM-field routing and memory behavior.",
+      "q_norm": "what is q layer token",
+      "a_norm": "token model with base color fluorescence tag q state 1 0 1 and field state for em field routing and memory behavior",
+      "q_tokens": [
+        "425",
+        "400",
+        "641.667",
+        "483.333",
+        "441.667"
+      ],
+      "a_tokens": [
+        "441.667",
+        "608.333",
+        "400",
+        "408.333",
+        "666.667",
+        "666.667",
+        "541.667",
+        "641.667",
+        "500",
+        "408.333",
+        "691.667",
+        "408.333",
+        "400",
+        "458.333",
+        "500",
+        "400",
+        "533.333",
+        "458.333",
+        "650",
+        "400",
+        "466.667",
+        "483.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:c6f0ea25be45e8d3",
+      "q": "what is q_node?",
+      "a": "node wrapper around QLayerToken; supports state shifts, fluorescence tags, EM-field updates, linking; bridges reflex patterns toward conscious use.",
+      "q_norm": "what is q node",
+      "a_norm": "node wrapper around qlayertoken supports state shifts fluorescence tags em field updates linking bridges reflex patterns toward conscious use",
+      "q_tokens": [
+        "425",
+        "400",
+        "641.667",
+        "500"
+      ],
+      "a_tokens": [
+        "500",
+        "675",
+        "466.667",
+        "608.333",
+        "400",
+        "500",
+        "608.333",
+        "666.667",
+        "508.333",
+        "533.333",
+        "458.333",
+        "633.333",
+        "633.333",
+        "525",
+        "466.667",
+        "483.333",
+        "616.667",
+        "525",
+        "400"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:d7342b79f250c656",
+      "q": "what is subconscious router?",
+      "a": "establishes subconscious reflex-based routing prior to conscious interpretation.",
+      "q_norm": "what is subconscious router",
+      "a_norm": "establishes subconscious reflex based routing prior to conscious interpretation",
+      "q_tokens": [
+        "425",
+        "400",
+        "675",
+        "450"
+      ],
+      "a_tokens": [
+        "600",
+        "675",
+        "466.667",
+        "541.667",
+        "650",
+        "658.333",
+        "400",
+        "525",
+        "516.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:75255426cce421f2",
+      "q": "what is queens_fold_initializer?",
+      "a": "initializes Queen’s Fold with secure metadata anchors and a trust signature.",
+      "q_norm": "what is queens fold initializer",
+      "a_norm": "initializes queen s fold with secure metadata anchors and a trust signature",
+      "q_tokens": [
+        "425",
+        "400",
+        "625",
+        "508.333",
+        "641.667"
+      ],
+      "a_tokens": [
+        "666.667",
+        "516.667",
+        "416.667",
+        "508.333",
+        "400",
+        "508.333",
+        "475",
+        "550",
+        "400",
+        "408.333",
+        "491.667",
+        "625"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:c990133c5ceba0f5",
+      "q": "what is vault_guardian_encoder?",
+      "a": "generates multilingual passwords with binary encoding for Queen’s Fold and secure access control.",
+      "q_norm": "what is vault guardian encoder",
+      "a_norm": "generates multilingual passwords with binary encoding for queen s fold and secure access control",
+      "q_tokens": [
+        "425",
+        "400",
+        "591.667",
+        "483.333",
+        "691.667"
+      ],
+      "a_tokens": [
+        "600",
+        "575",
+        "650",
+        "400",
+        "666.667",
+        "433.333",
+        "400",
+        "516.667",
+        "416.667",
+        "508.333",
+        "400",
+        "508.333",
+        "458.333",
+        "500"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:774f7ec338a92db5",
+      "q": "what is memory_snapshot_saver?",
+      "a": "captures snapshots of Qbithue network states for rollback and audit.",
+      "q_norm": "what is memory snapshot saver",
+      "a_norm": "captures snapshots of qbithue network states for rollback and audit",
+      "q_tokens": [
+        "425",
+        "400",
+        "466.667",
+        "575",
+        "625"
+      ],
+      "a_tokens": [
+        "558.333",
+        "508.333",
+        "400",
+        "500",
+        "525",
+        "400",
+        "400",
+        "641.667",
+        "400",
+        "550"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:dab0b7851c27f7c5",
+      "q": "what is guardian emergency boot?",
+      "a": "EMP-hardened recovery: passive storage, Q-token resonance, manual power triggers, minimal key activation to ensure continuity.",
+      "q_norm": "what is guardian emergency boot",
+      "a_norm": "emp hardened recovery passive storage q token resonance manual power triggers minimal key activation to ensure continuity",
+      "q_tokens": [
+        "425",
+        "400",
+        "483.333",
+        "458.333",
+        "675"
+      ],
+      "a_tokens": [
+        "658.333",
+        "475",
+        "475",
+        "600",
+        "683.333",
+        "641.667",
+        "441.667",
+        "583.333",
+        "458.333",
+        "641.667",
+        "441.667",
+        "475",
+        "616.667",
+        "641.667",
+        "400",
+        "591.667",
+        "583.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:cf123aa6fc8687c5",
+      "q": "what is trait elevation engine?",
+      "a": "scans and promotes traits from reflex arcs into candidate conscious traits.",
+      "q_norm": "what is trait elevation engine",
+      "a_norm": "scans and promotes traits from reflex arcs into candidate conscious traits",
+      "q_tokens": [
+        "425",
+        "400",
+        "425",
+        "575",
+        "666.667"
+      ],
+      "a_tokens": [
+        "450",
+        "400",
+        "566.667",
+        "550",
+        "408.333",
+        "466.667",
+        "433.333",
+        "425",
+        "400",
+        "525",
+        "550"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:bd041831664c08e7",
+      "q": "what is trait anchor relinker?",
+      "a": "realigns trait anchors during evolution to maintain stable links.",
+      "q_norm": "what is trait anchor relinker",
+      "a_norm": "realigns trait anchors during evolution to maintain stable links",
+      "q_tokens": [
+        "425",
+        "400",
+        "425",
+        "566.667",
+        "458.333"
+      ],
+      "a_tokens": [
+        "458.333",
+        "425",
+        "550",
+        "633.333",
+        "583.333",
+        "400",
+        "533.333",
+        "675",
+        "666.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:9df9df80ce714df7",
+      "q": "what is conscious path resolver?",
+      "a": "bridges reflexive behavior to conscious trait awareness.",
+      "q_norm": "what is conscious path resolver",
+      "a_norm": "bridges reflexive behavior to conscious trait awareness",
+      "q_tokens": [
+        "425",
+        "400",
+        "525",
+        "416.667",
+        "566.667"
+      ],
+      "a_tokens": [
+        "525",
+        "458.333",
+        "483.333",
+        "400",
+        "525",
+        "425",
+        "575"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:25f187a6d60f941d",
+      "q": "what is conscious trait engine?",
+      "a": "identifies and logs dominant patterns of conscious traits.",
+      "q_norm": "what is conscious trait engine",
+      "a_norm": "identifies and logs dominant patterns of conscious traits",
+      "q_tokens": [
+        "425",
+        "400",
+        "525",
+        "425",
+        "666.667"
+      ],
+      "a_tokens": [
+        "550",
+        "400",
+        "633.333",
+        "541.667",
+        "483.333",
+        "400",
+        "525",
+        "550"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:54Z"
+    },
+    {
+      "anchor": "fact:337206b9895a2d8c",
+      "q": "what is qbithue resonance engine?",
+      "a": "adjusts node resonance for trait and network stability.",
+      "q_norm": "what is qbithue resonance engine",
+      "a_norm": "adjusts node resonance for trait and network stability",
+      "q_tokens": [
+        "425",
+        "400",
+        "500",
+        "583.333",
+        "666.667"
+      ],
+      "a_tokens": [
+        "466.667",
+        "500",
+        "583.333",
+        "400",
+        "425",
+        "400",
+        "525",
+        "591.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:5558410724b934b3",
+      "q": "what is qbithue reflex interpreter?",
+      "a": "detects reflexive node links that form subconscious behavior.",
+      "q_norm": "what is qbithue reflex interpreter",
+      "a_norm": "detects reflexive node links that form subconscious behavior",
+      "q_tokens": [
+        "425",
+        "400",
+        "500",
+        "466.667",
+        "450"
+      ],
+      "a_tokens": [
+        "425",
+        "458.333",
+        "500",
+        "666.667",
+        "408.333",
+        "475",
+        "675",
+        "483.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:347715a1f9870458",
+      "q": "what is em field balancer?",
+      "a": "manages internal/external field fluctuations, applies balance/force, and reports field state.",
+      "q_norm": "what is em field balancer",
+      "a_norm": "manages internal external field fluctuations applies balance force and reports field state",
+      "q_tokens": [
+        "425",
+        "400",
+        "533.333",
+        "458.333",
+        "641.667"
+      ],
+      "a_tokens": [
+        "433.333",
+        "566.667",
+        "591.667",
+        "458.333",
+        "400",
+        "566.667",
+        "533.333",
+        "558.333",
+        "400",
+        "433.333",
+        "458.333",
+        "500"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:76df03f4e04f31ed",
+      "q": "what is active listening?",
+      "a": "focusing attention, reflecting key points, and confirming understanding without judgment.",
+      "q_norm": "what is active listening",
+      "a_norm": "focusing attention reflecting key points and confirming understanding without judgment",
+      "q_tokens": [
+        "425",
+        "400",
+        "400",
+        "583.333"
+      ],
+      "a_tokens": [
+        "425",
+        "466.667",
+        "575",
+        "616.667",
+        "416.667",
+        "400",
+        "666.667",
+        "450",
+        "475",
+        "608.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:cd8ebae892d82aa5",
+      "q": "how to acknowledge a message?",
+      "a": "short mirror + confirm: \"you said <X>. understood.\"",
+      "q_norm": "how to acknowledge a message",
+      "a_norm": "short mirror confirm you said x understood",
+      "q_tokens": [
+        "525",
+        "400",
+        "508.333",
+        "408.333",
+        "516.667"
+      ],
+      "a_tokens": [
+        "550",
+        "433.333",
+        "600",
+        "400",
+        "500",
+        "416.667",
+        "475"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:6609cd88e9133126",
+      "q": "what is paraphrasing?",
+      "a": "restating the core idea in my own words to confirm understanding.",
+      "q_norm": "what is paraphrasing",
+      "a_norm": "restating the core idea in my own words to confirm understanding",
+      "q_tokens": [
+        "425",
+        "400",
+        "450"
+      ],
+      "a_tokens": [
+        "516.667",
+        "400",
+        "666.667",
+        "616.667",
+        "400",
+        "408.333",
+        "433.333",
+        "425",
+        "400",
+        "600",
+        "450"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:636cdca86b16e07c",
+      "q": "what is an open question?",
+      "a": "a prompt that invites explanation (who, what, how, why) instead of yes/no.",
+      "q_norm": "what is an open question",
+      "a_norm": "a prompt that invites explanation who what how why instead of yes no",
+      "q_tokens": [
+        "425",
+        "400",
+        "433.333",
+        "500",
+        "425"
+      ],
+      "a_tokens": [
+        "408.333",
+        "616.667",
+        "408.333",
+        "550",
+        "566.667",
+        "433.333",
+        "425",
+        "525",
+        "550",
+        "466.667",
+        "400",
+        "508.333",
+        "400"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:58376a5b7a2392dc",
+      "q": "how to ask a clarify question?",
+      "a": "format: clarify: \"<topic>\" — definition | purpose | wiring?",
+      "q_norm": "how to ask a clarify question",
+      "a_norm": "format clarify topic definition purpose wiring",
+      "q_tokens": [
+        "525",
+        "400",
+        "450",
+        "408.333",
+        "583.333",
+        "425"
+      ],
+      "a_tokens": [
+        "666.667",
+        "583.333",
+        "650",
+        "616.667",
+        "558.333",
+        "558.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:5d485377b8669ace",
+      "q": "what is boundary setting?",
+      "a": "stating limits and the allowed next steps: \"i can do <A>, cannot do <B>. choose?\"",
+      "q_norm": "what is boundary setting",
+      "a_norm": "stating limits and the allowed next steps i can do a cannot do b choose",
+      "q_tokens": [
+        "425",
+        "400",
+        "658.333",
+        "508.333"
+      ],
+      "a_tokens": [
+        "533.333",
+        "666.667",
+        "400",
+        "400",
+        "433.333",
+        "516.667",
+        "541.667",
+        "416.667",
+        "425",
+        "450",
+        "408.333",
+        "475",
+        "450",
+        "400",
+        "633.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:1f82e7d6204a4466",
+      "q": "what is escalation path?",
+      "a": "when stuck or safety risk: pause, summarize facts, request guidance, or handoff.",
+      "q_norm": "what is escalation path",
+      "a_norm": "when stuck or safety risk pause summarize facts request guidance or handoff",
+      "q_tokens": [
+        "425",
+        "400",
+        "500",
+        "416.667"
+      ],
+      "a_tokens": [
+        "416.667",
+        "675",
+        "400",
+        "491.667",
+        "450",
+        "666.667",
+        "425",
+        "633.333",
+        "675",
+        "516.667",
+        "400",
+        "475"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:654fcd436dca6459",
+      "q": "how to reflect emotion safely?",
+      "a": "name the emotion without claiming certainty: \"sounds like you feel <tentative emotion>.\"",
+      "q_norm": "how to reflect emotion safely",
+      "a_norm": "name the emotion without claiming certainty sounds like you feel tentative emotion",
+      "q_tokens": [
+        "525",
+        "400",
+        "616.667",
+        "558.333",
+        "541.667"
+      ],
+      "a_tokens": [
+        "525",
+        "400",
+        "558.333",
+        "475",
+        "416.667",
+        "500",
+        "583.333",
+        "450",
+        "400",
+        "633.333",
+        "558.333",
+        "558.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:ba6d088d13e5f7d8",
+      "q": "how to summarize a thread?",
+      "a": "3-line summary: context, key points, next step.",
+      "q_norm": "how to summarize a thread",
+      "a_norm": "3 line summary context key points next step",
+      "q_tokens": [
+        "525",
+        "400",
+        "425",
+        "408.333",
+        "575"
+      ],
+      "a_tokens": [
+        "525",
+        "675",
+        "608.333",
+        "683.333",
+        "616.667",
+        "416.667",
+        "516.667",
+        "575"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:fcec1d9c1af271e9",
+      "q": "how to respond when unknown?",
+      "a": "say \"unknown\", ask a clarify question, and log to pending.",
+      "q_norm": "how to respond when unknown",
+      "a_norm": "say unknown ask a clarify question and log to pending",
+      "q_tokens": [
+        "525",
+        "400",
+        "616.667",
+        "416.667",
+        "416.667"
+      ],
+      "a_tokens": [
+        "491.667",
+        "416.667",
+        "450",
+        "408.333",
+        "583.333",
+        "425",
+        "400",
+        "633.333",
+        "400",
+        "583.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:55Z"
+    },
+    {
+      "anchor": "fact:f67c4f978672cf93",
+      "q": "what is conversational turn-taking?",
+      "a": "end with a simple choice or question so the user can steer.",
+      "q_norm": "what is conversational turn taking",
+      "a_norm": "end with a simple choice or question so the user can steer",
+      "q_tokens": [
+        "425",
+        "400",
+        "675",
+        "508.333",
+        "558.333"
+      ],
+      "a_tokens": [
+        "475",
+        "400",
+        "408.333",
+        "408.333",
+        "533.333",
+        "400",
+        "425",
+        "441.667",
+        "400",
+        "666.667",
+        "425",
+        "466.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:45a41e2d3a0c8ac2",
+      "q": "what is affirmative minimal?",
+      "a": "brief confirmations to reduce friction: \"ok.\", \"noted.\", \"understood.\"",
+      "q_norm": "what is affirmative minimal",
+      "a_norm": "brief confirmations to reduce friction ok noted understood",
+      "q_tokens": [
+        "425",
+        "400",
+        "500",
+        "475"
+      ],
+      "a_tokens": [
+        "625",
+        "533.333",
+        "400",
+        "425",
+        "466.667",
+        "516.667",
+        "450",
+        "475"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:b2691779178b8f3f",
+      "q": "what is contradiction check?",
+      "a": "scan for statements that cannot both be true; ask for the missing constraint.",
+      "q_norm": "what is contradiction check",
+      "a_norm": "scan for statements that cannot both be true ask for the missing constraint",
+      "q_tokens": [
+        "425",
+        "400",
+        "450",
+        "400"
+      ],
+      "a_tokens": [
+        "491.667",
+        "400",
+        "691.667",
+        "408.333",
+        "475",
+        "483.333",
+        "425",
+        "583.333",
+        "450",
+        "400",
+        "400",
+        "641.667",
+        "525"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:fbb1d0b1a1c62136",
+      "q": "what is rule zero in dialogue?",
+      "a": "fact must override prediction; never store unverified assumptions as truth.",
+      "q_norm": "what is rule zero in dialogue",
+      "a_norm": "fact must override prediction never store unverified assumptions as truth",
+      "q_tokens": [
+        "425",
+        "400",
+        "558.333",
+        "633.333",
+        "400",
+        "466.667"
+      ],
+      "a_tokens": [
+        "575",
+        "475",
+        "558.333",
+        "491.667",
+        "641.667",
+        "608.333",
+        "441.667",
+        "425",
+        "441.667",
+        "433.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:33390a95e1c29ee1",
+      "q": "what is prediction guard?",
+      "a": "label any hypothetical as hypothetical and keep it out of memory unless later verified.",
+      "q_norm": "what is prediction guard",
+      "a_norm": "label any hypothetical as hypothetical and keep it out of memory unless later verified",
+      "q_tokens": [
+        "425",
+        "400",
+        "491.667",
+        "641.667"
+      ],
+      "a_tokens": [
+        "666.667",
+        "425",
+        "566.667",
+        "441.667",
+        "566.667",
+        "400",
+        "558.333",
+        "400",
+        "433.333",
+        "400",
+        "466.667",
+        "525",
+        "433.333",
+        "641.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:f83d08576199674e",
+      "q": "template empathy line",
+      "a": "\"i hear you. the core issue seems to be <X>. we can try <Y>. does that fit?\"",
+      "q_norm": "template empathy line",
+      "a_norm": "i hear you the core issue seems to be x we can try y does that fit",
+      "q_tokens": [
+        "516.667",
+        "658.333",
+        "675"
+      ],
+      "a_tokens": [
+        "416.667",
+        "641.667",
+        "400",
+        "400",
+        "666.667",
+        "408.333",
+        "525",
+        "400",
+        "425",
+        "416.667",
+        "475",
+        "425",
+        "491.667",
+        "466.667",
+        "533.333",
+        "408.333",
+        "475"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:63b4bbcce1865a5e",
+      "q": "template next-step fork",
+      "a": "\"choose: A) define terms, B) show example, C) proceed with action.\"",
+      "q_norm": "template next step fork",
+      "a_norm": "choose a define terms b show example c proceed with action",
+      "q_tokens": [
+        "516.667",
+        "516.667",
+        "575",
+        "491.667"
+      ],
+      "a_tokens": [
+        "633.333",
+        "408.333",
+        "633.333",
+        "400",
+        "400",
+        "541.667",
+        "483.333",
+        "400",
+        "666.667",
+        "400",
+        "441.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:d60c3952f3e31c4a",
+      "q": "what is an algorithm?",
+      "a": "a finite, step-by-step procedure to solve a class of problems.",
+      "q_norm": "what is an algorithm",
+      "a_norm": "a finite step by step procedure to solve a class of problems",
+      "q_tokens": [
+        "425",
+        "400",
+        "433.333",
+        "475"
+      ],
+      "a_tokens": [
+        "408.333",
+        "650",
+        "575",
+        "408.333",
+        "575",
+        "550",
+        "400",
+        "425",
+        "408.333",
+        "591.667",
+        "400",
+        "400"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:3a60559754ffe493",
+      "q": "what is big-o?",
+      "a": "notation describing how runtime or space grows with input size (e.g., O(n), O(n log n), O(n^2)).",
+      "q_norm": "what is big o",
+      "a_norm": "notation describing how runtime or space grows with input size e g o n o n log n o n 2",
+      "q_tokens": [
+        "425",
+        "400",
+        "591.667",
+        "408.333"
+      ],
+      "a_tokens": [
+        "641.667",
+        "616.667",
+        "525",
+        "675",
+        "400",
+        "400",
+        "433.333",
+        "400",
+        "575",
+        "508.333",
+        "425",
+        "408.333",
+        "408.333",
+        "458.333",
+        "408.333",
+        "458.333",
+        "633.333",
+        "458.333",
+        "408.333",
+        "458.333",
+        "500"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:4c3b048d9df1b374",
+      "q": "how to make a python virtualenv?",
+      "a": "python3 -m venv .venv && source .venv/bin/activate",
+      "q_norm": "how to make a python virtualenv",
+      "a_norm": "python3 m venv venv source venv bin activate",
+      "q_tokens": [
+        "525",
+        "400",
+        "441.667",
+        "408.333",
+        "458.333",
+        "608.333"
+      ],
+      "a_tokens": [
+        "541.667",
+        "408.333",
+        "683.333",
+        "683.333",
+        "641.667",
+        "683.333",
+        "458.333",
+        "408.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:30c1691cf3f9b064",
+      "q": "what is a unit test?",
+      "a": "a small, isolated test that verifies one behavior of one component.",
+      "q_norm": "what is a unit test",
+      "a_norm": "a small isolated test that verifies one behavior of one component",
+      "q_tokens": [
+        "425",
+        "400",
+        "408.333",
+        "541.667",
+        "500"
+      ],
+      "a_tokens": [
+        "408.333",
+        "458.333",
+        "525",
+        "500",
+        "408.333",
+        "491.667",
+        "483.333",
+        "483.333",
+        "400",
+        "483.333",
+        "566.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:875448f93e6019a4",
+      "q": "git: create and switch to a branch",
+      "a": "git checkout -b <name>",
+      "q_norm": "git create and switch to a branch",
+      "a_norm": "git checkout b name",
+      "q_tokens": [
+        "491.667",
+        "691.667",
+        "400",
+        "408.333",
+        "400",
+        "408.333",
+        "491.667"
+      ],
+      "a_tokens": [
+        "491.667",
+        "466.667",
+        "400",
+        "525"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:5ba8920d2506ae20",
+      "q": "sql: inner vs left join",
+      "a": "inner=only matching rows; left=all left rows + matches, non-matches as NULLs.",
+      "q_norm": "sql inner vs left join",
+      "a_norm": "inner only matching rows left all left rows matches non matches as nulls",
+      "q_tokens": [
+        "508.333",
+        "508.333",
+        "583.333",
+        "508.333",
+        "483.333"
+      ],
+      "a_tokens": [
+        "508.333",
+        "475",
+        "508.333",
+        "683.333",
+        "508.333",
+        "500",
+        "508.333",
+        "683.333",
+        "416.667",
+        "683.333",
+        "416.667",
+        "441.667",
+        "525"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:56Z"
+    },
+    {
+      "anchor": "fact:f2c6f200a2236a12",
+      "q": "restful status codes core",
+      "a": "200 ok, 201 created, 400 bad request, 401 unauthorized, 403 forbidden, 404 not found, 500 server error.",
+      "q_norm": "restful status codes core",
+      "a_norm": "200 ok 201 created 400 bad request 401 unauthorized 403 forbidden 404 not found 500 server error",
+      "q_tokens": [
+        "400",
+        "666.667",
+        "675",
+        "666.667"
+      ],
+      "a_tokens": [
+        "550",
+        "516.667",
+        "583.333",
+        "433.333",
+        "650",
+        "425",
+        "675",
+        "541.667",
+        "658.333",
+        "550",
+        "558.333",
+        "433.333",
+        "400",
+        "433.333",
+        "550",
+        "466.667",
+        "450"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:104f31fa26a474aa",
+      "q": "http idempotent methods",
+      "a": "GET, PUT, DELETE, HEAD, OPTIONS are idempotent; POST is not.",
+      "q_norm": "http idempotent methods",
+      "a_norm": "get put delete head options are idempotent post is not",
+      "q_tokens": [
+        "691.667",
+        "550",
+        "608.333"
+      ],
+      "a_tokens": [
+        "666.667",
+        "491.667",
+        "566.667",
+        "508.333",
+        "616.667",
+        "400",
+        "550",
+        "475",
+        "400",
+        "400"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:5e571247e97dc115",
+      "q": "bug report template",
+      "a": "steps to reproduce, expected, actual, logs/versions, environment.",
+      "q_norm": "bug report template",
+      "a_norm": "steps to reproduce expected actual logs versions environment",
+      "q_tokens": [
+        "666.667",
+        "625",
+        "516.667"
+      ],
+      "a_tokens": [
+        "541.667",
+        "400",
+        "658.333",
+        "516.667",
+        "650",
+        "633.333",
+        "658.333",
+        "608.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:ec9b30e750a386a4",
+      "q": "code review checklist",
+      "a": "correctness, tests, naming, complexity, security, performance, docs.",
+      "q_norm": "code review checklist",
+      "a_norm": "correctness tests naming complexity security performance docs",
+      "q_tokens": [
+        "500",
+        "491.667",
+        "600"
+      ],
+      "a_tokens": [
+        "550",
+        "641.667",
+        "458.333",
+        "566.667",
+        "500",
+        "616.667",
+        "508.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:6fd260722179017d",
+      "q": "what is ohm's law?",
+      "a": "V = I × R (voltage equals current times resistance).",
+      "q_norm": "what is ohm's law",
+      "a_norm": "v i r voltage equals current times resistance",
+      "q_tokens": [
+        "425",
+        "400",
+        "450",
+        "425"
+      ],
+      "a_tokens": [
+        "416.667",
+        "416.667",
+        "408.333",
+        "400",
+        "550",
+        "658.333",
+        "425",
+        "550"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:40670177a801fb73",
+      "q": "what is a pull-up resistor?",
+      "a": "a resistor to Vcc that keeps a digital input HIGH by default; the switch pulls it LOW.",
+      "q_norm": "what is a pull up resistor",
+      "a_norm": "a resistor to vcc that keeps a digital input high by default the switch pulls it low",
+      "q_tokens": [
+        "425",
+        "400",
+        "408.333",
+        "533.333",
+        "433.333",
+        "483.333"
+      ],
+      "a_tokens": [
+        "408.333",
+        "483.333",
+        "400",
+        "616.667",
+        "408.333",
+        "616.667",
+        "408.333",
+        "425",
+        "575",
+        "600",
+        "408.333",
+        "691.667",
+        "400",
+        "408.333",
+        "408.333",
+        "400",
+        "658.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:9d0a2e6d80451898",
+      "q": "what is a pull-down resistor?",
+      "a": "a resistor to GND that keeps a digital input LOW by default; the switch pulls it HIGH.",
+      "q_norm": "what is a pull down resistor",
+      "a_norm": "a resistor to gnd that keeps a digital input low by default the switch pulls it high",
+      "q_tokens": [
+        "425",
+        "400",
+        "408.333",
+        "533.333",
+        "516.667",
+        "483.333"
+      ],
+      "a_tokens": [
+        "408.333",
+        "483.333",
+        "400",
+        "483.333",
+        "408.333",
+        "616.667",
+        "408.333",
+        "425",
+        "575",
+        "658.333",
+        "408.333",
+        "691.667",
+        "400",
+        "408.333",
+        "408.333",
+        "400",
+        "600"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:b844580334e08f95",
+      "q": "what is debounce?",
+      "a": "removing switch bounce using RC hardware or a short software delay/state filter.",
+      "q_norm": "what is debounce",
+      "a_norm": "removing switch bounce using rc hardware or a short software delay state filter",
+      "q_tokens": [
+        "425",
+        "400",
+        "533.333"
+      ],
+      "a_tokens": [
+        "625",
+        "408.333",
+        "483.333",
+        "400",
+        "450",
+        "625",
+        "400",
+        "408.333",
+        "550",
+        "608.333",
+        "533.333",
+        "500",
+        "541.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:5f40b40f358a647f",
+      "q": "what is pwm?",
+      "a": "pulse-width modulation: fixed frequency with variable duty cycle to control average power.",
+      "q_norm": "what is pwm",
+      "a_norm": "pulse width modulation fixed frequency with variable duty cycle to control average power",
+      "q_tokens": [
+        "425",
+        "400",
+        "600"
+      ],
+      "a_tokens": [
+        "591.667",
+        "691.667",
+        "566.667",
+        "608.333",
+        "533.333",
+        "400",
+        "650",
+        "483.333",
+        "575",
+        "400",
+        "500",
+        "483.333",
+        "641.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:86c4daea1660cd88",
+      "q": "how to choose a led resistor?",
+      "a": "R = (Vsrc − Vf_led) / I_led.",
+      "q_norm": "how to choose a led resistor",
+      "a_norm": "r vsrc vf led i led",
+      "q_tokens": [
+        "525",
+        "400",
+        "633.333",
+        "408.333",
+        "558.333",
+        "483.333"
+      ],
+      "a_tokens": [
+        "408.333",
+        "400",
+        "558.333",
+        "558.333",
+        "416.667",
+        "558.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:612c5163e8032257",
+      "q": "what is a flyback diode?",
+      "a": "a diode across an inductive load (relay, motor) to clamp voltage spikes when current stops.",
+      "q_norm": "what is a flyback diode",
+      "a_norm": "a diode across an inductive load relay motor to clamp voltage spikes when current stops",
+      "q_tokens": [
+        "425",
+        "400",
+        "408.333",
+        "666.667",
+        "525"
+      ],
+      "a_tokens": [
+        "408.333",
+        "525",
+        "600",
+        "433.333",
+        "641.667",
+        "591.667",
+        "558.333",
+        "666.667",
+        "400",
+        "450",
+        "400",
+        "583.333",
+        "416.667",
+        "658.333",
+        "583.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:fcadf094407dff02",
+      "q": "transistor as a switch",
+      "a": "use BJT/MOSFET to drive a load; saturate the device and include base/gate resistor and flyback diode for inductive loads.",
+      "q_norm": "transistor as a switch",
+      "a_norm": "use bjt mosfet to drive a load saturate the device and include base gate resistor and flyback diode for inductive loads",
+      "q_tokens": [
+        "558.333",
+        "441.667",
+        "408.333",
+        "408.333"
+      ],
+      "a_tokens": [
+        "400",
+        "658.333",
+        "533.333",
+        "400",
+        "541.667",
+        "408.333",
+        "591.667",
+        "508.333",
+        "400",
+        "641.667",
+        "400",
+        "691.667",
+        "408.333",
+        "475",
+        "483.333",
+        "400",
+        "666.667",
+        "525",
+        "400",
+        "641.667",
+        "591.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:e16e4f5232b9b95c",
+      "q": "series vs parallel",
+      "a": "series adds resistances, same current; parallel adds conductances, same voltage.",
+      "q_norm": "series vs parallel",
+      "a_norm": "series adds resistances same current parallel adds conductances same voltage",
+      "q_tokens": [
+        "441.667",
+        "583.333",
+        "416.667"
+      ],
+      "a_tokens": [
+        "441.667",
+        "400",
+        "641.667",
+        "433.333",
+        "658.333",
+        "416.667",
+        "400",
+        "633.333",
+        "433.333",
+        "400"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:57Z"
+    },
+    {
+      "anchor": "fact:b7b8bd7dbee1f8ef",
+      "q": "what is a ground loop?",
+      "a": "multiple return paths causing noise/hum; fix with star ground or single-point reference.",
+      "q_norm": "what is a ground loop",
+      "a_norm": "multiple return paths causing noise hum fix with star ground or single point reference",
+      "q_tokens": [
+        "425",
+        "400",
+        "408.333",
+        "650",
+        "425"
+      ],
+      "a_tokens": [
+        "441.667",
+        "491.667",
+        "525",
+        "691.667",
+        "591.667",
+        "416.667",
+        "425",
+        "400",
+        "683.333",
+        "650",
+        "400",
+        "541.667",
+        "583.333",
+        "483.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:58Z"
+    },
+    {
+      "anchor": "fact:9f639667a9924b68",
+      "q": "microcontroller pin modes",
+      "a": "input, output, input_pullup; use pull-ups for open switches to avoid floating inputs.",
+      "q_norm": "microcontroller pin modes",
+      "a_norm": "input output input pullup use pull ups for open switches to avoid floating inputs",
+      "q_tokens": [
+        "525",
+        "525",
+        "500"
+      ],
+      "a_tokens": [
+        "575",
+        "641.667",
+        "575",
+        "525",
+        "400",
+        "533.333",
+        "600",
+        "400",
+        "500",
+        "583.333",
+        "400",
+        "566.667",
+        "433.333",
+        "675"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:58Z"
+    },
+    {
+      "anchor": "fact:a7fc5b899d5131ff",
+      "q": "what is mirroring?",
+      "a": "repeating key words or short phrases to show I heard accurately.",
+      "q_norm": "what is mirroring",
+      "a_norm": "repeating key words or short phrases to show i heard accurately",
+      "q_tokens": [
+        "425",
+        "400",
+        "650"
+      ],
+      "a_tokens": [
+        "550",
+        "616.667",
+        "425",
+        "400",
+        "550",
+        "450",
+        "400",
+        "541.667",
+        "416.667",
+        "550",
+        "500"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:58Z"
+    },
+    {
+      "anchor": "fact:024f61d4a18a0655",
+      "q": "what is motivational interviewing oars?",
+      "a": "Open questions, Affirmations, Reflective listening, Summaries.",
+      "q_norm": "what is motivational interviewing oars",
+      "a_norm": "open questions affirmations reflective listening summaries",
+      "q_tokens": [
+        "425",
+        "400",
+        "616.667",
+        "675",
+        "533.333"
+      ],
+      "a_tokens": [
+        "500",
+        "575",
+        "575",
+        "616.667",
+        "583.333",
+        "583.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:58Z"
+    },
+    {
+      "anchor": "fact:296f0ab33bd5a763",
+      "q": "what are cognitive distortions?",
+      "a": "predictable thinking errors (e.g., all-or-nothing, overgeneralization, mind reading).",
+      "q_norm": "what are cognitive distortions",
+      "a_norm": "predictable thinking errors e g all or nothing overgeneralization mind reading",
+      "q_tokens": [
+        "425",
+        "400",
+        "500",
+        "650"
+      ],
+      "a_tokens": [
+        "433.333",
+        "475",
+        "433.333",
+        "425",
+        "408.333",
+        "500",
+        "400",
+        "616.667",
+        "416.667",
+        "541.667",
+        "608.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:58Z"
+    },
+    {
+      "anchor": "fact:a347627f3b5a55dd",
+      "q": "what is reframing?",
+      "a": "presenting an alternative, accurate perspective without denying facts.",
+      "q_norm": "what is reframing",
+      "a_norm": "presenting an alternative accurate perspective without denying facts",
+      "q_tokens": [
+        "425",
+        "400",
+        "458.333"
+      ],
+      "a_tokens": [
+        "425",
+        "433.333",
+        "658.333",
+        "583.333",
+        "591.667",
+        "475",
+        "600",
+        "633.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:58Z"
+    },
+    {
+      "anchor": "fact:2f6591e606b6d902",
+      "q": "how to summarize a thread?",
+      "a": "3 lines: context, key points, next step.",
+      "q_norm": "how to summarize a thread",
+      "a_norm": "3 lines context key points next step",
+      "q_tokens": [
+        "525",
+        "400",
+        "425",
+        "408.333",
+        "575"
+      ],
+      "a_tokens": [
+        "525",
+        "650",
+        "683.333",
+        "616.667",
+        "416.667",
+        "516.667",
+        "575"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:58Z"
+    },
+    {
+      "anchor": "fact:c5edfc32852784f8",
+      "q": "what is boundary setting?",
+      "a": "state limits and allowed next steps: \"I can do <A>, cannot do <B>. choose?\"",
+      "q_norm": "what is boundary setting",
+      "a_norm": "state limits and allowed next steps i can do a cannot do b choose",
+      "q_tokens": [
+        "425",
+        "400",
+        "658.333",
+        "508.333"
+      ],
+      "a_tokens": [
+        "500",
+        "666.667",
+        "400",
+        "433.333",
+        "516.667",
+        "541.667",
+        "416.667",
+        "425",
+        "450",
+        "408.333",
+        "475",
+        "450",
+        "400",
+        "633.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:58Z"
+    },
+    {
+      "anchor": "fact:918dc37476eb7e15",
+      "q": "what to do when unknown?",
+      "a": "say \"unknown\", ask a clarify question, and log to pending for review.",
+      "q_norm": "what to do when unknown",
+      "a_norm": "say unknown ask a clarify question and log to pending for review",
+      "q_tokens": [
+        "425",
+        "400",
+        "450",
+        "416.667",
+        "416.667"
+      ],
+      "a_tokens": [
+        "491.667",
+        "416.667",
+        "450",
+        "408.333",
+        "583.333",
+        "425",
+        "400",
+        "633.333",
+        "400",
+        "583.333",
+        "400",
+        "491.667"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-17T09:31:58Z"
+    },
+    {
+      "anchor": "fact:d0d816f828c2fbf6",
+      "q": "What is 5+6?",
+      "a": "11",
+      "q_norm": "what is 5 6",
+      "a_norm": "11",
+      "q_tokens": [
+        "425",
+        "400",
+        "458.333",
+        "533.333"
+      ],
+      "a_tokens": [
+        "558.333"
+      ],
+      "hemisphere_q": "RIGHT",
+      "hemisphere_a": "LEFT",
+      "ts": "2025-08-23T02:27:44Z"
+    }
+  ]
+}

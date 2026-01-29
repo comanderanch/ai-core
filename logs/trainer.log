@@ -1,0 +1,1509 @@
+🔥 Initializing Live Weight Trainer...
+
+[✓] MinimalLLM498D initialized
+    Architecture: 498D → 64D → 498D
+    Total parameters: 64,306
+    Learning rate: 0.01
+  ✅ Existing weights loaded
+  ✅ Model loaded (498D → 64D → 498D)
+  ✅ Last trained line: 246
+  ✅ Learning rate: 0.01
+
+======================================================================
+🔥 LIVE WEIGHT TRAINER DAEMON
+======================================================================
+
+Monitoring: /home/comanderanch/ai-core/training_data/user_comm_qa.txt
+Check interval: 10 seconds
+
+Press Ctrl+C to stop
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.1591
+  ✅ Trained through line: 247
+  💾 Weights saved: 06:51:22
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 2152 new facts...
+  📊 Average loss: 0.0275
+  ✅ Trained through line: 3284
+  💾 Weights saved: 06:56:44
+  ⚡ Model improved! (+2152 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0312
+  ✅ Trained through line: 3286
+  💾 Weights saved: 07:04:04
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0313
+  ✅ Trained through line: 3287
+  💾 Weights saved: 07:37:17
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0082
+  ✅ Trained through line: 3296
+  💾 Weights saved: 08:02:19
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0080
+  ✅ Trained through line: 3297
+  💾 Weights saved: 08:04:39
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0107
+  ✅ Trained through line: 3298
+  💾 Weights saved: 08:07:20
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0044
+  ✅ Trained through line: 3299
+  💾 Weights saved: 08:39:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0048
+  ✅ Trained through line: 3302
+  💾 Weights saved: 08:42:53
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0016
+  ✅ Trained through line: 3309
+  💾 Weights saved: 08:49:13
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0048
+  ✅ Trained through line: 3310
+  💾 Weights saved: 08:58:24
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0074
+  ✅ Trained through line: 3319
+  💾 Weights saved: 09:30:17
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0061
+  ✅ Trained through line: 3326
+  💾 Weights saved: 09:51:39
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0056
+  ✅ Trained through line: 3331
+  💾 Weights saved: 12:51:54
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0197
+  ✅ Trained through line: 3338
+  💾 Weights saved: 13:11:25
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0087
+  ✅ Trained through line: 3348
+  💾 Weights saved: 16:10:40
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0240
+  ✅ Trained through line: 3351
+  💾 Weights saved: 16:14:30
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0067
+  ✅ Trained through line: 3352
+  💾 Weights saved: 16:16:50
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0070
+  ✅ Trained through line: 3363
+  💾 Weights saved: 16:19:11
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0086
+  ✅ Trained through line: 3374
+  💾 Weights saved: 16:21:11
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0047
+  ✅ Trained through line: 3381
+  💾 Weights saved: 16:23:31
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0036
+  ✅ Trained through line: 3390
+  💾 Weights saved: 16:26:11
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0054
+  ✅ Trained through line: 3397
+  💾 Weights saved: 16:28:21
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0057
+  ✅ Trained through line: 3404
+  💾 Weights saved: 16:31:02
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0055
+  ✅ Trained through line: 3413
+  💾 Weights saved: 16:33:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0025
+  ✅ Trained through line: 3424
+  💾 Weights saved: 16:36:02
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0019
+  ✅ Trained through line: 3431
+  💾 Weights saved: 16:38:22
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0038
+  ✅ Trained through line: 3440
+  💾 Weights saved: 16:40:53
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0081
+  ✅ Trained through line: 3449
+  💾 Weights saved: 16:43:13
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0053
+  ✅ Trained through line: 3456
+  💾 Weights saved: 16:45:13
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0023
+  ✅ Trained through line: 3463
+  💾 Weights saved: 16:47:13
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0090
+  ✅ Trained through line: 3472
+  💾 Weights saved: 16:49:43
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0089
+  ✅ Trained through line: 3481
+  💾 Weights saved: 16:52:13
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0028
+  ✅ Trained through line: 3486
+  💾 Weights saved: 16:53:54
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0059
+  ✅ Trained through line: 3493
+  💾 Weights saved: 16:56:04
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0056
+  ✅ Trained through line: 3506
+  💾 Weights saved: 16:58:04
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0054
+  ✅ Trained through line: 3511
+  💾 Weights saved: 17:09:05
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0071
+  ✅ Trained through line: 3522
+  💾 Weights saved: 17:20:36
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0045
+  ✅ Trained through line: 3535
+  💾 Weights saved: 17:23:06
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0073
+  ✅ Trained through line: 3542
+  💾 Weights saved: 17:25:16
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0128
+  ✅ Trained through line: 3555
+  💾 Weights saved: 17:27:36
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0104
+  ✅ Trained through line: 3566
+  💾 Weights saved: 17:30:07
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0024
+  ✅ Trained through line: 3571
+  💾 Weights saved: 17:32:17
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0017
+  ✅ Trained through line: 3578
+  💾 Weights saved: 17:34:07
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0033
+  ✅ Trained through line: 3585
+  💾 Weights saved: 17:36:17
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0041
+  ✅ Trained through line: 3590
+  💾 Weights saved: 17:38:37
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 3 new facts...
+  📊 Average loss: 0.0203
+  ✅ Trained through line: 3597
+  💾 Weights saved: 17:40:58
+  ⚡ Model improved! (+3 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0056
+  ✅ Trained through line: 3602
+  💾 Weights saved: 17:42:58
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0047
+  ✅ Trained through line: 3607
+  💾 Weights saved: 17:44:58
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0073
+  ✅ Trained through line: 3614
+  💾 Weights saved: 17:46:48
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0115
+  ✅ Trained through line: 3619
+  💾 Weights saved: 17:48:58
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0074
+  ✅ Trained through line: 3626
+  💾 Weights saved: 17:50:58
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0036
+  ✅ Trained through line: 3635
+  💾 Weights saved: 17:52:48
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0015
+  ✅ Trained through line: 3642
+  💾 Weights saved: 17:54:19
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0033
+  ✅ Trained through line: 3649
+  💾 Weights saved: 17:56:39
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0027
+  ✅ Trained through line: 3658
+  💾 Weights saved: 17:58:49
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0082
+  ✅ Trained through line: 3667
+  💾 Weights saved: 18:00:49
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0030
+  ✅ Trained through line: 3672
+  💾 Weights saved: 18:03:09
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0025
+  ✅ Trained through line: 3677
+  💾 Weights saved: 18:19:01
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0025
+  ✅ Trained through line: 3684
+  💾 Weights saved: 18:21:41
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0057
+  ✅ Trained through line: 3693
+  💾 Weights saved: 18:24:11
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0413
+  ✅ Trained through line: 3700
+  💾 Weights saved: 18:26:41
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0039
+  ✅ Trained through line: 3707
+  💾 Weights saved: 18:28:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0186
+  ✅ Trained through line: 3714
+  💾 Weights saved: 18:30:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0028
+  ✅ Trained through line: 3715
+  💾 Weights saved: 18:32:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0129
+  ✅ Trained through line: 3716
+  💾 Weights saved: 18:34:52
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0343
+  ✅ Trained through line: 3725
+  💾 Weights saved: 18:36:52
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0149
+  ✅ Trained through line: 3736
+  💾 Weights saved: 18:39:33
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0047
+  ✅ Trained through line: 3745
+  💾 Weights saved: 18:42:03
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0014
+  ✅ Trained through line: 3756
+  💾 Weights saved: 18:44:33
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0036
+  ✅ Trained through line: 3769
+  💾 Weights saved: 18:47:03
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0191
+  ✅ Trained through line: 3776
+  💾 Weights saved: 18:49:03
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0080
+  ✅ Trained through line: 3777
+  💾 Weights saved: 18:51:24
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0047
+  ✅ Trained through line: 3786
+  💾 Weights saved: 18:54:04
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0043
+  ✅ Trained through line: 3799
+  💾 Weights saved: 18:56:44
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0018
+  ✅ Trained through line: 3810
+  💾 Weights saved: 19:29:47
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0072
+  ✅ Trained through line: 3811
+  💾 Weights saved: 19:34:07
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0147
+  ✅ Trained through line: 3818
+  💾 Weights saved: 19:51:19
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0127
+  ✅ Trained through line: 3819
+  💾 Weights saved: 19:53:39
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0056
+  ✅ Trained through line: 3832
+  💾 Weights saved: 19:55:39
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0098
+  ✅ Trained through line: 3837
+  💾 Weights saved: 19:58:19
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0202
+  ✅ Trained through line: 3848
+  💾 Weights saved: 20:00:20
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0097
+  ✅ Trained through line: 3849
+  💾 Weights saved: 20:02:50
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0114
+  ✅ Trained through line: 3858
+  💾 Weights saved: 20:04:50
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0157
+  ✅ Trained through line: 3859
+  💾 Weights saved: 20:07:30
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0053
+  ✅ Trained through line: 3866
+  💾 Weights saved: 20:09:30
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0081
+  ✅ Trained through line: 3869
+  💾 Weights saved: 20:11:51
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0178
+  ✅ Trained through line: 3876
+  💾 Weights saved: 20:13:51
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0106
+  ✅ Trained through line: 3877
+  💾 Weights saved: 20:16:21
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0071
+  ✅ Trained through line: 3884
+  💾 Weights saved: 20:18:51
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0020
+  ✅ Trained through line: 3891
+  💾 Weights saved: 20:21:41
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0165
+  ✅ Trained through line: 3896
+  💾 Weights saved: 20:23:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0106
+  ✅ Trained through line: 3897
+  💾 Weights saved: 21:40:58
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0050
+  ✅ Trained through line: 3902
+  💾 Weights saved: 21:47:39
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0088
+  ✅ Trained through line: 3907
+  💾 Weights saved: 21:56:10
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0027
+  ✅ Trained through line: 3914
+  💾 Weights saved: 21:59:10
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0047
+  ✅ Trained through line: 3938
+  💾 Weights saved: 22:01:40
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0097
+  ✅ Trained through line: 3949
+  💾 Weights saved: 22:03:20
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0033
+  ✅ Trained through line: 3950
+  💾 Weights saved: 22:05:20
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0034
+  ✅ Trained through line: 3955
+  💾 Weights saved: 22:06:41
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0037
+  ✅ Trained through line: 3956
+  💾 Weights saved: 22:08:11
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0039
+  ✅ Trained through line: 3957
+  💾 Weights saved: 22:10:21
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0031
+  ✅ Trained through line: 3964
+  💾 Weights saved: 22:12:31
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0091
+  ✅ Trained through line: 3971
+  💾 Weights saved: 22:14:51
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0038
+  ✅ Trained through line: 3978
+  💾 Weights saved: 22:17:22
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0182
+  ✅ Trained through line: 3987
+  💾 Weights saved: 22:19:22
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0142
+  ✅ Trained through line: 3988
+  💾 Weights saved: 22:21:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0087
+  ✅ Trained through line: 3999
+  💾 Weights saved: 22:23:32
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0061
+  ✅ Trained through line: 4006
+  💾 Weights saved: 22:25:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0049
+  ✅ Trained through line: 4015
+  💾 Weights saved: 22:28:02
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0060
+  ✅ Trained through line: 4028
+  💾 Weights saved: 22:30:33
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0057
+  ✅ Trained through line: 4039
+  💾 Weights saved: 22:33:33
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0053
+  ✅ Trained through line: 4050
+  💾 Weights saved: 23:58:00
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0724
+  ✅ Trained through line: 4051
+  💾 Weights saved: 00:01:11
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0233
+  ✅ Trained through line: 4052
+  💾 Weights saved: 00:03:41
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0393
+  ✅ Trained through line: 4061
+  💾 Weights saved: 01:03:16
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0081
+  ✅ Trained through line: 4064
+  💾 Weights saved: 01:06:57
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0032
+  ✅ Trained through line: 4065
+  💾 Weights saved: 01:33:39
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0047
+  ✅ Trained through line: 4070
+  💾 Weights saved: 01:36:49
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0056
+  ✅ Trained through line: 4071
+  💾 Weights saved: 01:41:20
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0036
+  ✅ Trained through line: 4076
+  💾 Weights saved: 01:48:41
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0141
+  ✅ Trained through line: 4087
+  💾 Weights saved: 02:37:05
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0082
+  ✅ Trained through line: 4088
+  💾 Weights saved: 03:26:50
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0051
+  ✅ Trained through line: 4099
+  💾 Weights saved: 03:37:21
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0143
+  ✅ Trained through line: 4106
+  💾 Weights saved: 03:50:22
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0061
+  ✅ Trained through line: 4115
+  💾 Weights saved: 03:57:12
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0053
+  ✅ Trained through line: 4133
+  💾 Weights saved: 04:05:03
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0187
+  ✅ Trained through line: 4142
+  💾 Weights saved: 04:17:54
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0149
+  ✅ Trained through line: 4143
+  💾 Weights saved: 04:19:54
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0411
+  ✅ Trained through line: 4144
+  💾 Weights saved: 04:31:15
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0361
+  ✅ Trained through line: 4145
+  💾 Weights saved: 04:33:26
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0387
+  ✅ Trained through line: 4154
+  💾 Weights saved: 04:35:36
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0442
+  ✅ Trained through line: 4182
+  💾 Weights saved: 04:38:16
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0312
+  ✅ Trained through line: 4211
+  💾 Weights saved: 04:40:36
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0054
+  ✅ Trained through line: 4221
+  💾 Weights saved: 04:42:46
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0899
+  ✅ Trained through line: 4224
+  💾 Weights saved: 04:45:27
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0428
+  ✅ Trained through line: 4252
+  💾 Weights saved: 04:46:47
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0052
+  ✅ Trained through line: 4259
+  💾 Weights saved: 04:48:37
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0112
+  ✅ Trained through line: 4279
+  💾 Weights saved: 04:50:57
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0230
+  ✅ Trained through line: 4290
+  💾 Weights saved: 04:52:57
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0078
+  ✅ Trained through line: 4291
+  💾 Weights saved: 04:55:07
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0040
+  ✅ Trained through line: 4300
+  💾 Weights saved: 04:57:38
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0051
+  ✅ Trained through line: 4307
+  💾 Weights saved: 04:59:38
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0026
+  ✅ Trained through line: 4314
+  💾 Weights saved: 05:02:18
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0177
+  ✅ Trained through line: 4323
+  💾 Weights saved: 05:04:18
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0021
+  ✅ Trained through line: 4324
+  💾 Weights saved: 05:06:18
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0143
+  ✅ Trained through line: 4325
+  💾 Weights saved: 05:08:49
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0102
+  ✅ Trained through line: 4332
+  💾 Weights saved: 05:11:09
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0069
+  ✅ Trained through line: 4337
+  💾 Weights saved: 05:13:39
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0316
+  ✅ Trained through line: 4344
+  💾 Weights saved: 05:30:10
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0194
+  ✅ Trained through line: 4345
+  💾 Weights saved: 05:32:01
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0039
+  ✅ Trained through line: 4352
+  💾 Weights saved: 05:34:01
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 3 new facts...
+  📊 Average loss: 0.0217
+  ✅ Trained through line: 4386
+  💾 Weights saved: 05:36:41
+  ⚡ Model improved! (+3 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0171
+  ✅ Trained through line: 4398
+  💾 Weights saved: 05:38:51
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0072
+  ✅ Trained through line: 4414
+  💾 Weights saved: 05:40:21
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0525
+  ✅ Trained through line: 4427
+  💾 Weights saved: 05:42:32
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 4 new facts...
+  📊 Average loss: 0.0184
+  ✅ Trained through line: 4468
+  💾 Weights saved: 05:45:12
+  ⚡ Model improved! (+4 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0177
+  ✅ Trained through line: 4474
+  💾 Weights saved: 05:47:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0146
+  ✅ Trained through line: 4479
+  💾 Weights saved: 05:49:32
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0070
+  ✅ Trained through line: 4484
+  💾 Weights saved: 05:51:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 7 new facts...
+  📊 Average loss: 0.0102
+  ✅ Trained through line: 4500
+  💾 Weights saved: 05:54:12
+  ⚡ Model improved! (+7 facts)
+
+
+🎓 Training on 2 new facts...
+  📊 Average loss: 0.0460
+  ✅ Trained through line: 4512
+  💾 Weights saved: 05:56:13
+  ⚡ Model improved! (+2 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0323
+  ✅ Trained through line: 4521
+  💾 Weights saved: 05:58:23
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0316
+  ✅ Trained through line: 4539
+  💾 Weights saved: 06:00:23
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0432
+  ✅ Trained through line: 4540
+  💾 Weights saved: 06:02:43
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0142
+  ✅ Trained through line: 4555
+  💾 Weights saved: 06:04:13
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0040
+  ✅ Trained through line: 4562
+  💾 Weights saved: 06:05:43
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.2114
+  ✅ Trained through line: 4581
+  💾 Weights saved: 06:07:34
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0751
+  ✅ Trained through line: 4594
+  💾 Weights saved: 06:09:24
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0249
+  ✅ Trained through line: 4620
+  💾 Weights saved: 06:11:14
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0089
+  ✅ Trained through line: 4636
+  💾 Weights saved: 06:13:24
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0213
+  ✅ Trained through line: 4659
+  💾 Weights saved: 06:15:14
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0047
+  ✅ Trained through line: 4677
+  💾 Weights saved: 06:17:15
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0177
+  ✅ Trained through line: 4697
+  💾 Weights saved: 06:19:55
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0166
+  ✅ Trained through line: 4749
+  💾 Weights saved: 06:22:05
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0137
+  ✅ Trained through line: 4756
+  💾 Weights saved: 06:23:45
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0042
+  ✅ Trained through line: 4763
+  💾 Weights saved: 06:26:05
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0230
+  ✅ Trained through line: 4782
+  💾 Weights saved: 06:28:26
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0041
+  ✅ Trained through line: 4800
+  💾 Weights saved: 06:29:56
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0053
+  ✅ Trained through line: 4810
+  💾 Weights saved: 06:32:56
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0240
+  ✅ Trained through line: 4819
+  💾 Weights saved: 11:58:51
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0268
+  ✅ Trained through line: 4845
+  💾 Weights saved: 12:04:31
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.1235
+  ✅ Trained through line: 4891
+  💾 Weights saved: 12:06:32
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0878
+  ✅ Trained through line: 4896
+  💾 Weights saved: 12:12:12
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0172
+  ✅ Trained through line: 4903
+  💾 Weights saved: 12:25:54
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0078
+  ✅ Trained through line: 4949
+  💾 Weights saved: 12:32:05
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0099
+  ✅ Trained through line: 4972
+  💾 Weights saved: 12:51:37
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0097
+  ✅ Trained through line: 4983
+  💾 Weights saved: 13:04:19
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0052
+  ✅ Trained through line: 4995
+  💾 Weights saved: 13:07:29
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0030
+  ✅ Trained through line: 5000
+  💾 Weights saved: 13:49:44
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0027
+  ✅ Trained through line: 5005
+  💾 Weights saved: 13:53:15
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0025
+  ✅ Trained through line: 5012
+  💾 Weights saved: 14:06:16
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0041
+  ✅ Trained through line: 5021
+  💾 Weights saved: 14:15:17
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0068
+  ✅ Trained through line: 5030
+  💾 Weights saved: 15:24:56
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0492
+  ✅ Trained through line: 5045
+  💾 Weights saved: 16:16:32
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0095
+  ✅ Trained through line: 5063
+  💾 Weights saved: 20:01:09
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0117
+  ✅ Trained through line: 5066
+  💾 Weights saved: 20:03:40
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0766
+  ✅ Trained through line: 5073
+  💾 Weights saved: 20:06:20
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0143
+  ✅ Trained through line: 5078
+  💾 Weights saved: 20:08:40
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0041
+  ✅ Trained through line: 5085
+  💾 Weights saved: 20:11:31
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0061
+  ✅ Trained through line: 5092
+  💾 Weights saved: 20:16:31
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0035
+  ✅ Trained through line: 5099
+  💾 Weights saved: 20:21:42
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0183
+  ✅ Trained through line: 5104
+  💾 Weights saved: 21:13:08
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0138
+  ✅ Trained through line: 5105
+  💾 Weights saved: 22:32:18
+  ⚡ Model improved! (+1 facts)
+
+🔥 Initializing Live Weight Trainer...
+
+[✓] MinimalLLM498D initialized
+    Architecture: 498D → 64D → 498D
+    Total parameters: 64,306
+    Learning rate: 0.01
+  ✅ Existing weights loaded
+  ✅ Model loaded (498D → 64D → 498D)
+  ✅ Last trained line: 5105
+  ✅ Learning rate: 0.01
+
+======================================================================
+🔥 LIVE WEIGHT TRAINER DAEMON
+======================================================================
+
+Monitoring: /home/comanderanch/ai-core/training_data/user_comm_qa.txt
+Check interval: 10 seconds
+
+Press Ctrl+C to stop
+
+🔥 Initializing Live Weight Trainer...
+
+[✓] MinimalLLM498D initialized
+    Architecture: 498D → 64D → 498D
+    Total parameters: 64,306
+    Learning rate: 0.01
+  ✅ Existing weights loaded
+  ✅ Model loaded (498D → 64D → 498D)
+  ✅ Last trained line: 5105
+  ✅ Learning rate: 0.01
+
+======================================================================
+🔥 LIVE WEIGHT TRAINER DAEMON
+======================================================================
+
+Monitoring: /home/comanderanch/ai-core/training_data/user_comm_qa.txt
+Check interval: 10 seconds
+
+Press Ctrl+C to stop
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0039
+  ✅ Trained through line: 5112
+  💾 Weights saved: 17:05:02
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0078
+  ✅ Trained through line: 5117
+  💾 Weights saved: 17:13:13
+  ⚡ Model improved! (+1 facts)
+
+
+🎓 Training on 1 new facts...
+  📊 Average loss: 0.0030
+  ✅ Trained through line: 5128
+  💾 Weights saved: 17:18:33
+  ⚡ Model improved! (+1 facts)
+

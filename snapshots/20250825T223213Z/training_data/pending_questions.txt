@@ -1,0 +1,20 @@
+what is q-memory anchoring?
+what time is it
+what is zero objective
+what re you felling today
+how are you felling?
+tail -n 1 memory/self/state.json
+tail -n 5 memory/self/questions.json
+jq . memory/drift/drift_events.json | head -n 30
+what is gate entropy tuning
+what is big-o?
+what is motivational interviewing oars?
+ok
+psycolagy
+stats
+:teach
+11
+user_comm
+teachlast
+memfacts
+what is a comparitive analysis

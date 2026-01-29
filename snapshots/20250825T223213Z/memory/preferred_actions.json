@@ -1,0 +1,9 @@
+{
+    "timestamp": "2025-04-15T13:04:29.419666Z",
+    "preferred": [
+        {
+            "action": "Trigger Action A",
+            "preference_score": 2.0
+        }
+    ]
+}

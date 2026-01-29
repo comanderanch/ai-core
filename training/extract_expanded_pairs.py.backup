@@ -1,0 +1,222 @@
+"""
+AI-Core: Expanded Semantic Pair Extraction
+===========================================
+Extracts semantic pairs from ALL available sources:
+1. 20 newsgroups CSV (792K lines)
+2. Art of War (7K lines)
+3. Frankenstein (7.7K lines)
+4. Book chunks JSONL
+5. Scraped Q&A
+6. All other text corpora
+
+Target: 1M+ diverse semantic training pairs
+"""
+import json
+import csv
+import re
+from pathlib import Path
+from collections import defaultdict, Counter
+from typing import List, Dict, Tuple
+
+class ExpandedSemanticExtractor:
+    def __init__(self):
+        self.data_dir = Path("/home/comanderanch/ai-core/training_data")
+        self.output_file = Path("expanded_semantic_pairs.txt")
+        self.word_pairs = defaultdict(int)
+        self.pair_contexts = defaultdict(list)
+        
+        # Stop words to skip
+        self.stop_words = {
+            'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 
+            'to', 'for', 'of', 'with', 'by', 'from', 'as', 'is', 'was',
+            'are', 'were', 'been', 'be', 'have', 'has', 'had', 'do', 
+            'does', 'did', 'will', 'would', 'could', 'should', 'may',
+            'might', 'can', 'this', 'that', 'these', 'those', 'i', 'you',
+            'he', 'she', 'it', 'we', 'they', 'them', 'their', 'there'
+        }
+    
+    def clean_word(self, word: str) -> str:
+        """Clean and normalize word."""
+        word = word.lower().strip()
+        word = re.sub(r'[^a-z]', '', word)
+        return word
+    
+    def extract_pairs_from_text(self, text: str, window=3):
+        """Extract word pairs from text using sliding window."""
+        words = [self.clean_word(w) for w in text.split()]
+        words = [w for w in words if w and w not in self.stop_words and len(w) > 2]
+        
+        # Sliding window for co-occurrence
+        for i in range(len(words) - 1):
+            for j in range(i + 1, min(i + window, len(words))):
+                w1, w2 = sorted([words[i], words[j]])
+                if w1 != w2:
+                    pair = f"{w1}:{w2}"
+                    self.word_pairs[pair] += 1
+                    self.pair_contexts[pair].append(text[:100])
+    
+    def process_csv(self, filepath: Path):
+        """Process CSV file (20 newsgroups)."""
+        print(f"Processing {filepath.name}...")
+        count = 0
+        
+        try:
+            with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
+                reader = csv.reader(f)
+                next(reader, None)  # Skip header
+                
+                for row in reader:
+                    if row:
+                        text = ' '.join(row)
+                        self.extract_pairs_from_text(text)
+                        count += 1
+                        
+                        if count % 10000 == 0:
+                            print(f"  Processed {count} rows...")
+        except Exception as e:
+            print(f"  Error: {e}")
+        
+        print(f"  ✓ Completed: {count} rows")
+    
+    def process_txt(self, filepath: Path):
+        """Process text file."""
+        print(f"Processing {filepath.name}...")
+        
+        try:
+            with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
+                content = f.read()
+                
+                # Split into sentences
+                sentences = re.split(r'[.!?]+', content)
+                
+                for sentence in sentences:
+                    if len(sentence.strip()) > 20:
+                        self.extract_pairs_from_text(sentence)
+            
+            print(f"  ✓ Completed: {len(sentences)} sentences")
+        except Exception as e:
+            print(f"  Error: {e}")
+    
+    def process_jsonl(self, filepath: Path):
+        """Process JSONL file."""
+        print(f"Processing {filepath.name}...")
+        count = 0
+        
+        try:
+            with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
+                for line in f:
+                    try:
+                        data = json.loads(line)
+                        
+                        # Extract text from various fields
+                        text = ""
+                        if 'text' in data:
+                            text = data['text']
+                        elif 'content' in data:
+                            text = data['content']
+                        elif 'question' in data and 'answer' in data:
+                            text = f"{data['question']} {data['answer']}"
+                        
+                        if text:
+                            self.extract_pairs_from_text(text)
+                            count += 1
+                    except:
+                        continue
+            
+            print(f"  ✓ Completed: {count} entries")
+        except Exception as e:
+            print(f"  Error: {e}")
+    
+    def process_all_sources(self):
+        """Process all data sources."""
+        print("=" * 60)
+        print("EXPANDED SEMANTIC PAIR EXTRACTION")
+        print("=" * 60)
+        print()
+        
+        # 1. Process 20 newsgroups CSV
+        newsgroups = self.data_dir / "20newsgroup_preprocessed.csv"
+        if newsgroups.exists():
+            self.process_csv(newsgroups)
+        
+        # 2. Process text files
+        text_files = [
+            "art_of_war.txt",
+            "frankenstein.txt",
+            "all_corpus.txt",
+            "comm_corpus.txt",
+            "dialogue_corpus.txt",
+            "user_comm_qa.txt"
+        ]
+        
+        for filename in text_files:
+            filepath = self.data_dir / filename
+            if filepath.exists() and filepath.stat().st_size > 0:
+                self.process_txt(filepath)
+        
+        # 3. Process JSONL files
+        jsonl_files = [
+            "scraped_qa.jsonl",
+            "user_comm_qa.jsonl"
+        ]
+        
+        for filename in jsonl_files:
+            filepath = self.data_dir / filename
+            if filepath.exists():
+                self.process_jsonl(filepath)
+        
+        # 4. Process book chunks directory
+        by_book_dir = self.data_dir / "by_book"
+        if by_book_dir.exists():
+            print(f"Processing book chunks directory...")
+            count = 0
+            for jsonl_file in by_book_dir.glob("*.jsonl"):
+                self.process_jsonl(jsonl_file)
+                count += 1
+            print(f"  ✓ Processed {count} book chunk files")
+    
+    def save_pairs(self, min_frequency=2):
+        """Save filtered semantic pairs to file."""
+        print()
+        print("=" * 60)
+        print("SAVING SEMANTIC PAIRS")
+        print("=" * 60)
+        
+        # Filter by frequency
+        filtered_pairs = {
+            pair: count 
+            for pair, count in self.word_pairs.items() 
+            if count >= min_frequency
+        }
+        
+        print(f"Total unique pairs extracted: {len(self.word_pairs):,}")
+        print(f"Pairs after filtering (>={min_frequency}): {len(filtered_pairs):,}")
+        
+        # Sort by frequency
+        sorted_pairs = sorted(
+            filtered_pairs.items(), 
+            key=lambda x: x[1], 
+            reverse=True
+        )
+        
+        # Save to file
+        with open(self.output_file, 'w') as f:
+            for pair, count in sorted_pairs:
+                f.write(f"{pair}\t{count}\n")
+        
+        print(f"✓ Saved to: {self.output_file}")
+        print()
+        print("Top 20 most frequent pairs:")
+        for pair, count in sorted_pairs[:20]:
+            w1, w2 = pair.split(':')
+            print(f"  {w1:15s} ↔ {w2:15s} ({count:,} times)")
+
+if __name__ == "__main__":
+    extractor = ExpandedSemanticExtractor()
+    extractor.process_all_sources()
+    extractor.save_pairs(min_frequency=2)
+    
+    print()
+    print("=" * 60)
+    print("✓ EXTRACTION COMPLETE")
+    print("=" * 60)

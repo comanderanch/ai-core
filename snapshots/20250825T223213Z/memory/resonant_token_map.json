@@ -1,0 +1,14 @@
+[
+    {
+        "action": "Trigger Action A",
+        "count": 14,
+        "identity_weight": 3,
+        "resonance_score": 20
+    },
+    {
+        "action": "Trigger Action B",
+        "count": 3,
+        "identity_weight": 0,
+        "resonance_score": 3
+    }
+]

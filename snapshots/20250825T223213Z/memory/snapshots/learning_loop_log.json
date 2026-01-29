@@ -1,0 +1,6938 @@
+[
+  {
+    "cycle": 1,
+    "intake": "generated_text_cycle_1",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 2.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 1,
+    "intake": "generated_text_cycle_1",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 2.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 1,
+    "intake": "generated_text_cycle_1",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 2.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 2,
+    "intake": "generated_text_cycle_2",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 2.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 3,
+    "intake": "generated_text_cycle_3",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 3.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 4,
+    "intake": "generated_text_cycle_4",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 3.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 5,
+    "intake": "generated_text_cycle_5",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 3.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 6,
+    "intake": "generated_text_cycle_6",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 3.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 7,
+    "intake": "generated_text_cycle_7",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 4.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 8,
+    "intake": "generated_text_cycle_8",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 4.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 9,
+    "intake": "generated_text_cycle_9",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 4.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 10,
+    "intake": "generated_text_cycle_10",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 4.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 11,
+    "intake": "generated_text_cycle_11",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 4.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 12,
+    "intake": "generated_text_cycle_12",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 5.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 13,
+    "intake": "generated_text_cycle_13",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 5.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 14,
+    "intake": "generated_text_cycle_14",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 5.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 15,
+    "intake": "generated_text_cycle_15",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 5.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 16,
+    "intake": "generated_text_cycle_16",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 5.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 17,
+    "intake": "generated_text_cycle_17",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 6.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 18,
+    "intake": "generated_text_cycle_18",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 6.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 19,
+    "intake": "generated_text_cycle_19",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 6.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 20,
+    "intake": "generated_text_cycle_20",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 6.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 21,
+    "intake": "generated_text_cycle_21",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 6.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 22,
+    "intake": "generated_text_cycle_22",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 7.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 23,
+    "intake": "generated_text_cycle_23",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 7.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 24,
+    "intake": "generated_text_cycle_24",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 7.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 25,
+    "intake": "generated_text_cycle_25",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 7.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 26,
+    "intake": "generated_text_cycle_26",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 7.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 27,
+    "intake": "generated_text_cycle_27",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 8.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 28,
+    "intake": "generated_text_cycle_28",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 8.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 29,
+    "intake": "generated_text_cycle_29",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 8.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 30,
+    "intake": "generated_text_cycle_30",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 8.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 31,
+    "intake": "generated_text_cycle_31",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 8.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 32,
+    "intake": "generated_text_cycle_32",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 9.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 33,
+    "intake": "generated_text_cycle_33",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 9.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 34,
+    "intake": "generated_text_cycle_34",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 9.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 35,
+    "intake": "generated_text_cycle_35",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 9.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 36,
+    "intake": "generated_text_cycle_36",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 9.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 37,
+    "intake": "generated_text_cycle_37",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 10.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 38,
+    "intake": "generated_text_cycle_38",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 10.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 39,
+    "intake": "generated_text_cycle_39",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 10.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 40,
+    "intake": "generated_text_cycle_40",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 10.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 41,
+    "intake": "generated_text_cycle_41",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 10.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 42,
+    "intake": "generated_text_cycle_42",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 11.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 43,
+    "intake": "generated_text_cycle_43",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 11.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 44,
+    "intake": "generated_text_cycle_44",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 11.52,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 45,
+    "intake": "generated_text_cycle_45",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 11.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 46,
+    "intake": "generated_text_cycle_46",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 11.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 47,
+    "intake": "generated_text_cycle_47",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 12.12,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 48,
+    "intake": "generated_text_cycle_48",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 12.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 49,
+    "intake": "generated_text_cycle_49",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 12.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 50,
+    "intake": "generated_text_cycle_50",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 12.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 51,
+    "intake": "generated_text_cycle_51",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 12.94,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 52,
+    "intake": "generated_text_cycle_52",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 13.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 53,
+    "intake": "generated_text_cycle_53",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 13.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 54,
+    "intake": "generated_text_cycle_54",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 13.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 55,
+    "intake": "generated_text_cycle_55",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 13.75,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 56,
+    "intake": "generated_text_cycle_56",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 13.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 57,
+    "intake": "generated_text_cycle_57",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 14.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 58,
+    "intake": "generated_text_cycle_58",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 14.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 59,
+    "intake": "generated_text_cycle_59",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 14.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 60,
+    "intake": "generated_text_cycle_60",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 14.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 61,
+    "intake": "generated_text_cycle_61",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 14.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 62,
+    "intake": "generated_text_cycle_62",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 15.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 63,
+    "intake": "generated_text_cycle_63",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 15.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "mode": "file_ingest",
+    "lines_processed": 12156,
+    "files": [
+      "training_data/art_of_war.txt",
+      "training_data/frankenstein.txt"
+    ],
+    "total_tokens": 127,
+    "approx_memory_kb": 15.78,
+    "hash_status": "Hashed None blocks"
+  },
+  {
+    "mode": "file_ingest",
+    "lines_processed": 12156,
+    "files": [
+      "training_data/art_of_war.txt",
+      "training_data/frankenstein.txt"
+    ],
+    "total_tokens": 127,
+    "approx_memory_kb": 15.98,
+    "hash_status": "Hashed None blocks"
+  },
+  {
+    "mode": "file_ingest",
+    "lines_processed": 12156,
+    "files": [
+      "training_data/art_of_war.txt",
+      "training_data/frankenstein.txt"
+    ],
+    "total_tokens": 127,
+    "approx_memory_kb": 16.19,
+    "hash_status": "Hashed None blocks"
+  },
+  {
+    "cycle": 1,
+    "intake": "generated_text_cycle_1",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 16.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 2,
+    "intake": "generated_text_cycle_2",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 16.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 3,
+    "intake": "generated_text_cycle_3",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 16.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 4,
+    "intake": "generated_text_cycle_4",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 16.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 5,
+    "intake": "generated_text_cycle_5",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 17.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 6,
+    "intake": "generated_text_cycle_6",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 17.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 7,
+    "intake": "generated_text_cycle_7",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 17.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 8,
+    "intake": "generated_text_cycle_8",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 17.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 9,
+    "intake": "generated_text_cycle_9",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 17.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 10,
+    "intake": "generated_text_cycle_10",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 18.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 11,
+    "intake": "generated_text_cycle_11",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 18.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 12,
+    "intake": "generated_text_cycle_12",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 18.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 13,
+    "intake": "generated_text_cycle_13",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 18.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 14,
+    "intake": "generated_text_cycle_14",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 18.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 15,
+    "intake": "generated_text_cycle_15",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 19.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 16,
+    "intake": "generated_text_cycle_16",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 19.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 17,
+    "intake": "generated_text_cycle_17",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 19.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 18,
+    "intake": "generated_text_cycle_18",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 19.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 19,
+    "intake": "generated_text_cycle_19",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 19.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 20,
+    "intake": "generated_text_cycle_20",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 20.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 21,
+    "intake": "generated_text_cycle_21",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 20.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 22,
+    "intake": "generated_text_cycle_22",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 20.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 23,
+    "intake": "generated_text_cycle_23",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 20.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 24,
+    "intake": "generated_text_cycle_24",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 20.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 25,
+    "intake": "generated_text_cycle_25",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 21.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 26,
+    "intake": "generated_text_cycle_26",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 21.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 27,
+    "intake": "generated_text_cycle_27",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 21.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 28,
+    "intake": "generated_text_cycle_28",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 21.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 29,
+    "intake": "generated_text_cycle_29",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 21.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 30,
+    "intake": "generated_text_cycle_30",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 22.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 31,
+    "intake": "generated_text_cycle_31",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 22.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 32,
+    "intake": "generated_text_cycle_32",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 22.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 33,
+    "intake": "generated_text_cycle_33",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 22.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 34,
+    "intake": "generated_text_cycle_34",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 22.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 35,
+    "intake": "generated_text_cycle_35",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 23.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 36,
+    "intake": "generated_text_cycle_36",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 23.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 37,
+    "intake": "generated_text_cycle_37",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 23.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 38,
+    "intake": "generated_text_cycle_38",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 23.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 39,
+    "intake": "generated_text_cycle_39",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 23.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 40,
+    "intake": "generated_text_cycle_40",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 24.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 41,
+    "intake": "generated_text_cycle_41",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 24.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 42,
+    "intake": "generated_text_cycle_42",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 24.52,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 43,
+    "intake": "generated_text_cycle_43",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 24.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 44,
+    "intake": "generated_text_cycle_44",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 24.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 45,
+    "intake": "generated_text_cycle_45",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 25.12,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 46,
+    "intake": "generated_text_cycle_46",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 25.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 47,
+    "intake": "generated_text_cycle_47",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 25.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 48,
+    "intake": "generated_text_cycle_48",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 25.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 49,
+    "intake": "generated_text_cycle_49",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 25.94,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 50,
+    "intake": "generated_text_cycle_50",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 26.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 51,
+    "intake": "generated_text_cycle_51",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 26.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 52,
+    "intake": "generated_text_cycle_52",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 26.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 53,
+    "intake": "generated_text_cycle_53",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 26.75,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 54,
+    "intake": "generated_text_cycle_54",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 26.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 55,
+    "intake": "generated_text_cycle_55",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 27.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 56,
+    "intake": "generated_text_cycle_56",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 27.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 57,
+    "intake": "generated_text_cycle_57",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 27.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 58,
+    "intake": "generated_text_cycle_58",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 27.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 59,
+    "intake": "generated_text_cycle_59",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 27.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 60,
+    "intake": "generated_text_cycle_60",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 28.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 61,
+    "intake": "generated_text_cycle_61",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 28.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 62,
+    "intake": "generated_text_cycle_62",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 28.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 63,
+    "intake": "generated_text_cycle_63",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 28.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 64,
+    "intake": "generated_text_cycle_64",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 28.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 65,
+    "intake": "generated_text_cycle_65",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 29.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 66,
+    "intake": "generated_text_cycle_66",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 29.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 67,
+    "intake": "generated_text_cycle_67",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 29.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 68,
+    "intake": "generated_text_cycle_68",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 29.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 69,
+    "intake": "generated_text_cycle_69",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 30.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 70,
+    "intake": "generated_text_cycle_70",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 30.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 71,
+    "intake": "generated_text_cycle_71",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 30.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 72,
+    "intake": "generated_text_cycle_72",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 30.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 73,
+    "intake": "generated_text_cycle_73",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 30.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 74,
+    "intake": "generated_text_cycle_74",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 31.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 75,
+    "intake": "generated_text_cycle_75",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 31.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 76,
+    "intake": "generated_text_cycle_76",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 31.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 77,
+    "intake": "generated_text_cycle_77",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 31.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 78,
+    "intake": "generated_text_cycle_78",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 31.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 79,
+    "intake": "generated_text_cycle_79",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 32.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 80,
+    "intake": "generated_text_cycle_80",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 32.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 81,
+    "intake": "generated_text_cycle_81",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 32.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 82,
+    "intake": "generated_text_cycle_82",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 32.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 83,
+    "intake": "generated_text_cycle_83",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 32.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 84,
+    "intake": "generated_text_cycle_84",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 33.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 85,
+    "intake": "generated_text_cycle_85",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 33.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 86,
+    "intake": "generated_text_cycle_86",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 33.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 87,
+    "intake": "generated_text_cycle_87",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 33.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 88,
+    "intake": "generated_text_cycle_88",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 33.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 89,
+    "intake": "generated_text_cycle_89",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 34.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 90,
+    "intake": "generated_text_cycle_90",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 34.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 91,
+    "intake": "generated_text_cycle_91",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 34.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 92,
+    "intake": "generated_text_cycle_92",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 34.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 93,
+    "intake": "generated_text_cycle_93",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 34.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 94,
+    "intake": "generated_text_cycle_94",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 35.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 95,
+    "intake": "generated_text_cycle_95",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 35.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 96,
+    "intake": "generated_text_cycle_96",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 35.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 97,
+    "intake": "generated_text_cycle_97",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 35.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 98,
+    "intake": "generated_text_cycle_98",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 35.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 99,
+    "intake": "generated_text_cycle_99",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 36.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 100,
+    "intake": "generated_text_cycle_100",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 36.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 1,
+    "intake": "generated_text_cycle_1",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 36.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 2,
+    "intake": "generated_text_cycle_2",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 36.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 3,
+    "intake": "generated_text_cycle_3",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 36.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 4,
+    "intake": "generated_text_cycle_4",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 37.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 5,
+    "intake": "generated_text_cycle_5",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 37.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 6,
+    "intake": "generated_text_cycle_6",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 37.52,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 7,
+    "intake": "generated_text_cycle_7",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 37.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 8,
+    "intake": "generated_text_cycle_8",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 37.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 9,
+    "intake": "generated_text_cycle_9",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 38.12,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 10,
+    "intake": "generated_text_cycle_10",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 38.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 11,
+    "intake": "generated_text_cycle_11",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 38.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 12,
+    "intake": "generated_text_cycle_12",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 38.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 13,
+    "intake": "generated_text_cycle_13",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 38.94,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 14,
+    "intake": "generated_text_cycle_14",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 39.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 15,
+    "intake": "generated_text_cycle_15",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 39.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 16,
+    "intake": "generated_text_cycle_16",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 39.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 17,
+    "intake": "generated_text_cycle_17",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 39.75,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 18,
+    "intake": "generated_text_cycle_18",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 39.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 19,
+    "intake": "generated_text_cycle_19",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 40.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 20,
+    "intake": "generated_text_cycle_20",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 40.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 21,
+    "intake": "generated_text_cycle_21",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 40.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 22,
+    "intake": "generated_text_cycle_22",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 40.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 23,
+    "intake": "generated_text_cycle_23",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 40.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 24,
+    "intake": "generated_text_cycle_24",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 41.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 25,
+    "intake": "generated_text_cycle_25",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 41.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 26,
+    "intake": "generated_text_cycle_26",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 41.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 27,
+    "intake": "generated_text_cycle_27",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 41.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 28,
+    "intake": "generated_text_cycle_28",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 41.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 29,
+    "intake": "generated_text_cycle_29",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 42.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 30,
+    "intake": "generated_text_cycle_30",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 42.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 31,
+    "intake": "generated_text_cycle_31",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 42.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 32,
+    "intake": "generated_text_cycle_32",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 42.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 33,
+    "intake": "generated_text_cycle_33",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 43.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 34,
+    "intake": "generated_text_cycle_34",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 43.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 35,
+    "intake": "generated_text_cycle_35",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 43.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 36,
+    "intake": "generated_text_cycle_36",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 43.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 37,
+    "intake": "generated_text_cycle_37",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 43.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 38,
+    "intake": "generated_text_cycle_38",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 44.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 39,
+    "intake": "generated_text_cycle_39",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 44.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 40,
+    "intake": "generated_text_cycle_40",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 44.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 41,
+    "intake": "generated_text_cycle_41",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 44.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 42,
+    "intake": "generated_text_cycle_42",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 44.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 43,
+    "intake": "generated_text_cycle_43",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 45.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 44,
+    "intake": "generated_text_cycle_44",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 45.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 45,
+    "intake": "generated_text_cycle_45",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 45.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 46,
+    "intake": "generated_text_cycle_46",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 45.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 47,
+    "intake": "generated_text_cycle_47",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 45.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 1,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 46.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 2,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 46.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 3,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 46.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 4,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 46.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 5,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 46.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 6,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 47.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 7,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 47.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 8,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 47.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 9,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 47.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 10,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 47.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 11,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 48.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 12,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 48.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 13,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 48.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 14,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 48.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 15,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 48.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 16,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 49.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 17,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 49.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 18,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 49.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 19,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 49.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 20,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 49.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 21,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 50.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 22,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 50.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 23,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 50.52,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 24,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 50.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 25,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 50.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 26,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 51.12,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 27,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 51.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 28,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 51.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 29,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 51.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 30,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 51.94,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 31,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 52.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 32,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 52.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 33,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 52.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 34,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 52.75,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 35,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 52.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 36,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 53.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 37,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 53.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 38,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 53.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 39,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 53.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 40,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 53.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 41,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 54.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 42,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 54.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 43,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 54.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 44,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 54.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 45,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 54.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 46,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 55.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 47,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 55.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 48,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 55.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 49,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 55.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 50,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 56.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 51,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 56.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 52,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 56.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 53,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 56.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 54,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 56.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 55,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 57.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 56,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 57.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 57,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 57.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 58,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 57.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 59,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 57.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 60,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 58.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 61,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 58.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 62,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 58.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 63,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 58.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 64,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 58.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 65,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 59.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 66,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 59.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 67,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 59.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 68,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 59.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 69,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 59.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 70,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 60.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 71,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 60.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 72,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 60.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 73,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 60.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 74,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 60.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 75,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 61.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 76,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 61.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 77,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 61.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 78,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 61.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 79,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 61.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 80,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 62.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 81,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 62.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 82,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 62.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 83,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 62.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 84,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 62.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 85,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 63.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 86,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 63.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 87,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 63.52,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 88,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 63.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 89,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 63.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 90,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 64.12,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 91,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 64.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 92,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 64.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 93,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 64.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 94,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 64.94,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 95,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 65.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 96,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 65.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 97,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 65.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 98,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 65.75,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 99,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 65.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 100,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 66.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 101,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 66.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 102,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 66.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 103,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 66.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 104,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 66.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 105,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 67.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 106,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 67.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 107,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 67.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 108,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 67.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 109,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 67.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 110,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 68.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 111,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 68.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 112,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 68.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 113,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 68.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 114,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 69.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 115,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 69.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 116,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 69.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 117,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 69.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 118,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 69.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 119,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 70.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 120,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 70.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 121,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 70.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 122,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 70.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 123,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 70.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 124,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 71.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 125,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 71.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 126,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 71.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 127,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 71.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 128,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 71.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 129,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 72.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 130,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 72.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 131,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 72.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 132,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 72.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 133,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 72.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 134,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 73.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 135,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 73.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 136,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 73.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 137,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 73.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 138,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 73.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 139,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 74.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 140,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 74.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 141,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 74.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 142,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 74.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 143,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 74.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 144,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 75.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 145,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 75.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 146,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 75.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 147,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 75.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 148,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 75.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 149,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 76.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 150,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 76.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 151,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 76.52,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 152,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 76.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 153,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 76.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 154,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 77.12,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 155,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 77.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 156,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 77.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 157,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 77.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 158,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 77.94,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 159,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 78.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 160,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 78.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 161,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 78.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 162,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 78.75,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 163,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 78.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 164,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 79.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 165,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 79.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 166,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 79.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 167,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 79.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 168,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 79.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 169,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 80.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 170,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 80.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 171,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 80.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 172,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 80.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 173,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 80.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 174,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 81.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 175,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 81.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 176,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 81.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 177,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 81.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 178,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 82.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 179,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 82.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 180,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 82.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 181,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 82.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 182,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 82.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 183,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 83.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 184,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 83.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 185,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 83.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 186,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 83.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 187,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 83.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 188,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 84.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 189,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 84.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 190,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 84.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 191,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 84.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 192,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 84.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 193,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 85.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 194,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 85.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 195,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 85.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 196,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 85.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 197,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 85.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 198,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 86.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 199,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 86.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 200,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 86.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 201,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 86.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 202,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 86.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 203,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 87.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 204,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 87.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 205,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 87.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 206,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 87.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 207,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 87.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 208,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 88.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 209,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 88.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 210,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 88.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 211,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 88.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 212,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 88.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 213,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 89.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 214,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 89.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 215,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 89.52,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 216,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 89.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 217,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 89.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 218,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 90.12,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 219,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 90.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 220,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 90.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 221,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 90.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 222,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 90.94,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 223,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 91.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 224,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 91.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 225,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 91.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 226,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 91.75,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 227,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 91.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 228,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 92.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 229,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 92.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 230,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 92.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 231,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 92.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 232,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 92.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 233,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 93.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 234,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 93.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 235,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 93.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 236,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 93.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 237,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 93.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 238,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 94.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 239,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 94.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 240,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 94.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 241,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 94.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 242,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 95.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 243,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 95.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 244,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 95.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 245,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 95.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 246,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 95.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 247,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 96.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 248,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 96.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 249,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 96.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 250,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 96.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 251,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 96.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 252,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 97.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 253,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 97.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 254,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 97.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 255,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 97.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 256,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 97.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 257,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 98.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 258,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 98.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 259,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 98.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 260,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 98.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 261,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 98.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 262,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 99.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 263,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 99.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 264,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 99.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 265,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 99.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 266,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 99.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 267,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 100.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 268,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 100.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 269,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 100.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 270,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 100.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 271,
+    "intake": "tokens:156",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 100.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 1,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 101.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 2,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127,
+    "approx_memory_kb": 101.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 3,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127,
+    "approx_memory_kb": 101.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 1,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 643,
+    "approx_memory_kb": 109.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 2,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 1155,
+    "approx_memory_kb": 118.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 3,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 1667,
+    "approx_memory_kb": 128.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 4,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 2179,
+    "approx_memory_kb": 139.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 5,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 2691,
+    "approx_memory_kb": 150.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 6,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 3203,
+    "approx_memory_kb": 162.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 7,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 3715,
+    "approx_memory_kb": 175.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 8,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 4227,
+    "approx_memory_kb": 189.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 9,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 4739,
+    "approx_memory_kb": 204.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 10,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 5251,
+    "approx_memory_kb": 219.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 1,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 5763,
+    "approx_memory_kb": 235.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 2,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 6275,
+    "approx_memory_kb": 252.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 3,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 6787,
+    "approx_memory_kb": 270.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 4,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 7299,
+    "approx_memory_kb": 289.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 5,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 7811,
+    "approx_memory_kb": 308.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 6,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 8323,
+    "approx_memory_kb": 329.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 7,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 8835,
+    "approx_memory_kb": 350.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 8,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 9347,
+    "approx_memory_kb": 371.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 9,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 9859,
+    "approx_memory_kb": 394.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 10,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 10371,
+    "approx_memory_kb": 417.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 11,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 10883,
+    "approx_memory_kb": 442.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 12,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 11395,
+    "approx_memory_kb": 467.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 13,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 11907,
+    "approx_memory_kb": 492.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 14,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 12419,
+    "approx_memory_kb": 519.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 15,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 12931,
+    "approx_memory_kb": 547.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 16,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 13443,
+    "approx_memory_kb": 575.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 17,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 13955,
+    "approx_memory_kb": 604.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 18,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 14467,
+    "approx_memory_kb": 634.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 19,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 14979,
+    "approx_memory_kb": 664.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 20,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 15491,
+    "approx_memory_kb": 696.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 21,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 16003,
+    "approx_memory_kb": 728.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 22,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 16515,
+    "approx_memory_kb": 761.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 23,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 17027,
+    "approx_memory_kb": 795.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 24,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 17539,
+    "approx_memory_kb": 829.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 25,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 18051,
+    "approx_memory_kb": 865.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 26,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 18563,
+    "approx_memory_kb": 901.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 27,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 19075,
+    "approx_memory_kb": 938.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 28,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 19587,
+    "approx_memory_kb": 976.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 29,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 20099,
+    "approx_memory_kb": 1014.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 30,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 20611,
+    "approx_memory_kb": 1054.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 31,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 21123,
+    "approx_memory_kb": 1094.52,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 32,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 21635,
+    "approx_memory_kb": 1135.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 33,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 22147,
+    "approx_memory_kb": 1177.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 34,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 22659,
+    "approx_memory_kb": 1219.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 35,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 23171,
+    "approx_memory_kb": 1263.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 36,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 23683,
+    "approx_memory_kb": 1307.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 37,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 24195,
+    "approx_memory_kb": 1352.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 38,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 24707,
+    "approx_memory_kb": 1398.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 39,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 25219,
+    "approx_memory_kb": 1445.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 40,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 25731,
+    "approx_memory_kb": 1492.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 41,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 26243,
+    "approx_memory_kb": 1540.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 42,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 26755,
+    "approx_memory_kb": 1589.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 43,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 27267,
+    "approx_memory_kb": 1639.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 44,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 27779,
+    "approx_memory_kb": 1690.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 45,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 28291,
+    "approx_memory_kb": 1741.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 46,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 28803,
+    "approx_memory_kb": 1793.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 47,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 29315,
+    "approx_memory_kb": 1846.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 48,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 29827,
+    "approx_memory_kb": 1900.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 49,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 30339,
+    "approx_memory_kb": 1955.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 50,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 30851,
+    "approx_memory_kb": 2010.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 51,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 31363,
+    "approx_memory_kb": 2066.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 52,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 31875,
+    "approx_memory_kb": 2123.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 53,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 32387,
+    "approx_memory_kb": 2181.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 54,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 32899,
+    "approx_memory_kb": 2240.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 55,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 33411,
+    "approx_memory_kb": 2299.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 56,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 33923,
+    "approx_memory_kb": 2360.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 57,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 34435,
+    "approx_memory_kb": 2421.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 58,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 34947,
+    "approx_memory_kb": 2482.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 59,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 35459,
+    "approx_memory_kb": 2545.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 60,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 35971,
+    "approx_memory_kb": 2608.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 61,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 36483,
+    "approx_memory_kb": 2673.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 62,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 36995,
+    "approx_memory_kb": 2738.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 63,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 37507,
+    "approx_memory_kb": 2803.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 64,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 38019,
+    "approx_memory_kb": 2870.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 65,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 38531,
+    "approx_memory_kb": 2937.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 66,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 39043,
+    "approx_memory_kb": 3006.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 67,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 39555,
+    "approx_memory_kb": 3075.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 68,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 40067,
+    "approx_memory_kb": 3145.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 69,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 40579,
+    "approx_memory_kb": 3215.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 70,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 41091,
+    "approx_memory_kb": 3287.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 71,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 41603,
+    "approx_memory_kb": 3359.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 72,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 42115,
+    "approx_memory_kb": 3432.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 73,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 42627,
+    "approx_memory_kb": 3506.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 74,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 43139,
+    "approx_memory_kb": 3580.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 75,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 43651,
+    "approx_memory_kb": 3656.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 76,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 44163,
+    "approx_memory_kb": 3732.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 77,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 44675,
+    "approx_memory_kb": 3809.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 78,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 45187,
+    "approx_memory_kb": 3887.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 79,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 45699,
+    "approx_memory_kb": 3965.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 80,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 46211,
+    "approx_memory_kb": 4045.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 81,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 46723,
+    "approx_memory_kb": 4125.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 82,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 47235,
+    "approx_memory_kb": 4206.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 83,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 47747,
+    "approx_memory_kb": 4288.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 84,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 48259,
+    "approx_memory_kb": 4370.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 85,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 48771,
+    "approx_memory_kb": 4454.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 86,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 49283,
+    "approx_memory_kb": 4538.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 87,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 49795,
+    "approx_memory_kb": 4623.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 88,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 50307,
+    "approx_memory_kb": 4709.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 89,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 50819,
+    "approx_memory_kb": 4796.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 90,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 51331,
+    "approx_memory_kb": 4883.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 91,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 51843,
+    "approx_memory_kb": 4971.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 92,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 52355,
+    "approx_memory_kb": 5060.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 93,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 52867,
+    "approx_memory_kb": 5150.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 94,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 53379,
+    "approx_memory_kb": 5241.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 95,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 53891,
+    "approx_memory_kb": 5332.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 96,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 54403,
+    "approx_memory_kb": 5424.75,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 97,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 54915,
+    "approx_memory_kb": 5517.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 98,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 55427,
+    "approx_memory_kb": 5611.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 99,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 55939,
+    "approx_memory_kb": 5706.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 100,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 56451,
+    "approx_memory_kb": 5801.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 101,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 56963,
+    "approx_memory_kb": 5897.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 102,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 57475,
+    "approx_memory_kb": 5994.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 103,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 57987,
+    "approx_memory_kb": 6092.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 104,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 58499,
+    "approx_memory_kb": 6191.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 105,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 59011,
+    "approx_memory_kb": 6290.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 106,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 59523,
+    "approx_memory_kb": 6390.94,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 107,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 60035,
+    "approx_memory_kb": 6491.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 108,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 60547,
+    "approx_memory_kb": 6593.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 109,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 61059,
+    "approx_memory_kb": 6696.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 110,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 61571,
+    "approx_memory_kb": 6799.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 111,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 62083,
+    "approx_memory_kb": 6904.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 112,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 62595,
+    "approx_memory_kb": 7009.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 113,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 63107,
+    "approx_memory_kb": 7114.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 114,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 63619,
+    "approx_memory_kb": 7221.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 115,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 64131,
+    "approx_memory_kb": 7328.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 116,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 64643,
+    "approx_memory_kb": 7437.12,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 117,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 64650,
+    "approx_memory_kb": 7538.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 118,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 65667,
+    "approx_memory_kb": 7655.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 119,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 65166,
+    "approx_memory_kb": 7749.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 120,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 66691,
+    "approx_memory_kb": 7875.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 121,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 67203,
+    "approx_memory_kb": 7987.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 122,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 67715,
+    "approx_memory_kb": 8100.86,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 123,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 68227,
+    "approx_memory_kb": 8214.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 124,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 68739,
+    "approx_memory_kb": 8329.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 125,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 69251,
+    "approx_memory_kb": 8444.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 126,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 69763,
+    "approx_memory_kb": 8560.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 127,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 70275,
+    "approx_memory_kb": 8677.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 128,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 70787,
+    "approx_memory_kb": 8795.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 129,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 71299,
+    "approx_memory_kb": 8914.39,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 130,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 71811,
+    "approx_memory_kb": 9033.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 131,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 68241,
+    "approx_memory_kb": 9083.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 132,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 72835,
+    "approx_memory_kb": 9262.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 133,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 68767,
+    "approx_memory_kb": 9312.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 134,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 73859,
+    "approx_memory_kb": 9499.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 135,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 74371,
+    "approx_memory_kb": 9623.02,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 136,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 74883,
+    "approx_memory_kb": 9747.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 137,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 75395,
+    "approx_memory_kb": 9872.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 138,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 75907,
+    "approx_memory_kb": 9998.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 139,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 76419,
+    "approx_memory_kb": 10124.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 140,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 76931,
+    "approx_memory_kb": 10252.09,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 141,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 77443,
+    "approx_memory_kb": 10380.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 142,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 77955,
+    "approx_memory_kb": 10509.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 143,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 78467,
+    "approx_memory_kb": 10639.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 144,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 78979,
+    "approx_memory_kb": 10769.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 145,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 79491,
+    "approx_memory_kb": 10901.2,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 146,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 80003,
+    "approx_memory_kb": 11033.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 147,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 72357,
+    "approx_memory_kb": 11026.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 148,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 81027,
+    "approx_memory_kb": 11274.75,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 149,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 81539,
+    "approx_memory_kb": 11409.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 150,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 82051,
+    "approx_memory_kb": 11544.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 151,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 73391,
+    "approx_memory_kb": 11523.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 152,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 83075,
+    "approx_memory_kb": 11789.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 153,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 83587,
+    "approx_memory_kb": 11927.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 154,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 84099,
+    "approx_memory_kb": 12065.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 155,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 84611,
+    "approx_memory_kb": 12205.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 156,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 85123,
+    "approx_memory_kb": 12345.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 157,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 85635,
+    "approx_memory_kb": 12486.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 158,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 86147,
+    "approx_memory_kb": 12628.28,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 159,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 86659,
+    "approx_memory_kb": 12770.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 160,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 87171,
+    "approx_memory_kb": 12914.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 161,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 87683,
+    "approx_memory_kb": 13058.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 162,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 88195,
+    "approx_memory_kb": 13203.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 163,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 88707,
+    "approx_memory_kb": 13349.38,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 164,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 89219,
+    "approx_memory_kb": 13496.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 165,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 89731,
+    "approx_memory_kb": 13643.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 166,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 90243,
+    "approx_memory_kb": 13791.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 167,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 90755,
+    "approx_memory_kb": 13940.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 168,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 91267,
+    "approx_memory_kb": 14090.47,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 169,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 91779,
+    "approx_memory_kb": 14241.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 170,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 92291,
+    "approx_memory_kb": 14392.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 171,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 92803,
+    "approx_memory_kb": 14544.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 172,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 93315,
+    "approx_memory_kb": 14697.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 173,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 93827,
+    "approx_memory_kb": 14851.56,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 174,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 94339,
+    "approx_memory_kb": 15006.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 175,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 94857,
+    "approx_memory_kb": 15161.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 176,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 95363,
+    "approx_memory_kb": 15317.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 177,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 95875,
+    "approx_memory_kb": 15474.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 178,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 96387,
+    "approx_memory_kb": 15632.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 179,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 96899,
+    "approx_memory_kb": 15791.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 180,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 97411,
+    "approx_memory_kb": 15950.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 181,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 97923,
+    "approx_memory_kb": 16110.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 182,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 98435,
+    "approx_memory_kb": 16271.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 183,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 96941,
+    "approx_memory_kb": 16402.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 184,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 99459,
+    "approx_memory_kb": 16593.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 185,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 99971,
+    "approx_memory_kb": 16756.66,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 186,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 100483,
+    "approx_memory_kb": 16920.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 187,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 100995,
+    "approx_memory_kb": 17085.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 188,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 101507,
+    "approx_memory_kb": 17251.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 189,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 102019,
+    "approx_memory_kb": 17418.31,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 190,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 102531,
+    "approx_memory_kb": 17585.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 191,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 103043,
+    "approx_memory_kb": 17753.95,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 192,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 103555,
+    "approx_memory_kb": 17922.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 193,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 104067,
+    "approx_memory_kb": 18092.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 194,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 104579,
+    "approx_memory_kb": 18263.42,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 195,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 105091,
+    "approx_memory_kb": 18434.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 196,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 105603,
+    "approx_memory_kb": 18607.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 197,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 106115,
+    "approx_memory_kb": 18780.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 198,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 106627,
+    "approx_memory_kb": 18953.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 199,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 107139,
+    "approx_memory_kb": 19128.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 200,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 107651,
+    "approx_memory_kb": 19303.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 201,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 108163,
+    "approx_memory_kb": 19480.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 202,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 108675,
+    "approx_memory_kb": 19657.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 203,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 109187,
+    "approx_memory_kb": 19834.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 204,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 109699,
+    "approx_memory_kb": 20013.61,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 205,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 110211,
+    "approx_memory_kb": 20193.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 206,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 110723,
+    "approx_memory_kb": 20373.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 207,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 111235,
+    "approx_memory_kb": 20554.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 208,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 111747,
+    "approx_memory_kb": 20736.08,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 209,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 112259,
+    "approx_memory_kb": 20918.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 210,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 112771,
+    "approx_memory_kb": 21102.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 211,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 113283,
+    "approx_memory_kb": 21286.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 212,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 113795,
+    "approx_memory_kb": 21471.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 213,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 114307,
+    "approx_memory_kb": 21657.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 214,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 114819,
+    "approx_memory_kb": 21843.8,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 215,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 115331,
+    "approx_memory_kb": 22031.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 216,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 115843,
+    "approx_memory_kb": 22219.44,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 217,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 116355,
+    "approx_memory_kb": 22408.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 218,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 116867,
+    "approx_memory_kb": 22598.27,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 219,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 117379,
+    "approx_memory_kb": 22788.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 220,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 117891,
+    "approx_memory_kb": 22980.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 221,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 118403,
+    "approx_memory_kb": 23172.52,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 222,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 118915,
+    "approx_memory_kb": 23365.53,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 223,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 119427,
+    "approx_memory_kb": 23559.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 224,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 119939,
+    "approx_memory_kb": 23753.98,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 225,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 120451,
+    "approx_memory_kb": 23949.41,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 226,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 120963,
+    "approx_memory_kb": 24145.62,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 227,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 121475,
+    "approx_memory_kb": 24342.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 228,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 121987,
+    "approx_memory_kb": 24540.45,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 229,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 122499,
+    "approx_memory_kb": 24739.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 230,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 123011,
+    "approx_memory_kb": 24938.48,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 231,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 123523,
+    "approx_memory_kb": 25138.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 232,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 124035,
+    "approx_memory_kb": 25339.72,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 233,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 124547,
+    "approx_memory_kb": 25541.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 234,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 125059,
+    "approx_memory_kb": 25744.17,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 235,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 125571,
+    "approx_memory_kb": 25947.59,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 236,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 126083,
+    "approx_memory_kb": 26151.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 237,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 126595,
+    "approx_memory_kb": 26356.83,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 238,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 127107,
+    "approx_memory_kb": 26562.64,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 239,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 127619,
+    "approx_memory_kb": 26769.25,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 240,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 128131,
+    "approx_memory_kb": 26976.67,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 241,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 128643,
+    "approx_memory_kb": 27184.89,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 242,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 129155,
+    "approx_memory_kb": 27393.91,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 243,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 129667,
+    "approx_memory_kb": 27603.73,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 244,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 130179,
+    "approx_memory_kb": 27814.36,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 245,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 130691,
+    "approx_memory_kb": 28025.78,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 246,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 131203,
+    "approx_memory_kb": 28238.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 247,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 131222,
+    "approx_memory_kb": 28442.55,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 248,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 132227,
+    "approx_memory_kb": 28663.3,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 249,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 131766,
+    "approx_memory_kb": 28862.7,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 250,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 133251,
+    "approx_memory_kb": 29091.81,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 251,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 133763,
+    "approx_memory_kb": 29308.03,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 252,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 134275,
+    "approx_memory_kb": 29525.05,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 253,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 134787,
+    "approx_memory_kb": 29742.88,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 254,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 135299,
+    "approx_memory_kb": 29961.5,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 255,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 135811,
+    "approx_memory_kb": 30180.92,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 256,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 136323,
+    "approx_memory_kb": 30401.14,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 257,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 136835,
+    "approx_memory_kb": 30622.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 258,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 137347,
+    "approx_memory_kb": 30843.97,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 259,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 137859,
+    "approx_memory_kb": 31066.58,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 260,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 138371,
+    "approx_memory_kb": 31290.0,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 261,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 138883,
+    "approx_memory_kb": 31514.22,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 262,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 139395,
+    "approx_memory_kb": 31739.23,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 263,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 139907,
+    "approx_memory_kb": 31965.06,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 264,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 140419,
+    "approx_memory_kb": 32191.69,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 265,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 140931,
+    "approx_memory_kb": 32419.11,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 266,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 141443,
+    "approx_memory_kb": 32647.33,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 267,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 141955,
+    "approx_memory_kb": 32876.34,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 268,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 142467,
+    "approx_memory_kb": 33106.16,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 269,
+    "intake": "tokens:512",
+    "hemisphere": "right",
+    "total_tokens": 142979,
+    "approx_memory_kb": 33336.77,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  },
+  {
+    "cycle": 270,
+    "intake": "tokens:512",
+    "hemisphere": "left",
+    "total_tokens": 143491,
+    "approx_memory_kb": 33568.19,
+    "hash_status": "Hashed None blocks",
+    "reinforced": true
+  },
+  {
+    "cycle": 271,
+    "intake": "tokens:156",
+    "hemisphere": "right",
+    "total_tokens": 143647,
+    "approx_memory_kb": 33794.84,
+    "hash_status": "Hashed None blocks",
+    "reinforced": false
+  }
+]

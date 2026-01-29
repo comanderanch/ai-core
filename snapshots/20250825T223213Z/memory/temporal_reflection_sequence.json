@@ -1,0 +1,41 @@
+{
+    "timeline": [
+        {
+            "window": "0-60 min",
+            "action_counts": {
+                "Trigger Action A": 2
+            },
+            "dominant_action": "Trigger Action A"
+        },
+        {
+            "window": "60-120 min",
+            "action_counts": {
+                "Trigger Action A": 12
+            },
+            "dominant_action": "Trigger Action A"
+        },
+        {
+            "window": "240-300 min",
+            "action_counts": {
+                "Trigger Action B": 3
+            },
+            "dominant_action": "Trigger Action B"
+        },
+        {
+            "window": "420-480 min",
+            "action_counts": {
+                "Trigger Action A": 1
+            },
+            "dominant_action": "Trigger Action A"
+        }
+    ],
+    "final_reflection": {
+        "timestamp": "2025-04-15T15:32:27.326380Z",
+        "sequence_length": 4,
+        "dominant_behaviors": [
+            "Trigger Action A",
+            "Trigger Action B"
+        ],
+        "observed_variability": 2
+    }
+}

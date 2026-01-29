@@ -1,0 +1,92 @@
+[
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T02:52:26.945349Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T03:37:32.094081Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:25:29.290188Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:25:34.251805Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:25:40.960238Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:25:47.906700Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:25:51.930841Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:25:59.280152Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:26:10.429337Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:26:23.587547Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:26:31.396926Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:26:36.868068Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:32:03.386989Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T04:32:15.940141Z"
+    },
+    {
+        "action": "Trigger Action B",
+        "tone": "drift_discomfort",
+        "timestamp": "2025-04-15T07:45:07.833208Z"
+    },
+    {
+        "action": "Trigger Action B",
+        "tone": "drift_discomfort",
+        "timestamp": "2025-04-15T07:45:07.833817Z"
+    },
+    {
+        "action": "Trigger Action B",
+        "tone": "drift_discomfort",
+        "timestamp": "2025-04-15T07:45:07.834674Z"
+    },
+    {
+        "action": "Trigger Action A",
+        "tone": "calm_alignment",
+        "timestamp": "2025-04-15T10:41:02.890995Z"
+    }
+]

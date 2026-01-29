@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-08-15T22:50:08Z",
+    "reply_left": "json",
+    "reply_right": "raw",
+    "metrics": {
+      "jaccard": 0.0,
+      "lev_sim": 0.0
+    },
+    "chosen": "right",
+    "evidence_hint": "tail -n 1 memory/self/state.json"
+  },
+  {
+    "timestamp": "2025-08-15T22:50:08Z",
+    "reply_left": "json",
+    "reply_right": "raw",
+    "metrics": {
+      "jaccard": 0.0,
+      "lev_sim": 0.0
+    },
+    "chosen": "right",
+    "evidence_hint": "tail -n 5 memory/self/questions.json"
+  },
+  {
+    "timestamp": "2025-08-15T22:50:08Z",
+    "reply_left": "30",
+    "reply_right": "raw",
+    "metrics": {
+      "jaccard": 0.0,
+      "lev_sim": 0.0
+    },
+    "chosen": "right",
+    "evidence_hint": "jq . memory/drift/drift_events.json | head -n 30"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "token": "What is the capital of France?",
+    "average_confidence": 0.5,
+    "observations": 45,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020719"
+  },
+  {
+    "token": "What is 2+2?",
+    "average_confidence": 0.5,
+    "observations": 45,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020738"
+  },
+  {
+    "token": "What is the sum of all sums?",
+    "average_confidence": 0.5,
+    "observations": 45,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020743"
+  },
+  {
+    "token": "What is the article about?",
+    "average_confidence": 0.5,
+    "observations": 42,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020747"
+  },
+  {
+    "token": "If else statements in CSS?",
+    "average_confidence": 0.5,
+    "observations": 42,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020751"
+  },
+  {
+    "token": "How do I indicate success and failure with colour?",
+    "average_confidence": 0.5,
+    "observations": 42,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020755"
+  },
+  {
+    "token": "Difference between Variance, Covariance, Contravariance, Bivariance and Invariance in TypeScript",
+    "average_confidence": 0.5,
+    "observations": 42,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020759"
+  },
+  {
+    "token": "How do I get the current date in typst?",
+    "average_confidence": 0.5,
+    "observations": 42,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020762"
+  },
+  {
+    "token": "Utilizing a dataclass and enum together",
+    "average_confidence": 0.5,
+    "observations": 42,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020766"
+  },
+  {
+    "token": "FingerPrint authentication with Firebase",
+    "average_confidence": 0.5,
+    "observations": 42,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020770"
+  },
+  {
+    "token": "insert image into a specific place of docx file using golang",
+    "average_confidence": 0.5,
+    "observations": 42,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020774"
+  },
+  {
+    "token": "JAX scanning over a array with additional argument",
+    "average_confidence": 0.5,
+    "observations": 42,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020778"
+  },
+  {
+    "token": "What is \"Unknown article\"?",
+    "average_confidence": 0.5,
+    "observations": 319,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020783"
+  },
+  {
+    "token": "What is \"Unknown Book\" about?",
+    "average_confidence": 0.5,
+    "observations": 147,
+    "equilibrium_state": "uncertain",
+    "last_updated": "2025-08-25T22:05:41.020788"
+  }
+]

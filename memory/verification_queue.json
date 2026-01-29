@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "purpose": "Tracks unverified claims awaiting multi-source verification",
+    "rules": {
+      "verification_quorum": 3,
+      "auto_downgrade": false,
+      "allow_contradiction": true
+    },
+    "created_at": "2026-01-16T00:00:00Z"
+  },
+  "queue": [
+    {
+      "id": "a4fd5a5419d90921",
+      "claim": "Water boils at 100 degrees Celsius at sea level",
+      "sources": [
+        "manual-test"
+      ],
+      "supporting_evidence": [],
+      "contradictions": [],
+      "status": "pending",
+      "confidence": 0.0,
+      "created_at": "2026-01-17T04:14:45.360496Z",
+      "last_reviewed": null
+    },
+    {
+      "id": "a4fd5a5419d90921",
+      "claim": "Water boils at 100 degrees Celsius at sea level",
+      "sources": [
+        "manual-test"
+      ],
+      "supporting_evidence": [],
+      "contradictions": [],
+      "status": "pending",
+      "confidence": 0.0,
+      "created_at": "2026-01-17T04:34:46.937268Z",
+      "last_reviewed": null
+    },
+    {
+      "id": "a4fd5a5419d90921",
+      "claim": "Water boils at 100 degrees Celsius at sea level",
+      "sources": [
+        "manual-test"
+      ],
+      "supporting_evidence": [],
+      "contradictions": [],
+      "status": "pending",
+      "confidence": 0.0,
+      "created_at": "2026-01-18T21:02:39.438313Z",
+      "last_reviewed": null
+    },
+    {
+      "id": "23ffd6008e9024a9",
+      "claim": "electronics are used everywher in the world",
+      "sources": [
+        "manual-test"
+      ],
+      "supporting_evidence": [],
+      "contradictions": [],
+      "status": "pending",
+      "confidence": 0.0,
+      "created_at": "2026-01-18T21:03:32.672588Z",
+      "last_reviewed": null
+    },
+    {
+      "id": "75f35310928949ae",
+      "claim": "Electronics are not used everywhere in the world",
+      "sources": [
+        "manual-test"
+      ],
+      "supporting_evidence": [],
+      "contradictions": [],
+      "status": "pending",
+      "confidence": 0.0,
+      "created_at": "2026-01-18T21:14:49.713613Z",
+      "last_reviewed": null
+    },
+    {
+      "id": "75f35310928949ae",
+      "claim": "Electronics are not used everywhere in the world",
+      "sources": [
+        "manual-test"
+      ],
+      "supporting_evidence": [],
+      "contradictions": [],
+      "status": "pending",
+      "confidence": 0.0,
+      "created_at": "2026-01-18T21:30:53.940969Z",
+      "last_reviewed": null
+    }
+  ]
+}

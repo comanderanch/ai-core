@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2025-08-14T17:38:47.533101Z",
+    "reflex_arc_count": 1,
+    "reflex_arcs": [
+      {
+        "from": 4,
+        "to": 6,
+        "resonance_out": 1.0
+      }
+    ]
+  }
+]

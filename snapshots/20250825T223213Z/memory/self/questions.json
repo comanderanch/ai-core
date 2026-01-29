@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": "2025-08-15T17:00:47Z",
+    "type": "drift_reconcile",
+    "prompt": "Left and Right outputs diverged. Provide clarifying source text (txt) for the current topic so I can reconcile.",
+    "hints": {
+      "chosen_output_preview": "blue_0 sky_1 memory_2 fold_3 truth_0 override_1"
+    },
+    "evidence_needed": [
+      "training_data/*.txt"
+    ],
+    "priority": "high"
+  },
+  {
+    "timestamp": "2025-08-15T17:01:26Z",
+    "type": "drift_reconcile",
+    "prompt": "Left and Right outputs diverged. Provide clarifying source text (txt) for the current topic so I can reconcile.",
+    "hints": {
+      "chosen_output_preview": "blue_0 sky_1 memory_2 fold_3 truth_0 override_1"
+    },
+    "evidence_needed": [
+      "training_data/*.txt"
+    ],
+    "priority": "high"
+  },
+  {
+    "timestamp": "2025-08-15T17:24:23Z",
+    "type": "drift_reconcile",
+    "prompt": "Left and Right outputs diverged. Provide clarifying source text (txt) for the current topic so I can reconcile.",
+    "hints": {
+      "chosen_output_preview": "blue_0 sky_1 memory_2 fold_3 truth_0 override_1"
+    },
+    "evidence_needed": [
+      "training_data/*.txt"
+    ],
+    "priority": "high"
+  },
+  {
+    "timestamp": "2025-08-15T20:10:52Z",
+    "type": "drift_reconcile",
+    "prompt": "Left and Right outputs diverged. Provide clarifying source text (txt) for the current topic so I can reconcile.",
+    "hints": {
+      "chosen_output_preview": "blue_0 sky_1 memory_2 fold_3 truth_0 override_1"
+    },
+    "evidence_needed": [
+      "training_data/*.txt"
+    ],
+    "priority": "high"
+  },
+  {
+    "timestamp": "2025-08-15T22:50:08Z",
+    "type": "drift_reconcile",
+    "prompt": "Left and Right outputs diverged. Provide clarifying source text (txt) for the current topic so I can reconcile.",
+    "hints": {
+      "chosen_output_preview": "blue_0 sky_1 memory_2 fold_3 truth_0 override_1"
+    },
+    "evidence_needed": [
+      "training_data/*.txt"
+    ],
+    "priority": "high"
+  },
+  {
+    "timestamp": "2025-08-15T22:50:08Z",
+    "type": "drift_reconcile",
+    "prompt": "Left and Right outputs diverged. Provide clarifying source text (txt) for the current topic so I can reconcile.",
+    "hints": {
+      "chosen_output_preview": "blue_0 sky_1 memory_2 fold_3 truth_0 override_1"
+    },
+    "evidence_needed": [
+      "training_data/*.txt"
+    ],
+    "priority": "high"
+  },
+  {
+    "timestamp": "2025-08-15T22:50:08Z",
+    "type": "drift_reconcile",
+    "prompt": "Left and Right outputs diverged. Provide clarifying source text (txt) for the current topic so I can reconcile.",
+    "hints": {
+      "chosen_output_preview": "blue_0 sky_1 memory_2 fold_3 truth_0 override_1"
+    },
+    "evidence_needed": [
+      "training_data/*.txt"
+    ],
+    "priority": "high"
+  }
+]

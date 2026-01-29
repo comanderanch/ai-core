@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-08-15T22:50:08Z",
+  "counts": {
+    "BLACK": 5,
+    "GRAY": 9,
+    "WHITE": 6,
+    "nodes_total": 20
+  },
+  "resonance_sum": 1.6,
+  "active_white": [
+    "6"
+  ],
+  "top_reflex_arcs": [
+    {
+      "from": "4",
+      "to": "6",
+      "res_white": 1.0
+    }
+  ],
+  "hemispheres": {
+    "left_tokens": 72140,
+    "right_tokens": 71854
+  },
+  "drift_status": "DRIFT",
+  "chosen_output_preview": "blue_0 sky_1 memory_2 fold_3 truth_0 override_1",
+  "last_snapshot": null
+}

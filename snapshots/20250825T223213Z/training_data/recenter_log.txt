@@ -1,0 +1,1 @@
+2025-08-17T00:37:47Z | hemisphere=LEFT, facts=87, pending=11, palette=2304, vocab=10845, llm=off, ngram=on, profile=off, anchors=84
