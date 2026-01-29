@@ -1,7 +1,7 @@
 from pathlib import Path
 import json
+from pathlib import Path
 from enum import Enum
-from datetime import datetime
 
 class HueState(Enum):
     GRAY = -1
@@ -27,33 +27,8 @@ def find_reflex_paths(nodes):
             for lid in node.links:
                 target = next((n for n in nodes if n.token_id == lid), None)
                 if target and target.hue_state == HueState.WHITE and target.resonance > 0.0:
-                    reflexes.append({
-                        "from": node.token_id,
-                        "to": target.token_id,
-                        "resonance_out": round(target.resonance, 5)
-                    })
+                    reflexes.append((node.token_id, target.token_id))
     return reflexes
-
-def save_reflex_log(reflexes, path="memory/snapshots/reflex_path_log.json"):
-    log_entry = {
-        "timestamp": datetime.utcnow().isoformat() + "Z",
-        "reflex_arc_count": len(reflexes),
-        "reflex_arcs": reflexes
-    }
-
-    existing = []
-    reflex_log_path = Path(path)
-    if reflex_log_path.exists():
-        try:
-            with reflex_log_path.open("r") as f:
-                existing = json.load(f)
-        except json.JSONDecodeError:
-            existing = []
-
-    existing.append(log_entry)
-
-    with reflex_log_path.open("w") as f:
-        json.dump(existing, f, indent=2)
 
 def run_reflex_analysis():
     nodes = load_qbithue_network()
@@ -61,13 +36,16 @@ def run_reflex_analysis():
 
     if reflex_paths:
         print(f"[⚡] Reflex arcs detected: {len(reflex_paths)}")
-        for arc in reflex_paths:
-            print(f"    Reflex arc: GRAY {arc['from']} → WHITE {arc['to']} (res {arc['resonance_out']})")
+        for src, dst in reflex_paths:
+            print(f"    Reflex arc: GRAY {src} → WHITE {dst}")
     else:
         print("[…] No reflex arcs triggered.")
 
-    save_reflex_log(reflex_paths)
-
 if __name__ == "__main__":
     run_reflex_analysis()
-    
+
+
+# Write to scripts/
+Path("scripts").mkdir(exist_ok=True)
+path = Path("scripts/qbithue_reflex_interpreter.py")
+#path.write_text(qbithue_reflex_interpreter.strip())

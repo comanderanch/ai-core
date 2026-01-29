@@ -19,12 +19,5 @@
         "band": "AM",
         "token": 7003,
         "meaning": "Self Awareness Ping"
-    },
-    {
-        "timestamp": "2026-01-27T02:48:32.540950Z",
-        "frequency": 528.0,
-        "band": "FM",
-        "classification": "resonance_life",
-        "action": "Preserve_Vital_Systems"
     }
 ]

@@ -232,35 +232,3 @@ Used for rollback, debugging, and memory comparison.
 
 Contains legacy and active memory thread maps used in trait relationship analysis.
 Supports linking across sessions and cyclical behavior traces.
-
----------------------------------------------------------------------------------
-
-thread_bind_converter.py
-Purpose:
-Converts legacy thread binds (legacy_thread_binds.json) into the modern bind_map.json format used for conscious pathway resolution and trait tracking.
-
-Bug Fix Update (2025-07-09):
-Patched to include bound_at timestamps from the legacy binds directly into bind_map.json.
-This ensures accurate temporal tracking and alignment with snapshot audit cycles, enabling:
-
-Conscious pathway resolution
-
-Emotional state replay
-
-Tri-vector fallback verification
-
-Input:
-
-memory/thread_binds/legacy_thread_binds.json
-
-Output:
-
-memory/thread_binds/bind_map.json
-
-Run Command:
-
-
-python3 scripts/thread_bind_converter.py
-
-**Verification (2025-08-13 UTC):** `scripts/thread_bind_converter.py` preserves `bound_at` from legacy binds.
-Sample observed in `memory/thread_binds/bind_map.json`: token `Preserve_Vital_Systems` → `bound_at: 2025-07-09T02:10:32.611314`.

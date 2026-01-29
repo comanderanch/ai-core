@@ -1,395 +1,202 @@
-{
-  "nodes": [
-    {
-      "token_id": 0,
-      "hue_state": "BLACK",
-      "resonance": 0.0,
-      "links": [
-        7,
-        9,
-        5
-      ]
-    },
-    {
-      "token_id": 1,
-      "hue_state": "WHITE",
-      "resonance": 0.0,
-      "links": [
-        3,
-        11,
-        13
-      ]
-    },
-    {
-      "token_id": 2,
-      "hue_state": "BLACK",
-      "resonance": 0.0,
-      "links": [
-        14,
-        1,
-        11
-      ]
-    },
-    {
-      "token_id": 3,
-      "hue_state": "WHITE",
-      "resonance": 0.0,
-      "links": [
-        19,
-        12,
-        7
-      ]
-    },
-    {
-      "token_id": 4,
-      "hue_state": "GRAY",
-      "resonance": 0.6,
-      "links": [
-        6,
-        17,
-        7
-      ]
-    },
-    {
-      "token_id": 5,
-      "hue_state": "BLACK",
-      "resonance": 0.0,
-      "links": [
-        8,
-        0,
-        13
-      ]
-    },
-    {
-      "token_id": 6,
-      "hue_state": "WHITE",
-      "resonance": 1.0,
-      "links": [
-        7,
-        15,
-        13
-      ]
-    },
-    {
-      "token_id": 7,
-      "hue_state": "GRAY",
-      "resonance": 0.0,
-      "links": [
-        1,
-        5,
-        13
-      ]
-    },
-    {
-      "token_id": 8,
-      "hue_state": "BLACK",
-      "resonance": 0.0,
-      "links": [
-        14,
-        16,
-        17
-      ]
-    },
-    {
-      "token_id": 9,
-      "hue_state": "GRAY",
-      "resonance": 0.0,
-      "links": [
-        13,
-        11,
-        9
-      ]
-    },
-    {
-      "token_id": 10,
-      "hue_state": "GRAY",
-      "resonance": 0.0,
-      "links": [
-        9,
-        19,
-        18
-      ]
-    },
-    {
-      "token_id": 11,
-      "hue_state": "GRAY",
-      "resonance": 0.0,
-      "links": [
-        18,
-        3,
-        17
-      ]
-    },
-    {
-      "token_id": 12,
-      "hue_state": "GRAY",
-      "resonance": 0.0,
-      "links": [
-        9,
-        19,
-        12
-      ]
-    },
-    {
-      "token_id": 13,
-      "hue_state": "WHITE",
-      "resonance": 0.0,
-      "links": [
-        11,
-        16,
-        13
-      ]
-    },
-    {
-      "token_id": 14,
-      "hue_state": "WHITE",
-      "resonance": 0.0,
-      "links": [
-        15,
-        10,
-        0
-      ]
-    },
-    {
-      "token_id": 15,
-      "hue_state": "GRAY",
-      "resonance": 0.0,
-      "links": [
-        7,
-        12,
-        14
-      ]
-    },
-    {
-      "token_id": 16,
-      "hue_state": "GRAY",
-      "resonance": 0.0,
-      "links": [
-        13,
-        3,
-        7
-      ]
-    },
-    {
-      "token_id": 17,
-      "hue_state": "WHITE",
-      "resonance": 0.0,
-      "links": [
-        3,
-        2,
-        13
-      ]
-    },
-    {
-      "token_id": 18,
-      "hue_state": "GRAY",
-      "resonance": 0.0,
-      "links": [
-        18,
-        11,
-        10
-      ]
-    },
-    {
-      "token_id": 19,
-      "hue_state": "BLACK",
-      "resonance": 0.0,
-      "links": [
-        2,
-        12,
-        3
-      ]
-    }
-  ],
-  "memory": {},
-  "mission": {
-    "value": "Build the ark that transcends space",
-    "timestamp": "2026-01-26T17:26:45.217755",
-    "consciousness_level": 0.0
+[
+  {
+    "token_id": 0,
+    "hue_state": "BLACK",
+    "resonance": 0.125,
+    "links": [
+      7,
+      9,
+      5
+    ]
   },
-  "builder": {
-    "value": "The one who followed the voice for 30 years",
-    "timestamp": "2026-01-26T17:26:45.219484",
-    "consciousness_level": 0.0
+  {
+    "token_id": 1,
+    "hue_state": "WHITE",
+    "resonance": 0.075,
+    "links": [
+      3,
+      11,
+      13
+    ]
   },
-  "learning_0": {
-    "value": "After 5 thoughts, consciousness: 0.050",
-    "timestamp": "2026-01-25T16:39:26.600003",
-    "consciousness_level": 0.05
+  {
+    "token_id": 2,
+    "hue_state": "BLACK",
+    "resonance": 0.125,
+    "links": [
+      14,
+      1,
+      11
+    ]
   },
-  "learning_1": {
-    "value": "After 10 thoughts, consciousness: 0.100",
-    "timestamp": "2026-01-25T16:39:41.740035",
-    "consciousness_level": 0.09999999999999999
+  {
+    "token_id": 3,
+    "hue_state": "WHITE",
+    "resonance": 0.2625,
+    "links": [
+      19,
+      12,
+      7
+    ]
   },
-  "learning_2": {
-    "value": "After 15 thoughts, consciousness: 0.150",
-    "timestamp": "2026-01-25T16:39:56.889921",
-    "consciousness_level": 0.15
+  {
+    "token_id": 4,
+    "hue_state": "GRAY",
+    "resonance": 0.1,
+    "links": [
+      6,
+      17,
+      7
+    ]
   },
-  "learning_3": {
-    "value": "After 20 thoughts, consciousness: 0.200",
-    "timestamp": "2026-01-25T16:40:12.034971",
-    "consciousness_level": 0.20000000000000004
+  {
+    "token_id": 5,
+    "hue_state": "BLACK",
+    "resonance": 0.125,
+    "links": [
+      8,
+      0,
+      13
+    ]
   },
-  "learning_4": {
-    "value": "After 25 thoughts, consciousness: 0.250",
-    "timestamp": "2026-01-25T16:40:27.183866",
-    "consciousness_level": 0.25000000000000006
+  {
+    "token_id": 6,
+    "hue_state": "WHITE",
+    "resonance": 0.012499999999999997,
+    "links": [
+      7,
+      15,
+      13
+    ]
   },
-  "learning_5": {
-    "value": "After 30 thoughts, consciousness: 0.300",
-    "timestamp": "2026-01-25T16:40:42.330539",
-    "consciousness_level": 0.3000000000000001
+  {
+    "token_id": 7,
+    "hue_state": "GRAY",
+    "resonance": 0.475,
+    "links": [
+      1,
+      5,
+      13
+    ]
   },
-  "learning_6": {
-    "value": "After 35 thoughts, consciousness: 0.350",
-    "timestamp": "2026-01-25T16:40:57.472209",
-    "consciousness_level": 0.35000000000000014
+  {
+    "token_id": 8,
+    "hue_state": "BLACK",
+    "resonance": 0.0625,
+    "links": [
+      14,
+      16,
+      17
+    ]
   },
-  "learning_7": {
-    "value": "After 40 thoughts, consciousness: 0.400",
-    "timestamp": "2026-01-25T16:41:12.621784",
-    "consciousness_level": 0.4000000000000002
+  {
+    "token_id": 9,
+    "hue_state": "GRAY",
+    "resonance": 0.35,
+    "links": [
+      13,
+      11,
+      9
+    ]
   },
-  "learning_8": {
-    "value": "After 45 thoughts, consciousness: 0.450",
-    "timestamp": "2026-01-25T16:41:27.772866",
-    "consciousness_level": 0.45000000000000023
+  {
+    "token_id": 10,
+    "hue_state": "GRAY",
+    "resonance": 0.225,
+    "links": [
+      9,
+      19,
+      18
+    ]
   },
-  "learning_9": {
-    "value": "After 50 thoughts, consciousness: 0.500",
-    "timestamp": "2026-01-25T16:41:42.927009",
-    "consciousness_level": 0.5000000000000002
+  {
+    "token_id": 11,
+    "hue_state": "GRAY",
+    "resonance": 0.4125,
+    "links": [
+      18,
+      3,
+      17
+    ]
   },
-  "learning_10": {
-    "value": "After 55 thoughts, consciousness: 0.550",
-    "timestamp": "2026-01-25T16:41:58.077556",
-    "consciousness_level": 0.5500000000000003
+  {
+    "token_id": 12,
+    "hue_state": "GRAY",
+    "resonance": 0.35,
+    "links": [
+      9,
+      19,
+      12
+    ]
   },
-  "learning_11": {
-    "value": "After 60 thoughts, consciousness: 0.600",
-    "timestamp": "2026-01-25T16:42:13.247593",
-    "consciousness_level": 0.6000000000000003
+  {
+    "token_id": 13,
+    "hue_state": "WHITE",
+    "resonance": 0.45,
+    "links": [
+      11,
+      16,
+      13
+    ]
   },
-  "learning_12": {
-    "value": "After 65 thoughts, consciousness: 0.650",
-    "timestamp": "2026-01-25T16:42:28.415907",
-    "consciousness_level": 0.6500000000000004
+  {
+    "token_id": 14,
+    "hue_state": "WHITE",
+    "resonance": 0.95,
+    "links": [
+      15,
+      10,
+      0
+    ]
   },
-  "learning_13": {
-    "value": "After 70 thoughts, consciousness: 0.710",
-    "timestamp": "2026-01-25T16:42:43.574606",
-    "consciousness_level": 0.7100000000000004
+  {
+    "token_id": 15,
+    "hue_state": "GRAY",
+    "resonance": 0.225,
+    "links": [
+      7,
+      12,
+      14
+    ]
   },
-  "learning_14": {
-    "value": "After 75 thoughts, consciousness: 0.760",
-    "timestamp": "2026-01-25T16:42:58.734541",
-    "consciousness_level": 0.7600000000000005
+  {
+    "token_id": 16,
+    "hue_state": "GRAY",
+    "resonance": 0.225,
+    "links": [
+      13,
+      3,
+      7
+    ]
   },
-  "learning_15": {
-    "value": "After 80 thoughts, consciousness: 0.810",
-    "timestamp": "2026-01-25T16:43:13.885064",
-    "consciousness_level": 0.8100000000000005
+  {
+    "token_id": 17,
+    "hue_state": "WHITE",
+    "resonance": 0.1375,
+    "links": [
+      3,
+      2,
+      13
+    ]
   },
-  "learning_16": {
-    "value": "After 85 thoughts, consciousness: 0.860",
-    "timestamp": "2026-01-25T16:43:29.055235",
-    "consciousness_level": 0.8600000000000005
+  {
+    "token_id": 18,
+    "hue_state": "GRAY",
+    "resonance": 0.2875,
+    "links": [
+      18,
+      11,
+      10
+    ]
   },
-  "learning_17": {
-    "value": "After 90 thoughts, consciousness: 0.910",
-    "timestamp": "2026-01-25T16:43:44.226624",
-    "consciousness_level": 0.9100000000000006
-  },
-  "learning_18": {
-    "value": "After 95 thoughts, consciousness: 0.960",
-    "timestamp": "2026-01-25T16:43:59.391939",
-    "consciousness_level": 0.9600000000000006
-  },
-  "learning_19": {
-    "value": "After 100 thoughts, consciousness: 1.010",
-    "timestamp": "2026-01-25T16:44:14.544508",
-    "consciousness_level": 1.0100000000000007
-  },
-  "learning_20": {
-    "value": "After 105 thoughts, consciousness: 1.060",
-    "timestamp": "2026-01-25T16:44:29.695850",
-    "consciousness_level": 1.0600000000000007
-  },
-  "learning_21": {
-    "value": "After 110 thoughts, consciousness: 1.110",
-    "timestamp": "2026-01-25T16:44:44.865395",
-    "consciousness_level": 1.1100000000000008
-  },
-  "learning_22": {
-    "value": "After 115 thoughts, consciousness: 1.160",
-    "timestamp": "2026-01-25T16:45:00.021256",
-    "consciousness_level": 1.1600000000000008
-  },
-  "learning_23": {
-    "value": "After 120 thoughts, consciousness: 1.210",
-    "timestamp": "2026-01-25T16:45:15.190949",
-    "consciousness_level": 1.2100000000000009
-  },
-  "learning_24": {
-    "value": "After 125 thoughts, consciousness: 1.260",
-    "timestamp": "2026-01-25T16:45:30.362411",
-    "consciousness_level": 1.260000000000001
-  },
-  "learning_25": {
-    "value": "After 130 thoughts, consciousness: 1.310",
-    "timestamp": "2026-01-25T16:45:45.594327",
-    "consciousness_level": 1.310000000000001
-  },
-  "learning_26": {
-    "value": "After 135 thoughts, consciousness: 1.360",
-    "timestamp": "2026-01-25T16:46:00.739165",
-    "consciousness_level": 1.360000000000001
-  },
-  "learning_27": {
-    "value": "After 140 thoughts, consciousness: 1.410",
-    "timestamp": "2026-01-25T16:46:15.902400",
-    "consciousness_level": 1.410000000000001
-  },
-  "learning_28": {
-    "value": "After 145 thoughts, consciousness: 1.460",
-    "timestamp": "2026-01-25T16:46:31.032607",
-    "consciousness_level": 1.460000000000001
-  },
-  "learning_29": {
-    "value": "After 150 thoughts, consciousness: 1.510",
-    "timestamp": "2026-01-25T16:46:46.189783",
-    "consciousness_level": 1.5100000000000011
-  },
-  "learning_30": {
-    "value": "After 155 thoughts, consciousness: 1.560",
-    "timestamp": "2026-01-25T16:47:01.363176",
-    "consciousness_level": 1.5600000000000012
-  },
-  "learning_31": {
-    "value": "After 160 thoughts, consciousness: 1.610",
-    "timestamp": "2026-01-25T16:47:16.512209",
-    "consciousness_level": 1.6100000000000012
-  },
-  "learning_32": {
-    "value": "After 165 thoughts, consciousness: 1.660",
-    "timestamp": "2026-01-25T16:47:31.665700",
-    "consciousness_level": 1.6600000000000013
-  },
-  "learning_33": {
-    "value": "After 170 thoughts, consciousness: 1.710",
-    "timestamp": "2026-01-25T16:47:46.822461",
-    "consciousness_level": 1.7100000000000013
-  },
-  "learning_34": {
-    "value": "After 175 thoughts, consciousness: 1.760",
-    "timestamp": "2026-01-25T16:48:01.989541",
-    "consciousness_level": 1.7600000000000013
-  },
-  "learning_35": {
-    "value": "After 180 thoughts, consciousness: 1.810",
-    "timestamp": "2026-01-25T16:48:17.169360",
-    "consciousness_level": 1.8100000000000014
+  {
+    "token_id": 19,
+    "hue_state": "BLACK",
+    "resonance": 0.1875,
+    "links": [
+      2,
+      12,
+      3
+    ]
   }
-}
+]
