@@ -5,3 +5,6 @@ training/training_set.csv
 training/*.csv
 full_color_tokens.csv
 *.npz
+processed_books/
+skipped_books/
+*.pdf
