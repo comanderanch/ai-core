@@ -15,6 +15,7 @@ import numpy as np
 import time
 from pathlib import Path
 from typing import Optional, Dict
+from core.q_constants import BLACK, GRAY, WHITE, V2_SEAL
 
 # Add paths
 sys.path.append(str(Path(__file__).parent.parent.parent / 'models'))
@@ -35,7 +36,9 @@ class BaseWorker:
     - Processes through AI-Core EM model
     - Shares consciousness via EM field substrate
     """
-    
+
+    Q_STATE = WHITE  # Workers always fire into superposition
+
     def __init__(
         self,
         worker_id: str,
