@@ -9,9 +9,8 @@ from pathlib import Path
 import subprocess
 from typing import List, Dict
 
-sys.path.append(str(Path.home() / 'ai-core'))
-
-from distributed_consciousness.workers.base_worker import BaseWorker
+from core.q_constants import BLACK, GRAY, WHITE, V2_SEAL
+from workers.base_worker import BaseWorker
 
 class CuriosityWorker(BaseWorker):
     """
@@ -86,7 +85,19 @@ Format: One question per line, no numbering."""
         output = self.model.forward(input_vec)
         if isinstance(output, tuple):
             output = output[0]
-        
+
+        # WHITE -> GRAY -> BLACK — fold output into Queen's Fold
+        if output is not None:
+            from queens_fold.queens_fold_engine import collapse, save_fold
+            fold_input = [{
+                'token_id': self.worker_id,
+                'hue_state': 'orange',       # curiosity color plane
+                'resonance': float(np.mean(np.abs(output)))
+            }]
+            fold = collapse(fold_input)
+            save_fold(fold)
+            print(f"[{self.worker_id}] Folded → BLACK ({BLACK})")
+
         return output
     
     def explore_topic(self, topic: str) -> Dict:
