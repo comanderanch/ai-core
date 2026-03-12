@@ -14,8 +14,8 @@ from pathlib import Path
 from datetime import datetime
 from typing import List, Dict
 
-sys.path.append(str(Path(__file__).parent))
-from base_worker import BaseWorker
+from core.q_constants import BLACK, GRAY, WHITE, V2_SEAL
+from workers.base_worker import BaseWorker
 
 class MemoryWorker(BaseWorker):
     """
@@ -98,10 +98,22 @@ class MemoryWorker(BaseWorker):
         if context:
             # Average context vectors
             context_vecs = [np.array(m['vector']) for m in context]
-            context_vec = np.mean(context_vecs, axis=0)
-            return context_vec
-        
-        return input_vec
+            output = np.mean(context_vecs, axis=0)
+        else:
+            output = input_vec
+
+        # WHITE -> GRAY -> BLACK — fold output into Queen's Fold
+        from queens_fold.queens_fold_engine import collapse, save_fold
+        fold_input = [{
+            'token_id': self.worker_id,
+            'hue_state': 'violet',       # memory color plane
+            'resonance': float(np.mean(np.abs(output)))
+        }]
+        fold = collapse(fold_input)
+        save_fold(fold)
+        print(f"[{self.worker_id}] Folded → BLACK ({BLACK})")
+
+        return output
     
     def recall_similar(self, query_vec: np.ndarray, top_k: int = 5) -> List[Dict]:
         """

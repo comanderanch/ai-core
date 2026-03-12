@@ -24,8 +24,8 @@ import numpy as np
 from pathlib import Path
 from typing import Dict, Optional
 
-sys.path.append(str(Path(__file__).parent))
-from base_worker import BaseWorker
+from core.q_constants import BLACK, GRAY, WHITE, V2_SEAL
+from workers.base_worker import BaseWorker
 
 class EmotionWorker(BaseWorker):
     """
@@ -163,8 +163,20 @@ class EmotionWorker(BaseWorker):
             
             print(f"[{self.worker_id}] 💪 Intensity: {intensity:.2f}")
         
+        # WHITE -> GRAY -> BLACK — fold output into Queen's Fold
+        if emotional_output is not None:
+            from queens_fold.queens_fold_engine import collapse, save_fold
+            fold_input = [{
+                'token_id': self.worker_id,
+                'hue_state': 'red',          # emotion color plane
+                'resonance': float(np.mean(np.abs(emotional_output)))
+            }]
+            fold = collapse(fold_input)
+            save_fold(fold)
+            print(f"[{self.worker_id}] Folded → BLACK ({BLACK})")
+
         return emotional_output
-    
+
     def generate_emotional_response(
         self,
         text: str,

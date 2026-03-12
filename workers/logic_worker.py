@@ -11,8 +11,8 @@ import sys
 import numpy as np
 from pathlib import Path
 
-sys.path.append(str(Path(__file__).parent))
-from base_worker import BaseWorker
+from core.q_constants import BLACK, GRAY, WHITE, V2_SEAL
+from workers.base_worker import BaseWorker
 
 class LogicWorker(BaseWorker):
     """
@@ -48,9 +48,21 @@ class LogicWorker(BaseWorker):
         output = self.model.forward(combined)
         if isinstance(output, tuple):
             output = output[0]
-        
+
+        # WHITE -> GRAY -> BLACK — fold output into Queen's Fold
+        if output is not None:
+            from queens_fold.queens_fold_engine import collapse, save_fold
+            fold_input = [{
+                'token_id': self.worker_id,
+                'hue_state': 'blue',         # logic color plane
+                'resonance': float(np.mean(np.abs(output)))
+            }]
+            fold = collapse(fold_input)
+            save_fold(fold)
+            print(f"[{self.worker_id}] Folded → BLACK ({BLACK})")
+
         return output
-    
+
     def infer_relationship(self, vec_a: np.ndarray, vec_b: np.ndarray) -> np.ndarray:
         """
         Infer relationship between two concepts.
