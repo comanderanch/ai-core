@@ -12,7 +12,7 @@ import argparse, json, sys, time
 from pathlib import Path
 from collections import defaultdict
 
-BLACK, GRAY, WHITE = 0, -1, 1
+BLACK, GRAY, WHITE = -1, 0, +1  # FIXED: AIA V2 correct q-states
 HUE_STR_TO_INT = {"BLACK": BLACK, "GRAY": GRAY, "WHITE": WHITE}
 HUE_INT_TO_STR = {BLACK: "BLACK", GRAY: "GRAY", WHITE: "WHITE"}
 

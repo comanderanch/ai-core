@@ -1,1 +1,15 @@
-{"timestamp": "2025-07-03T05:14:25.916498", "label": "Growth", "reflex": "explore_mode", "trait": "curiosity_trigger"}
+{
+  "timestamp": "2025-07-03T05:14:25.916498",
+  "label": "Growth",
+  "reflex": "explore_mode",
+  "trait": "curiosity_trigger",
+  "plane_name": "orange",
+  "color_plane": [
+    255,
+    140,
+    0
+  ],
+  "frequency": 520.0,
+  "hue_shift": 0.0,
+  "q_state": 1
+}

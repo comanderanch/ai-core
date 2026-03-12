@@ -5,8 +5,8 @@ from pathlib import Path
 from enum import IntEnum
 
 class HueState(IntEnum):
-    GRAY = -1
-    BLACK = 0
+    GRAY = 0   # Zero point — hue multiplier — NOW state
+    BLACK = -1  # Negative binary pole — collapsed past state
     WHITE = 1
 
 class QbithueNode:

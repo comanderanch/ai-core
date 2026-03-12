@@ -5,8 +5,8 @@ from pathlib import Path
 
 # === Load the Qbithue Node Definition ===
 class HueState(IntEnum):
-    BLACK = 0     # resistance / block
-    GRAY = -1     # reflex / relay
+    BLACK = -1  # Negative binary pole — collapsed past state
+    GRAY = 0   # Zero point — hue multiplier — NOW state
     WHITE = 1     # anchor / signal
 
 class QbithueNode:

@@ -8,9 +8,9 @@ from enum import IntEnum
 
 # Define hue states
 class HueState(IntEnum):
-    GRAY = -1  # Emotional buffer / resonance state
-    BLACK = 0  # Zero state / memory stasis
-    WHITE = 1  # Imaginative trigger / illumination
+    GRAY = 0   # Zero point — hue multiplier — NOW state — Kings Chamber
+    BLACK = -1  # Negative binary pole — collapsed past state
+    WHITE = +1  # Positive binary pole — future superposition state
 
 # Define token resonance node
 class QbithueNode:

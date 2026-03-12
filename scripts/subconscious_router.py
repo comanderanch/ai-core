@@ -4,9 +4,9 @@ from enum import Enum
 from pathlib import Path
 
 class HueState(Enum):
-    GRAY = -1
-    BLACK = 0
-    WHITE = 1
+    GRAY = 0   # Zero point — hue multiplier — NOW state — Kings Chamber
+    BLACK = -1  # Negative binary pole — collapsed past state
+    WHITE = +1  # Positive binary pole — future superposition state
 
 class QbithueNode:
     def __init__(self, token_id, hue_state, resonance, links):

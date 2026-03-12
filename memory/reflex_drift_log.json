@@ -1,10 +1,19 @@
 [
-    {
-        "timestamp": "2025-07-03T16:45:15.305490",
-        "label": "Growth",
-        "reflex": "explore_mode",
-        "bias": 0.9,
-        "weight": 1.05,
-        "drift": 0.15
-    }
+  {
+    "timestamp": "2025-07-03T16:45:15.305490",
+    "label": "Growth",
+    "reflex": "explore_mode",
+    "bias": 0.9,
+    "weight": 1.05,
+    "drift": 0.15,
+    "plane_name": "orange",
+    "color_plane": [
+      255,
+      140,
+      0
+    ],
+    "frequency": 520.0,
+    "hue_shift": 0.0,
+    "q_state": 1
+  }
 ]
