@@ -8,3 +8,4 @@ full_color_tokens.csv
 processed_books/
 skipped_books/
 *.pdf
+training_data/20newsgroup_preprocessed.csv
