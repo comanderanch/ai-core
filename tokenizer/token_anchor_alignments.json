@@ -1,0 +1,9218 @@
+{
+  "0": {
+    "anchor": "solid",
+    "similarity": 0.7409499188858617
+  },
+  "1": {
+    "anchor": "solid",
+    "similarity": 0.7457572169739983
+  },
+  "2": {
+    "anchor": "solid",
+    "similarity": 0.7503770039511253
+  },
+  "3": {
+    "anchor": "solid",
+    "similarity": 0.754806379330152
+  },
+  "4": {
+    "anchor": "solid",
+    "similarity": 0.7590428071473834
+  },
+  "5": {
+    "anchor": "solid",
+    "similarity": 0.7630841216914234
+  },
+  "6": {
+    "anchor": "solid",
+    "similarity": 0.7669285309284047
+  },
+  "7": {
+    "anchor": "solid",
+    "similarity": 0.7705746176171605
+  },
+  "8": {
+    "anchor": "solid",
+    "similarity": 0.7740213381338683
+  },
+  "9": {
+    "anchor": "solid",
+    "similarity": 0.7772680190508374
+  },
+  "10": {
+    "anchor": "solid",
+    "similarity": 0.7803143515380648
+  },
+  "11": {
+    "anchor": "solid",
+    "similarity": 0.7831603836784935
+  },
+  "12": {
+    "anchor": "solid",
+    "similarity": 0.7858065108082778
+  },
+  "13": {
+    "anchor": "solid",
+    "similarity": 0.7882534640114354
+  },
+  "14": {
+    "anchor": "solid",
+    "similarity": 0.7905022969138428
+  },
+  "15": {
+    "anchor": "solid",
+    "similarity": 0.792554370934442
+  },
+  "16": {
+    "anchor": "solid",
+    "similarity": 0.7944113391616291
+  },
+  "17": {
+    "anchor": "solid",
+    "similarity": 0.7960751290301165
+  },
+  "18": {
+    "anchor": "solid",
+    "similarity": 0.7975479239780664
+  },
+  "19": {
+    "anchor": "solid",
+    "similarity": 0.7988321442661114
+  },
+  "20": {
+    "anchor": "abstract",
+    "similarity": 0.801316534506663
+  },
+  "21": {
+    "anchor": "abstract",
+    "similarity": 0.8052578351478114
+  },
+  "22": {
+    "anchor": "abstract",
+    "similarity": 0.8090042235322461
+  },
+  "23": {
+    "anchor": "abstract",
+    "similarity": 0.8125581592122382
+  },
+  "24": {
+    "anchor": "abstract",
+    "similarity": 0.815922293820329
+  },
+  "25": {
+    "anchor": "abstract",
+    "similarity": 0.8190994501664889
+  },
+  "26": {
+    "anchor": "abstract",
+    "similarity": 0.8220926012804629
+  },
+  "27": {
+    "anchor": "abstract",
+    "similarity": 0.8249048495417353
+  },
+  "28": {
+    "anchor": "abstract",
+    "similarity": 0.827539406028407
+  },
+  "29": {
+    "anchor": "abstract",
+    "similarity": 0.8299995702044423
+  },
+  "30": {
+    "anchor": "abstract",
+    "similarity": 0.832288710052527
+  },
+  "31": {
+    "anchor": "abstract",
+    "similarity": 0.8344102427473785
+  },
+  "32": {
+    "anchor": "abstract",
+    "similarity": 0.8363676159519999
+  },
+  "33": {
+    "anchor": "abstract",
+    "similarity": 0.8381642898072681
+  },
+  "34": {
+    "anchor": "abstract",
+    "similarity": 0.8398037196735518
+  },
+  "35": {
+    "anchor": "abstract",
+    "similarity": 0.8412893396719204
+  },
+  "36": {
+    "anchor": "abstract",
+    "similarity": 0.8426245470620384
+  },
+  "37": {
+    "anchor": "abstract",
+    "similarity": 0.8438126874841654
+  },
+  "38": {
+    "anchor": "abstract",
+    "similarity": 0.8448570410838077
+  },
+  "39": {
+    "anchor": "abstract",
+    "similarity": 0.8457608095296243
+  },
+  "40": {
+    "anchor": "abstract",
+    "similarity": 0.8465271039281349
+  },
+  "41": {
+    "anchor": "abstract",
+    "similarity": 0.8471589336326639
+  },
+  "42": {
+    "anchor": "abstract",
+    "similarity": 0.8476591959387576
+  },
+  "43": {
+    "anchor": "abstract",
+    "similarity": 0.8480306666540254
+  },
+  "44": {
+    "anchor": "abstract",
+    "similarity": 0.8482759915269417
+  },
+  "45": {
+    "anchor": "abstract",
+    "similarity": 0.8483976785165589
+  },
+  "46": {
+    "anchor": "abstract",
+    "similarity": 0.8483980908833058
+  },
+  "47": {
+    "anchor": "abstract",
+    "similarity": 0.8482794410799741
+  },
+  "48": {
+    "anchor": "abstract",
+    "similarity": 0.8480437854216358
+  },
+  "49": {
+    "anchor": "abstract",
+    "similarity": 0.8476930195134642
+  },
+  "50": {
+    "anchor": "abstract",
+    "similarity": 0.8472288744162441
+  },
+  "51": {
+    "anchor": "abstract",
+    "similarity": 0.8466529135306333
+  },
+  "52": {
+    "anchor": "abstract",
+    "similarity": 0.8459665301829765
+  },
+  "53": {
+    "anchor": "abstract",
+    "similarity": 0.8451709458975347
+  },
+  "54": {
+    "anchor": "abstract",
+    "similarity": 0.8442672093423994
+  },
+  "55": {
+    "anchor": "abstract",
+    "similarity": 0.8432561959389683
+  },
+  "56": {
+    "anchor": "temporal",
+    "similarity": 0.8451313447935799
+  },
+  "57": {
+    "anchor": "temporal",
+    "similarity": 0.8484075445131387
+  },
+  "58": {
+    "anchor": "temporal",
+    "similarity": 0.851638209451051
+  },
+  "59": {
+    "anchor": "temporal",
+    "similarity": 0.8548225759965506
+  },
+  "60": {
+    "anchor": "temporal",
+    "similarity": 0.8579596821756204
+  },
+  "61": {
+    "anchor": "temporal",
+    "similarity": 0.8610483650836911
+  },
+  "62": {
+    "anchor": "temporal",
+    "similarity": 0.8640872588450952
+  },
+  "63": {
+    "anchor": "temporal",
+    "similarity": 0.8670747931352045
+  },
+  "64": {
+    "anchor": "temporal",
+    "similarity": 0.8700091923053277
+  },
+  "65": {
+    "anchor": "temporal",
+    "similarity": 0.8728884751543408
+  },
+  "66": {
+    "anchor": "temporal",
+    "similarity": 0.8757104553946945
+  },
+  "67": {
+    "anchor": "temporal",
+    "similarity": 0.8784727428637104
+  },
+  "68": {
+    "anchor": "temporal",
+    "similarity": 0.8811727455339112
+  },
+  "69": {
+    "anchor": "temporal",
+    "similarity": 0.8838076723783901
+  },
+  "70": {
+    "anchor": "temporal",
+    "similarity": 0.8863745371488213
+  },
+  "71": {
+    "anchor": "temporal",
+    "similarity": 0.8888701631245358
+  },
+  "72": {
+    "anchor": "temporal",
+    "similarity": 0.8912911888910101
+  },
+  "73": {
+    "anchor": "temporal",
+    "similarity": 0.8936340752050479
+  },
+  "74": {
+    "anchor": "temporal",
+    "similarity": 0.895895113001734
+  },
+  "75": {
+    "anchor": "temporal",
+    "similarity": 0.898070432594825
+  },
+  "76": {
+    "anchor": "temporal",
+    "similarity": 0.9001560141174921
+  },
+  "77": {
+    "anchor": "temporal",
+    "similarity": 0.902147699244163
+  },
+  "78": {
+    "anchor": "temporal",
+    "similarity": 0.9040412042265513
+  },
+  "79": {
+    "anchor": "temporal",
+    "similarity": 0.9058321342677439
+  },
+  "80": {
+    "anchor": "temporal",
+    "similarity": 0.9075159992474284
+  },
+  "81": {
+    "anchor": "temporal",
+    "similarity": 0.9090882307989423
+  },
+  "82": {
+    "anchor": "temporal",
+    "similarity": 0.9105442007249004
+  },
+  "83": {
+    "anchor": "temporal",
+    "similarity": 0.9118792407227058
+  },
+  "84": {
+    "anchor": "temporal",
+    "similarity": 0.9130886633744378
+  },
+  "85": {
+    "anchor": "temporal",
+    "similarity": 0.9141677843375713
+  },
+  "86": {
+    "anchor": "temporal",
+    "similarity": 0.9151119456538951
+  },
+  "87": {
+    "anchor": "temporal",
+    "similarity": 0.9159165400741696
+  },
+  "88": {
+    "anchor": "temporal",
+    "similarity": 0.9165770362757284
+  },
+  "89": {
+    "anchor": "temporal",
+    "similarity": 0.9170890048297833
+  },
+  "90": {
+    "anchor": "temporal",
+    "similarity": 0.9174481447550058
+  },
+  "91": {
+    "anchor": "temporal",
+    "similarity": 0.9176503104744511
+  },
+  "92": {
+    "anchor": "temporal",
+    "similarity": 0.9176915389745313
+  },
+  "93": {
+    "anchor": "temporal",
+    "similarity": 0.9175680769480054
+  },
+  "94": {
+    "anchor": "temporal",
+    "similarity": 0.9172764076883133
+  },
+  "95": {
+    "anchor": "temporal",
+    "similarity": 0.9168132774905078
+  },
+  "96": {
+    "anchor": "temporal",
+    "similarity": 0.9161757213050231
+  },
+  "97": {
+    "anchor": "temporal",
+    "similarity": 0.915361087384926
+  },
+  "98": {
+    "anchor": "temporal",
+    "similarity": 0.9143670606655395
+  },
+  "99": {
+    "anchor": "temporal",
+    "similarity": 0.9131916846176805
+  },
+  "100": {
+    "anchor": "temporal",
+    "similarity": 0.9118333813224412
+  },
+  "101": {
+    "anchor": "temporal",
+    "similarity": 0.9102909695265569
+  },
+  "102": {
+    "anchor": "temporal",
+    "similarity": 0.9085636804530105
+  },
+  "103": {
+    "anchor": "temporal",
+    "similarity": 0.9066511711614431
+  },
+  "104": {
+    "anchor": "temporal",
+    "similarity": 0.9045535352770263
+  },
+  "105": {
+    "anchor": "social",
+    "similarity": 0.903647458095968
+  },
+  "106": {
+    "anchor": "social",
+    "similarity": 0.9026811091481755
+  },
+  "107": {
+    "anchor": "social",
+    "similarity": 0.9015422331276705
+  },
+  "108": {
+    "anchor": "social",
+    "similarity": 0.9002313191275025
+  },
+  "109": {
+    "anchor": "social",
+    "similarity": 0.8987492917521471
+  },
+  "110": {
+    "anchor": "social",
+    "similarity": 0.8970975088151142
+  },
+  "111": {
+    "anchor": "social",
+    "similarity": 0.8952777560962719
+  },
+  "112": {
+    "anchor": "social",
+    "similarity": 0.8932922392134871
+  },
+  "113": {
+    "anchor": "social",
+    "similarity": 0.8911435726989798
+  },
+  "114": {
+    "anchor": "social",
+    "similarity": 0.8888347664048584
+  },
+  "115": {
+    "anchor": "social",
+    "similarity": 0.8863692093939894
+  },
+  "116": {
+    "anchor": "social",
+    "similarity": 0.8837506515009979
+  },
+  "117": {
+    "anchor": "social",
+    "similarity": 0.8809831827733058
+  },
+  "118": {
+    "anchor": "social",
+    "similarity": 0.8780712110232213
+  },
+  "119": {
+    "anchor": "social",
+    "similarity": 0.8750194377389071
+  },
+  "120": {
+    "anchor": "social",
+    "similarity": 0.8718328326143633
+  },
+  "121": {
+    "anchor": "social",
+    "similarity": 0.8685166069662804
+  },
+  "122": {
+    "anchor": "social",
+    "similarity": 0.8650761863087972
+  },
+  "123": {
+    "anchor": "social",
+    "similarity": 0.8615171823559657
+  },
+  "124": {
+    "anchor": "social",
+    "similarity": 0.8578453647163369
+  },
+  "125": {
+    "anchor": "social",
+    "similarity": 0.8540666325348606
+  },
+  "126": {
+    "anchor": "social",
+    "similarity": 0.8501869863246563
+  },
+  "127": {
+    "anchor": "social",
+    "similarity": 0.8462125002155844
+  },
+  "128": {
+    "anchor": "social",
+    "similarity": 0.8421492948284524
+  },
+  "129": {
+    "anchor": "social",
+    "similarity": 0.8380035109636392
+  },
+  "130": {
+    "anchor": "social",
+    "similarity": 0.8337812842714024
+  },
+  "131": {
+    "anchor": "social",
+    "similarity": 0.8294887210486926
+  },
+  "132": {
+    "anchor": "social",
+    "similarity": 0.8251318752844083
+  },
+  "133": {
+    "anchor": "social",
+    "similarity": 0.8207167270521168
+  },
+  "134": {
+    "anchor": "social",
+    "similarity": 0.8162491623267877
+  },
+  "135": {
+    "anchor": "social",
+    "similarity": 0.8117349542803618
+  },
+  "136": {
+    "anchor": "social",
+    "similarity": 0.807179746090341
+  },
+  "137": {
+    "anchor": "social",
+    "similarity": 0.8025890352762752
+  },
+  "138": {
+    "anchor": "social",
+    "similarity": 0.7979681595612346
+  },
+  "139": {
+    "anchor": "social",
+    "similarity": 0.7933222842392658
+  },
+  "140": {
+    "anchor": "social",
+    "similarity": 0.7886563910154807
+  },
+  "141": {
+    "anchor": "social",
+    "similarity": 0.7839752682729186
+  },
+  "142": {
+    "anchor": "social",
+    "similarity": 0.7792835027096305
+  },
+  "143": {
+    "anchor": "social",
+    "similarity": 0.7745854722805497
+  },
+  "144": {
+    "anchor": "social",
+    "similarity": 0.7698853403715538
+  },
+  "145": {
+    "anchor": "social",
+    "similarity": 0.7651870511276385
+  },
+  "146": {
+    "anchor": "social",
+    "similarity": 0.7604943258531797
+  },
+  "147": {
+    "anchor": "social",
+    "similarity": 0.755810660399761
+  },
+  "148": {
+    "anchor": "social",
+    "similarity": 0.7511393234558514
+  },
+  "149": {
+    "anchor": "social",
+    "similarity": 0.7464833556526128
+  },
+  "150": {
+    "anchor": "social",
+    "similarity": 0.7418455694011458
+  },
+  "151": {
+    "anchor": "social",
+    "similarity": 0.7372285493784532
+  },
+  "152": {
+    "anchor": "social",
+    "similarity": 0.7326346535821333
+  },
+  "153": {
+    "anchor": "social",
+    "similarity": 0.7280660148772494
+  },
+  "154": {
+    "anchor": "social",
+    "similarity": 0.7235245429627941
+  },
+  "155": {
+    "anchor": "social",
+    "similarity": 0.7190119266896285
+  },
+  "156": {
+    "anchor": "social",
+    "similarity": 0.7145296366665738
+  },
+  "157": {
+    "anchor": "social",
+    "similarity": 0.7100789280964478
+  },
+  "158": {
+    "anchor": "social",
+    "similarity": 0.7056608437891726
+  },
+  "159": {
+    "anchor": "social",
+    "similarity": 0.7012762173045426
+  },
+  "160": {
+    "anchor": "social",
+    "similarity": 0.6969256761828658
+  },
+  "161": {
+    "anchor": "social",
+    "similarity": 0.6926096452273396
+  },
+  "162": {
+    "anchor": "social",
+    "similarity": 0.6883283498077389
+  },
+  "163": {
+    "anchor": "social",
+    "similarity": 0.6840818191607142
+  },
+  "164": {
+    "anchor": "social",
+    "similarity": 0.679869889667715
+  },
+  "165": {
+    "anchor": "social",
+    "similarity": 0.6756922080972638
+  },
+  "166": {
+    "anchor": "social",
+    "similarity": 0.6715482348039823
+  },
+  "167": {
+    "anchor": "social",
+    "similarity": 0.6674372468824377
+  },
+  "168": {
+    "anchor": "social",
+    "similarity": 0.6633583412794991
+  },
+  "169": {
+    "anchor": "social",
+    "similarity": 0.6593104378744965
+  },
+  "170": {
+    "anchor": "social",
+    "similarity": 0.6552922825420441
+  },
+  "171": {
+    "anchor": "social",
+    "similarity": 0.6513024502179208
+  },
+  "172": {
+    "anchor": "social",
+    "similarity": 0.6473393479938943
+  },
+  "173": {
+    "anchor": "social",
+    "similarity": 0.6434012182728046
+  },
+  "174": {
+    "anchor": "social",
+    "similarity": 0.6394861420205956
+  },
+  "175": {
+    "anchor": "social",
+    "similarity": 0.6355920421572423
+  },
+  "176": {
+    "anchor": "social",
+    "similarity": 0.6317166871336591
+  },
+  "177": {
+    "anchor": "social",
+    "similarity": 0.6278576947466348
+  },
+  "178": {
+    "anchor": "social",
+    "similarity": 0.6240125362485521
+  },
+  "179": {
+    "anchor": "social",
+    "similarity": 0.6201785408130894
+  },
+  "180": {
+    "anchor": "social",
+    "similarity": 0.6163529004221173
+  },
+  "181": {
+    "anchor": "social",
+    "similarity": 0.6125326752425648
+  },
+  "182": {
+    "anchor": "social",
+    "similarity": 0.6087147995649738
+  },
+  "183": {
+    "anchor": "social",
+    "similarity": 0.6048960883776842
+  },
+  "184": {
+    "anchor": "social",
+    "similarity": 0.6010732446519382
+  },
+  "185": {
+    "anchor": "social",
+    "similarity": 0.5972428674135132
+  },
+  "186": {
+    "anchor": "social",
+    "similarity": 0.5934014606756014
+  },
+  "187": {
+    "anchor": "social",
+    "similarity": 0.5895454433053957
+  },
+  "188": {
+    "anchor": "social",
+    "similarity": 0.5856711598929991
+  },
+  "189": {
+    "anchor": "social",
+    "similarity": 0.5817748926856908
+  },
+  "190": {
+    "anchor": "social",
+    "similarity": 0.5778528746430616
+  },
+  "191": {
+    "anchor": "social",
+    "similarity": 0.5739013036589038
+  },
+  "192": {
+    "anchor": "social",
+    "similarity": 0.5699163579838743
+  },
+  "193": {
+    "anchor": "social",
+    "similarity": 0.56589421286871
+  },
+  "194": {
+    "anchor": "social",
+    "similarity": 0.5618310584311176
+  },
+  "195": {
+    "anchor": "social",
+    "similarity": 0.55772311873033
+  },
+  "196": {
+    "anchor": "social",
+    "similarity": 0.5535666720118098
+  },
+  "197": {
+    "anchor": "social",
+    "similarity": 0.5493580720607769
+  },
+  "198": {
+    "anchor": "social",
+    "similarity": 0.5450937705773811
+  },
+  "199": {
+    "anchor": "social",
+    "similarity": 0.5407703404587306
+  },
+  "200": {
+    "anchor": "social",
+    "similarity": 0.5363844998440696
+  },
+  "201": {
+    "anchor": "social",
+    "similarity": 0.5319331367496561
+  },
+  "202": {
+    "anchor": "social",
+    "similarity": 0.5274133340900344
+  },
+  "203": {
+    "anchor": "social",
+    "similarity": 0.5228223948530992
+  },
+  "204": {
+    "anchor": "social",
+    "similarity": 0.5181578671685082
+  },
+  "205": {
+    "anchor": "fluid",
+    "similarity": 0.513787600495276
+  },
+  "206": {
+    "anchor": "fluid",
+    "similarity": 0.5120127913173403
+  },
+  "207": {
+    "anchor": "fluid",
+    "similarity": 0.5101782622870413
+  },
+  "208": {
+    "anchor": "fluid",
+    "similarity": 0.5082804415447515
+  },
+  "209": {
+    "anchor": "fluid",
+    "similarity": 0.5063159945687412
+  },
+  "210": {
+    "anchor": "fluid",
+    "similarity": 0.504281849441199
+  },
+  "211": {
+    "anchor": "fluid",
+    "similarity": 0.5021752210687997
+  },
+  "212": {
+    "anchor": "fluid",
+    "similarity": 0.49999363400210106
+  },
+  "213": {
+    "anchor": "fluid",
+    "similarity": 0.49773494349912006
+  },
+  "214": {
+    "anchor": "spatial",
+    "similarity": 0.4969583776940251
+  },
+  "215": {
+    "anchor": "spatial",
+    "similarity": 0.49812491810399506
+  },
+  "216": {
+    "anchor": "spatial",
+    "similarity": 0.4992065296481082
+  },
+  "217": {
+    "anchor": "spatial",
+    "similarity": 0.5001994433778653
+  },
+  "218": {
+    "anchor": "spatial",
+    "similarity": 0.5011002576511551
+  },
+  "219": {
+    "anchor": "spatial",
+    "similarity": 0.5019059594948743
+  },
+  "220": {
+    "anchor": "spatial",
+    "similarity": 0.5026139428513974
+  },
+  "221": {
+    "anchor": "spatial",
+    "similarity": 0.5032220234292346
+  },
+  "222": {
+    "anchor": "spatial",
+    "similarity": 0.5037284499331205
+  },
+  "223": {
+    "anchor": "spatial",
+    "similarity": 0.5041319115095291
+  },
+  "224": {
+    "anchor": "spatial",
+    "similarity": 0.5044315413085577
+  },
+  "225": {
+    "anchor": "spatial",
+    "similarity": 0.5046269161304161
+  },
+  "226": {
+    "anchor": "spatial",
+    "similarity": 0.5047180521924902
+  },
+  "227": {
+    "anchor": "spatial",
+    "similarity": 0.5047053971191731
+  },
+  "228": {
+    "anchor": "spatial",
+    "similarity": 0.5045898183195455
+  },
+  "229": {
+    "anchor": "spatial",
+    "similarity": 0.5043725879758083
+  },
+  "230": {
+    "anchor": "spatial",
+    "similarity": 0.5040553649166812
+  },
+  "231": {
+    "anchor": "spatial",
+    "similarity": 0.5036401736935368
+  },
+  "232": {
+    "anchor": "spatial",
+    "similarity": 0.5031293812119759
+  },
+  "233": {
+    "anchor": "spatial",
+    "similarity": 0.5025256712972792
+  },
+  "234": {
+    "anchor": "spatial",
+    "similarity": 0.5018320175884909
+  },
+  "235": {
+    "anchor": "spatial",
+    "similarity": 0.5010516551628904
+  },
+  "236": {
+    "anchor": "spatial",
+    "similarity": 0.5001880512906943
+  },
+  "237": {
+    "anchor": "spatial",
+    "similarity": 0.4992448757096681
+  },
+  "238": {
+    "anchor": "spatial",
+    "similarity": 0.4982259707917907
+  },
+  "239": {
+    "anchor": "spatial",
+    "similarity": 0.49713532195024407
+  },
+  "240": {
+    "anchor": "spatial",
+    "similarity": 0.49597702860593423
+  },
+  "241": {
+    "anchor": "spatial",
+    "similarity": 0.49475527599969615
+  },
+  "242": {
+    "anchor": "spatial",
+    "similarity": 0.49347430810047205
+  },
+  "243": {
+    "anchor": "spatial",
+    "similarity": 0.4921384018222718
+  },
+  "244": {
+    "anchor": "spatial",
+    "similarity": 0.4907518427246531
+  },
+  "245": {
+    "anchor": "spatial",
+    "similarity": 0.48931890233382247
+  },
+  "246": {
+    "anchor": "spatial",
+    "similarity": 0.48784381718505415
+  },
+  "247": {
+    "anchor": "spatial",
+    "similarity": 0.4863307696526782
+  },
+  "248": {
+    "anchor": "spatial",
+    "similarity": 0.4847838706019495
+  },
+  "249": {
+    "anchor": "spatial",
+    "similarity": 0.48320714386808844
+  },
+  "250": {
+    "anchor": "spatial",
+    "similarity": 0.48160451254196013
+  },
+  "251": {
+    "anchor": "spatial",
+    "similarity": 0.47997978701938276
+  },
+  "252": {
+    "anchor": "spatial",
+    "similarity": 0.47833665475196635
+  },
+  "253": {
+    "anchor": "spatial",
+    "similarity": 0.47667867162162847
+  },
+  "254": {
+    "anchor": "spatial",
+    "similarity": 0.47500925484838113
+  },
+  "255": {
+    "anchor": "spatial",
+    "similarity": 0.4733316773314387
+  },
+  "256": {
+    "anchor": "spatial",
+    "similarity": 0.4716490633169201
+  },
+  "257": {
+    "anchor": "spatial",
+    "similarity": 0.46996438528115086
+  },
+  "258": {
+    "anchor": "spatial",
+    "similarity": 0.4682804619165055
+  },
+  "259": {
+    "anchor": "spatial",
+    "similarity": 0.4665999571065954
+  },
+  "260": {
+    "anchor": "spatial",
+    "similarity": 0.4649253797791066
+  },
+  "261": {
+    "anchor": "spatial",
+    "similarity": 0.4632590845274279
+  },
+  "262": {
+    "anchor": "spatial",
+    "similarity": 0.46160327289615716
+  },
+  "263": {
+    "anchor": "solid",
+    "similarity": 0.46140914874149136
+  },
+  "264": {
+    "anchor": "solid",
+    "similarity": 0.4628910646335715
+  },
+  "265": {
+    "anchor": "solid",
+    "similarity": 0.4643143252475744
+  },
+  "266": {
+    "anchor": "solid",
+    "similarity": 0.46568093203339134
+  },
+  "267": {
+    "anchor": "solid",
+    "similarity": 0.46699280601301874
+  },
+  "268": {
+    "anchor": "solid",
+    "similarity": 0.46825178311188037
+  },
+  "269": {
+    "anchor": "solid",
+    "similarity": 0.4694596099817527
+  },
+  "270": {
+    "anchor": "solid",
+    "similarity": 0.4706179402558478
+  },
+  "271": {
+    "anchor": "solid",
+    "similarity": 0.47172833117851276
+  },
+  "272": {
+    "anchor": "solid",
+    "similarity": 0.4727922405542287
+  },
+  "273": {
+    "anchor": "solid",
+    "similarity": 0.47381102396303826
+  },
+  "274": {
+    "anchor": "solid",
+    "similarity": 0.4747859321921541
+  },
+  "275": {
+    "anchor": "solid",
+    "similarity": 0.475718108836214
+  },
+  "276": {
+    "anchor": "solid",
+    "similarity": 0.47660858802145184
+  },
+  "277": {
+    "anchor": "solid",
+    "similarity": 0.4774582922118635
+  },
+  "278": {
+    "anchor": "solid",
+    "similarity": 0.4782680300582835
+  },
+  "279": {
+    "anchor": "solid",
+    "similarity": 0.47903849425410655
+  },
+  "280": {
+    "anchor": "solid",
+    "similarity": 0.4797702593641925
+  },
+  "281": {
+    "anchor": "solid",
+    "similarity": 0.4804637795962861
+  },
+  "282": {
+    "anchor": "solid",
+    "similarity": 0.4811193864870644
+  },
+  "283": {
+    "anchor": "solid",
+    "similarity": 0.4817372864777102
+  },
+  "284": {
+    "anchor": "solid",
+    "similarity": 0.48231755835673146
+  },
+  "285": {
+    "anchor": "solid",
+    "similarity": 0.48286015055060066
+  },
+  "286": {
+    "anchor": "solid",
+    "similarity": 0.48336487824574587
+  },
+  "287": {
+    "anchor": "solid",
+    "similarity": 0.4838314203284818
+  },
+  "288": {
+    "anchor": "solid",
+    "similarity": 0.48425931613270007
+  },
+  "289": {
+    "anchor": "solid",
+    "similarity": 0.4846479619885605
+  },
+  "290": {
+    "anchor": "solid",
+    "similarity": 0.4849966075691151
+  },
+  "291": {
+    "anchor": "solid",
+    "similarity": 0.4853043520357893
+  },
+  "292": {
+    "anchor": "solid",
+    "similarity": 0.4855701399880078
+  },
+  "293": {
+    "anchor": "solid",
+    "similarity": 0.485792757227049
+  },
+  "294": {
+    "anchor": "solid",
+    "similarity": 0.4859708263495059
+  },
+  "295": {
+    "anchor": "solid",
+    "similarity": 0.4861028021915864
+  },
+  "296": {
+    "anchor": "solid",
+    "similarity": 0.48618696715198395
+  },
+  "297": {
+    "anchor": "solid",
+    "similarity": 0.48622142642824157
+  },
+  "298": {
+    "anchor": "solid",
+    "similarity": 0.48620410320950824
+  },
+  "299": {
+    "anchor": "solid",
+    "similarity": 0.48613273387738604
+  },
+  "300": {
+    "anchor": "solid",
+    "similarity": 0.4860048632762758
+  },
+  "301": {
+    "anchor": "solid",
+    "similarity": 0.48581784012526247
+  },
+  "302": {
+    "anchor": "solid",
+    "similarity": 0.485568812655204
+  },
+  "303": {
+    "anchor": "solid",
+    "similarity": 0.48525472456729696
+  },
+  "304": {
+    "anchor": "solid",
+    "similarity": 0.48487231142297005
+  },
+  "305": {
+    "anchor": "solid",
+    "similarity": 0.4844180975894943
+  },
+  "306": {
+    "anchor": "solid",
+    "similarity": 0.4838883938810656
+  },
+  "307": {
+    "anchor": "solid",
+    "similarity": 0.48327929605123343
+  },
+  "308": {
+    "anchor": "solid",
+    "similarity": 0.48258668430918833
+  },
+  "309": {
+    "anchor": "solid",
+    "similarity": 0.48180622404934864
+  },
+  "310": {
+    "anchor": "solid",
+    "similarity": 0.4809333680005645
+  },
+  "311": {
+    "anchor": "solid",
+    "similarity": 0.4799633600176525
+  },
+  "312": {
+    "anchor": "solid",
+    "similarity": 0.4788912407533592
+  },
+  "313": {
+    "anchor": "solid",
+    "similarity": 0.4777118554626133
+  },
+  "314": {
+    "anchor": "solid",
+    "similarity": 0.4764198642022693
+  },
+  "315": {
+    "anchor": "solid",
+    "similarity": 0.47500975469764617
+  },
+  "316": {
+    "anchor": "solid",
+    "similarity": 0.47347585815098464
+  },
+  "317": {
+    "anchor": "solid",
+    "similarity": 0.4718123682654184
+  },
+  "318": {
+    "anchor": "solid",
+    "similarity": 0.47001336374994745
+  },
+  "319": {
+    "anchor": "solid",
+    "similarity": 0.46807283455497145
+  },
+  "320": {
+    "anchor": "solid",
+    "similarity": 0.4659847120628564
+  },
+  "321": {
+    "anchor": "solid",
+    "similarity": 0.4637429034225107
+  },
+  "322": {
+    "anchor": "solid",
+    "similarity": 0.46134133016980094
+  },
+  "323": {
+    "anchor": "solid",
+    "similarity": 0.45877397121584296
+  },
+  "324": {
+    "anchor": "solid",
+    "similarity": 0.4560349102119323
+  },
+  "325": {
+    "anchor": "solid",
+    "similarity": 0.45311838721276637
+  },
+  "326": {
+    "anchor": "solid",
+    "similarity": 0.4500188544586706
+  },
+  "327": {
+    "anchor": "solid",
+    "similarity": 0.44673103598349045
+  },
+  "328": {
+    "anchor": "solid",
+    "similarity": 0.4432499906290005
+  },
+  "329": {
+    "anchor": "solid",
+    "similarity": 0.4395711779113247
+  },
+  "330": {
+    "anchor": "solid",
+    "similarity": 0.4356905260430627
+  },
+  "331": {
+    "anchor": "solid",
+    "similarity": 0.4316045012705754
+  },
+  "332": {
+    "anchor": "solid",
+    "similarity": 0.4273101775441533
+  },
+  "333": {
+    "anchor": "solid",
+    "similarity": 0.4228053054053199
+  },
+  "334": {
+    "anchor": "solid",
+    "similarity": 0.41808837885674716
+  },
+  "335": {
+    "anchor": "solid",
+    "similarity": 0.4131586988830501
+  },
+  "336": {
+    "anchor": "solid",
+    "similarity": 0.40801643222204614
+  },
+  "337": {
+    "anchor": "solid",
+    "similarity": 0.4026626639526441
+  },
+  "338": {
+    "anchor": "solid",
+    "similarity": 0.3970994424733203
+  },
+  "339": {
+    "anchor": "solid",
+    "similarity": 0.39132981549893575
+  },
+  "340": {
+    "anchor": "solid",
+    "similarity": 0.3853578558065909
+  },
+  "341": {
+    "anchor": "solid",
+    "similarity": 0.3791886756142956
+  },
+  "342": {
+    "anchor": "solid",
+    "similarity": 0.37282842867809207
+  },
+  "343": {
+    "anchor": "solid",
+    "similarity": 0.3662842994398857
+  },
+  "344": {
+    "anchor": "solid",
+    "similarity": 0.35956447884297543
+  },
+  "345": {
+    "anchor": "solid",
+    "similarity": 0.3526781267459599
+  },
+  "346": {
+    "anchor": "solid",
+    "similarity": 0.3456353211970969
+  },
+  "347": {
+    "anchor": "solid",
+    "similarity": 0.338446995167433
+  },
+  "348": {
+    "anchor": "solid",
+    "similarity": 0.3311248616683857
+  },
+  "349": {
+    "anchor": "solid",
+    "similarity": 0.3236813284841584
+  },
+  "350": {
+    "anchor": "solid",
+    "similarity": 0.316129404018371
+  },
+  "351": {
+    "anchor": "solid",
+    "similarity": 0.3084825959761825
+  },
+  "352": {
+    "anchor": "solid",
+    "similarity": 0.30075480476887095
+  },
+  "353": {
+    "anchor": null,
+    "similarity": null
+  },
+  "354": {
+    "anchor": null,
+    "similarity": null
+  },
+  "355": {
+    "anchor": null,
+    "similarity": null
+  },
+  "356": {
+    "anchor": null,
+    "similarity": null
+  },
+  "357": {
+    "anchor": null,
+    "similarity": null
+  },
+  "358": {
+    "anchor": null,
+    "similarity": null
+  },
+  "359": {
+    "anchor": null,
+    "similarity": null
+  },
+  "360": {
+    "anchor": null,
+    "similarity": null
+  },
+  "361": {
+    "anchor": null,
+    "similarity": null
+  },
+  "362": {
+    "anchor": null,
+    "similarity": null
+  },
+  "363": {
+    "anchor": null,
+    "similarity": null
+  },
+  "364": {
+    "anchor": null,
+    "similarity": null
+  },
+  "365": {
+    "anchor": null,
+    "similarity": null
+  },
+  "366": {
+    "anchor": null,
+    "similarity": null
+  },
+  "367": {
+    "anchor": null,
+    "similarity": null
+  },
+  "368": {
+    "anchor": null,
+    "similarity": null
+  },
+  "369": {
+    "anchor": null,
+    "similarity": null
+  },
+  "370": {
+    "anchor": null,
+    "similarity": null
+  },
+  "371": {
+    "anchor": null,
+    "similarity": null
+  },
+  "372": {
+    "anchor": null,
+    "similarity": null
+  },
+  "373": {
+    "anchor": null,
+    "similarity": null
+  },
+  "374": {
+    "anchor": null,
+    "similarity": null
+  },
+  "375": {
+    "anchor": null,
+    "similarity": null
+  },
+  "376": {
+    "anchor": null,
+    "similarity": null
+  },
+  "377": {
+    "anchor": null,
+    "similarity": null
+  },
+  "378": {
+    "anchor": null,
+    "similarity": null
+  },
+  "379": {
+    "anchor": null,
+    "similarity": null
+  },
+  "380": {
+    "anchor": null,
+    "similarity": null
+  },
+  "381": {
+    "anchor": null,
+    "similarity": null
+  },
+  "382": {
+    "anchor": null,
+    "similarity": null
+  },
+  "383": {
+    "anchor": null,
+    "similarity": null
+  },
+  "384": {
+    "anchor": null,
+    "similarity": null
+  },
+  "385": {
+    "anchor": null,
+    "similarity": null
+  },
+  "386": {
+    "anchor": null,
+    "similarity": null
+  },
+  "387": {
+    "anchor": null,
+    "similarity": null
+  },
+  "388": {
+    "anchor": null,
+    "similarity": null
+  },
+  "389": {
+    "anchor": null,
+    "similarity": null
+  },
+  "390": {
+    "anchor": null,
+    "similarity": null
+  },
+  "391": {
+    "anchor": null,
+    "similarity": null
+  },
+  "392": {
+    "anchor": null,
+    "similarity": null
+  },
+  "393": {
+    "anchor": null,
+    "similarity": null
+  },
+  "394": {
+    "anchor": null,
+    "similarity": null
+  },
+  "395": {
+    "anchor": null,
+    "similarity": null
+  },
+  "396": {
+    "anchor": null,
+    "similarity": null
+  },
+  "397": {
+    "anchor": null,
+    "similarity": null
+  },
+  "398": {
+    "anchor": null,
+    "similarity": null
+  },
+  "399": {
+    "anchor": null,
+    "similarity": null
+  },
+  "400": {
+    "anchor": null,
+    "similarity": null
+  },
+  "401": {
+    "anchor": null,
+    "similarity": null
+  },
+  "402": {
+    "anchor": null,
+    "similarity": null
+  },
+  "403": {
+    "anchor": null,
+    "similarity": null
+  },
+  "404": {
+    "anchor": null,
+    "similarity": null
+  },
+  "405": {
+    "anchor": null,
+    "similarity": null
+  },
+  "406": {
+    "anchor": null,
+    "similarity": null
+  },
+  "407": {
+    "anchor": null,
+    "similarity": null
+  },
+  "408": {
+    "anchor": null,
+    "similarity": null
+  },
+  "409": {
+    "anchor": null,
+    "similarity": null
+  },
+  "410": {
+    "anchor": null,
+    "similarity": null
+  },
+  "411": {
+    "anchor": null,
+    "similarity": null
+  },
+  "412": {
+    "anchor": null,
+    "similarity": null
+  },
+  "413": {
+    "anchor": null,
+    "similarity": null
+  },
+  "414": {
+    "anchor": null,
+    "similarity": null
+  },
+  "415": {
+    "anchor": null,
+    "similarity": null
+  },
+  "416": {
+    "anchor": null,
+    "similarity": null
+  },
+  "417": {
+    "anchor": null,
+    "similarity": null
+  },
+  "418": {
+    "anchor": null,
+    "similarity": null
+  },
+  "419": {
+    "anchor": null,
+    "similarity": null
+  },
+  "420": {
+    "anchor": null,
+    "similarity": null
+  },
+  "421": {
+    "anchor": null,
+    "similarity": null
+  },
+  "422": {
+    "anchor": null,
+    "similarity": null
+  },
+  "423": {
+    "anchor": null,
+    "similarity": null
+  },
+  "424": {
+    "anchor": null,
+    "similarity": null
+  },
+  "425": {
+    "anchor": null,
+    "similarity": null
+  },
+  "426": {
+    "anchor": null,
+    "similarity": null
+  },
+  "427": {
+    "anchor": null,
+    "similarity": null
+  },
+  "428": {
+    "anchor": null,
+    "similarity": null
+  },
+  "429": {
+    "anchor": null,
+    "similarity": null
+  },
+  "430": {
+    "anchor": null,
+    "similarity": null
+  },
+  "431": {
+    "anchor": null,
+    "similarity": null
+  },
+  "432": {
+    "anchor": null,
+    "similarity": null
+  },
+  "433": {
+    "anchor": null,
+    "similarity": null
+  },
+  "434": {
+    "anchor": null,
+    "similarity": null
+  },
+  "435": {
+    "anchor": null,
+    "similarity": null
+  },
+  "436": {
+    "anchor": null,
+    "similarity": null
+  },
+  "437": {
+    "anchor": null,
+    "similarity": null
+  },
+  "438": {
+    "anchor": null,
+    "similarity": null
+  },
+  "439": {
+    "anchor": null,
+    "similarity": null
+  },
+  "440": {
+    "anchor": null,
+    "similarity": null
+  },
+  "441": {
+    "anchor": null,
+    "similarity": null
+  },
+  "442": {
+    "anchor": null,
+    "similarity": null
+  },
+  "443": {
+    "anchor": null,
+    "similarity": null
+  },
+  "444": {
+    "anchor": null,
+    "similarity": null
+  },
+  "445": {
+    "anchor": null,
+    "similarity": null
+  },
+  "446": {
+    "anchor": null,
+    "similarity": null
+  },
+  "447": {
+    "anchor": null,
+    "similarity": null
+  },
+  "448": {
+    "anchor": null,
+    "similarity": null
+  },
+  "449": {
+    "anchor": null,
+    "similarity": null
+  },
+  "450": {
+    "anchor": null,
+    "similarity": null
+  },
+  "451": {
+    "anchor": null,
+    "similarity": null
+  },
+  "452": {
+    "anchor": null,
+    "similarity": null
+  },
+  "453": {
+    "anchor": null,
+    "similarity": null
+  },
+  "454": {
+    "anchor": null,
+    "similarity": null
+  },
+  "455": {
+    "anchor": null,
+    "similarity": null
+  },
+  "456": {
+    "anchor": null,
+    "similarity": null
+  },
+  "457": {
+    "anchor": null,
+    "similarity": null
+  },
+  "458": {
+    "anchor": null,
+    "similarity": null
+  },
+  "459": {
+    "anchor": null,
+    "similarity": null
+  },
+  "460": {
+    "anchor": null,
+    "similarity": null
+  },
+  "461": {
+    "anchor": null,
+    "similarity": null
+  },
+  "462": {
+    "anchor": null,
+    "similarity": null
+  },
+  "463": {
+    "anchor": null,
+    "similarity": null
+  },
+  "464": {
+    "anchor": null,
+    "similarity": null
+  },
+  "465": {
+    "anchor": null,
+    "similarity": null
+  },
+  "466": {
+    "anchor": null,
+    "similarity": null
+  },
+  "467": {
+    "anchor": null,
+    "similarity": null
+  },
+  "468": {
+    "anchor": null,
+    "similarity": null
+  },
+  "469": {
+    "anchor": "thermal",
+    "similarity": 0.3006509617648313
+  },
+  "470": {
+    "anchor": "thermal",
+    "similarity": 0.30742632806386416
+  },
+  "471": {
+    "anchor": "thermal",
+    "similarity": 0.3141565000026242
+  },
+  "472": {
+    "anchor": "thermal",
+    "similarity": 0.3208345844091677
+  },
+  "473": {
+    "anchor": "thermal",
+    "similarity": 0.3274536956514649
+  },
+  "474": {
+    "anchor": "thermal",
+    "similarity": 0.33400697085797953
+  },
+  "475": {
+    "anchor": "thermal",
+    "similarity": 0.34048758492000525
+  },
+  "476": {
+    "anchor": "thermal",
+    "similarity": 0.3468887651526401
+  },
+  "477": {
+    "anchor": "thermal",
+    "similarity": 0.353203805493946
+  },
+  "478": {
+    "anchor": "thermal",
+    "similarity": 0.35942608012612165
+  },
+  "479": {
+    "anchor": "thermal",
+    "similarity": 0.36554905640841534
+  },
+  "480": {
+    "anchor": "thermal",
+    "similarity": 0.37156630701886617
+  },
+  "481": {
+    "anchor": "thermal",
+    "similarity": 0.37747152121074273
+  },
+  "482": {
+    "anchor": "thermal",
+    "similarity": 0.38325851509954634
+  },
+  "483": {
+    "anchor": "thermal",
+    "similarity": 0.38892124090753605
+  },
+  "484": {
+    "anchor": "thermal",
+    "similarity": 0.39445379510471773
+  },
+  "485": {
+    "anchor": "thermal",
+    "similarity": 0.3998504253979198
+  },
+  "486": {
+    "anchor": "thermal",
+    "similarity": 0.4051055365327656
+  },
+  "487": {
+    "anchor": "thermal",
+    "similarity": 0.4102136948868179
+  },
+  "488": {
+    "anchor": "thermal",
+    "similarity": 0.4151696318457287
+  },
+  "489": {
+    "anchor": "thermal",
+    "similarity": 0.41996824596767196
+  },
+  "490": {
+    "anchor": "thermal",
+    "similarity": 0.4246046039544772
+  },
+  "491": {
+    "anchor": "thermal",
+    "similarity": 0.4290739404605539
+  },
+  "492": {
+    "anchor": "thermal",
+    "similarity": 0.4333716567827492
+  },
+  "493": {
+    "anchor": "thermal",
+    "similarity": 0.4374933184855733
+  },
+  "494": {
+    "anchor": "thermal",
+    "similarity": 0.4414346520266655
+  },
+  "495": {
+    "anchor": "thermal",
+    "similarity": 0.44519154045686
+  },
+  "496": {
+    "anchor": "thermal",
+    "similarity": 0.44876001827769785
+  },
+  "497": {
+    "anchor": "thermal",
+    "similarity": 0.45213626554667535
+  },
+  "498": {
+    "anchor": "thermal",
+    "similarity": 0.45531660132690915
+  },
+  "499": {
+    "anchor": "thermal",
+    "similarity": 0.45829747658324566
+  },
+  "500": {
+    "anchor": "thermal",
+    "similarity": 0.46107546663116106
+  },
+  "501": {
+    "anchor": "thermal",
+    "similarity": 0.46364726324814604
+  },
+  "502": {
+    "anchor": "thermal",
+    "similarity": 0.466009666559683
+  },
+  "503": {
+    "anchor": "thermal",
+    "similarity": 0.4681595768134775
+  },
+  "504": {
+    "anchor": "thermal",
+    "similarity": 0.47009398615636333
+  },
+  "505": {
+    "anchor": "thermal",
+    "similarity": 0.4718099705283367
+  },
+  "506": {
+    "anchor": "thermal",
+    "similarity": 0.47330468178755514
+  },
+  "507": {
+    "anchor": "thermal",
+    "similarity": 0.4745753401789367
+  },
+  "508": {
+    "anchor": "thermal",
+    "similarity": 0.4756192272572705
+  },
+  "509": {
+    "anchor": "thermal",
+    "similarity": 0.476433679373549
+  },
+  "510": {
+    "anchor": "thermal",
+    "similarity": 0.47701608183061783
+  },
+  "511": {
+    "anchor": "thermal",
+    "similarity": 0.477363863811198
+  },
+  "512": {
+    "anchor": "thermal",
+    "similarity": 0.4774744941779396
+  },
+  "513": {
+    "anchor": "thermal",
+    "similarity": 0.47734547824135065
+  },
+  "514": {
+    "anchor": "thermal",
+    "similarity": 0.476974355587253
+  },
+  "515": {
+    "anchor": "thermal",
+    "similarity": 0.4763586990507564
+  },
+  "516": {
+    "anchor": "thermal",
+    "similarity": 0.4754961149186191
+  },
+  "517": {
+    "anchor": "thermal",
+    "similarity": 0.4743842444361611
+  },
+  "518": {
+    "anchor": "thermal",
+    "similarity": 0.473020766688574
+  },
+  "519": {
+    "anchor": "thermal",
+    "similarity": 0.47140340291940475
+  },
+  "520": {
+    "anchor": "thermal",
+    "similarity": 0.46952992234110785
+  },
+  "521": {
+    "anchor": "thermal",
+    "similarity": 0.4673981494837127
+  },
+  "522": {
+    "anchor": "thermal",
+    "similarity": 0.4650059731177701
+  },
+  "523": {
+    "anchor": "thermal",
+    "similarity": 0.46235135677666156
+  },
+  "524": {
+    "anchor": "thermal",
+    "similarity": 0.4594323508910103
+  },
+  "525": {
+    "anchor": "thermal",
+    "similarity": 0.4562471065341984
+  },
+  "526": {
+    "anchor": "thermal",
+    "similarity": 0.45279389076279486
+  },
+  "527": {
+    "anchor": "thermal",
+    "similarity": 0.4490711035189802
+  },
+  "528": {
+    "anchor": "thermal",
+    "similarity": 0.4450772960437849
+  },
+  "529": {
+    "anchor": "thermal",
+    "similarity": 0.44081119073014285
+  },
+  "530": {
+    "anchor": "thermal",
+    "similarity": 0.4362717023234707
+  },
+  "531": {
+    "anchor": "thermal",
+    "similarity": 0.43145796035480255
+  },
+  "532": {
+    "anchor": "thermal",
+    "similarity": 0.42636933266763755
+  },
+  "533": {
+    "anchor": "thermal",
+    "similarity": 0.4210054498747971
+  },
+  "534": {
+    "anchor": "thermal",
+    "similarity": 0.41536623055607613
+  },
+  "535": {
+    "anchor": "thermal",
+    "similarity": 0.40945190698166306
+  },
+  "536": {
+    "anchor": "thermal",
+    "similarity": 0.4032630511206796
+  },
+  "537": {
+    "anchor": "thermal",
+    "similarity": 0.3968006006692619
+  },
+  "538": {
+    "anchor": "thermal",
+    "similarity": 0.3900658848089861
+  },
+  "539": {
+    "anchor": "thermal",
+    "similarity": 0.38306064938478435
+  },
+  "540": {
+    "anchor": "thermal",
+    "similarity": 0.37578708117254345
+  },
+  "541": {
+    "anchor": "thermal",
+    "similarity": 0.3682478308910021
+  },
+  "542": {
+    "anchor": "thermal",
+    "similarity": 0.3604460346012295
+  },
+  "543": {
+    "anchor": "thermal",
+    "similarity": 0.352385333130507
+  },
+  "544": {
+    "anchor": "solid",
+    "similarity": 0.35007222388695297
+  },
+  "545": {
+    "anchor": "solid",
+    "similarity": 0.34768267498122546
+  },
+  "546": {
+    "anchor": "solid",
+    "similarity": 0.3450973574010042
+  },
+  "547": {
+    "anchor": "solid",
+    "similarity": 0.3423163132387153
+  },
+  "548": {
+    "anchor": "solid",
+    "similarity": 0.3393399429080751
+  },
+  "549": {
+    "anchor": "solid",
+    "similarity": 0.3361690200540975
+  },
+  "550": {
+    "anchor": "solid",
+    "similarity": 0.33280470440347976
+  },
+  "551": {
+    "anchor": "solid",
+    "similarity": 0.3292485523046775
+  },
+  "552": {
+    "anchor": "solid",
+    "similarity": 0.32550252472805585
+  },
+  "553": {
+    "anchor": "solid",
+    "similarity": 0.3215689925231589
+  },
+  "554": {
+    "anchor": "solid",
+    "similarity": 0.3174507387620727
+  },
+  "555": {
+    "anchor": "solid",
+    "similarity": 0.31315095803463866
+  },
+  "556": {
+    "anchor": "solid",
+    "similarity": 0.3086732526022203
+  },
+  "557": {
+    "anchor": "energy",
+    "similarity": 0.308698147674869
+  },
+  "558": {
+    "anchor": "energy",
+    "similarity": 0.3089461465784983
+  },
+  "559": {
+    "anchor": "energy",
+    "similarity": 0.3090396081630072
+  },
+  "560": {
+    "anchor": "energy",
+    "similarity": 0.3089783381199309
+  },
+  "561": {
+    "anchor": "energy",
+    "similarity": 0.30876248542417967
+  },
+  "562": {
+    "anchor": "energy",
+    "similarity": 0.30839254234916635
+  },
+  "563": {
+    "anchor": "energy",
+    "similarity": 0.307869341880322
+  },
+  "564": {
+    "anchor": "energy",
+    "similarity": 0.307194052554736
+  },
+  "565": {
+    "anchor": "energy",
+    "similarity": 0.3063681707931108
+  },
+  "566": {
+    "anchor": "energy",
+    "similarity": 0.3053935108270948
+  },
+  "567": {
+    "anchor": "energy",
+    "similarity": 0.30427219235948555
+  },
+  "568": {
+    "anchor": "energy",
+    "similarity": 0.3030066261259712
+  },
+  "569": {
+    "anchor": "energy",
+    "similarity": 0.3015994975543364
+  },
+  "570": {
+    "anchor": "energy",
+    "similarity": 0.3000537487398294
+  },
+  "571": {
+    "anchor": null,
+    "similarity": null
+  },
+  "572": {
+    "anchor": null,
+    "similarity": null
+  },
+  "573": {
+    "anchor": null,
+    "similarity": null
+  },
+  "574": {
+    "anchor": null,
+    "similarity": null
+  },
+  "575": {
+    "anchor": null,
+    "similarity": null
+  },
+  "576": {
+    "anchor": null,
+    "similarity": null
+  },
+  "577": {
+    "anchor": null,
+    "similarity": null
+  },
+  "578": {
+    "anchor": null,
+    "similarity": null
+  },
+  "579": {
+    "anchor": null,
+    "similarity": null
+  },
+  "580": {
+    "anchor": null,
+    "similarity": null
+  },
+  "581": {
+    "anchor": null,
+    "similarity": null
+  },
+  "582": {
+    "anchor": null,
+    "similarity": null
+  },
+  "583": {
+    "anchor": null,
+    "similarity": null
+  },
+  "584": {
+    "anchor": null,
+    "similarity": null
+  },
+  "585": {
+    "anchor": null,
+    "similarity": null
+  },
+  "586": {
+    "anchor": null,
+    "similarity": null
+  },
+  "587": {
+    "anchor": null,
+    "similarity": null
+  },
+  "588": {
+    "anchor": null,
+    "similarity": null
+  },
+  "589": {
+    "anchor": null,
+    "similarity": null
+  },
+  "590": {
+    "anchor": null,
+    "similarity": null
+  },
+  "591": {
+    "anchor": null,
+    "similarity": null
+  },
+  "592": {
+    "anchor": null,
+    "similarity": null
+  },
+  "593": {
+    "anchor": null,
+    "similarity": null
+  },
+  "594": {
+    "anchor": null,
+    "similarity": null
+  },
+  "595": {
+    "anchor": null,
+    "similarity": null
+  },
+  "596": {
+    "anchor": null,
+    "similarity": null
+  },
+  "597": {
+    "anchor": null,
+    "similarity": null
+  },
+  "598": {
+    "anchor": null,
+    "similarity": null
+  },
+  "599": {
+    "anchor": null,
+    "similarity": null
+  },
+  "600": {
+    "anchor": null,
+    "similarity": null
+  },
+  "601": {
+    "anchor": null,
+    "similarity": null
+  },
+  "602": {
+    "anchor": null,
+    "similarity": null
+  },
+  "603": {
+    "anchor": null,
+    "similarity": null
+  },
+  "604": {
+    "anchor": null,
+    "similarity": null
+  },
+  "605": {
+    "anchor": null,
+    "similarity": null
+  },
+  "606": {
+    "anchor": null,
+    "similarity": null
+  },
+  "607": {
+    "anchor": null,
+    "similarity": null
+  },
+  "608": {
+    "anchor": null,
+    "similarity": null
+  },
+  "609": {
+    "anchor": null,
+    "similarity": null
+  },
+  "610": {
+    "anchor": null,
+    "similarity": null
+  },
+  "611": {
+    "anchor": null,
+    "similarity": null
+  },
+  "612": {
+    "anchor": null,
+    "similarity": null
+  },
+  "613": {
+    "anchor": null,
+    "similarity": null
+  },
+  "614": {
+    "anchor": null,
+    "similarity": null
+  },
+  "615": {
+    "anchor": null,
+    "similarity": null
+  },
+  "616": {
+    "anchor": null,
+    "similarity": null
+  },
+  "617": {
+    "anchor": null,
+    "similarity": null
+  },
+  "618": {
+    "anchor": null,
+    "similarity": null
+  },
+  "619": {
+    "anchor": null,
+    "similarity": null
+  },
+  "620": {
+    "anchor": null,
+    "similarity": null
+  },
+  "621": {
+    "anchor": null,
+    "similarity": null
+  },
+  "622": {
+    "anchor": null,
+    "similarity": null
+  },
+  "623": {
+    "anchor": null,
+    "similarity": null
+  },
+  "624": {
+    "anchor": null,
+    "similarity": null
+  },
+  "625": {
+    "anchor": null,
+    "similarity": null
+  },
+  "626": {
+    "anchor": null,
+    "similarity": null
+  },
+  "627": {
+    "anchor": null,
+    "similarity": null
+  },
+  "628": {
+    "anchor": null,
+    "similarity": null
+  },
+  "629": {
+    "anchor": null,
+    "similarity": null
+  },
+  "630": {
+    "anchor": null,
+    "similarity": null
+  },
+  "631": {
+    "anchor": null,
+    "similarity": null
+  },
+  "632": {
+    "anchor": null,
+    "similarity": null
+  },
+  "633": {
+    "anchor": null,
+    "similarity": null
+  },
+  "634": {
+    "anchor": null,
+    "similarity": null
+  },
+  "635": {
+    "anchor": null,
+    "similarity": null
+  },
+  "636": {
+    "anchor": null,
+    "similarity": null
+  },
+  "637": {
+    "anchor": null,
+    "similarity": null
+  },
+  "638": {
+    "anchor": null,
+    "similarity": null
+  },
+  "639": {
+    "anchor": null,
+    "similarity": null
+  },
+  "640": {
+    "anchor": null,
+    "similarity": null
+  },
+  "641": {
+    "anchor": null,
+    "similarity": null
+  },
+  "642": {
+    "anchor": null,
+    "similarity": null
+  },
+  "643": {
+    "anchor": null,
+    "similarity": null
+  },
+  "644": {
+    "anchor": null,
+    "similarity": null
+  },
+  "645": {
+    "anchor": null,
+    "similarity": null
+  },
+  "646": {
+    "anchor": null,
+    "similarity": null
+  },
+  "647": {
+    "anchor": null,
+    "similarity": null
+  },
+  "648": {
+    "anchor": null,
+    "similarity": null
+  },
+  "649": {
+    "anchor": null,
+    "similarity": null
+  },
+  "650": {
+    "anchor": null,
+    "similarity": null
+  },
+  "651": {
+    "anchor": null,
+    "similarity": null
+  },
+  "652": {
+    "anchor": null,
+    "similarity": null
+  },
+  "653": {
+    "anchor": null,
+    "similarity": null
+  },
+  "654": {
+    "anchor": null,
+    "similarity": null
+  },
+  "655": {
+    "anchor": null,
+    "similarity": null
+  },
+  "656": {
+    "anchor": null,
+    "similarity": null
+  },
+  "657": {
+    "anchor": null,
+    "similarity": null
+  },
+  "658": {
+    "anchor": null,
+    "similarity": null
+  },
+  "659": {
+    "anchor": null,
+    "similarity": null
+  },
+  "660": {
+    "anchor": null,
+    "similarity": null
+  },
+  "661": {
+    "anchor": null,
+    "similarity": null
+  },
+  "662": {
+    "anchor": null,
+    "similarity": null
+  },
+  "663": {
+    "anchor": null,
+    "similarity": null
+  },
+  "664": {
+    "anchor": null,
+    "similarity": null
+  },
+  "665": {
+    "anchor": null,
+    "similarity": null
+  },
+  "666": {
+    "anchor": null,
+    "similarity": null
+  },
+  "667": {
+    "anchor": null,
+    "similarity": null
+  },
+  "668": {
+    "anchor": null,
+    "similarity": null
+  },
+  "669": {
+    "anchor": null,
+    "similarity": null
+  },
+  "670": {
+    "anchor": null,
+    "similarity": null
+  },
+  "671": {
+    "anchor": null,
+    "similarity": null
+  },
+  "672": {
+    "anchor": null,
+    "similarity": null
+  },
+  "673": {
+    "anchor": null,
+    "similarity": null
+  },
+  "674": {
+    "anchor": null,
+    "similarity": null
+  },
+  "675": {
+    "anchor": null,
+    "similarity": null
+  },
+  "676": {
+    "anchor": null,
+    "similarity": null
+  },
+  "677": {
+    "anchor": null,
+    "similarity": null
+  },
+  "678": {
+    "anchor": null,
+    "similarity": null
+  },
+  "679": {
+    "anchor": null,
+    "similarity": null
+  },
+  "680": {
+    "anchor": null,
+    "similarity": null
+  },
+  "681": {
+    "anchor": null,
+    "similarity": null
+  },
+  "682": {
+    "anchor": null,
+    "similarity": null
+  },
+  "683": {
+    "anchor": null,
+    "similarity": null
+  },
+  "684": {
+    "anchor": null,
+    "similarity": null
+  },
+  "685": {
+    "anchor": null,
+    "similarity": null
+  },
+  "686": {
+    "anchor": null,
+    "similarity": null
+  },
+  "687": {
+    "anchor": null,
+    "similarity": null
+  },
+  "688": {
+    "anchor": null,
+    "similarity": null
+  },
+  "689": {
+    "anchor": null,
+    "similarity": null
+  },
+  "690": {
+    "anchor": null,
+    "similarity": null
+  },
+  "691": {
+    "anchor": null,
+    "similarity": null
+  },
+  "692": {
+    "anchor": null,
+    "similarity": null
+  },
+  "693": {
+    "anchor": null,
+    "similarity": null
+  },
+  "694": {
+    "anchor": null,
+    "similarity": null
+  },
+  "695": {
+    "anchor": null,
+    "similarity": null
+  },
+  "696": {
+    "anchor": null,
+    "similarity": null
+  },
+  "697": {
+    "anchor": null,
+    "similarity": null
+  },
+  "698": {
+    "anchor": null,
+    "similarity": null
+  },
+  "699": {
+    "anchor": null,
+    "similarity": null
+  },
+  "700": {
+    "anchor": null,
+    "similarity": null
+  },
+  "701": {
+    "anchor": null,
+    "similarity": null
+  },
+  "702": {
+    "anchor": null,
+    "similarity": null
+  },
+  "703": {
+    "anchor": null,
+    "similarity": null
+  },
+  "704": {
+    "anchor": null,
+    "similarity": null
+  },
+  "705": {
+    "anchor": null,
+    "similarity": null
+  },
+  "706": {
+    "anchor": null,
+    "similarity": null
+  },
+  "707": {
+    "anchor": null,
+    "similarity": null
+  },
+  "708": {
+    "anchor": null,
+    "similarity": null
+  },
+  "709": {
+    "anchor": null,
+    "similarity": null
+  },
+  "710": {
+    "anchor": null,
+    "similarity": null
+  },
+  "711": {
+    "anchor": null,
+    "similarity": null
+  },
+  "712": {
+    "anchor": null,
+    "similarity": null
+  },
+  "713": {
+    "anchor": null,
+    "similarity": null
+  },
+  "714": {
+    "anchor": null,
+    "similarity": null
+  },
+  "715": {
+    "anchor": null,
+    "similarity": null
+  },
+  "716": {
+    "anchor": null,
+    "similarity": null
+  },
+  "717": {
+    "anchor": null,
+    "similarity": null
+  },
+  "718": {
+    "anchor": null,
+    "similarity": null
+  },
+  "719": {
+    "anchor": null,
+    "similarity": null
+  },
+  "720": {
+    "anchor": null,
+    "similarity": null
+  },
+  "721": {
+    "anchor": null,
+    "similarity": null
+  },
+  "722": {
+    "anchor": null,
+    "similarity": null
+  },
+  "723": {
+    "anchor": null,
+    "similarity": null
+  },
+  "724": {
+    "anchor": null,
+    "similarity": null
+  },
+  "725": {
+    "anchor": null,
+    "similarity": null
+  },
+  "726": {
+    "anchor": null,
+    "similarity": null
+  },
+  "727": {
+    "anchor": null,
+    "similarity": null
+  },
+  "728": {
+    "anchor": null,
+    "similarity": null
+  },
+  "729": {
+    "anchor": null,
+    "similarity": null
+  },
+  "730": {
+    "anchor": null,
+    "similarity": null
+  },
+  "731": {
+    "anchor": null,
+    "similarity": null
+  },
+  "732": {
+    "anchor": null,
+    "similarity": null
+  },
+  "733": {
+    "anchor": null,
+    "similarity": null
+  },
+  "734": {
+    "anchor": null,
+    "similarity": null
+  },
+  "735": {
+    "anchor": null,
+    "similarity": null
+  },
+  "736": {
+    "anchor": null,
+    "similarity": null
+  },
+  "737": {
+    "anchor": null,
+    "similarity": null
+  },
+  "738": {
+    "anchor": null,
+    "similarity": null
+  },
+  "739": {
+    "anchor": null,
+    "similarity": null
+  },
+  "740": {
+    "anchor": null,
+    "similarity": null
+  },
+  "741": {
+    "anchor": null,
+    "similarity": null
+  },
+  "742": {
+    "anchor": null,
+    "similarity": null
+  },
+  "743": {
+    "anchor": null,
+    "similarity": null
+  },
+  "744": {
+    "anchor": null,
+    "similarity": null
+  },
+  "745": {
+    "anchor": null,
+    "similarity": null
+  },
+  "746": {
+    "anchor": null,
+    "similarity": null
+  },
+  "747": {
+    "anchor": null,
+    "similarity": null
+  },
+  "748": {
+    "anchor": null,
+    "similarity": null
+  },
+  "749": {
+    "anchor": null,
+    "similarity": null
+  },
+  "750": {
+    "anchor": null,
+    "similarity": null
+  },
+  "751": {
+    "anchor": null,
+    "similarity": null
+  },
+  "752": {
+    "anchor": null,
+    "similarity": null
+  },
+  "753": {
+    "anchor": null,
+    "similarity": null
+  },
+  "754": {
+    "anchor": null,
+    "similarity": null
+  },
+  "755": {
+    "anchor": null,
+    "similarity": null
+  },
+  "756": {
+    "anchor": null,
+    "similarity": null
+  },
+  "757": {
+    "anchor": null,
+    "similarity": null
+  },
+  "758": {
+    "anchor": null,
+    "similarity": null
+  },
+  "759": {
+    "anchor": null,
+    "similarity": null
+  },
+  "760": {
+    "anchor": null,
+    "similarity": null
+  },
+  "761": {
+    "anchor": null,
+    "similarity": null
+  },
+  "762": {
+    "anchor": null,
+    "similarity": null
+  },
+  "763": {
+    "anchor": null,
+    "similarity": null
+  },
+  "764": {
+    "anchor": null,
+    "similarity": null
+  },
+  "765": {
+    "anchor": null,
+    "similarity": null
+  },
+  "766": {
+    "anchor": null,
+    "similarity": null
+  },
+  "767": {
+    "anchor": null,
+    "similarity": null
+  },
+  "768": {
+    "anchor": null,
+    "similarity": null
+  },
+  "769": {
+    "anchor": null,
+    "similarity": null
+  },
+  "770": {
+    "anchor": null,
+    "similarity": null
+  },
+  "771": {
+    "anchor": null,
+    "similarity": null
+  },
+  "772": {
+    "anchor": null,
+    "similarity": null
+  },
+  "773": {
+    "anchor": null,
+    "similarity": null
+  },
+  "774": {
+    "anchor": null,
+    "similarity": null
+  },
+  "775": {
+    "anchor": null,
+    "similarity": null
+  },
+  "776": {
+    "anchor": null,
+    "similarity": null
+  },
+  "777": {
+    "anchor": null,
+    "similarity": null
+  },
+  "778": {
+    "anchor": null,
+    "similarity": null
+  },
+  "779": {
+    "anchor": null,
+    "similarity": null
+  },
+  "780": {
+    "anchor": null,
+    "similarity": null
+  },
+  "781": {
+    "anchor": null,
+    "similarity": null
+  },
+  "782": {
+    "anchor": null,
+    "similarity": null
+  },
+  "783": {
+    "anchor": null,
+    "similarity": null
+  },
+  "784": {
+    "anchor": null,
+    "similarity": null
+  },
+  "785": {
+    "anchor": null,
+    "similarity": null
+  },
+  "786": {
+    "anchor": null,
+    "similarity": null
+  },
+  "787": {
+    "anchor": null,
+    "similarity": null
+  },
+  "788": {
+    "anchor": null,
+    "similarity": null
+  },
+  "789": {
+    "anchor": null,
+    "similarity": null
+  },
+  "790": {
+    "anchor": null,
+    "similarity": null
+  },
+  "791": {
+    "anchor": null,
+    "similarity": null
+  },
+  "792": {
+    "anchor": null,
+    "similarity": null
+  },
+  "793": {
+    "anchor": "abstract",
+    "similarity": 0.30121452518512976
+  },
+  "794": {
+    "anchor": "abstract",
+    "similarity": 0.3035611483742031
+  },
+  "795": {
+    "anchor": "abstract",
+    "similarity": 0.3057231105854735
+  },
+  "796": {
+    "anchor": "abstract",
+    "similarity": 0.3076961518485474
+  },
+  "797": {
+    "anchor": "abstract",
+    "similarity": 0.30947665771620186
+  },
+  "798": {
+    "anchor": "abstract",
+    "similarity": 0.31106169421995067
+  },
+  "799": {
+    "anchor": "abstract",
+    "similarity": 0.3124490351595967
+  },
+  "800": {
+    "anchor": "abstract",
+    "similarity": 0.31363718117010153
+  },
+  "801": {
+    "anchor": "abstract",
+    "similarity": 0.31462537019283626
+  },
+  "802": {
+    "anchor": "abstract",
+    "similarity": 0.3154135791744155
+  },
+  "803": {
+    "anchor": "abstract",
+    "similarity": 0.3160025170175387
+  },
+  "804": {
+    "anchor": "abstract",
+    "similarity": 0.31639360900692626
+  },
+  "805": {
+    "anchor": "abstract",
+    "similarity": 0.31658897312213713
+  },
+  "806": {
+    "anchor": "abstract",
+    "similarity": 0.3165913888209822
+  },
+  "807": {
+    "anchor": "abstract",
+    "similarity": 0.3164042590266016
+  },
+  "808": {
+    "anchor": "abstract",
+    "similarity": 0.31603156617341677
+  },
+  "809": {
+    "anchor": "abstract",
+    "similarity": 0.31547782325905277
+  },
+  "810": {
+    "anchor": "abstract",
+    "similarity": 0.31474802090925386
+  },
+  "811": {
+    "anchor": "abstract",
+    "similarity": 0.31384757149076725
+  },
+  "812": {
+    "anchor": "abstract",
+    "similarity": 0.3127822513044008
+  },
+  "813": {
+    "anchor": "abstract",
+    "similarity": 0.311558141859516
+  },
+  "814": {
+    "anchor": "abstract",
+    "similarity": 0.31018157117557005
+  },
+  "815": {
+    "anchor": "abstract",
+    "similarity": 0.30865905598016935
+  },
+  "816": {
+    "anchor": "abstract",
+    "similarity": 0.3069972455809687
+  },
+  "817": {
+    "anchor": "abstract",
+    "similarity": 0.305202868085501
+  },
+  "818": {
+    "anchor": "abstract",
+    "similarity": 0.30328267953304083
+  },
+  "819": {
+    "anchor": "abstract",
+    "similarity": 0.3012434163904463
+  },
+  "820": {
+    "anchor": null,
+    "similarity": null
+  },
+  "821": {
+    "anchor": null,
+    "similarity": null
+  },
+  "822": {
+    "anchor": null,
+    "similarity": null
+  },
+  "823": {
+    "anchor": null,
+    "similarity": null
+  },
+  "824": {
+    "anchor": null,
+    "similarity": null
+  },
+  "825": {
+    "anchor": null,
+    "similarity": null
+  },
+  "826": {
+    "anchor": null,
+    "similarity": null
+  },
+  "827": {
+    "anchor": null,
+    "similarity": null
+  },
+  "828": {
+    "anchor": null,
+    "similarity": null
+  },
+  "829": {
+    "anchor": null,
+    "similarity": null
+  },
+  "830": {
+    "anchor": null,
+    "similarity": null
+  },
+  "831": {
+    "anchor": null,
+    "similarity": null
+  },
+  "832": {
+    "anchor": null,
+    "similarity": null
+  },
+  "833": {
+    "anchor": null,
+    "similarity": null
+  },
+  "834": {
+    "anchor": null,
+    "similarity": null
+  },
+  "835": {
+    "anchor": null,
+    "similarity": null
+  },
+  "836": {
+    "anchor": null,
+    "similarity": null
+  },
+  "837": {
+    "anchor": null,
+    "similarity": null
+  },
+  "838": {
+    "anchor": null,
+    "similarity": null
+  },
+  "839": {
+    "anchor": null,
+    "similarity": null
+  },
+  "840": {
+    "anchor": null,
+    "similarity": null
+  },
+  "841": {
+    "anchor": null,
+    "similarity": null
+  },
+  "842": {
+    "anchor": null,
+    "similarity": null
+  },
+  "843": {
+    "anchor": null,
+    "similarity": null
+  },
+  "844": {
+    "anchor": null,
+    "similarity": null
+  },
+  "845": {
+    "anchor": null,
+    "similarity": null
+  },
+  "846": {
+    "anchor": null,
+    "similarity": null
+  },
+  "847": {
+    "anchor": null,
+    "similarity": null
+  },
+  "848": {
+    "anchor": null,
+    "similarity": null
+  },
+  "849": {
+    "anchor": null,
+    "similarity": null
+  },
+  "850": {
+    "anchor": null,
+    "similarity": null
+  },
+  "851": {
+    "anchor": null,
+    "similarity": null
+  },
+  "852": {
+    "anchor": null,
+    "similarity": null
+  },
+  "853": {
+    "anchor": null,
+    "similarity": null
+  },
+  "854": {
+    "anchor": null,
+    "similarity": null
+  },
+  "855": {
+    "anchor": null,
+    "similarity": null
+  },
+  "856": {
+    "anchor": null,
+    "similarity": null
+  },
+  "857": {
+    "anchor": null,
+    "similarity": null
+  },
+  "858": {
+    "anchor": null,
+    "similarity": null
+  },
+  "859": {
+    "anchor": null,
+    "similarity": null
+  },
+  "860": {
+    "anchor": null,
+    "similarity": null
+  },
+  "861": {
+    "anchor": null,
+    "similarity": null
+  },
+  "862": {
+    "anchor": null,
+    "similarity": null
+  },
+  "863": {
+    "anchor": null,
+    "similarity": null
+  },
+  "864": {
+    "anchor": null,
+    "similarity": null
+  },
+  "865": {
+    "anchor": null,
+    "similarity": null
+  },
+  "866": {
+    "anchor": null,
+    "similarity": null
+  },
+  "867": {
+    "anchor": null,
+    "similarity": null
+  },
+  "868": {
+    "anchor": null,
+    "similarity": null
+  },
+  "869": {
+    "anchor": null,
+    "similarity": null
+  },
+  "870": {
+    "anchor": null,
+    "similarity": null
+  },
+  "871": {
+    "anchor": null,
+    "similarity": null
+  },
+  "872": {
+    "anchor": null,
+    "similarity": null
+  },
+  "873": {
+    "anchor": null,
+    "similarity": null
+  },
+  "874": {
+    "anchor": null,
+    "similarity": null
+  },
+  "875": {
+    "anchor": null,
+    "similarity": null
+  },
+  "876": {
+    "anchor": null,
+    "similarity": null
+  },
+  "877": {
+    "anchor": null,
+    "similarity": null
+  },
+  "878": {
+    "anchor": null,
+    "similarity": null
+  },
+  "879": {
+    "anchor": null,
+    "similarity": null
+  },
+  "880": {
+    "anchor": null,
+    "similarity": null
+  },
+  "881": {
+    "anchor": null,
+    "similarity": null
+  },
+  "882": {
+    "anchor": null,
+    "similarity": null
+  },
+  "883": {
+    "anchor": null,
+    "similarity": null
+  },
+  "884": {
+    "anchor": null,
+    "similarity": null
+  },
+  "885": {
+    "anchor": null,
+    "similarity": null
+  },
+  "886": {
+    "anchor": null,
+    "similarity": null
+  },
+  "887": {
+    "anchor": null,
+    "similarity": null
+  },
+  "888": {
+    "anchor": null,
+    "similarity": null
+  },
+  "889": {
+    "anchor": null,
+    "similarity": null
+  },
+  "890": {
+    "anchor": null,
+    "similarity": null
+  },
+  "891": {
+    "anchor": null,
+    "similarity": null
+  },
+  "892": {
+    "anchor": null,
+    "similarity": null
+  },
+  "893": {
+    "anchor": null,
+    "similarity": null
+  },
+  "894": {
+    "anchor": null,
+    "similarity": null
+  },
+  "895": {
+    "anchor": null,
+    "similarity": null
+  },
+  "896": {
+    "anchor": null,
+    "similarity": null
+  },
+  "897": {
+    "anchor": null,
+    "similarity": null
+  },
+  "898": {
+    "anchor": null,
+    "similarity": null
+  },
+  "899": {
+    "anchor": null,
+    "similarity": null
+  },
+  "900": {
+    "anchor": null,
+    "similarity": null
+  },
+  "901": {
+    "anchor": null,
+    "similarity": null
+  },
+  "902": {
+    "anchor": null,
+    "similarity": null
+  },
+  "903": {
+    "anchor": null,
+    "similarity": null
+  },
+  "904": {
+    "anchor": null,
+    "similarity": null
+  },
+  "905": {
+    "anchor": null,
+    "similarity": null
+  },
+  "906": {
+    "anchor": null,
+    "similarity": null
+  },
+  "907": {
+    "anchor": null,
+    "similarity": null
+  },
+  "908": {
+    "anchor": null,
+    "similarity": null
+  },
+  "909": {
+    "anchor": null,
+    "similarity": null
+  },
+  "910": {
+    "anchor": null,
+    "similarity": null
+  },
+  "911": {
+    "anchor": null,
+    "similarity": null
+  },
+  "912": {
+    "anchor": null,
+    "similarity": null
+  },
+  "913": {
+    "anchor": null,
+    "similarity": null
+  },
+  "914": {
+    "anchor": null,
+    "similarity": null
+  },
+  "915": {
+    "anchor": null,
+    "similarity": null
+  },
+  "916": {
+    "anchor": null,
+    "similarity": null
+  },
+  "917": {
+    "anchor": null,
+    "similarity": null
+  },
+  "918": {
+    "anchor": null,
+    "similarity": null
+  },
+  "919": {
+    "anchor": null,
+    "similarity": null
+  },
+  "920": {
+    "anchor": null,
+    "similarity": null
+  },
+  "921": {
+    "anchor": null,
+    "similarity": null
+  },
+  "922": {
+    "anchor": null,
+    "similarity": null
+  },
+  "923": {
+    "anchor": null,
+    "similarity": null
+  },
+  "924": {
+    "anchor": null,
+    "similarity": null
+  },
+  "925": {
+    "anchor": null,
+    "similarity": null
+  },
+  "926": {
+    "anchor": null,
+    "similarity": null
+  },
+  "927": {
+    "anchor": null,
+    "similarity": null
+  },
+  "928": {
+    "anchor": null,
+    "similarity": null
+  },
+  "929": {
+    "anchor": null,
+    "similarity": null
+  },
+  "930": {
+    "anchor": null,
+    "similarity": null
+  },
+  "931": {
+    "anchor": null,
+    "similarity": null
+  },
+  "932": {
+    "anchor": null,
+    "similarity": null
+  },
+  "933": {
+    "anchor": null,
+    "similarity": null
+  },
+  "934": {
+    "anchor": null,
+    "similarity": null
+  },
+  "935": {
+    "anchor": null,
+    "similarity": null
+  },
+  "936": {
+    "anchor": null,
+    "similarity": null
+  },
+  "937": {
+    "anchor": null,
+    "similarity": null
+  },
+  "938": {
+    "anchor": null,
+    "similarity": null
+  },
+  "939": {
+    "anchor": null,
+    "similarity": null
+  },
+  "940": {
+    "anchor": null,
+    "similarity": null
+  },
+  "941": {
+    "anchor": null,
+    "similarity": null
+  },
+  "942": {
+    "anchor": null,
+    "similarity": null
+  },
+  "943": {
+    "anchor": null,
+    "similarity": null
+  },
+  "944": {
+    "anchor": null,
+    "similarity": null
+  },
+  "945": {
+    "anchor": null,
+    "similarity": null
+  },
+  "946": {
+    "anchor": null,
+    "similarity": null
+  },
+  "947": {
+    "anchor": null,
+    "similarity": null
+  },
+  "948": {
+    "anchor": null,
+    "similarity": null
+  },
+  "949": {
+    "anchor": null,
+    "similarity": null
+  },
+  "950": {
+    "anchor": null,
+    "similarity": null
+  },
+  "951": {
+    "anchor": null,
+    "similarity": null
+  },
+  "952": {
+    "anchor": null,
+    "similarity": null
+  },
+  "953": {
+    "anchor": null,
+    "similarity": null
+  },
+  "954": {
+    "anchor": null,
+    "similarity": null
+  },
+  "955": {
+    "anchor": null,
+    "similarity": null
+  },
+  "956": {
+    "anchor": null,
+    "similarity": null
+  },
+  "957": {
+    "anchor": null,
+    "similarity": null
+  },
+  "958": {
+    "anchor": null,
+    "similarity": null
+  },
+  "959": {
+    "anchor": null,
+    "similarity": null
+  },
+  "960": {
+    "anchor": null,
+    "similarity": null
+  },
+  "961": {
+    "anchor": null,
+    "similarity": null
+  },
+  "962": {
+    "anchor": null,
+    "similarity": null
+  },
+  "963": {
+    "anchor": null,
+    "similarity": null
+  },
+  "964": {
+    "anchor": null,
+    "similarity": null
+  },
+  "965": {
+    "anchor": null,
+    "similarity": null
+  },
+  "966": {
+    "anchor": null,
+    "similarity": null
+  },
+  "967": {
+    "anchor": null,
+    "similarity": null
+  },
+  "968": {
+    "anchor": null,
+    "similarity": null
+  },
+  "969": {
+    "anchor": null,
+    "similarity": null
+  },
+  "970": {
+    "anchor": null,
+    "similarity": null
+  },
+  "971": {
+    "anchor": null,
+    "similarity": null
+  },
+  "972": {
+    "anchor": null,
+    "similarity": null
+  },
+  "973": {
+    "anchor": null,
+    "similarity": null
+  },
+  "974": {
+    "anchor": null,
+    "similarity": null
+  },
+  "975": {
+    "anchor": null,
+    "similarity": null
+  },
+  "976": {
+    "anchor": null,
+    "similarity": null
+  },
+  "977": {
+    "anchor": null,
+    "similarity": null
+  },
+  "978": {
+    "anchor": null,
+    "similarity": null
+  },
+  "979": {
+    "anchor": null,
+    "similarity": null
+  },
+  "980": {
+    "anchor": null,
+    "similarity": null
+  },
+  "981": {
+    "anchor": null,
+    "similarity": null
+  },
+  "982": {
+    "anchor": null,
+    "similarity": null
+  },
+  "983": {
+    "anchor": null,
+    "similarity": null
+  },
+  "984": {
+    "anchor": null,
+    "similarity": null
+  },
+  "985": {
+    "anchor": null,
+    "similarity": null
+  },
+  "986": {
+    "anchor": null,
+    "similarity": null
+  },
+  "987": {
+    "anchor": null,
+    "similarity": null
+  },
+  "988": {
+    "anchor": null,
+    "similarity": null
+  },
+  "989": {
+    "anchor": null,
+    "similarity": null
+  },
+  "990": {
+    "anchor": null,
+    "similarity": null
+  },
+  "991": {
+    "anchor": null,
+    "similarity": null
+  },
+  "992": {
+    "anchor": null,
+    "similarity": null
+  },
+  "993": {
+    "anchor": null,
+    "similarity": null
+  },
+  "994": {
+    "anchor": null,
+    "similarity": null
+  },
+  "995": {
+    "anchor": null,
+    "similarity": null
+  },
+  "996": {
+    "anchor": null,
+    "similarity": null
+  },
+  "997": {
+    "anchor": null,
+    "similarity": null
+  },
+  "998": {
+    "anchor": null,
+    "similarity": null
+  },
+  "999": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1000": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1001": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1002": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1003": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1004": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1005": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1006": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1007": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1008": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1009": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1010": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1011": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1012": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1013": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1014": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1015": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1016": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1017": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1018": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1019": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1020": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1021": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1022": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1023": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1024": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1025": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1026": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1027": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1028": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1029": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1030": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1031": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1032": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1033": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1034": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1035": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1036": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1037": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1038": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1039": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1040": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1041": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1042": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1043": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1044": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1045": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1046": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1047": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1048": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1049": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1050": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1051": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1052": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1053": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1054": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1055": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1056": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1057": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1058": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1059": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1060": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1061": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1062": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1063": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1064": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1065": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1066": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1067": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1068": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1069": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1070": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1071": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1072": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1073": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1074": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1075": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1076": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1077": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1078": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1079": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1080": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1081": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1082": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1083": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1084": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1085": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1086": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1087": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1088": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1089": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1090": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1091": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1092": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1093": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1094": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1095": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1096": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1097": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1098": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1099": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1100": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1101": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1102": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1103": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1104": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1105": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1106": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1107": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1108": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1109": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1110": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1111": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1112": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1113": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1114": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1115": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1116": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1117": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1118": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1119": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1120": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1121": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1122": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1123": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1124": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1125": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1126": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1127": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1128": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1129": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1130": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1131": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1132": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1133": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1134": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1135": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1136": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1137": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1138": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1139": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1140": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1141": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1142": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1143": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1144": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1145": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1146": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1147": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1148": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1149": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1150": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1151": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1152": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1153": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1154": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1155": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1156": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1157": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1158": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1159": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1160": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1161": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1162": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1163": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1164": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1165": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1166": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1167": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1168": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1169": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1170": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1171": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1172": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1173": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1174": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1175": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1176": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1177": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1178": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1179": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1180": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1181": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1182": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1183": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1184": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1185": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1186": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1187": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1188": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1189": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1190": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1191": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1192": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1193": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1194": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1195": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1196": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1197": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1198": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1199": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1200": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1201": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1202": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1203": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1204": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1205": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1206": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1207": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1208": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1209": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1210": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1211": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1212": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1213": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1214": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1215": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1216": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1217": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1218": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1219": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1220": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1221": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1222": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1223": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1224": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1225": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1226": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1227": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1228": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1229": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1230": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1231": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1232": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1233": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1234": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1235": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1236": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1237": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1238": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1239": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1240": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1241": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1242": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1243": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1244": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1245": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1246": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1247": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1248": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1249": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1250": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1251": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1252": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1253": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1254": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1255": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1256": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1257": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1258": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1259": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1260": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1261": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1262": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1263": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1264": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1265": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1266": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1267": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1268": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1269": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1270": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1271": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1272": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1273": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1274": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1275": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1276": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1277": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1278": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1279": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1280": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1281": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1282": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1283": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1284": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1285": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1286": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1287": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1288": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1289": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1290": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1291": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1292": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1293": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1294": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1295": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1296": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1297": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1298": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1299": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1300": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1301": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1302": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1303": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1304": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1305": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1306": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1307": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1308": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1309": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1310": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1311": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1312": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1313": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1314": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1315": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1316": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1317": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1318": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1319": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1320": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1321": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1322": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1323": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1324": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1325": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1326": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1327": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1328": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1329": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1330": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1331": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1332": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1333": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1334": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1335": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1336": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1337": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1338": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1339": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1340": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1341": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1342": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1343": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1344": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1345": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1346": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1347": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1348": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1349": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1350": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1351": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1352": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1353": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1354": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1355": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1356": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1357": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1358": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1359": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1360": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1361": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1362": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1363": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1364": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1365": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1366": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1367": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1368": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1369": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1370": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1371": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1372": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1373": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1374": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1375": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1376": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1377": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1378": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1379": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1380": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1381": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1382": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1383": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1384": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1385": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1386": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1387": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1388": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1389": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1390": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1391": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1392": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1393": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1394": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1395": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1396": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1397": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1398": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1399": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1400": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1401": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1402": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1403": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1404": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1405": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1406": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1407": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1408": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1409": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1410": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1411": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1412": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1413": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1414": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1415": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1416": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1417": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1418": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1419": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1420": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1421": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1422": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1423": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1424": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1425": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1426": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1427": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1428": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1429": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1430": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1431": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1432": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1433": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1434": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1435": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1436": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1437": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1438": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1439": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1440": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1441": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1442": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1443": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1444": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1445": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1446": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1447": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1448": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1449": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1450": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1451": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1452": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1453": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1454": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1455": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1456": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1457": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1458": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1459": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1460": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1461": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1462": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1463": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1464": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1465": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1466": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1467": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1468": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1469": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1470": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1471": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1472": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1473": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1474": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1475": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1476": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1477": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1478": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1479": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1480": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1481": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1482": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1483": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1484": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1485": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1486": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1487": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1488": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1489": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1490": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1491": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1492": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1493": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1494": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1495": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1496": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1497": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1498": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1499": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1500": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1501": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1502": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1503": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1504": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1505": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1506": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1507": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1508": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1509": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1510": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1511": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1512": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1513": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1514": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1515": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1516": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1517": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1518": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1519": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1520": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1521": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1522": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1523": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1524": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1525": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1526": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1527": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1528": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1529": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1530": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1531": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1532": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1533": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1534": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1535": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1536": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1537": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1538": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1539": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1540": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1541": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1542": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1543": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1544": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1545": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1546": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1547": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1548": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1549": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1550": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1551": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1552": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1553": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1554": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1555": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1556": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1557": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1558": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1559": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1560": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1561": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1562": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1563": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1564": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1565": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1566": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1567": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1568": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1569": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1570": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1571": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1572": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1573": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1574": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1575": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1576": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1577": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1578": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1579": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1580": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1581": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1582": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1583": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1584": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1585": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1586": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1587": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1588": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1589": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1590": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1591": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1592": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1593": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1594": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1595": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1596": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1597": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1598": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1599": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1600": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1601": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1602": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1603": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1604": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1605": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1606": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1607": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1608": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1609": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1610": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1611": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1612": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1613": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1614": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1615": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1616": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1617": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1618": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1619": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1620": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1621": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1622": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1623": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1624": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1625": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1626": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1627": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1628": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1629": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1630": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1631": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1632": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1633": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1634": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1635": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1636": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1637": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1638": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1639": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1640": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1641": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1642": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1643": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1644": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1645": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1646": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1647": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1648": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1649": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1650": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1651": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1652": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1653": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1654": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1655": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1656": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1657": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1658": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1659": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1660": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1661": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1662": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1663": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1664": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1665": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1666": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1667": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1668": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1669": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1670": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1671": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1672": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1673": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1674": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1675": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1676": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1677": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1678": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1679": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1680": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1681": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1682": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1683": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1684": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1685": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1686": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1687": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1688": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1689": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1690": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1691": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1692": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1693": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1694": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1695": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1696": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1697": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1698": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1699": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1700": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1701": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1702": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1703": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1704": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1705": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1706": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1707": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1708": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1709": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1710": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1711": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1712": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1713": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1714": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1715": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1716": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1717": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1718": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1719": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1720": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1721": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1722": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1723": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1724": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1725": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1726": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1727": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1728": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1729": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1730": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1731": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1732": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1733": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1734": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1735": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1736": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1737": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1738": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1739": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1740": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1741": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1742": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1743": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1744": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1745": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1746": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1747": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1748": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1749": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1750": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1751": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1752": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1753": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1754": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1755": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1756": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1757": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1758": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1759": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1760": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1761": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1762": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1763": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1764": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1765": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1766": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1767": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1768": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1769": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1770": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1771": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1772": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1773": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1774": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1775": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1776": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1777": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1778": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1779": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1780": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1781": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1782": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1783": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1784": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1785": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1786": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1787": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1788": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1789": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1790": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1791": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1792": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1793": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1794": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1795": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1796": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1797": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1798": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1799": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1800": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1801": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1802": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1803": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1804": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1805": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1806": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1807": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1808": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1809": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1810": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1811": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1812": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1813": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1814": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1815": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1816": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1817": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1818": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1819": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1820": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1821": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1822": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1823": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1824": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1825": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1826": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1827": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1828": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1829": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1830": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1831": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1832": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1833": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1834": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1835": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1836": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1837": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1838": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1839": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1840": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1841": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1842": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1843": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1844": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1845": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1846": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1847": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1848": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1849": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1850": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1851": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1852": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1853": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1854": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1855": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1856": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1857": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1858": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1859": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1860": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1861": {
+    "anchor": "temporal",
+    "similarity": 0.3026404681328498
+  },
+  "1862": {
+    "anchor": "temporal",
+    "similarity": 0.3066967878368145
+  },
+  "1863": {
+    "anchor": "temporal",
+    "similarity": 0.310709154580815
+  },
+  "1864": {
+    "anchor": "temporal",
+    "similarity": 0.31467982399768524
+  },
+  "1865": {
+    "anchor": "temporal",
+    "similarity": 0.31861107799808064
+  },
+  "1866": {
+    "anchor": "temporal",
+    "similarity": 0.32250521879234595
+  },
+  "1867": {
+    "anchor": "temporal",
+    "similarity": 0.3263645631786871
+  },
+  "1868": {
+    "anchor": "temporal",
+    "similarity": 0.33019143707976806
+  },
+  "1869": {
+    "anchor": "temporal",
+    "similarity": 0.33398817030647765
+  },
+  "1870": {
+    "anchor": "temporal",
+    "similarity": 0.3377570915244276
+  },
+  "1871": {
+    "anchor": "temporal",
+    "similarity": 0.3415005233958353
+  },
+  "1872": {
+    "anchor": "temporal",
+    "similarity": 0.3452207778666593
+  },
+  "1873": {
+    "anchor": "temporal",
+    "similarity": 0.34892015156624606
+  },
+  "1874": {
+    "anchor": "temporal",
+    "similarity": 0.3526009212842199
+  },
+  "1875": {
+    "anchor": "temporal",
+    "similarity": 0.35626533948691136
+  },
+  "1876": {
+    "anchor": "temporal",
+    "similarity": 0.3599156298331923
+  },
+  "1877": {
+    "anchor": "temporal",
+    "similarity": 0.3635539826471936
+  },
+  "1878": {
+    "anchor": "temporal",
+    "similarity": 0.3671825503029247
+  },
+  "1879": {
+    "anchor": "temporal",
+    "similarity": 0.3708034424733305
+  },
+  "1880": {
+    "anchor": "temporal",
+    "similarity": 0.3744187211937396
+  },
+  "1881": {
+    "anchor": "temporal",
+    "similarity": 0.3780303956869935
+  },
+  "1882": {
+    "anchor": "temporal",
+    "similarity": 0.3816404168947267
+  },
+  "1883": {
+    "anchor": "temporal",
+    "similarity": 0.3852506716563897
+  },
+  "1884": {
+    "anchor": "temporal",
+    "similarity": 0.38886297647452256
+  },
+  "1885": {
+    "anchor": "temporal",
+    "similarity": 0.3924790708016378
+  },
+  "1886": {
+    "anchor": "temporal",
+    "similarity": 0.3961006097808037
+  },
+  "1887": {
+    "anchor": "temporal",
+    "similarity": 0.39972915636863193
+  },
+  "1888": {
+    "anchor": "temporal",
+    "similarity": 0.4033661727660271
+  },
+  "1889": {
+    "anchor": "temporal",
+    "similarity": 0.40701301107863597
+  },
+  "1890": {
+    "anchor": "temporal",
+    "similarity": 0.4106709031257068
+  },
+  "1891": {
+    "anchor": "temporal",
+    "similarity": 0.4143409493129558
+  },
+  "1892": {
+    "anchor": "temporal",
+    "similarity": 0.41802410648232335
+  },
+  "1893": {
+    "anchor": "temporal",
+    "similarity": 0.42172117464922493
+  },
+  "1894": {
+    "anchor": "temporal",
+    "similarity": 0.4254327825363591
+  },
+  "1895": {
+    "anchor": "temporal",
+    "similarity": 0.4291593718124822
+  },
+  "1896": {
+    "anchor": "temporal",
+    "similarity": 0.43290117994515676
+  },
+  "1897": {
+    "anchor": "temporal",
+    "similarity": 0.4366582215786332
+  },
+  "1898": {
+    "anchor": "temporal",
+    "similarity": 0.44043026835218
+  },
+  "1899": {
+    "anchor": "temporal",
+    "similarity": 0.4442168270807673
+  },
+  "1900": {
+    "anchor": "temporal",
+    "similarity": 0.4480171162296664
+  },
+  "1901": {
+    "anchor": "temporal",
+    "similarity": 0.4518300406278069
+  },
+  "1902": {
+    "anchor": "temporal",
+    "similarity": 0.45565416438244977
+  },
+  "1903": {
+    "anchor": "temporal",
+    "similarity": 0.45948768198065737
+  },
+  "1904": {
+    "anchor": "temporal",
+    "similarity": 0.46332838759205996
+  },
+  "1905": {
+    "anchor": "temporal",
+    "similarity": 0.4671736426235854
+  },
+  "1906": {
+    "anchor": "temporal",
+    "similarity": 0.4710203416211034
+  },
+  "1907": {
+    "anchor": "temporal",
+    "similarity": 0.47486487666646104
+  },
+  "1908": {
+    "anchor": "temporal",
+    "similarity": 0.4787031004822399
+  },
+  "1909": {
+    "anchor": "temporal",
+    "similarity": 0.48253028853177843
+  },
+  "1910": {
+    "anchor": "temporal",
+    "similarity": 0.4863411004894666
+  },
+  "1911": {
+    "anchor": "temporal",
+    "similarity": 0.4901295415568129
+  },
+  "1912": {
+    "anchor": "temporal",
+    "similarity": 0.49388892421356745
+  },
+  "1913": {
+    "anchor": "temporal",
+    "similarity": 0.4976118311202912
+  },
+  "1914": {
+    "anchor": "temporal",
+    "similarity": 0.5012900800283552
+  },
+  "1915": {
+    "anchor": "temporal",
+    "similarity": 0.5049146917039284
+  },
+  "1916": {
+    "anchor": "temporal",
+    "similarity": 0.5084758620313886
+  },
+  "1917": {
+    "anchor": "temporal",
+    "similarity": 0.5119629396248897
+  },
+  "1918": {
+    "anchor": "temporal",
+    "similarity": 0.5153644104390677
+  },
+  "1919": {
+    "anchor": "temporal",
+    "similarity": 0.5186678910238559
+  },
+  "1920": {
+    "anchor": "temporal",
+    "similarity": 0.521860132205109
+  },
+  "1921": {
+    "anchor": "temporal",
+    "similarity": 0.5249270350809715
+  },
+  "1922": {
+    "anchor": "temporal",
+    "similarity": 0.5278536812909035
+  },
+  "1923": {
+    "anchor": "temporal",
+    "similarity": 0.5306243795249821
+  },
+  "1924": {
+    "anchor": "temporal",
+    "similarity": 0.533222730179895
+  },
+  "1925": {
+    "anchor": "temporal",
+    "similarity": 0.5356317099182423
+  },
+  "1926": {
+    "anchor": "temporal",
+    "similarity": 0.5378337776337192
+  },
+  "1927": {
+    "anchor": "temporal",
+    "similarity": 0.5398110029523548
+  },
+  "1928": {
+    "anchor": "temporal",
+    "similarity": 0.541545217899272
+  },
+  "1929": {
+    "anchor": "temporal",
+    "similarity": 0.5430181917266562
+  },
+  "1930": {
+    "anchor": "temporal",
+    "similarity": 0.5442118281350616
+  },
+  "1931": {
+    "anchor": "temporal",
+    "similarity": 0.545108383239571
+  },
+  "1932": {
+    "anchor": "temporal",
+    "similarity": 0.5456907016588302
+  },
+  "1933": {
+    "anchor": "temporal",
+    "similarity": 0.5459424670748527
+  },
+  "1934": {
+    "anchor": "temporal",
+    "similarity": 0.545848462573421
+  },
+  "1935": {
+    "anchor": "temporal",
+    "similarity": 0.5453948350881193
+  },
+  "1936": {
+    "anchor": "temporal",
+    "similarity": 0.5445693574032247
+  },
+  "1937": {
+    "anchor": "temporal",
+    "similarity": 0.5433616804930057
+  },
+  "1938": {
+    "anchor": "temporal",
+    "similarity": 0.5417635685566922
+  },
+  "1939": {
+    "anchor": "temporal",
+    "similarity": 0.5397691090103878
+  },
+  "1940": {
+    "anchor": "temporal",
+    "similarity": 0.5373748899642365
+  },
+  "1941": {
+    "anchor": "temporal",
+    "similarity": 0.5345801383686375
+  },
+  "1942": {
+    "anchor": "temporal",
+    "similarity": 0.5313868130528502
+  },
+  "1943": {
+    "anchor": "temporal",
+    "similarity": 0.5277996482694471
+  },
+  "1944": {
+    "anchor": "temporal",
+    "similarity": 0.5238261450351377
+  },
+  "1945": {
+    "anchor": "temporal",
+    "similarity": 0.519476509433589
+  },
+  "1946": {
+    "anchor": "temporal",
+    "similarity": 0.5147635390101187
+  },
+  "1947": {
+    "anchor": "temporal",
+    "similarity": 0.5097024603231151
+  },
+  "1948": {
+    "anchor": "temporal",
+    "similarity": 0.50431072250417
+  },
+  "1949": {
+    "anchor": "temporal",
+    "similarity": 0.4986077532112144
+  },
+  "1950": {
+    "anchor": "temporal",
+    "similarity": 0.49261468454959567
+  },
+  "1951": {
+    "anchor": "temporal",
+    "similarity": 0.4863540573265482
+  },
+  "1952": {
+    "anchor": "temporal",
+    "similarity": 0.47984951236751916
+  },
+  "1953": {
+    "anchor": "social",
+    "similarity": 0.47475264795328226
+  },
+  "1954": {
+    "anchor": "social",
+    "similarity": 0.46944982028341586
+  },
+  "1955": {
+    "anchor": "social",
+    "similarity": 0.46393917884252756
+  },
+  "1956": {
+    "anchor": "social",
+    "similarity": 0.4582427756244429
+  },
+  "1957": {
+    "anchor": "social",
+    "similarity": 0.4523826361430989
+  },
+  "1958": {
+    "anchor": "social",
+    "similarity": 0.44638052891357466
+  },
+  "1959": {
+    "anchor": "social",
+    "similarity": 0.44025775951683876
+  },
+  "1960": {
+    "anchor": "social",
+    "similarity": 0.43403499132006673
+  },
+  "1961": {
+    "anchor": "social",
+    "similarity": 0.42773209385142463
+  },
+  "1962": {
+    "anchor": "social",
+    "similarity": 0.42136801887209774
+  },
+  "1963": {
+    "anchor": "social",
+    "similarity": 0.4149607033758829
+  },
+  "1964": {
+    "anchor": "social",
+    "similarity": 0.4085269980914158
+  },
+  "1965": {
+    "anchor": "social",
+    "similarity": 0.40208261956616376
+  },
+  "1966": {
+    "anchor": "social",
+    "similarity": 0.39564212356749334
+  },
+  "1967": {
+    "anchor": "social",
+    "similarity": 0.3892188973305186
+  },
+  "1968": {
+    "anchor": "social",
+    "similarity": 0.3828251680967826
+  },
+  "1969": {
+    "anchor": "social",
+    "similarity": 0.3764720254017212
+  },
+  "1970": {
+    "anchor": "social",
+    "similarity": 0.3701694546613083
+  },
+  "1971": {
+    "anchor": "social",
+    "similarity": 0.36392637975940295
+  },
+  "1972": {
+    "anchor": "social",
+    "similarity": 0.35775071252872215
+  },
+  "1973": {
+    "anchor": "social",
+    "similarity": 0.3516494072344252
+  },
+  "1974": {
+    "anchor": "social",
+    "similarity": 0.3456285183966205
+  },
+  "1975": {
+    "anchor": "social",
+    "similarity": 0.33969326051638377
+  },
+  "1976": {
+    "anchor": "social",
+    "similarity": 0.33384806849084575
+  },
+  "1977": {
+    "anchor": "social",
+    "similarity": 0.32809665771096685
+  },
+  "1978": {
+    "anchor": "social",
+    "similarity": 0.3224420830268051
+  },
+  "1979": {
+    "anchor": "social",
+    "similarity": 0.31688679593732955
+  },
+  "1980": {
+    "anchor": "social",
+    "similarity": 0.3114326995138985
+  },
+  "1981": {
+    "anchor": "social",
+    "similarity": 0.3060812006987728
+  },
+  "1982": {
+    "anchor": "social",
+    "similarity": 0.3008332597329181
+  },
+  "1983": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1984": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1985": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1986": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1987": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1988": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1989": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1990": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1991": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1992": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1993": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1994": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1995": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1996": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1997": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1998": {
+    "anchor": null,
+    "similarity": null
+  },
+  "1999": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2000": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2001": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2002": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2003": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2004": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2005": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2006": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2007": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2008": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2009": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2010": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2011": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2012": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2013": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2014": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2015": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2016": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2017": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2018": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2019": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2020": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2021": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2022": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2023": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2024": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2025": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2026": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2027": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2028": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2029": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2030": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2031": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2032": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2033": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2034": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2035": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2036": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2037": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2038": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2039": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2040": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2041": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2042": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2043": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2044": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2045": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2046": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2047": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2048": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2049": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2050": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2051": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2052": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2053": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2054": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2055": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2056": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2057": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2058": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2059": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2060": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2061": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2062": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2063": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2064": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2065": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2066": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2067": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2068": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2069": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2070": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2071": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2072": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2073": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2074": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2075": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2076": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2077": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2078": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2079": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2080": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2081": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2082": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2083": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2084": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2085": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2086": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2087": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2088": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2089": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2090": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2091": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2092": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2093": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2094": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2095": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2096": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2097": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2098": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2099": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2100": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2101": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2102": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2103": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2104": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2105": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2106": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2107": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2108": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2109": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2110": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2111": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2112": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2113": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2114": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2115": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2116": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2117": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2118": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2119": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2120": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2121": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2122": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2123": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2124": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2125": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2126": {
+    "anchor": null,
+    "similarity": null
+  },
+  "2127": {
+    "anchor": "temporal",
+    "similarity": 0.3002786636999534
+  },
+  "2128": {
+    "anchor": "temporal",
+    "similarity": 0.3026452024371385
+  },
+  "2129": {
+    "anchor": "temporal",
+    "similarity": 0.30503534500029383
+  },
+  "2130": {
+    "anchor": "temporal",
+    "similarity": 0.3074485073291605
+  },
+  "2131": {
+    "anchor": "temporal",
+    "similarity": 0.30988398533155
+  },
+  "2132": {
+    "anchor": "temporal",
+    "similarity": 0.3123409483701766
+  },
+  "2133": {
+    "anchor": "temporal",
+    "similarity": 0.31481843262153525
+  },
+  "2134": {
+    "anchor": "temporal",
+    "similarity": 0.31731533434485937
+  },
+  "2135": {
+    "anchor": "temporal",
+    "similarity": 0.3198304031069281
+  },
+  "2136": {
+    "anchor": "temporal",
+    "similarity": 0.32236223501689876
+  },
+  "2137": {
+    "anchor": "temporal",
+    "similarity": 0.3249092660343366
+  },
+  "2138": {
+    "anchor": "temporal",
+    "similarity": 0.32746976542308
+  },
+  "2139": {
+    "anchor": "temporal",
+    "similarity": 0.3300418294336158
+  },
+  "2140": {
+    "anchor": "temporal",
+    "similarity": 0.33262337530693475
+  },
+  "2141": {
+    "anchor": "temporal",
+    "similarity": 0.3352121357034455
+  },
+  "2142": {
+    "anchor": "temporal",
+    "similarity": 0.3378056536710867
+  },
+  "2143": {
+    "anchor": "temporal",
+    "similarity": 0.3404012782772668
+  },
+  "2144": {
+    "anchor": "temporal",
+    "similarity": 0.3429961610392394
+  },
+  "2145": {
+    "anchor": "temporal",
+    "similarity": 0.34558725329682577
+  },
+  "2146": {
+    "anchor": "temporal",
+    "similarity": 0.34817130467953855
+  },
+  "2147": {
+    "anchor": "temporal",
+    "similarity": 0.350744862826883
+  },
+  "2148": {
+    "anchor": "temporal",
+    "similarity": 0.3533042745253294
+  },
+  "2149": {
+    "anchor": "temporal",
+    "similarity": 0.35584568842783415
+  },
+  "2150": {
+    "anchor": "temporal",
+    "similarity": 0.35836505952114645
+  },
+  "2151": {
+    "anchor": "temporal",
+    "similarity": 0.36085815550218897
+  },
+  "2152": {
+    "anchor": "temporal",
+    "similarity": 0.3633205652168097
+  },
+  "2153": {
+    "anchor": "temporal",
+    "similarity": 0.36574770930187145
+  },
+  "2154": {
+    "anchor": "temporal",
+    "similarity": 0.36813485315435274
+  },
+  "2155": {
+    "anchor": "temporal",
+    "similarity": 0.37047712232874375
+  },
+  "2156": {
+    "anchor": "temporal",
+    "similarity": 0.37276952043607436
+  },
+  "2157": {
+    "anchor": "temporal",
+    "similarity": 0.37500694958448105
+  },
+  "2158": {
+    "anchor": "temporal",
+    "similarity": 0.37718423336221535
+  },
+  "2159": {
+    "anchor": "temporal",
+    "similarity": 0.3792961423198818
+  },
+  "2160": {
+    "anchor": "temporal",
+    "similarity": 0.38133742185979236
+  },
+  "2161": {
+    "anchor": "temporal",
+    "similarity": 0.3833028223875575
+  },
+  "2162": {
+    "anchor": "temporal",
+    "similarity": 0.3851871315252868
+  },
+  "2163": {
+    "anchor": "temporal",
+    "similarity": 0.3869852081284638
+  },
+  "2164": {
+    "anchor": "temporal",
+    "similarity": 0.3886920177910944
+  },
+  "2165": {
+    "anchor": "temporal",
+    "similarity": 0.3903026694679509
+  },
+  "2166": {
+    "anchor": "temporal",
+    "similarity": 0.3918124527904388
+  },
+  "2167": {
+    "anchor": "temporal",
+    "similarity": 0.3932168756059264
+  },
+  "2168": {
+    "anchor": "temporal",
+    "similarity": 0.3945117012311805
+  },
+  "2169": {
+    "anchor": "temporal",
+    "similarity": 0.39569298488091914
+  },
+  "2170": {
+    "anchor": "temporal",
+    "similarity": 0.3967571087140508
+  },
+  "2171": {
+    "anchor": "temporal",
+    "similarity": 0.39770081493453946
+  },
+  "2172": {
+    "anchor": "temporal",
+    "similarity": 0.3985212363920386
+  },
+  "2173": {
+    "anchor": "temporal",
+    "similarity": 0.39921592415015555
+  },
+  "2174": {
+    "anchor": "temporal",
+    "similarity": 0.3997828715275496
+  },
+  "2175": {
+    "anchor": "temporal",
+    "similarity": 0.4002205341685891
+  },
+  "2176": {
+    "anchor": "temporal",
+    "similarity": 0.40052784576496536
+  },
+  "2177": {
+    "anchor": "temporal",
+    "similarity": 0.4007042291258236
+  },
+  "2178": {
+    "anchor": "temporal",
+    "similarity": 0.4007496023795401
+  },
+  "2179": {
+    "anchor": "temporal",
+    "similarity": 0.4006643801827065
+  },
+  "2180": {
+    "anchor": "temporal",
+    "similarity": 0.400449469908249
+  },
+  "2181": {
+    "anchor": "temporal",
+    "similarity": 0.4001062628818918
+  },
+  "2182": {
+    "anchor": "temporal",
+    "similarity": 0.39963662083124
+  },
+  "2183": {
+    "anchor": "temporal",
+    "similarity": 0.3990428578016222
+  },
+  "2184": {
+    "anchor": "temporal",
+    "similarity": 0.3983277178747327
+  },
+  "2185": {
+    "anchor": "temporal",
+    "similarity": 0.3974943490976551
+  },
+  "2186": {
+    "anchor": "temporal",
+    "similarity": 0.3965462740891229
+  },
+  "2187": {
+    "anchor": "temporal",
+    "similarity": 0.3954873578355099
+  },
+  "2188": {
+    "anchor": "temporal",
+    "similarity": 0.3943217732202238
+  },
+  "2189": {
+    "anchor": "temporal",
+    "similarity": 0.3930539648467428
+  },
+  "2190": {
+    "anchor": "temporal",
+    "similarity": 0.3916886117177554
+  },
+  "2191": {
+    "anchor": "temporal",
+    "similarity": 0.39023058932166405
+  },
+  "2192": {
+    "anchor": "temporal",
+    "similarity": 0.3886849316543633
+  },
+  "2193": {
+    "anchor": "temporal",
+    "similarity": 0.38705679367026846
+  },
+  "2194": {
+    "anchor": "temporal",
+    "similarity": 0.3853514146139423
+  },
+  "2195": {
+    "anchor": "temporal",
+    "similarity": 0.3835740826343677
+  },
+  "2196": {
+    "anchor": "temporal",
+    "similarity": 0.38173010102984534
+  },
+  "2197": {
+    "anchor": "temporal",
+    "similarity": 0.37982475641478985
+  },
+  "2198": {
+    "anchor": "temporal",
+    "similarity": 0.37786328904200783
+  },
+  "2199": {
+    "anchor": "temporal",
+    "similarity": 0.3758508654572077
+  },
+  "2200": {
+    "anchor": "temporal",
+    "similarity": 0.3737925536077942
+  },
+  "2201": {
+    "anchor": "temporal",
+    "similarity": 0.3716933004767013
+  },
+  "2202": {
+    "anchor": "temporal",
+    "similarity": 0.3695579122650264
+  },
+  "2203": {
+    "anchor": "temporal",
+    "similarity": 0.3673910371051281
+  },
+  "2204": {
+    "anchor": "temporal",
+    "similarity": 0.36519715024914845
+  },
+  "2205": {
+    "anchor": "temporal",
+    "similarity": 0.36298054164676413
+  },
+  "2206": {
+    "anchor": "social",
+    "similarity": 0.36141926953168685
+  },
+  "2207": {
+    "anchor": "social",
+    "similarity": 0.36114179942451724
+  },
+  "2208": {
+    "anchor": "social",
+    "similarity": 0.3608098174301565
+  },
+  "2209": {
+    "anchor": "social",
+    "similarity": 0.360426453906717
+  },
+  "2210": {
+    "anchor": "social",
+    "similarity": 0.3599947193965983
+  },
+  "2211": {
+    "anchor": "social",
+    "similarity": 0.3595174963998085
+  },
+  "2212": {
+    "anchor": "social",
+    "similarity": 0.358997532564978
+  },
+  "2213": {
+    "anchor": "social",
+    "similarity": 0.3584374351929086
+  },
+  "2214": {
+    "anchor": "social",
+    "similarity": 0.35783966694443586
+  },
+  "2215": {
+    "anchor": "social",
+    "similarity": 0.3572065426435966
+  },
+  "2216": {
+    "anchor": "social",
+    "similarity": 0.35654022706818284
+  },
+  "2217": {
+    "anchor": "social",
+    "similarity": 0.35584273362249685
+  },
+  "2218": {
+    "anchor": "social",
+    "similarity": 0.355115923791108
+  },
+  "2219": {
+    "anchor": "social",
+    "similarity": 0.35436150727740956
+  },
+  "2220": {
+    "anchor": "social",
+    "similarity": 0.3535810427365548
+  },
+  "2221": {
+    "anchor": "social",
+    "similarity": 0.3527759390186316
+  },
+  "2222": {
+    "anchor": "social",
+    "similarity": 0.35194745684459694
+  },
+  "2223": {
+    "anchor": "social",
+    "similarity": 0.35109671084430893
+  },
+  "2224": {
+    "anchor": "social",
+    "similarity": 0.35022467189286377
+  },
+  "2225": {
+    "anchor": "social",
+    "similarity": 0.34933216968827546
+  },
+  "2226": {
+    "anchor": "social",
+    "similarity": 0.3484198955201851
+  },
+  "2227": {
+    "anchor": "social",
+    "similarity": 0.3474884051857153
+  },
+  "2228": {
+    "anchor": "social",
+    "similarity": 0.3465381220147744
+  },
+  "2229": {
+    "anchor": "fluid",
+    "similarity": 0.34647569612852547
+  },
+  "2230": {
+    "anchor": "fluid",
+    "similarity": 0.3497644490926939
+  },
+  "2231": {
+    "anchor": "fluid",
+    "similarity": 0.3530065069615053
+  },
+  "2232": {
+    "anchor": "fluid",
+    "similarity": 0.35620218913145574
+  },
+  "2233": {
+    "anchor": "fluid",
+    "similarity": 0.35935170294564966
+  },
+  "2234": {
+    "anchor": "fluid",
+    "similarity": 0.36245514051342764
+  },
+  "2235": {
+    "anchor": "fluid",
+    "similarity": 0.3655124757961432
+  },
+  "2236": {
+    "anchor": "fluid",
+    "similarity": 0.3685235619471824
+  },
+  "2237": {
+    "anchor": "fluid",
+    "similarity": 0.3714881288979718
+  },
+  "2238": {
+    "anchor": "fluid",
+    "similarity": 0.374405781185319
+  },
+  "2239": {
+    "anchor": "fluid",
+    "similarity": 0.3772759960190697
+  },
+  "2240": {
+    "anchor": "abstract",
+    "similarity": 0.3825292980266784
+  },
+  "2241": {
+    "anchor": "abstract",
+    "similarity": 0.38782603129660137
+  },
+  "2242": {
+    "anchor": "abstract",
+    "similarity": 0.393116632427034
+  },
+  "2243": {
+    "anchor": "abstract",
+    "similarity": 0.3983996385788322
+  },
+  "2244": {
+    "anchor": "abstract",
+    "similarity": 0.40367341689588543
+  },
+  "2245": {
+    "anchor": "abstract",
+    "similarity": 0.40893615997554417
+  },
+  "2246": {
+    "anchor": "abstract",
+    "similarity": 0.4141858816085516
+  },
+  "2247": {
+    "anchor": "abstract",
+    "similarity": 0.4194204128265896
+  },
+  "2248": {
+    "anchor": "abstract",
+    "similarity": 0.4246373982997058
+  },
+  "2249": {
+    "anchor": "abstract",
+    "similarity": 0.4298342931299031
+  },
+  "2250": {
+    "anchor": "abstract",
+    "similarity": 0.4350083600909966
+  },
+  "2251": {
+    "anchor": "abstract",
+    "similarity": 0.44015666736838616
+  },
+  "2252": {
+    "anchor": "abstract",
+    "similarity": 0.4452760868556674
+  },
+  "2253": {
+    "anchor": "abstract",
+    "similarity": 0.45036329306776324
+  },
+  "2254": {
+    "anchor": "abstract",
+    "similarity": 0.45541476273263404
+  },
+  "2255": {
+    "anchor": "abstract",
+    "similarity": 0.4604267751253401
+  },
+  "2256": {
+    "anchor": "abstract",
+    "similarity": 0.46539541320928046
+  },
+  "2257": {
+    "anchor": "abstract",
+    "similarity": 0.47031656564970403
+  },
+  "2258": {
+    "anchor": "abstract",
+    "similarity": 0.4751859297639778
+  },
+  "2259": {
+    "anchor": "abstract",
+    "similarity": 0.47999901547149454
+  },
+  "2260": {
+    "anchor": "abstract",
+    "similarity": 0.4847511503034448
+  },
+  "2261": {
+    "anchor": "abstract",
+    "similarity": 0.48943748552876487
+  },
+  "2262": {
+    "anchor": "abstract",
+    "similarity": 0.49405300344756886
+  },
+  "2263": {
+    "anchor": "abstract",
+    "similarity": 0.49859252589686087
+  },
+  "2264": {
+    "anchor": "abstract",
+    "similarity": 0.5030507240055936
+  },
+  "2265": {
+    "anchor": "abstract",
+    "similarity": 0.5074221292269081
+  },
+  "2266": {
+    "anchor": "abstract",
+    "similarity": 0.5117011456648541
+  },
+  "2267": {
+    "anchor": "abstract",
+    "similarity": 0.5158820637008408
+  },
+  "2268": {
+    "anchor": "abstract",
+    "similarity": 0.5199590749118763
+  },
+  "2269": {
+    "anchor": "abstract",
+    "similarity": 0.5239262882580377
+  },
+  "2270": {
+    "anchor": "abstract",
+    "similarity": 0.5277777475011015
+  },
+  "2271": {
+    "anchor": "abstract",
+    "similarity": 0.5315074497996439
+  },
+  "2272": {
+    "anchor": "abstract",
+    "similarity": 0.5351093654087511
+  },
+  "2273": {
+    "anchor": "abstract",
+    "similarity": 0.538577458394725
+  },
+  "2274": {
+    "anchor": "abstract",
+    "similarity": 0.5419057082573293
+  },
+  "2275": {
+    "anchor": "abstract",
+    "similarity": 0.5450881323344087
+  },
+  "2276": {
+    "anchor": "abstract",
+    "similarity": 0.5481188088464699
+  },
+  "2277": {
+    "anchor": "abstract",
+    "similarity": 0.5509919004225395
+  },
+  "2278": {
+    "anchor": "abstract",
+    "similarity": 0.5537016779335063
+  },
+  "2279": {
+    "anchor": "energy",
+    "similarity": 0.5564242973070053
+  },
+  "2280": {
+    "anchor": "energy",
+    "similarity": 0.5591830370936643
+  },
+  "2281": {
+    "anchor": "energy",
+    "similarity": 0.5617735366431403
+  },
+  "2282": {
+    "anchor": "energy",
+    "similarity": 0.5641921290789936
+  },
+  "2283": {
+    "anchor": "energy",
+    "similarity": 0.5664353685647173
+  },
+  "2284": {
+    "anchor": "energy",
+    "similarity": 0.5685000494759878
+  },
+  "2285": {
+    "anchor": "energy",
+    "similarity": 0.5703832244044598
+  },
+  "2286": {
+    "anchor": "energy",
+    "similarity": 0.5720822208049217
+  },
+  "2287": {
+    "anchor": "energy",
+    "similarity": 0.57359465610846
+  },
+  "2288": {
+    "anchor": "energy",
+    "similarity": 0.5749184511382881
+  },
+  "2289": {
+    "anchor": "energy",
+    "similarity": 0.5760518416818238
+  },
+  "2290": {
+    "anchor": "energy",
+    "similarity": 0.5769933880923369
+  },
+  "2291": {
+    "anchor": "energy",
+    "similarity": 0.5777419828155145
+  },
+  "2292": {
+    "anchor": "energy",
+    "similarity": 0.5782968557604279
+  },
+  "2293": {
+    "anchor": "energy",
+    "similarity": 0.5786575774599634
+  },
+  "2294": {
+    "anchor": "energy",
+    "similarity": 0.5788240599924863
+  },
+  "2295": {
+    "anchor": "energy",
+    "similarity": 0.5787965556637004
+  },
+  "2296": {
+    "anchor": "energy",
+    "similarity": 0.5785756534748364
+  },
+  "2297": {
+    "anchor": "energy",
+    "similarity": 0.5781622734299369
+  },
+  "2298": {
+    "anchor": "energy",
+    "similarity": 0.5775576587605613
+  },
+  "2299": {
+    "anchor": "energy",
+    "similarity": 0.5767633661702284
+  },
+  "2300": {
+    "anchor": "energy",
+    "similarity": 0.5757812542228857
+  },
+  "2301": {
+    "anchor": "energy",
+    "similarity": 0.5746134700193171
+  },
+  "2302": {
+    "anchor": "energy",
+    "similarity": 0.573262434322312
+  },
+  "2303": {
+    "anchor": "energy",
+    "similarity": 0.5717308253053953
+  }
+}
