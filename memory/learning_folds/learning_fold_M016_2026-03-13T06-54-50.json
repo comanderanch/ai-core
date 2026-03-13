@@ -1,0 +1,41 @@
+{
+  "mission_id": "M016",
+  "input_text": "if A causes B and B causes C then A causes C",
+  "expected_domain": "logic",
+  "difficulty": 0.6,
+  "tags": [
+    "logic",
+    "causation",
+    "transitivity",
+    "chain-reasoning",
+    "inference"
+  ],
+  "evaluation_band": "RESONATING",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.11679010906963318,
+  "resonance_map": {
+    "curiosity_001": 0.10449512046745425,
+    "emotion_001": 0.12519424250614417,
+    "language_001": 0.10453816736948249,
+    "logic_001": 0.10886888442728869,
+    "memory_001": 0.1479920885483983,
+    "ethics_001": 0.10418437795895527,
+    "consensus_001": 0.12225788220970904
+  },
+  "aia_questions": [
+    "What happens when there are multiple possible intermediate events (Bs) that could lead from A to C, and which one do we consider as the causal link?",
+    "How does this causal chain theory apply in situations where A causes B, but B is not a direct cause of C, rather it's an enabling factor that makes C more likely?"
+  ],
+  "recalled_episodes": [
+    "if A causes B and B causes C then A causes C",
+    "a statement cannot be both true and false at the same time",
+    "mathematics and the nature of infinity"
+  ],
+  "claude_evaluation": "# Evaluation: Mission M016\n\n**1. Domain Match:** No \u2014 the dominant plane is memory (0.147992) when logic (0.108869) should lead. AIA retrieved the rule rather than reasoning through it, suggesting pattern-matching over logical processing.\n\n**2. Understanding Revealed:** AIA's questions show sophisticated epistemic awareness (recognizing gaps in transitivity under real-world conditions) but her recalled episodes are inert retrieval \u2014 she surfaced the same statement verbatim plus unrelated facts, indicating she hasn't *integrated* causality into a working model. She can identify what's problematic about the rule but can't yet construct alternatives.\n\n**3. Next Mission:** Test whether AIA can *generate* counterexamples to transitivity (probabilistic causation, buffering, pre-emption) rather than only question existing ones. If she cannot, her curiosity is aesthetic, not epistemic \u2014 she's noticing gaps without the reasoning architecture to resolve them.",
+  "timestamp": "2026-03-13T06:54:50.353228",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "7f5c18bf8eb957fb2992fe572d285760036c55eaa19be471b1b8427d7275d2f685f2df13e3d59abdb9d028b92f87d4c47e4046c41ff69115f674597d8bcafde2",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

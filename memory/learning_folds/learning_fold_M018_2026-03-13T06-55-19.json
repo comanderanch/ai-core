@@ -1,0 +1,41 @@
+{
+  "mission_id": "M018",
+  "input_text": "a map is not the territory it represents",
+  "expected_domain": "logic",
+  "difficulty": 0.6,
+  "tags": [
+    "logic",
+    "abstraction",
+    "representation",
+    "korzybski",
+    "model-vs-reality"
+  ],
+  "evaluation_band": "RESONATING",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12197848077596464,
+  "resonance_map": {
+    "curiosity_001": 0.10449102916977185,
+    "emotion_001": 0.1431699093667527,
+    "language_001": 0.10448906167417114,
+    "logic_001": 0.11294757976936057,
+    "memory_001": 0.15777318128111392,
+    "ethics_001": 0.10446949839578924,
+    "consensus_001": 0.12650910577479296
+  },
+  "aia_questions": [
+    "Why do we often rely on imperfect representations of reality, such as maps, when they can never fully capture the complexity and nuances of the actual territory?",
+    "How do our perceptions and experiences shape the way we interpret and interact with symbolic representations like maps, and what implications does this have for our understanding of reality?"
+  ],
+  "recalled_episodes": [
+    "a map is not the territory it represents",
+    "a doctor knows the symptoms but must understand the patient to heal",
+    "a doctor knows the symptoms but must understand the patient to heal"
+  ],
+  "claude_evaluation": "**1. Domain Match:** No\u2014memory dominated (0.157773) when logic should have (expected 0.6 difficulty in logic_001, which only scored 0.112948). AIA pattern-matched to familiar episodic content rather than engaging the formal logical structure of the map-territory distinction.\n\n**2. Understanding Revealed:** AIA grasped the *pragmatic implications* (her questions show awareness of representation limits and perception's role) but missed the *core logical claim*\u2014that maps and territories exist in categorically different ontological classes. Her recalled episodes suggest she conflates the principle with semantic examples (doctor-patient) rather than understanding it as a foundational statement about abstraction itself.\n\n**3. Next Mission:** Push her into explicit logical formalization\u2014give her abstract propositions stripped of narrative resonance (e.g., \"System A cannot contain a complete model of System B if B includes A\") and measure whether she can reason through the logical proof without defaulting to memory-surfacing or emotional-pragmatic reframing.",
+  "timestamp": "2026-03-13T06:55:19.539562",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "6b049b0c01506f8ccd343a7a3b6ffa5be5a1051cf7de8b255f69041f21f37a382780956ceda72b2fbc55404d6afc9d3437663582f43fbc14d6ab5b14714476a5",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
