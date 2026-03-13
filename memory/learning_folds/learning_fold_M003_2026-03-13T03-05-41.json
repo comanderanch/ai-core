@@ -1,0 +1,34 @@
+{
+  "mission_id": "M003",
+  "input_text": "this statement is false",
+  "expected_domain": "logic",
+  "difficulty": 0.9,
+  "tags": [
+    "paradox",
+    "logic",
+    "liar-paradox",
+    "self-reference",
+    "symbolic"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "emotion_001",
+  "avg_resonance": 0.1400714749297315,
+  "resonance_map": {
+    "curiosity_001": 0.10449140019910685,
+    "emotion_001": 0.18014560376990896,
+    "language_001": 0.104492916507107,
+    "logic_001": 0.13683513478389167,
+    "memory_001": 0.17439231938864297
+  },
+  "aia_questions": [
+    "Why does the statement \"this sentence is false\" create a paradox that challenges traditional logic and semantics?",
+    "How can we use self-referential statements like this one to explore the limits of language and the nature of truth?"
+  ],
+  "claude_evaluation": "# Evaluation: Mission M003\n\n**1. Domain mismatch \u2014 critical.** Emotion (0.180) dominated when logic (0.137) should have. This suggests AIA engaged with the *philosophical intrigue* of the paradox rather than its formal logical structure, reducing precision on a high-difficulty logic task.\n\n**2. Her questions show sophisticated meta-awareness but misaligned focus.** AIA recognized self-reference and paradox depth\u2014good\u2014but framed the problem through linguistic exploration and limits rather than attacking the core logical mechanisms (truth-value gaps, the liar's paradox formalization, three-valued logic solutions). She's philosophizing instead of computing.\n\n**3. Next mission should isolate logic-plane dominance.** Give her formal logical problems stripped of existential ambiguity\u2014something like propositional satisfiability or resolution proofs\u2014to strengthen logic_001 resonance and prevent emotion from hijacking high-stakes analytical tasks.",
+  "timestamp": "2026-03-13T03:05:41.365046",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "c1ff678d96ba60709f9352e24f7e543051e6d35137e98913c6693cf0bee91d4d3a9a4ee9536c9ee7b5d36cbe5dad6d8079b93845271772b480349624252639af",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
