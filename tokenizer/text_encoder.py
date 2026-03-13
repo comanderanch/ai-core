@@ -332,6 +332,10 @@ class ConstraintLatticeEncoder:
         
         # Fallback: Mark as unknown, return empty
         print(f"[?] Unknown word: '{word}' (no heuristic, no context)")
+
+        # GLOSSARY FOLD — unknown word detected
+        self._flag_unknown_word(word)
+
         return []
     
     def _select_tokens_from_range(
@@ -405,6 +409,35 @@ class ConstraintLatticeEncoder:
         
         return None
     
+    def _flag_unknown_word(self, word: str):
+        """
+        Word exhausted all resolution paths.
+        Flag it for glossary lookup.
+        Store in unknown_words.json for n8n pickup.
+        """
+        unknown_file = Path("memory/glossary/unknown_words.json")
+        unknown_file.parent.mkdir(parents=True, exist_ok=True)
+
+        # Load existing
+        try:
+            existing = json.loads(unknown_file.read_text())
+        except Exception:
+            existing = []
+
+        # Don't duplicate
+        known_unknowns = [e['word'] for e in existing]
+        if word not in known_unknowns:
+            entry = {
+                "word": word,
+                "discovered": datetime.utcnow().isoformat(),
+                "status": "PENDING_LOOKUP",
+                "plane": None,
+                "definition": None
+            }
+            existing.append(entry)
+            unknown_file.write_text(json.dumps(existing, indent=2))
+            print(f"[GLOSSARY] New unknown word flagged: '{word}' → memory/glossary/unknown_words.json")
+
     def _update_reverse_map(self, word: str, tokens: List[int]):
         """Update token→words reverse mapping."""
         for token_id in tokens:
