@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request, send_from_directory
 import json
 import threading
 from pathlib import Path
@@ -131,6 +131,13 @@ Question: {question}"""
         return jsonify({"answer": answer, "source": "ollama/llama3.1:8b"})
     except Exception as e:
         return jsonify({"answer": None, "source": None, "error": str(e)})
+
+
+@app.route('/', methods=['GET'])
+@app.route('/ui', methods=['GET'])
+def serve_ui():
+    """Serve the AIA chat interface"""
+    return send_from_directory('/home/comanderanch/ai-core-standalone/ui', 'aia_chat.html')
 
 
 @app.route('/health', methods=['GET'])
