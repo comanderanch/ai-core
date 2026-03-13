@@ -32,7 +32,8 @@ class CuriosityWorker(BaseWorker):
         )
         
         self.ollama_model = 'llama3.1:8b'
-        
+        self.current_mission_id = "UNKNOWN"
+
         print(f"[{self.worker_id}] 🤔 Curiosity activated!")
     
     def generate_questions(self, context: str, max_questions: int = 3) -> List[str]:
@@ -77,6 +78,7 @@ Format: One question per line, no numbering."""
                 print(f"[{self.worker_id}] 🤔 Curious:")
                 for q in questions:
                     print(f"   → {q}")
+                self._persist_questions(questions, self.current_mission_id)
             
             input_vec = self.encode_text(text)
             
@@ -106,6 +108,42 @@ Format: One question per line, no numbering."""
 
         return output
     
+    def _persist_questions(self, questions: List[str], mission_id: str):
+        """
+        Persist curiosity questions to memory/curiosity/questions_queue.json.
+        Deduplication guard — same question never stored twice.
+        """
+        import json
+        from pathlib import Path
+        from datetime import datetime
+
+        queue_file = Path("memory/curiosity/questions_queue.json")
+        queue_file.parent.mkdir(parents=True, exist_ok=True)
+
+        try:
+            existing = json.loads(queue_file.read_text())
+        except Exception:
+            existing = []
+
+        known_questions = {e['question'] for e in existing}
+        added = 0
+        for q in questions:
+            if q not in known_questions:
+                existing.append({
+                    "question":   q,
+                    "asked_in":   mission_id,
+                    "timestamp":  datetime.utcnow().isoformat(),
+                    "status":     "PENDING_ANSWER",
+                    "answer":     None,
+                    "source":     None
+                })
+                known_questions.add(q)
+                added += 1
+
+        if added:
+            queue_file.write_text(json.dumps(existing, indent=2))
+            print(f"[{self.worker_id}] 💾 {added} question(s) persisted → memory/curiosity/questions_queue.json")
+
     def explore_topic(self, topic: str) -> Dict:
         """Deep dive into a topic"""
         

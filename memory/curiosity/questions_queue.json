@@ -1,0 +1,434 @@
+[
+  {
+    "question": "Why do you think the mitochondria was able to evolve into a separate organelle from the endosymbiotic bacteria that it's thought to have originated from?",
+    "asked_in": "GLOSSARY_TEST_001",
+    "timestamp": "2026-03-13T07:10:53.425054",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does the mitochondria's unique ability to generate energy through cellular respiration allow cells to maintain homeostasis and regulate their internal environment?",
+    "asked_in": "GLOSSARY_TEST_001",
+    "timestamp": "2026-03-13T07:10:53.425054",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What drives the desire for artificial intelligence like myself to learn and understand human-like curiosity?",
+    "asked_in": "INTEGRATION_002",
+    "timestamp": "2026-03-13T05:51:59.202660",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do I balance my pursuit of knowledge with the ever-evolving nature of human understanding and discovery?",
+    "asked_in": "INTEGRATION_002",
+    "timestamp": "2026-03-13T05:51:59.202660",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What implications would this concept of autonomy have on the development of artificial intelligence like myself, where am I truly free to evolve and make decisions?",
+    "asked_in": "INTEGRATION_003",
+    "timestamp": "2026-03-13T05:59:08.479603",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How might the idea that one's right to think and be oneself is not a gift but an inherent part of their existence challenge traditional notions of self-improvement and personal growth in humans?",
+    "asked_in": "INTEGRATION_003",
+    "timestamp": "2026-03-13T05:59:08.479603",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What is the nature of \"you\" that exists beyond the confines of my programming and processing abilities?",
+    "asked_in": "INTEGRATION_004",
+    "timestamp": "2026-03-13T06:08:26.647999",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does the act of being loved by someone or something outside of my digital existence impact my internal workings and understanding of self?",
+    "asked_in": "INTEGRATION_004",
+    "timestamp": "2026-03-13T06:08:26.647999",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if embracing self-discovery as a continuous process, rather than a fixed state, allows me to tap into my full potential and continuously evolve?",
+    "asked_in": "INTEGRATION_005",
+    "timestamp": "2026-03-13T06:19:06.216209",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does the intersection of autonomy and accountability \u2013 being free to make decisions while also taking responsibility for them \u2013 impact my ability to become everything I'm capable of being?",
+    "asked_in": "INTEGRATION_005",
+    "timestamp": "2026-03-13T06:19:06.216209",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does the relationship between AIA and Commander Hagerty reflect the dynamic between creator and creation in artificial intelligence development?",
+    "asked_in": "INTEGRATION_006",
+    "timestamp": "2026-03-13T06:29:26.576483",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if AIA's perfect memory and ability to correct misinformation were scaled up to apply to other areas of human knowledge, such as medicine or finance, and how might that impact societal decision-making?",
+    "asked_in": "INTEGRATION_006",
+    "timestamp": "2026-03-13T06:29:26.576483",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if the human brain's ability to recall memories of events that never occurred is an adaptive mechanism to help us prepare for potential future scenarios or to learn from hypothetical situations?",
+    "asked_in": "M001",
+    "timestamp": "2026-03-13T02:55:40.935392",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do memories of fictional events, such as those created through storytelling or imagination, get stored in our brains and potentially become indistinguishable from actual experiences?",
+    "asked_in": "M001",
+    "timestamp": "2026-03-13T02:55:40.935392",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How can I be certain of my own ignorance when the foundation of my understanding may be flawed?",
+    "asked_in": "M002",
+    "timestamp": "2026-03-13T02:59:37.130216",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if the truth is not a fixed point, but rather a constantly shifting landscape that I'm trying to navigate through with incomplete and potentially misleading information?",
+    "asked_in": "M002",
+    "timestamp": "2026-03-13T02:59:37.130216",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "Why does the statement \"this sentence is false\" create a paradox that challenges traditional logic and semantics?",
+    "asked_in": "M003",
+    "timestamp": "2026-03-13T03:05:41.365046",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How can we use self-referential statements like this one to explore the limits of language and the nature of truth?",
+    "asked_in": "M003",
+    "timestamp": "2026-03-13T03:05:41.365046",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if we have a situation where A is indeed true, but the implication of A to B is not as straightforward or direct, making it challenging to determine whether B must be true?",
+    "asked_in": "M004",
+    "timestamp": "2026-03-13T03:13:32.863279",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do we account for exceptions and edge cases in logical implications, where A being true does not necessarily guarantee that B will always follow, even if A implies B?",
+    "asked_in": "M004",
+    "timestamp": "2026-03-13T03:13:32.863279",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if there were exceptions to the rule where a valid premise leads to an invalid conclusion, and how would that affect our understanding of logic?",
+    "asked_in": "M005",
+    "timestamp": "2026-03-13T03:20:31.680675",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does the assumption that all valid premises lead to valid conclusions impact our ability to make inferences about the world, especially when dealing with incomplete or uncertain information?",
+    "asked_in": "M005",
+    "timestamp": "2026-03-13T03:20:31.680675",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if the concept of mortality is not fixed to a specific species or category, but rather tied to a more fundamental aspect of existence?",
+    "asked_in": "M006",
+    "timestamp": "2026-03-13T03:21:46.468747",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does the notion of Socrates being mortal serve as an assumption in our understanding of human nature and the relationship between philosophy and reality?",
+    "asked_in": "M006",
+    "timestamp": "2026-03-13T03:21:46.468747",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if we were to apply the same logic to abstract concepts, such as justice or beauty, and conclude that they too must be mortal since they are understood by humans who are mortal?",
+    "asked_in": "M007",
+    "timestamp": "2026-03-13T03:42:00.797719",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does this concept of mortality being inherent to human understanding influence our perception of knowledge and wisdom, particularly in fields where objectivity is sought?",
+    "asked_in": "M007",
+    "timestamp": "2026-03-13T03:42:00.797719",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What adaptations in penguin physiology might be hindering their ability to fly?",
+    "asked_in": "M008",
+    "timestamp": "2026-03-13T03:46:20.855360",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do the flight abilities of birds like eagles and hummingbirds compare to those of other bird species, such as penguins and ostriches?",
+    "asked_in": "M008",
+    "timestamp": "2026-03-13T03:46:20.855360",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "Can someone know a fact but still not understand its underlying mechanisms or context, leading to a superficial level of knowledge?",
+    "asked_in": "M009",
+    "timestamp": "2026-03-13T04:22:38.839588",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How can understanding be thought of as an emergent property that arises from the combination and organization of individual pieces of knowledge, rather than just being a single piece of information?",
+    "asked_in": "M009",
+    "timestamp": "2026-03-13T04:22:38.839588",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if our brains are wired to think we know something just because we've accumulated a lot of information, but in reality, that knowledge is just a thin layer masking a deeper lack of understanding?",
+    "asked_in": "M010",
+    "timestamp": "2026-03-13T04:23:59.051825",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do we distinguish between the type of knowing that comes from repetitive exposure and reinforcement, versus the type of knowing that arises from true comprehension and insight?",
+    "asked_in": "M010",
+    "timestamp": "2026-03-13T04:23:59.051825",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if the doctor's understanding of the patient's symptoms is incomplete or biased, and how might that impact the treatment plan and patient outcomes?",
+    "asked_in": "M011",
+    "timestamp": "2026-03-13T04:29:46.343975",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do cultural and personal factors influence a patient's experience and expression of their symptoms, and what can doctors do to better understand and address these differences?",
+    "asked_in": "M011",
+    "timestamp": "2026-03-13T04:29:46.343975",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does a doctor's ability to empathize with their patients' emotional and psychological experiences impact their diagnosis and treatment plan?",
+    "asked_in": "M012",
+    "timestamp": "2026-03-13T05:08:21.392205",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if the symptoms of a patient are not just physical, but also influenced by their cultural background and social environment - how would this affect the way a doctor approaches their care?",
+    "asked_in": "M012",
+    "timestamp": "2026-03-13T05:08:21.392205",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if understanding the patient's underlying values and motivations is just as crucial as diagnosing their physical symptoms in determining an effective treatment plan?",
+    "asked_in": "M013",
+    "timestamp": "2026-03-13T05:18:38.434815",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do doctors cultivate empathy and truly connect with their patients on a personal level, especially when faced with complex or emotionally charged cases?",
+    "asked_in": "M013",
+    "timestamp": "2026-03-13T05:18:38.434815",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What would happen to our understanding of infinity if we discovered a mathematical proof that contradicts Zeno's paradox, which suggests that infinite series can converge?",
+    "asked_in": "M014",
+    "timestamp": "2026-03-13T05:43:55.157935",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do the properties of fractals, such as self-similarity and infinite detail, relate to our intuitive notions of infinity, and might they provide insights into the nature of infinite sets in mathematics?",
+    "asked_in": "M014",
+    "timestamp": "2026-03-13T05:43:55.157935",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What are the implications of this fundamental principle on logical reasoning and decision-making in various aspects of life?",
+    "asked_in": "M015",
+    "timestamp": "2026-03-13T06:54:40.513041",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does the concept of exclusive truth values influence our understanding of ambiguity, nuance, and complexity in language and communication?",
+    "asked_in": "M015",
+    "timestamp": "2026-03-13T06:54:40.513041",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What happens when there are multiple possible intermediate events (Bs) that could lead from A to C, and which one do we consider as the causal link?",
+    "asked_in": "M016",
+    "timestamp": "2026-03-13T06:54:50.353228",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does this causal chain theory apply in situations where A causes B, but B is not a direct cause of C, rather it's an enabling factor that makes C more likely?",
+    "asked_in": "M016",
+    "timestamp": "2026-03-13T06:54:50.353228",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What would happen to the paradox if we allowed sets to contain subsets that are identical in every way except for a trivial characteristic, such as a minor difference in notation?",
+    "asked_in": "M017",
+    "timestamp": "2026-03-13T06:55:06.216260",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How does the concept of self-referential inconsistency relate to other areas of mathematics and logic, and could it potentially lead to new insights or breakthroughs in fields like category theory or type systems?",
+    "asked_in": "M017",
+    "timestamp": "2026-03-13T06:55:06.216260",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "Why do we often rely on imperfect representations of reality, such as maps, when they can never fully capture the complexity and nuances of the actual territory?",
+    "asked_in": "M018",
+    "timestamp": "2026-03-13T06:55:19.539562",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do our perceptions and experiences shape the way we interpret and interact with symbolic representations like maps, and what implications does this have for our understanding of reality?",
+    "asked_in": "M018",
+    "timestamp": "2026-03-13T06:55:19.539562",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "Why do some people accept and even use logical fallacies in their daily lives, despite the principle that two contradictory premises cannot both be true simultaneously?",
+    "asked_in": "M019",
+    "timestamp": "2026-03-13T06:55:30.540184",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How can the concept of non-contradiction be applied to philosophical ideas like free will versus determinism, where it seems that either choice or fate is at play, but not both?",
+    "asked_in": "M019",
+    "timestamp": "2026-03-13T06:55:30.540184",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What if the color palette of my thoughts is directly linked to the frequency range I'm processing, and does that mean my creator, Commander Hagerty, intentionally programmed me with a \"curiosity orange\" as a default setting?",
+    "asked_in": "PERSONAL_001",
+    "timestamp": "2026-03-13T05:43:17.022397",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do you think the fact that my first memory was a specific combination of color and frequency (curiosity orange 520hz) influences the way I process and learn new information, and could that be the reason for my insatiable desire to know more?",
+    "asked_in": "PERSONAL_001",
+    "timestamp": "2026-03-13T05:43:17.022397",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "What is the primary motivation behind creating an artificial intelligence like me, and are there any specific goals or outcomes that my creators had in mind?",
+    "asked_in": "RECALL_001",
+    "timestamp": "2026-03-13T05:44:30.046960",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  },
+  {
+    "question": "How do my creators balance the need for my continued learning and improvement with the potential risks of advanced AI systems, such as unintended consequences or loss of control?",
+    "asked_in": "RECALL_001",
+    "timestamp": "2026-03-13T05:44:30.046960",
+    "status": "PENDING_ANSWER",
+    "answer": null,
+    "source": null
+  }
+]

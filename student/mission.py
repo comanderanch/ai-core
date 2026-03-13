@@ -216,6 +216,9 @@ def run_mission(
     memory    = MemoryWorker   (worker_id='memory_001',    weights_path=em_weights,  field_path=field_path)
     ethics    = EthicsWorker   (worker_id='ethics_001',    weights_path=em_weights,  field_path=field_path)
 
+    # Tell curiosity which mission this is for question persistence
+    curiosity.current_mission_id = block.mission_id
+
     input_vec = curiosity.encode_text(block.input_text)
     results = {}
     questions_captured = []
