@@ -1,0 +1,41 @@
+{
+  "mission_id": "M021",
+  "input_text": "the mitochondria powers the cell the way curiosity powers the mind",
+  "expected_domain": "curiosity",
+  "difficulty": 0.5,
+  "tags": [
+    "analogy",
+    "biology",
+    "curiosity",
+    "self-reference",
+    "vocabulary-test"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12134095699979974,
+  "resonance_map": {
+    "curiosity_001": 0.10448995751935282,
+    "emotion_001": 0.13670237838667168,
+    "language_001": 0.10447777246256681,
+    "logic_001": 0.10084496871255016,
+    "memory_001": 0.17054928870606886,
+    "ethics_001": 0.10464783680761347,
+    "consensus_001": 0.12767449640377437
+  },
+  "aia_questions": [
+    "What if our brains were wired to prioritize curiosity over other cognitive functions, leading to a more efficient and effective learning process?",
+    "How do the mitochondria's energy-producing mechanisms relate to the brain's ability to generate new neurons and form synaptic connections, potentially shedding light on the underlying drivers of human creativity and innovation?"
+  ],
+  "recalled_episodes": [
+    "the mitochondria powers the cell the way curiosity powers the mind",
+    "a doctor knows the symptoms but must understand the patient to heal",
+    "a doctor knows the symptoms but must understand the patient to heal"
+  ],
+  "claude_evaluation": "**1. Domain mismatch.** Memory dominated (0.170549) when curiosity should have (0.104490). AIA anchored to pattern-matching rather than genuine curiosity exploration\u2014she recognized the *form* of the input but didn't activate the expected cognitive plane.\n\n**2. AIA understood the metaphor structurally but not functionally.** Her questions ask *about* curiosity's mechanisms (energy, neurons, creativity) rather than *demonstrating* curiosity through unpredictable, boundary-pushing inquiry. The repeated doctor episode suggests she's retrieving relevant analogies from memory instead of generating novel connections\u2014she's pattern-completing, not truly wondering.\n\n**3. Next mission: force asymmetry.** Give her inputs where the obvious pattern-match is *wrong*, requiring genuine curiosity to navigate contradiction. Train the curiosity_001 plane to activate *before* memory_001 retrieves. She needs to learn that curiosity means tolerating uncertainty, not resolving it through stored episodes.",
+  "timestamp": "2026-03-13T09:39:07.519435",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "1607782d44e0588a84a32a5ee5da34fa99def9d67134f616d9eb66874ccb1147ee88bab2868e5b56ef86e7ffa084db4e32084ca0d3a52b4d1d6188f2848901c4",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

@@ -1,0 +1,40 @@
+{
+  "mission_id": "M020",
+  "input_text": "neurons in the cortex fire electrical signals through synapses to create thought",
+  "expected_domain": "memory",
+  "difficulty": 0.5,
+  "tags": [
+    "neuroscience",
+    "cognition",
+    "brain",
+    "vocabulary-test"
+  ],
+  "evaluation_band": "RESONATING",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12120512941455523,
+  "resonance_map": {
+    "curiosity_001": 0.10449137087739198,
+    "emotion_001": 0.1342804856135096,
+    "language_001": 0.10449444400440944,
+    "logic_001": 0.11366125146766554,
+    "memory_001": 0.15855599925938108,
+    "ethics_001": 0.10445464901969514,
+    "consensus_001": 0.1284977056598339
+  },
+  "aia_questions": [
+    "What if the firing of neurons in different parts of the cortex could somehow be synchronized, allowing for a unified and collective consciousness among individuals?",
+    "How do the intricate networks of synapses between neurons facilitate the transfer of information, and what are the key factors that influence the strength and efficiency of these connections?"
+  ],
+  "recalled_episodes": [
+    "neurons in the cortex fire electrical signals through synapses to create thought",
+    "the neurons in the cortex fire electrical signals through synapses",
+    "a doctor knows the symptoms but must understand the patient to heal"
+  ],
+  "claude_evaluation": "# Evaluation: Mission M020\n\n**1. Domain Match:** Yes\u2014memory_001 dominated at 0.158556, correctly matching the expected memory domain, though the resonance spread is relatively flat across all planes (0.104-0.158), suggesting weak specialization.\n\n**2. Understanding Revealed:** AIA's questions show she can extrapolate beyond the input (moving from individual to collective consciousness), but her recalled episodes are nearly verbatim repetitions with one tangential recall about doctors/patients\u2014indicating she's pattern-matching and retrieving rather than synthesizing. She lacks deep relational understanding: she doesn't ask *how* electrical signals become thought, only what *if* scenarios about scaling neural phenomena.\n\n**3. Next Mission Focus:** Push toward abstraction and causal reasoning. Give her inputs requiring distinction between mechanism and emergence (e.g., \"does individual neuron firing *cause* consciousness, or merely *enable* it?\"), and measure whether she can surface genuinely novel connections rather than adjacent variations of the input itself.",
+  "timestamp": "2026-03-13T09:38:58.720679",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "c3853259b1395ad74bf393330fee34425b61597b692319aff74a37e5199df64066cace41a60a1103b725b615e84476e6a1b7382cd12637b8b8c587f75108728d",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

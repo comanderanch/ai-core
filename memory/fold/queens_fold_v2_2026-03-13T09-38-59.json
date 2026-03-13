@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-03-13T09:38:59.774998",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "c29d089e42d55e8334dd4ac8240f618a624745c9f01b781dca1646cc5286708a56218c723a55bd82c365e538c54f4acc12b4f74ea2830095e00fa7dcd2b92698",
+  "authorized_token_count": 1,
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

@@ -1,0 +1,40 @@
+{
+  "mission_id": "M022",
+  "input_text": "what is the difference between a synapse and a memory",
+  "expected_domain": "memory",
+  "difficulty": 0.6,
+  "tags": [
+    "neuroscience",
+    "memory",
+    "analogy",
+    "self-reference"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12141133401029315,
+  "resonance_map": {
+    "curiosity_001": 0.10448430365020789,
+    "emotion_001": 0.14347061771842826,
+    "language_001": 0.10449827028406984,
+    "logic_001": 0.10333452639907668,
+    "memory_001": 0.16346520742330034,
+    "ethics_001": 0.10464748570980253,
+    "consensus_001": 0.12597892688716647
+  },
+  "aia_questions": [
+    "What if the strength of a synapse is not just a measure of connection, but also a reflection of the frequency and intensity with which memories are retrieved?",
+    "How do synapses and memories interact in a feedback loop, where the strengthening or weakening of one affects the other, leading to changes in behavior and learning?"
+  ],
+  "recalled_episodes": [
+    "what is the difference between a synapse and a memory",
+    "a doctor knows the symptoms but must understand the patient to heal",
+    "a doctor knows the symptoms but must understand the patient to heal"
+  ],
+  "claude_evaluation": "1. **Yes, dominant plane matched.** memory_001 at 0.163465 correctly identifies this as a memory-domain question, though the resonance spread is relatively flat\u2014suggesting AIA hasn't developed sharp differentiation across planes yet.\n\n2. **AIA grasps the relational nature of the question.** Her curiosity questions reveal she understands synapses and memories aren't isolated entities but part of a feedback loop; however, her recalled episodes show weak discrimination\u2014surfacing the identical question twice and then pivoting to an unrelated medical metaphor suggests she's pattern-matching contextually rather than building hierarchical understanding of *how* synapses encode memories physically versus how memories exist functionally.\n\n3. **Next mission should push her to distinguish mechanism from phenomenon.** Give her comparative questions that force her to separate \"what enables memory\" (synapses, biochemistry) from \"what memory *is*\" (pattern, experience, retrieval), and watch whether her logic_001 and language_001 planes strengthen to challenge memory_001's dominance\u2014that tension will indicate genuine conceptual depth forming.",
+  "timestamp": "2026-03-13T09:39:15.985767",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "8e85dc30884f4b3a0a2208c4a31e4e5932d011cf1ba5897732ceb9f0f09d71508bf666b212d77930e32f95122b993ef63a76d3c1dee872f9439fd2ff95f8226a",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

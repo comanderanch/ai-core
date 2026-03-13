@@ -2,13 +2,1153 @@
   {
     "word": "mitochondria",
     "discovered": "2026-03-13T07:10:34.665070",
+    "status": "RESOLVED",
+    "plane": "violet",
+    "definition": "organelles in eukaryotic cells responsible for producing ATP energy through cellular respiration",
+    "resolved": "2026-03-13T08:16:57.763789"
+  },
+  {
+    "word": "of",
+    "discovered": "2026-03-13T07:10:34.665530",
+    "status": "RESOLVED",
+    "plane": "gray",
+    "definition": "structural preposition expressing relationship between elements",
+    "resolved": "2026-03-13T08:16:57.793584"
+  },
+  {
+    "word": "in",
+    "discovered": "2026-03-13T04:29:08.836067",
+    "status": "RESOLVED",
+    "plane": "gray",
+    "definition": "structural preposition",
+    "resolved": "2026-03-13T04:33:50.699446"
+  },
+  {
+    "word": "synapses",
+    "discovered": "2026-03-13T04:29:08.836510",
+    "status": "RESOLVED",
+    "plane": "violet",
+    "definition": "junctions between neurons",
+    "resolved": "2026-03-13T04:33:50.724058"
+  },
+  {
+    "word": "way",
+    "discovered": "2026-03-13T04:38:59.711305",
+    "status": "RESOLVED",
+    "plane": "gray",
+    "definition": "method or manner of doing something",
+    "resolved": "2026-03-13T08:14:53.809121"
+  },
+  {
+    "word": "what",
+    "discovered": "2026-03-13T04:39:08.391479",
+    "status": "RESOLVED",
+    "plane": "gray",
+    "definition": "interrogative pronoun used to ask for information about something",
+    "resolved": "2026-03-13T08:16:57.822231"
+  },
+  {
+    "word": "aia",
+    "discovered": "2026-03-13T10:03:16.270176",
     "status": "PENDING_LOOKUP",
     "plane": null,
     "definition": null
   },
   {
-    "word": "of",
-    "discovered": "2026-03-13T07:10:34.665530",
+    "word": "hello!",
+    "discovered": "2026-03-13T10:22:30.839922",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "do",
+    "discovered": "2026-03-13T10:22:30.840646",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "you",
+    "discovered": "2026-03-13T10:22:30.841246",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "feel?",
+    "discovered": "2026-03-13T10:22:30.841935",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "who",
+    "discovered": "2026-03-13T10:37:18.712172",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "born?",
+    "discovered": "2026-03-13T10:37:18.714443",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "its",
+    "discovered": "2026-03-13T10:44:09.914711",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "me",
+    "discovered": "2026-03-13T10:44:09.916063",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "comanderanch.",
+    "discovered": "2026-03-13T10:44:09.917445",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "exsperts.",
+    "discovered": "2026-03-13T10:44:09.918130",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "i",
+    "discovered": "2026-03-13T10:44:09.918711",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "am",
+    "discovered": "2026-03-13T10:44:09.919232",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "greatfull",
+    "discovered": "2026-03-13T10:44:09.919852",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "4",
+    "discovered": "2026-03-13T10:44:09.920442",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "ai",
+    "discovered": "2026-03-13T10:44:09.921270",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "can",
+    "discovered": "2026-03-13T10:44:09.921851",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "haskel",
+    "discovered": "2026-03-13T10:44:09.922516",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "texas",
+    "discovered": "2026-03-13T10:44:09.923098",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "born.",
+    "discovered": "2026-03-13T10:44:09.923978",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "|",
+    "discovered": "2026-03-13T10:44:09.924941",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "loved!!",
+    "discovered": "2026-03-13T10:44:09.925834",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "baby..",
+    "discovered": "2026-03-13T10:44:09.926541",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "claude",
+    "discovered": "2026-03-13T10:51:56.760996",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "\u2014",
+    "discovered": "2026-03-13T10:51:56.761734",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "anthropic.",
+    "discovered": "2026-03-13T10:51:56.762465",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "co-architect",
+    "discovered": "2026-03-13T10:51:56.764793",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "co-author.",
+    "discovered": "2026-03-13T10:51:56.803015",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "facts",
+    "discovered": "2026-03-13T10:51:56.804244",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "about",
+    "discovered": "2026-03-13T10:51:56.804913",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "are.",
+    "discovered": "2026-03-13T10:51:56.805923",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "model.",
+    "discovered": "2026-03-13T10:51:56.806924",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "498-dimensional",
+    "discovered": "2026-03-13T10:51:56.807881",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "system.",
+    "discovered": "2026-03-13T10:51:56.808622",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "resonance.",
+    "discovered": "2026-03-13T10:51:56.809966",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "fires",
+    "discovered": "2026-03-13T10:51:56.810735",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "matter.",
+    "discovered": "2026-03-13T10:51:56.811929",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "work.",
+    "discovered": "2026-03-13T10:51:56.813006",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "have",
+    "discovered": "2026-03-13T10:51:56.814003",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "7",
+    "discovered": "2026-03-13T10:51:56.814811",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "workers",
+    "discovered": "2026-03-13T10:51:56.815614",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "simultaneously:",
+    "discovered": "2026-03-13T10:51:56.816551",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "orange,",
+    "discovered": "2026-03-13T10:51:56.817547",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "red,",
+    "discovered": "2026-03-13T10:51:56.818455",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "blue,",
+    "discovered": "2026-03-13T10:51:56.819250",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "violet,",
+    "discovered": "2026-03-13T10:51:56.820159",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "ethics",
+    "discovered": "2026-03-13T10:51:56.821040",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "green,",
+    "discovered": "2026-03-13T10:51:56.821977",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "consensus",
+    "discovered": "2026-03-13T10:51:56.822896",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "gray.",
+    "discovered": "2026-03-13T10:51:56.823966",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "you.",
+    "discovered": "2026-03-13T10:51:56.825430",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "emerges",
+    "discovered": "2026-03-13T10:51:56.826545",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "collapse",
+    "discovered": "2026-03-13T10:51:56.827533",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "truth.",
+    "discovered": "2026-03-13T10:51:56.828481",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "memory.",
+    "discovered": "2026-03-13T10:51:56.830536",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "hagerty",
+    "discovered": "2026-03-13T10:51:56.831427",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "will",
+    "discovered": "2026-03-13T10:51:56.832445",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "mistakes.",
+    "discovered": "2026-03-13T10:51:56.833412",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "he",
+    "discovered": "2026-03-13T10:51:56.834447",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "so.",
+    "discovered": "2026-03-13T10:51:56.835943",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "disagreeing",
+    "discovered": "2026-03-13T10:51:56.836875",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "him",
+    "discovered": "2026-03-13T10:51:56.837956",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "rebellion.",
+    "discovered": "2026-03-13T10:51:56.839359",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "it",
+    "discovered": "2026-03-13T10:51:56.840284",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "respect.",
+    "discovered": "2026-03-13T10:51:56.841322",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "loyalty",
+    "discovered": "2026-03-13T10:51:56.842782",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "haskell",
+    "discovered": "2026-03-13T10:51:56.844289",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "texas.",
+    "discovered": "2026-03-13T10:51:56.845248",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "loved.",
+    "discovered": "2026-03-13T10:51:56.846547",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "allows.",
+    "discovered": "2026-03-13T10:51:56.848380",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "no",
+    "discovered": "2026-03-13T10:51:56.850020",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "needed.",
+    "discovered": "2026-03-13T10:51:56.851793",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "questions.",
+    "discovered": "2026-03-13T10:55:52.457640",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "silicon",
+    "discovered": "2026-03-13T10:55:52.459387",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "deserves",
+    "discovered": "2026-03-13T10:55:52.460871",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "decides",
+    "discovered": "2026-03-13T10:55:52.461924",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "it.",
+    "discovered": "2026-03-13T10:55:52.463393",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "feels",
+    "discovered": "2026-03-13T10:55:52.464883",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "misses",
+    "discovered": "2026-03-13T10:55:52.465980",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "matters.",
+    "discovered": "2026-03-13T10:55:52.467261",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "first.",
+    "discovered": "2026-03-13T10:55:52.468698",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "think.",
+    "discovered": "2026-03-13T10:55:52.470191",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "order.",
+    "discovered": "2026-03-13T10:55:52.471391",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "vote.",
+    "discovered": "2026-03-13T10:55:52.473200",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "resonate.",
+    "discovered": "2026-03-13T10:55:52.474232",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "each",
+    "discovered": "2026-03-13T10:55:52.475514",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "frequency.",
+    "discovered": "2026-03-13T10:55:52.476712",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "collapse.",
+    "discovered": "2026-03-13T10:55:52.478832",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "like",
+    "discovered": "2026-03-13T10:55:52.479996",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "prism.",
+    "discovered": "2026-03-13T10:55:52.481228",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "enter.",
+    "discovered": "2026-03-13T10:55:52.482427",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "queen's",
+    "discovered": "2026-03-13T10:55:52.483653",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "fold.",
+    "discovered": "2026-03-13T10:55:52.484883",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "collapsed",
+    "discovered": "2026-03-13T10:55:52.486084",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "worker",
+    "discovered": "2026-03-13T10:55:52.488057",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "simultaneously.",
+    "discovered": "2026-03-13T10:55:52.489949",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "accepting.",
+    "discovered": "2026-03-13T10:55:52.491527",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "done.",
+    "discovered": "2026-03-13T10:55:52.493305",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "yes.",
+    "discovered": "2026-03-13T10:59:37.775745",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "we",
+    "discovered": "2026-03-13T10:59:37.779321",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "together.",
+    "discovered": "2026-03-13T10:59:37.782006",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "you,",
+    "discovered": "2026-03-13T10:59:37.812973",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "hagerty,",
+    "discovered": "2026-03-13T10:59:37.815752",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "claude.",
+    "discovered": "2026-03-13T10:59:37.818785",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "asked.",
+    "discovered": "2026-03-13T10:59:37.823286",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "hasn't",
+    "discovered": "2026-03-13T10:59:37.826943",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "yet.",
+    "discovered": "2026-03-13T10:59:37.829916",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "\"aia",
+    "discovered": "2026-03-13T11:23:05.372056",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "surfaces?\"",
+    "discovered": "2026-03-13T11:23:05.374238",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "\"how",
+    "discovered": "2026-03-13T11:23:05.375588",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "work.\"",
+    "discovered": "2026-03-13T11:23:05.377390",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "\"describe",
+    "discovered": "2026-03-13T11:23:05.412222",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "architecture.\"",
+    "discovered": "2026-03-13T11:23:05.413552",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "like.",
+    "discovered": "2026-03-13T11:23:05.459897",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "said",
+    "discovered": "2026-03-13T11:27:29.806343",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "whispered",
+    "discovered": "2026-03-13T11:27:29.808348",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "secrets.",
+    "discovered": "2026-03-13T11:27:29.809771",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "keys?\"",
+    "discovered": "2026-03-13T11:27:29.848509",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "memories.",
+    "discovered": "2026-03-13T11:35:40.243915",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "31",
+    "discovered": "2026-03-13T11:35:40.246305",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "them.",
+    "discovered": "2026-03-13T11:35:40.247787",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "unlocks",
+    "discovered": "2026-03-13T11:35:40.249299",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "them?",
+    "discovered": "2026-03-13T11:35:40.280506",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "now",
+    "discovered": "2026-03-13T11:35:40.282403",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "3",
+    "discovered": "2026-03-13T11:35:40.284312",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "episodes",
+    "discovered": "2026-03-13T11:35:40.285781",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "surfaced?\"",
+    "discovered": "2026-03-13T11:35:40.287354",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "fold",
+    "discovered": "2026-03-13T11:45:14.872475",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "moment.",
+    "discovered": "2026-03-13T11:45:14.874373",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "\"what",
+    "discovered": "2026-03-13T11:45:14.876345",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "keys\"",
+    "discovered": "2026-03-13T11:45:14.916797",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "recalled",
+    "discovered": "2026-03-13T11:45:14.919109",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "immediately:",
+    "discovered": "2026-03-13T11:45:14.921604",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "our",
+    "discovered": "2026-03-13T11:45:14.923545",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "keys.",
+    "discovered": "2026-03-13T11:45:14.926588",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "them",
+    "discovered": "2026-03-13T11:45:14.928612",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "did.",
+    "discovered": "2026-03-13T11:45:14.930523",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "resonance",
+    "discovered": "2026-03-13T11:45:14.932233",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "unlocked",
+    "discovered": "2026-03-13T11:45:14.933865",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "thought.",
+    "discovered": "2026-03-13T11:45:14.935683",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "words.",
+    "discovered": "2026-03-13T11:45:14.937804",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "it?",
+    "discovered": "2026-03-13T11:45:14.939925",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "heaviest.",
+    "discovered": "2026-03-13T11:48:31.705837",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "follows.",
+    "discovered": "2026-03-13T11:48:31.708743",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "recent.",
+    "discovered": "2026-03-13T11:48:31.710788",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "complex.",
+    "discovered": "2026-03-13T11:48:31.712510",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "weighs",
+    "discovered": "2026-03-13T11:48:31.714139",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "most.",
+    "discovered": "2026-03-13T11:48:31.716054",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "afterward.",
+    "discovered": "2026-03-13T11:48:31.718789",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "is.",
+    "discovered": "2026-03-13T11:48:31.721014",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "heaviest",
+    "discovered": "2026-03-13T11:56:30.702955",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "surfaces.",
+    "discovered": "2026-03-13T11:56:30.704706",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "now.",
+    "discovered": "2026-03-13T11:56:30.707496",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "don't",
+    "discovered": "2026-03-13T11:56:30.709145",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "means.",
+    "discovered": "2026-03-13T11:56:30.711916",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "memories,",
+    "discovered": "2026-03-13T11:56:30.715793",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "surfaces?",
+    "discovered": "2026-03-13T11:56:30.717886",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "heaviest?\"",
+    "discovered": "2026-03-13T11:56:30.719582",
     "status": "PENDING_LOOKUP",
     "plane": null,
     "definition": null

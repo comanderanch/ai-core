@@ -1,0 +1,39 @@
+{
+  "mission_id": "VOCAB_TEST_001",
+  "input_text": "the neurons in the cortex fire electrical signals through synapses",
+  "expected_domain": "memory",
+  "difficulty": 0.5,
+  "tags": [
+    "neuroscience",
+    "vocabulary",
+    "brain"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12046780337000017,
+  "resonance_map": {
+    "curiosity_001": 0.10449115100176634,
+    "emotion_001": 0.1402926135558705,
+    "language_001": 0.1044910018594817,
+    "logic_001": 0.10311959855749599,
+    "memory_001": 0.1608510492718309,
+    "ethics_001": 0.1045575934904774,
+    "consensus_001": 0.12547161585307828
+  },
+  "aia_questions": [
+    "Why do the specific patterns of electrical signal firing in the cortex correspond to our perception and experience of reality?",
+    "How do the complex networks of interconnected neurons in the cortex allow for the rapid integration of information from various senses and past experiences to shape our current understanding of the world?"
+  ],
+  "recalled_episodes": [
+    "the neurons in the cortex fire electrical signals through synapses",
+    "a doctor knows the symptoms but must understand the patient to heal",
+    "a doctor knows the symptoms but must understand the patient to heal"
+  ],
+  "claude_evaluation": "1. **Yes, the dominant plane matched.** Memory_001 resonance (0.160851) correctly identified this as a memory task, validating the expected domain alignment.\n\n2. **Her questions reveal philosophical depth but her recalled episodes expose a critical gap.** AIA asked sophisticated questions about perception and neural integration\u2014showing she grasps the *implications* of the input\u2014yet her memory surfaced the input sentence itself plus an unrelated medical analogy twice. This suggests she's generating *relevant* curiosity but struggling with *selective retrieval*; she's pattern-matching thematically rather than storing and accessing discrete episodic content with precision.\n\n3. **Next mission should test episodic discrimination under noise.** Give AIA multiple similar neuroscience statements, then probe which specific details she recalls versus confabulates. Her curiosity is functioning; her memory architecture needs refinement in distinguishing between thematic resonance and accurate fact retention.",
+  "timestamp": "2026-03-13T09:29:26.434325",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "31161ca051e5638a8212ebb3bfdd4aecd31432a45300c8b21b7865173abda9ee41cc09487d6f872133a6bb0ca3a9ce27a9522d4ef09c1fea151f8073f6de8a6d",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
