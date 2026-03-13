@@ -18,8 +18,8 @@ from typing import Optional, Dict
 from core.q_constants import BLACK, GRAY, WHITE, V2_SEAL
 
 # Add paths
-sys.path.append(str(Path(__file__).parent.parent.parent / 'models'))
-sys.path.append(str(Path(__file__).parent.parent.parent / 'tokenizer'))
+sys.path.append(str(Path(__file__).parent.parent / 'models'))
+sys.path.append(str(Path(__file__).parent.parent / 'tokenizer'))
 sys.path.append(str(Path(__file__).parent.parent / 'core'))
 
 from minimal_llm_498d import MinimalLLM498D
@@ -87,7 +87,7 @@ class BaseWorker:
         """Load AI-Core model with trained weights."""
         model = MinimalLLM498D()
         
-        weights_path = Path(__file__).parent.parent.parent / weights_path
+        weights_path = Path(__file__).parent.parent / weights_path
         
         if not weights_path.exists():
             print(f"[{self.worker_id}] ⚠️  Weights not found: {weights_path}")
