@@ -250,6 +250,15 @@ class ConstraintLatticeEncoder:
             'these': (1850, 2050),
             'those': (1850, 2050),
 
+            # Interrogative pronouns — gray plane (1800-2100)
+            'what':  (1800, 2100),  # interrogative pronoun
+            'where': (1800, 2100),  # interrogative
+            'when':  (1800, 2100),  # interrogative
+            'how':   (1800, 2100),  # interrogative
+            'why':   (1800, 2100),  # interrogative
+            'which': (1800, 2100),  # interrogative
+            'way':   (1800, 2100),  # relational/structural
+
             # Structural prepositions — gray plane (1800-2100)
             'of':   (1800, 2100),
             'in':   (1800, 2100),
@@ -270,6 +279,7 @@ class ConstraintLatticeEncoder:
             'nor':  (1800, 2100),
 
             # Neuroscience vocabulary — violet plane (1400-1600)
+            'mitochondria': (1400, 1600),  # biological structure
             'neurons':   (1400, 1600),
             'neuron':    (1400, 1600),
             'cortex':    (1400, 1600),
