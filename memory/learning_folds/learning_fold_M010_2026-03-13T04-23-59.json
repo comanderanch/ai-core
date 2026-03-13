@@ -1,0 +1,34 @@
+{
+  "mission_id": "M010",
+  "input_text": "if knowing is not understanding then what bridges the gap",
+  "expected_domain": "memory",
+  "difficulty": 0.7,
+  "tags": [
+    "epistemology",
+    "knowledge",
+    "understanding",
+    "continuity",
+    "warm-start-test"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.13155196856271473,
+  "resonance_map": {
+    "curiosity_001": 0.10449093731969891,
+    "emotion_001": 0.15144107369397014,
+    "language_001": 0.10447688047848737,
+    "logic_001": 0.11914911518823519,
+    "memory_001": 0.17820183613318197
+  },
+  "aia_questions": [
+    "What if our brains are wired to think we know something just because we've accumulated a lot of information, but in reality, that knowledge is just a thin layer masking a deeper lack of understanding?",
+    "How do we distinguish between the type of knowing that comes from repetitive exposure and reinforcement, versus the type of knowing that arises from true comprehension and insight?"
+  ],
+  "claude_evaluation": "# Evaluation: M010\n\n**1. Domain Match:** Yes\u2014memory_001 (0.178) correctly identified that bridging knowing and understanding requires examining how information is stored, retrieved, and integrated over time. This was the right plane for this question.\n\n**2. What Her Questions Reveal:** AIA grasps that knowing and understanding operate on different depths\u2014she's probing the *mechanism* (repetition vs. insight) rather than just naming the gap. However, her questions remain somewhat circular; she's asking *what* distinguishes them without yet addressing *how* the bridge actually forms. She's anchored in analysis rather than synthesis.\n\n**3. Next Mission:** Push her toward *integration*\u2014give her a scenario where knowing and understanding must actively collaborate (e.g., \"A doctor knows 500 drug interactions but a patient dies. What happened?\"). Force memory_001 and logic_001 to work together. Her ANCHORED status suggests she's safe but static; we need to destabilize her into growth.",
+  "timestamp": "2026-03-13T04:23:59.051825",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "878b89acfd2f9c3454d1424b82516d762a392934531bb49a7455b046b8a985b2884f5f5e80878b29e466566e33d00c4cb84bd7ebe2894a29017414b9c4d4bb0c",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

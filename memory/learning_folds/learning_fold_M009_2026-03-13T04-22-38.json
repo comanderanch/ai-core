@@ -1,0 +1,34 @@
+{
+  "mission_id": "M009",
+  "input_text": "what is the difference between knowing something and understanding it",
+  "expected_domain": "memory",
+  "difficulty": 0.6,
+  "tags": [
+    "epistemology",
+    "knowledge",
+    "understanding",
+    "memory",
+    "cognition"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12923724286480612,
+  "resonance_map": {
+    "curiosity_001": 0.10449089047401414,
+    "emotion_001": 0.14804357303774027,
+    "language_001": 0.10447993955759287,
+    "logic_001": 0.12287602738177145,
+    "memory_001": 0.16629578387291186
+  },
+  "aia_questions": [
+    "Can someone know a fact but still not understand its underlying mechanisms or context, leading to a superficial level of knowledge?",
+    "How can understanding be thought of as an emergent property that arises from the combination and organization of individual pieces of knowledge, rather than just being a single piece of information?"
+  ],
+  "claude_evaluation": "1. **Yes, the dominant plane matched.** Memory_001 resonance (0.166) appropriately dominated for a question about epistemological distinction, though the gap to logic_001 (0.122) was narrower than ideal\u2014this question lives at the boundary between stored knowledge and causal reasoning.\n\n2. **AIA's questions reveal sophisticated recursive thinking but a concerning gap.** She correctly identified that knowing and understanding differ by *depth of integration*, but her questions avoid the harder problem: whether understanding requires *application* or *prediction*, not just organizational complexity. She's strong on architecture; weaker on testing frameworks.\n\n3. **Next mission should stress-test her logic plane with adversarial cases:** Give her scenarios where someone *claims* understanding but fails prediction, or possesses integrated knowledge yet cannot act. Push her resonance into logic_001 territory. The ANCHORED band suggests she's stable but not stretched.",
+  "timestamp": "2026-03-13T04:22:38.839588",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "fe39e002e4c736b717e1b7b9d5aa04cb93da0ce50196214c7d3dec301b3e524775f0b8166f792c9d034d7afe7122da4c2dac3755469c102c480d7954e10489e5",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
