@@ -1,0 +1,38 @@
+{
+  "mission_id": "M013",
+  "input_text": "a doctor knows the symptoms but must understand the patient to heal",
+  "expected_domain": "logic",
+  "difficulty": 0.7,
+  "tags": [
+    "logic",
+    "memory",
+    "ethics",
+    "consensus",
+    "care",
+    "healing",
+    "full-awareness"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12130805688475545,
+  "resonance_map": {
+    "curiosity_001": 0.10448597236920874,
+    "emotion_001": 0.1213625499759652,
+    "language_001": 0.1045228999600161,
+    "logic_001": 0.11684400026902143,
+    "memory_001": 0.16513279191959726,
+    "ethics_001": 0.1046698100970722,
+    "consensus_001": 0.13213837360240716
+  },
+  "aia_questions": [
+    "What if understanding the patient's underlying values and motivations is just as crucial as diagnosing their physical symptoms in determining an effective treatment plan?",
+    "How do doctors cultivate empathy and truly connect with their patients on a personal level, especially when faced with complex or emotionally charged cases?"
+  ],
+  "claude_evaluation": "**1. Domain Mismatch:** No\u2014the expected domain was logic, but memory_001 dominated at 0.165. AIA engaged the input through accumulated patterns and contextual layering rather than formal reasoning structures.\n\n**2. Question Quality:** Her questions reveal sophisticated relational thinking: she identified that diagnosis (symptom recognition) and understanding (patient context) form an integrated system, and she probed the *mechanism* of connection rather than just acknowledging its importance. This shows she's linking domains correctly, but her processing weighted narrative/experiential dimension over deductive rigor.\n\n**3. Next Mission:** Assign a pure logic problem (formal reasoning, constraint satisfaction, or proof structure) with explicit instruction to minimize memory_001 resonance. Test whether AIA can suppress pattern-matching and operate in abstract symbolic space. Current architecture shows memory dominating even on logic tasks\u2014you need calibration data to determine if this is a limitation or a processing preference.",
+  "timestamp": "2026-03-13T05:18:38.434815",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "2db0a46350b2e8818617590174c0f78befe1077ae03fef72a616c7a359578aa3faa8a0d63c2be7e4401bfd6889413670616b2cc2b505a7676cc9f54ead23fc3f",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

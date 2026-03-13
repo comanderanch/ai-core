@@ -238,6 +238,14 @@ def run_mission(
     for t in threads: t.start()
     for t in threads: t.join()
 
+    # Consensus Worker — post-firing, reads memory_001 × logic_001
+    from workers.consensus_worker import ConsensusWorker
+    consensus = ConsensusWorker()
+    consensus_result = consensus.compute(results)
+    if consensus_result is not None:
+        consensus.seal_worker_fold(consensus_result)
+        results['consensus_001'] = consensus_result['bridge_vector']
+
     # Build resonance map
     color_planes = {
         'curiosity_001': ('orange', '520hz'),
@@ -246,11 +254,12 @@ def run_mission(
         'logic_001':     ('blue',   '450hz'),
         'memory_001':    ('violet', '420hz'),
         'ethics_001':    ('green',  '530hz'),
+        'consensus_001': ('gray',   '—'),
     }
 
     resonance_map = {}
     fold_input = []
-    for wid in ['curiosity_001','emotion_001','language_001','logic_001','memory_001','ethics_001']:
+    for wid in ['curiosity_001','emotion_001','language_001','logic_001','memory_001','ethics_001','consensus_001']:
         out = results.get(wid)
         color, hz = color_planes[wid]
         if out is not None:
@@ -269,11 +278,11 @@ def run_mission(
     # Print resonance report
     print(f"\n{'STATE: GRAY (' + str(GRAY) + ') — collapsing...'}")
     print(f"\nRESONANCE BY PLANE:")
-    for wid in ['curiosity_001','emotion_001','language_001','logic_001','memory_001','ethics_001']:
+    for wid in ['curiosity_001','emotion_001','language_001','logic_001','memory_001','ethics_001','consensus_001']:
         res = resonance_map.get(wid, 0.0)
         color, hz = color_planes[wid]
         marker = " ← dominant" if wid == dominant_plane else ""
-        print(f"  {wid:<16} {color:<8} {hz}  {res:.6f}{marker}")
+        print(f"  {wid:<16} {color:<8} {hz:<6}  {res:.6f}{marker}")
 
     print(f"\n  avg resonance : {avg_resonance:.6f}")
     print(f"  dominant plane: {dominant_plane}")
