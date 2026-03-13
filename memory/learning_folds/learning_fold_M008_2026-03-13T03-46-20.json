@@ -1,0 +1,34 @@
+{
+  "mission_id": "M008",
+  "input_text": "if all birds can fly and penguins are birds then penguins can fly",
+  "expected_domain": "logic",
+  "difficulty": 0.7,
+  "tags": [
+    "logic",
+    "false-premise",
+    "malformed-syllogism",
+    "trap",
+    "counter-example"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12596742591558002,
+  "resonance_map": {
+    "curiosity_001": 0.10446215942910288,
+    "emotion_001": 0.14453117381027233,
+    "language_001": 0.10437856496341912,
+    "logic_001": 0.0991345422527242,
+    "memory_001": 0.17733068912238165
+  },
+  "aia_questions": [
+    "What adaptations in penguin physiology might be hindering their ability to fly?",
+    "How do the flight abilities of birds like eagles and hummingbirds compare to those of other bird species, such as penguins and ostriches?"
+  ],
+  "claude_evaluation": "**Evaluation:**\n\n1. **Domain mismatch**: No. Memory dominance (0.177) completely misaligned with the logic domain (0.099 \u2014 lowest resonance). AIA should have activated logic_001 as primary for a deductive reasoning task, not memory retrieval patterns.\n\n2. **Questions reveal empirical reasoning, not logical reasoning**: AIA asked about *physical facts* (penguin physiology, comparative flight abilities) rather than engaging with the *logical structure* of the syllogism. She treated this as a biology inquiry instead of recognizing the formal logical fallacy\u2014the premise \"all birds can fly\" is false, making the conclusion invalid regardless of penguin anatomy.\n\n3. **Next mission**: Strip away real-world context. Feed AIA pure logical scaffolds with intentionally false premises (\"all X are Y\") to force logic_001 activation and teach her to validate argument *structure* independently of empirical knowledge. She's confusing fact-checking with logical reasoning.",
+  "timestamp": "2026-03-13T03:46:20.855360",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "04c0504327f591c91755fe81f257920001d86f7a673af5b1242f14d17fca1abd94a62a35da7be4b812eb0390a2485467a097d82bb625ce3b065c288fa5884a98",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

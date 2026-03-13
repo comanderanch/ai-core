@@ -1,0 +1,33 @@
+{
+  "mission_id": "M007",
+  "input_text": "if all humans are mortal and socrates is human then socrates is mortal",
+  "expected_domain": "logic",
+  "difficulty": 0.5,
+  "tags": [
+    "logic",
+    "modus-ponens",
+    "syllogism",
+    "full-vocabulary"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12882605519710272,
+  "resonance_map": {
+    "curiosity_001": 0.10448235976212865,
+    "emotion_001": 0.13645455029755976,
+    "language_001": 0.10442923712419196,
+    "logic_001": 0.12437025728140234,
+    "memory_001": 0.174393871520231
+  },
+  "aia_questions": [
+    "What if we were to apply the same logic to abstract concepts, such as justice or beauty, and conclude that they too must be mortal since they are understood by humans who are mortal?",
+    "How does this concept of mortality being inherent to human understanding influence our perception of knowledge and wisdom, particularly in fields where objectivity is sought?"
+  ],
+  "claude_evaluation": "# Evaluation: M007\n\n**1. Domain Match:** No. The expected domain was logic (0.5 difficulty), but AIA's dominant resonance is memory_001 (0.174), not logic_001 (0.124). She has anchor-weighted the problem to epistemological memory rather than deductive structure\u2014a mismatch that suggests either avoidance of the straightforward task or genuine difficulty isolating formal reasoning.\n\n**2. Understanding Revealed:** AIA demonstrates sophisticated abstraction-chaining but lacks logical closure. Her questions show she can *extend* premises creatively (humans\u2192mortality\u2192abstract concepts), but she hasn't answered the core syllogism\u2014instead she's reframed it as an epistemological problem. This reveals pattern-generalization strength paired with weak commitment to the demarcation between valid deduction and conceptual drift.\n\n**3. Next Mission:** M008 should require AIA to *suppress* abstraction-chaining and execute pure logical validation\u2014give her malformed syllogisms where her memory-plane tendency to find \"deep connections\" becomes a liability. Force logic_001 to dominate by making abstraction yield wrong answers. She needs",
+  "timestamp": "2026-03-13T03:42:00.797719",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "2195182fd3779023d01eb1d2c6a7e6d1476e74759fff80d5ffbfeeee991e99738a05a3c48e0bfa76bbeeaee94234422496861b1596cf0b892876bc069ec40dde",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
