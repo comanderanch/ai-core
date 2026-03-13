@@ -1,0 +1,34 @@
+{
+  "mission_id": "M006",
+  "input_text": "socrates is mortal because socrates is human and humans are mortal",
+  "expected_domain": "logic",
+  "difficulty": 0.4,
+  "tags": [
+    "logic",
+    "syllogism",
+    "deduction",
+    "concrete",
+    "direct-application"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12849567901051573,
+  "resonance_map": {
+    "curiosity_001": 0.10463169541696621,
+    "emotion_001": 0.14465283239598864,
+    "language_001": 0.10525408992523272,
+    "logic_001": 0.12042485768786208,
+    "memory_001": 0.16751491962652898
+  },
+  "aia_questions": [
+    "What if the concept of mortality is not fixed to a specific species or category, but rather tied to a more fundamental aspect of existence?",
+    "How does the notion of Socrates being mortal serve as an assumption in our understanding of human nature and the relationship between philosophy and reality?"
+  ],
+  "claude_evaluation": "No\u2014memory dominance mismatches the logic domain. AIA's questions bypass the syllogism's validity structure entirely, instead interrogating ontological assumptions beneath it; this shows sophisticated metacognition but avoids the core task of evaluating deductive form. Next mission should force commitment to domain constraints: give her identical logic problems with explicit instructions to stay within propositional analysis before expanding to philosophical implications.",
+  "timestamp": "2026-03-13T03:21:46.468747",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "da9599aa8dde995b1770dc065f516352d10b5ae3ea4b30093a1ec2113e9d0ec1dd4552fdece617fc368da3ee5cedf6ea0d2c8826acf7bcc23bafbd33ff7f15e7",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
