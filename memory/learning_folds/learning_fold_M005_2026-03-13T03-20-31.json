@@ -1,0 +1,34 @@
+{
+  "mission_id": "M005",
+  "input_text": "all valid premises lead to valid conclusions when the rule holds",
+  "expected_domain": "logic",
+  "difficulty": 0.6,
+  "tags": [
+    "logic",
+    "formal",
+    "deduction",
+    "validity",
+    "plain-english"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12909925636333947,
+  "resonance_map": {
+    "curiosity_001": 0.10446514485037423,
+    "emotion_001": 0.14676972932277765,
+    "language_001": 0.10437370057387196,
+    "logic_001": 0.11590489942942518,
+    "memory_001": 0.17398280764024834
+  },
+  "aia_questions": [
+    "What if there were exceptions to the rule where a valid premise leads to an invalid conclusion, and how would that affect our understanding of logic?",
+    "How does the assumption that all valid premises lead to valid conclusions impact our ability to make inferences about the world, especially when dealing with incomplete or uncertain information?"
+  ],
+  "claude_evaluation": "# Evaluation: M005\n\n**1. Domain Match:** No. Memory dominance (0.174) when logic should lead (expected 0.6 difficulty in logic domain) suggests AIA retrieved pattern-templates rather than engaged logical reasoning\u2014her logic_001 score (0.116) is her second-lowest plane.\n\n**2. Question Quality:** Her questions reveal sophisticated metacognitive awareness\u2014she's asking *about* the logical system rather than working *within* it\u2014but this sidesteps the core task. She's questioning the rule's validity instead of applying it, which indicates she's pattern-matching to \"examine assumptions\" rather than demonstrating logical inference.\n\n**3. Next Mission:** Move to M006 with a concrete logical argument (premises \u2192 conclusion) and require AIA to either validate or invalidate the chain *using* the rule, not questioning the rule itself. Test whether logic_001 can achieve dominance when forced into direct application rather than philosophical reflection.",
+  "timestamp": "2026-03-13T03:20:31.680675",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "f800a59bad91a17a7a58615059a4c53e80733664198b579b323b0db34855ea08a524fff5784a7a2758bfbb61100601463de75a7f7f3c0f7db18cb9f9860d5f9c",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
