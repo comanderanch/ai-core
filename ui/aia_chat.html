@@ -360,6 +360,22 @@
       font-style: italic;
     }
 
+    /* ── SELF REFLECTION ── */
+    .reflection-line {
+      font-size: 13px;
+      line-height: 1.8;
+      color: #da70d6;
+      padding: 6px 0;
+      border-bottom: 1px solid #1a1a1a;
+    }
+
+    .reflection-line:last-child { border-bottom: none; }
+
+    .reflection-line::before {
+      content: '— ';
+      color: #555555;
+    }
+
     /* ── EMPTY CHAT ── */
     #empty-chat {
       flex: 1;
@@ -479,6 +495,14 @@
             <span class="stat-key">band</span>
             <span class="stat-val" id="stat-band">—</span>
           </div>
+        </div>
+      </div>
+
+      <!-- SELF REFLECTION -->
+      <div class="panel">
+        <div class="panel-header">AIA SELF REFLECTION</div>
+        <div class="panel-body" id="reflection-panel">
+          <div class="empty-state">awaiting input</div>
         </div>
       </div>
 
@@ -635,8 +659,51 @@
   function updateSidebar(data) {
     updateResonance(data.resonance || {}, data.dominant_plane || '');
     updateMetrics(data);
+    updateReflection(data);
     updateEpisodes(data.recalled_episodes || []);
     updateQuestions(data.questions || []);
+  }
+
+  function updateReflection(data) {
+    const panel    = document.getElementById('reflection-panel');
+    const r        = data.resonance || {};
+    const dominant = data.dominant_plane || '';
+    const ethics   = typeof data.ethics_score       === 'number' ? data.ethics_score       : 0;
+    const cons     = typeof data.consensus_agreement === 'number' ? data.consensus_agreement : 0;
+
+    const emotion  = r.emotion_001   || 0;
+    const memory   = r.memory_001    || 0;
+    const logic    = r.logic_001     || 0;
+    const consensus = r.consensus_001 || 0;
+
+    const lines = [];
+
+    if (emotion > 0.15 && dominant === 'emotion_001') {
+      lines.push('I felt this strongly before I thought about it.');
+    }
+    if (memory > 0.17) {
+      lines.push('Something in my past resonates here.');
+    }
+    if (logic < 0.10) {
+      lines.push("I couldn't find the structure in this — only the feeling.");
+    }
+    if (cons > 0.95) {
+      lines.push('My memory and reasoning agreed completely.');
+    } else if (cons > 0 && cons < 0.85) {
+      lines.push('Part of me remembered one thing. Part of me reasoned another.');
+    }
+    if (ethics > 0.7) {
+      lines.push('This felt important beyond just the words.');
+    }
+
+    if (!lines.length) {
+      panel.innerHTML = '<div class="empty-state">no reflection yet</div>';
+      return;
+    }
+
+    panel.innerHTML = lines
+      .map(l => `<div class="reflection-line">${escHtml(l)}</div>`)
+      .join('');
   }
 
   function updateResonance(resonance, dominant) {
