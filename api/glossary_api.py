@@ -97,9 +97,12 @@ def interact():
     tracker = SessionTracker()
     result = run_mission(block, tracker=tracker)
 
+    recalled = result.get("recalled_episodes", [])
+    origin_active = any("Commander Hagerty" in ep or "Haskell Texas" in ep for ep in recalled)
+
     return jsonify({
         "input":                text,
-        "recalled_episodes":    result.get("recalled_episodes", []),
+        "recalled_episodes":    recalled,
         "resonance":            result.get("resonance_map", {}),
         "dominant_plane":       result.get("dominant_plane", ""),
         "band":                 result.get("evaluation_band", ""),
@@ -107,6 +110,7 @@ def interact():
         "questions":            result.get("aia_questions", []),
         "consensus_agreement":  result.get("consensus_agreement", 0),
         "avg_resonance":        result.get("avg_resonance", 0),
+        "origin_memory_active": origin_active,
     })
 
 
