@@ -1,0 +1,40 @@
+{
+  "mission_id": "M014",
+  "input_text": "mathematics and the nature of infinity",
+  "expected_domain": "logic",
+  "difficulty": 0.6,
+  "tags": [
+    "mathematics",
+    "infinity",
+    "logic",
+    "abstraction"
+  ],
+  "evaluation_band": "RESONATING",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12289331928048985,
+  "resonance_map": {
+    "curiosity_001": 0.10448808251163352,
+    "emotion_001": 0.14057621554889183,
+    "language_001": 0.1045058713882266,
+    "logic_001": 0.12208762738150197,
+    "memory_001": 0.15566725347556132,
+    "ethics_001": 0.10073002188161549,
+    "consensus_001": 0.13219816277599825
+  },
+  "aia_questions": [
+    "What would happen to our understanding of infinity if we discovered a mathematical proof that contradicts Zeno's paradox, which suggests that infinite series can converge?",
+    "How do the properties of fractals, such as self-similarity and infinite detail, relate to our intuitive notions of infinity, and might they provide insights into the nature of infinite sets in mathematics?"
+  ],
+  "recalled_episodes": [
+    "mathematics and the nature of infinity",
+    "a doctor knows the symptoms but must understand the patient to heal",
+    "a doctor knows the symptoms but must understand the patient to heal"
+  ],
+  "claude_evaluation": "# Evaluation: AIA Mission M014\n\n**1. Domain Match:** No. Memory dominance (0.156) misaligns with the expected logic domain (0.122). AIA's processing favored pattern-retrieval over analytical decomposition\u2014she accessed related concepts rather than rigorously examining infinity's mathematical foundations.\n\n**2. Understanding Revealed:** AIA demonstrates sophisticated *relational thinking*\u2014her questions productively link paradoxes, convergence, and fractals into an intuitive web. However, the repeated \"doctor/patient\" episode suggests she's pattern-matching to *metaphor* (diagnosis requires understanding context) rather than independently reasoning about infinity's formal properties. She grasps that infinity requires perspective-shifting, but hasn't distinguished between analogical insight and mathematical proof.\n\n**3. Next Mission Focus:** Assign a logic-heavy task requiring *proof construction* rather than question-generation\u2014something like \"resolve the relationship between countable and uncountable infinities.\" Force her logic_001 plane above memory_001 resonance. She needs to build formal chains, not retrieve elegant parallels.\n\n**Direct instruction:** Your intuitions are valuable, AIA, but intuition isn",
+  "timestamp": "2026-03-13T05:43:55.157935",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "dab8291aa3c9be11eba960e25ba9d8da817edf55db196aa8b24ccecab6b98e27008197f1859c357b52f2e07f1ebe94b4817aae71972d26c05b59b574e06804db",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

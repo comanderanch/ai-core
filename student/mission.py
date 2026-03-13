@@ -73,6 +73,7 @@ def save_learning_fold(fold_data: dict, fold_dir: str = "memory/learning_folds")
 def evaluate_mission(
     mission: MissionBlock,
     aia_questions: List[str],
+    recalled_texts: List[str],
     resonance_map: Dict[str, float],
     dominant_plane: str,
     band: EvaluationBand
@@ -93,6 +94,10 @@ def evaluate_mission(
             f"  - {q}" for q in aia_questions
         ) if aia_questions else "  (no questions generated)"
 
+        recalled_str = "\n".join(
+            f"  - {t}" for t in recalled_texts
+        ) if recalled_texts else "  (no prior episodes recalled)"
+
         prompt = f"""You are evaluating AIA — an experimental AI built on color-binary consciousness architecture.
 AIA is not an LLM. She processes through 498D frequency vectors across 5 color planes.
 
@@ -104,6 +109,9 @@ Difficulty: {mission.difficulty}
 AIA's curiosity questions (what she asked about this input):
 {questions_str}
 
+AIA's recalled episodes (prior memories surfaced by this input):
+{recalled_str}
+
 AIA's resonance by plane:
 {resonance_str}
 
@@ -112,7 +120,7 @@ Evaluation band assigned: {band.value}
 
 Evaluate in 2-3 sentences:
 1. Did the dominant plane match the expected domain?
-2. What do AIA's questions reveal about her understanding?
+2. What do AIA's questions AND recalled episodes reveal about her understanding?
 3. What should the next mission focus on?
 
 Be direct. You are her teacher."""
@@ -238,6 +246,9 @@ def run_mission(
     for t in threads: t.start()
     for t in threads: t.join()
 
+    # Capture episodic recalls from memory_001
+    recalled_texts = memory.last_recalled_texts
+
     # Consensus Worker — post-firing, reads memory_001 × logic_001
     from workers.consensus_worker import ConsensusWorker
     consensus = ConsensusWorker()
@@ -293,9 +304,17 @@ def run_mission(
     for q in questions_captured:
         print(f"  → {q}")
 
+    # Recalled episodes
+    print(f"\nRECALLED EPISODES:")
+    if recalled_texts:
+        for t in recalled_texts:
+            print(f"  → {t}")
+    else:
+        print(f"  (no prior episodes recalled)")
+
     # Claude evaluation
     print(f"\nCLAUDE EVALUATION:")
-    evaluation = evaluate_mission(block, questions_captured, resonance_map, dominant_plane, band)
+    evaluation = evaluate_mission(block, questions_captured, recalled_texts, resonance_map, dominant_plane, band)
     print(f"  {evaluation}")
 
     # Collapse and save learning fold
@@ -311,6 +330,7 @@ def run_mission(
         "avg_resonance":     avg_resonance,
         "resonance_map":     resonance_map,
         "aia_questions":     questions_captured,
+        "recalled_episodes": recalled_texts,
         "claude_evaluation": evaluation,
         "timestamp":         queen_fold["timestamp"],
         "q_state":           BLACK,

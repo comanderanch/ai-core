@@ -45,7 +45,8 @@ class MemoryWorker(BaseWorker):
         
         self.memory_path = Path(memory_path)
         self.memories = self._load_memories()
-        
+        self.last_recalled_texts: List[str] = []
+
         print(f"[{self.worker_id}] Loaded {len(self.memories)} memories")
     
     def _load_memories(self) -> List[Dict]:
@@ -100,7 +101,14 @@ class MemoryWorker(BaseWorker):
         
         # Retrieve similar memories (context)
         context = self.recall_similar(input_vec, top_k=3)
-        
+
+        # Surface recalled text — episodic bridge
+        self.last_recalled_texts = [m['text'] for m in context if m.get('text')]
+        if self.last_recalled_texts:
+            print(f"[{self.worker_id}] Recalled episodes:")
+            for t in self.last_recalled_texts:
+                print(f"[{self.worker_id}]   → {t[:80]}")
+
         if context:
             # Average context vectors
             context_vecs = [np.array(m['vector']) for m in context]
