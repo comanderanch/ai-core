@@ -167,7 +167,39 @@ class ConstraintLatticeEncoder:
             'sad': (1000, 1200),
             'depth': (1100, 1300),
             'trust': (1050, 1250),
-            
+
+            # Blue plane — logical connectives (1000-1300): logic_001 / language_001 domain
+            'if': (1000, 1200),
+            'then': (1000, 1200),
+            'implies': (1050, 1250),
+            'and': (1000, 1200),
+            'or': (1000, 1200),
+            'not': (1000, 1100),
+            'all': (1100, 1300),
+            'every': (1100, 1300),
+            'some': (1050, 1250),
+            'none': (1000, 1100),
+            'therefore': (1100, 1300),
+            'because': (1050, 1250),
+            'when': (1000, 1200),
+            'unless': (1050, 1250),
+            'until': (1050, 1250),
+            'while': (1000, 1200),
+            'since': (1050, 1250),
+
+            # Blue plane — mathematical operators (1050-1250): logic_001 domain
+            'equals': (1050, 1250),
+            'plus': (1050, 1250),
+            'minus': (1050, 1250),
+            'times': (1050, 1250),
+            'divided': (1050, 1250),
+            'greater': (1100, 1300),
+            'less': (1000, 1100),
+            'zero': (1050, 1250),
+            'one': (1050, 1250),
+            'true': (1100, 1300),
+            'false': (1000, 1100),
+
             # Purple family (1400-1800): Mystery, wisdom, luxury
             'mystery': (1400, 1600),
             'wisdom': (1400, 1600),
@@ -177,10 +209,25 @@ class ConstraintLatticeEncoder:
             
             # Grayscale (1800-2304): Balance, neutral, clarity
             'neutral': (1800, 2000),
-            'balance': (1850, 2050),
             'clarity': (1900, 2100),
             'empty': (1800, 1900),
             'full': (2100, 2300),
+
+            # Neutral gray — identity/structure words (1800-2100): copulas, determiners
+            'is': (1900, 2100),
+            'are': (1900, 2100),
+            'was': (1850, 2050),
+            'were': (1850, 2050),
+            'be': (1900, 2100),
+            'been': (1900, 2100),
+            'being': (1850, 2050),
+            'the': (1800, 2000),
+            'a': (1800, 2000),
+            'an': (1800, 2000),
+            'this': (1850, 2050),
+            'that': (1850, 2050),
+            'these': (1850, 2050),
+            'those': (1850, 2050),
         }
     
     def encode_word(

@@ -49,7 +49,22 @@ Wire core/q_constants.py as the V2 foundation import.
 All scripts must import from it. None may define their own q-states.
 
 ## COLOR PLANE MAP (live data)
-explore_mode -> orange -> RGB(255,140,0) -> 520.0hz
+curiosity_001  -> orange  -> RGB(255,140,0) -> 520hz  -> token range 200-550
+emotion_001    -> red     -> RGB(255,0,0)   -> 700hz  -> token range 0-200
+language_001   -> blue    -> RGB(0,0,255)   -> 450hz  -> token range 1000-1300
+logic_001      -> blue    -> RGB(0,0,255)   -> 450hz  -> token range 1000-1300
+memory_001     -> violet  -> RGB(148,0,211) -> 420hz  -> token range 1400-1650
+[RESERVED]     -> green   -> RGB(0,200,0)   -> 530hz  -> token range 600-850
+               -> ethics worker — V2.01.1
+
+## TOKENIZER HEURISTICS (March 13, 2026)
+Logical connectives added to blue plane (1000-1300):
+  if, then, implies, and, or, not, all, every, some, none,
+  therefore, because, when, unless, until, while, since
+Mathematical operators added to blue plane (1050-1250):
+  equals, plus, minus, times, divided, greater, less, zero, one, true, false
+Identity/structure words added to neutral gray (1800-2100):
+  is, are, was, were, be, been, being, the, a, an, this, that, these, those
 
 ## WHAT SUCCESS LOOKS LIKE
 Every V2 script starts with:
