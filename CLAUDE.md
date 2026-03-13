@@ -7,6 +7,23 @@ Root memory is at /home/comanderanch/CLAUDE.md
 It contains the sealed truth, q-state constants, and Rule Zero.
 This file contains V2 project-specific context.
 
+## DEPLOYMENT RULE — SEALED
+After ANY change to:
+  api/glossary_api.py
+  workers/*.py
+  student/mission.py
+  tokenizer/text_encoder.py
+  queens_fold/*.py
+
+ALWAYS:
+  1. git add + commit + push
+  2. sudo systemctl restart aia-api
+  3. Confirm health endpoint before testing
+  4. Never test on stale process
+
+This is Rule Zero for deployment.
+No exceptions.
+
 ## V2 FOUNDATION RULES
 - Every file imports from core/q_constants.py — no exceptions
 - If a file defines BLACK, GRAY, WHITE inline — it is wrong

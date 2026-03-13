@@ -63,6 +63,7 @@ class EthicsWorker(BaseWorker):
         )
 
         self.ollama_model = 'llama3.1:8b'
+        self.last_ethics_score: float = 0.0
 
         print(f"[{self.worker_id}] ⚖️  Ethics plane active")
         print(f"[{self.worker_id}]    Dimensions: harm / care / fairness / obligation")
@@ -155,6 +156,8 @@ Return only valid JSON with these exact four keys, no other text:
             scores.get('fairness', 0.0) +
             scores.get('obligation', 0.0)
         ) / 4.0
+
+        self.last_ethics_score = ethics_score
 
         # Print ethics assessment
         print(f"[{self.worker_id}] ⚖️  Ethics:")

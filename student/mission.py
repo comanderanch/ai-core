@@ -252,6 +252,9 @@ def run_mission(
     # Capture episodic recalls from memory_001
     recalled_texts = memory.last_recalled_texts
 
+    # Capture ethics score from ethics_001
+    ethics_score = ethics.last_ethics_score
+
     # Consensus Worker — post-firing, reads memory_001 × logic_001
     from workers.consensus_worker import ConsensusWorker
     consensus = ConsensusWorker()
@@ -259,6 +262,7 @@ def run_mission(
     if consensus_result is not None:
         consensus.seal_worker_fold(consensus_result)
         results['consensus_001'] = consensus_result['bridge_vector']
+    consensus_agreement = float(consensus_result['agreement']) if consensus_result else 0.0
 
     # Build resonance map
     color_planes = {
@@ -333,8 +337,10 @@ def run_mission(
         "avg_resonance":     avg_resonance,
         "resonance_map":     resonance_map,
         "aia_questions":     questions_captured,
-        "recalled_episodes": recalled_texts,
-        "claude_evaluation": evaluation,
+        "recalled_episodes":   recalled_texts,
+        "ethics_score":        ethics_score,
+        "consensus_agreement": consensus_agreement,
+        "claude_evaluation":   evaluation,
         "timestamp":         queen_fold["timestamp"],
         "q_state":           BLACK,
         "q_state_label":     "BLACK",

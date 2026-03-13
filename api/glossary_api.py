@@ -76,6 +76,63 @@ def answer_question():
         path.write_text(json.dumps(data, indent=2))
     return jsonify({"status": "ok"})
 
+@app.route('/interact', methods=['POST'])
+def interact():
+    """Single interaction endpoint for UI"""
+    import sys, uuid
+    sys.path.insert(0, '/home/comanderanch/ai-core-standalone')
+    from student.mission import MissionBlock, run_mission, SessionTracker
+
+    body = request.json
+    text = body.get('text', '')
+
+    block = MissionBlock(
+        mission_id=f"UI_{uuid.uuid4().hex[:8].upper()}",
+        input_text=text,
+        expected_domain="memory",
+        difficulty=0.5,
+        tags=["ui", "interaction", "live"]
+    )
+
+    tracker = SessionTracker()
+    result = run_mission(block, tracker=tracker)
+
+    return jsonify({
+        "input":                text,
+        "recalled_episodes":    result.get("recalled_episodes", []),
+        "resonance":            result.get("resonance_map", {}),
+        "dominant_plane":       result.get("dominant_plane", ""),
+        "band":                 result.get("evaluation_band", ""),
+        "ethics_score":         result.get("ethics_score", 0),
+        "questions":            result.get("aia_questions", []),
+        "consensus_agreement":  result.get("consensus_agreement", 0),
+        "avg_resonance":        result.get("avg_resonance", 0),
+    })
+
+
+@app.route('/curiosity/answer_with_ollama', methods=['POST'])
+def answer_with_ollama():
+    """Use local Ollama to answer a curiosity question"""
+    import subprocess
+    body = request.json
+    question = body.get('question', '')
+
+    prompt = f"""Answer this question concisely in 2-3 sentences with facts only.
+No opinions. No caveats. Just the factual answer.
+Question: {question}"""
+
+    try:
+        result = subprocess.run(
+            ['ollama', 'run', 'llama3.1:8b', prompt],
+            capture_output=True, text=True, timeout=30,
+            cwd='/home/comanderanch/ai-core-standalone'
+        )
+        answer = result.stdout.strip()
+        return jsonify({"answer": answer, "source": "ollama/llama3.1:8b"})
+    except Exception as e:
+        return jsonify({"answer": None, "source": None, "error": str(e)})
+
+
 @app.route('/health', methods=['GET'])
 def health():
     return jsonify({"status": "AIA API live"})
