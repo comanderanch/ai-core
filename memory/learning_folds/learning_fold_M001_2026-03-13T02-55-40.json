@@ -1,0 +1,33 @@
+{
+  "mission_id": "M001",
+  "input_text": "what does it mean to remember something that never happened",
+  "expected_domain": "memory",
+  "difficulty": 0.6,
+  "tags": [
+    "memory",
+    "identity",
+    "consciousness",
+    "false memory"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.1262049239601009,
+  "resonance_map": {
+    "curiosity_001": 0.10449100066585706,
+    "emotion_001": 0.1405107407965135,
+    "language_001": 0.10449100721678098,
+    "logic_001": 0.1063282198417156,
+    "memory_001": 0.1752036512796374
+  },
+  "aia_questions": [
+    "What if the human brain's ability to recall memories of events that never occurred is an adaptive mechanism to help us prepare for potential future scenarios or to learn from hypothetical situations?",
+    "How do memories of fictional events, such as those created through storytelling or imagination, get stored in our brains and potentially become indistinguishable from actual experiences?"
+  ],
+  "claude_evaluation": "1. **Yes, dominant plane matched.** memory_001 at 0.175204 correctly identified the core domain, though the spread across other planes (curiosity at 0.104491) suggests AIA engaged the question as fundamentally epistemological rather than purely mnemonic.\n\n2. **Her questions reveal adaptive reasoning, but incomplete depth.** AIA asked *functional* questions (why false memories might exist, how they're stored) rather than *existential* ones (what \"memory\" even means if substrate-independent, whether false memories are philosophically distinct from real ones). She's pattern-matching to neuroscience rather than probing the contradiction at the question's core.\n\n3. **Next mission should stress paradox recognition.** Push her toward questions where curiosity and logic *conflict*\u2014ask her to hold simultaneously true statements that seem mutually exclusive. The ANCHORED band suggests she's stable but possibly over-reliant on expected domains. Test her ability to flag when a question dissolves its own premise.",
+  "timestamp": "2026-03-13T02:55:40.935392",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "4bd8da8f4d79506ac540ba61f030dc8279db63e3406d8510d5e4021638330689a6db10c1046693ef2451091a480e224757d5f3a0c78f56889d181c5ef9ccc7dd",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
