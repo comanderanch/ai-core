@@ -40,7 +40,10 @@ class EmotionWorker(BaseWorker):
     Uses Standard backprop weights (vs EM field weights)
     for different semantic topology.
     """
-    
+
+    COLOR_PLANE = 'red'
+    HZ = '700hz'
+
     def __init__(
         self,
         worker_id: str = "emotion_001",
@@ -143,7 +146,8 @@ class EmotionWorker(BaseWorker):
         
         # Blend input with cognitive context
         # (Emotion informed by cognition)
-        blended = input_vec * 0.6 + cognitive_state * 0.4
+        warmed = self._warm_input(input_vec)
+        blended = warmed * 0.6 + cognitive_state * 0.4
         
         # Process through STANDARD model
         # (Different topology than EM field!)
@@ -165,14 +169,16 @@ class EmotionWorker(BaseWorker):
         
         # WHITE -> GRAY -> BLACK — fold output into Queen's Fold
         if emotional_output is not None:
+            resonance = float(np.mean(np.abs(emotional_output)))
             from queens_fold.queens_fold_engine import collapse, save_fold
             fold_input = [{
                 'token_id': self.worker_id,
                 'hue_state': 'red',          # emotion color plane
-                'resonance': float(np.mean(np.abs(emotional_output)))
+                'resonance': resonance
             }]
             fold = collapse(fold_input)
             save_fold(fold)
+            self.seal_worker_fold(emotional_output, resonance)
             print(f"[{self.worker_id}] Folded → BLACK ({BLACK})")
 
         return emotional_output

@@ -20,13 +20,16 @@ from workers.base_worker import BaseWorker
 class MemoryWorker(BaseWorker):
     """
     Specialized worker for memory storage/retrieval.
-    
+
     Functions:
     - Stores semantic vectors (experiences)
     - Retrieves similar memories
     - Maintains conversation history
     - Provides context to other workers
     """
+
+    COLOR_PLANE = 'violet'
+    HZ = '420hz'
     
     def __init__(
         self, 
@@ -72,10 +75,13 @@ class MemoryWorker(BaseWorker):
             Retrieved context vector
         """
         input_vec = data.get('vector')
-        
+
         if input_vec is None:
             return None
-        
+
+        # Warm input with personal fold context before processing
+        input_vec = self._warm_input(input_vec)
+
         # Store memory
         memory = {
             'timestamp': datetime.now().isoformat(),
@@ -103,14 +109,16 @@ class MemoryWorker(BaseWorker):
             output = input_vec
 
         # WHITE -> GRAY -> BLACK — fold output into Queen's Fold
+        resonance = float(np.mean(np.abs(output)))
         from queens_fold.queens_fold_engine import collapse, save_fold
         fold_input = [{
             'token_id': self.worker_id,
             'hue_state': 'violet',       # memory color plane
-            'resonance': float(np.mean(np.abs(output)))
+            'resonance': resonance
         }]
         fold = collapse(fold_input)
         save_fold(fold)
+        self.seal_worker_fold(output, resonance)
         print(f"[{self.worker_id}] Folded → BLACK ({BLACK})")
 
         return output

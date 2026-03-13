@@ -17,14 +17,17 @@ from workers.base_worker import BaseWorker
 class LogicWorker(BaseWorker):
     """
     Specialized worker for logical processing.
-    
+
     Functions:
     - Infers relationships between concepts
     - Performs logical operations (AND, OR, NOT)
     - Evaluates consistency
     - Makes decisions
     """
-    
+
+    COLOR_PLANE = 'blue'
+    HZ = '450hz'
+
     def __init__(self, worker_id: str = "logic_001", **kwargs):
         super().__init__(
             worker_id=worker_id,
@@ -40,9 +43,10 @@ class LogicWorker(BaseWorker):
         """
         # Read field for context
         field_state = self.read_field_state()
-        
-        # Combine input with field (logical AND-like operation)
-        combined = input_vec * field_state
+
+        # Combine warmed input with field (logical AND-like operation)
+        warmed = self._warm_input(input_vec)
+        combined = warmed * field_state
         
         # Process through model
         output = self.model.forward(combined)
@@ -51,14 +55,16 @@ class LogicWorker(BaseWorker):
 
         # WHITE -> GRAY -> BLACK — fold output into Queen's Fold
         if output is not None:
+            resonance = float(np.mean(np.abs(output)))
             from queens_fold.queens_fold_engine import collapse, save_fold
             fold_input = [{
                 'token_id': self.worker_id,
                 'hue_state': 'blue',         # logic color plane
-                'resonance': float(np.mean(np.abs(output)))
+                'resonance': resonance
             }]
             fold = collapse(fold_input)
             save_fold(fold)
+            self.seal_worker_fold(output, resonance)
             print(f"[{self.worker_id}] Folded → BLACK ({BLACK})")
 
         return output

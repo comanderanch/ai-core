@@ -10,9 +10,11 @@ Each worker:
 - Contributes to unified consciousness
 """
 
+import json
 import sys
 import numpy as np
 import time
+from datetime import datetime
 from pathlib import Path
 from typing import Optional, Dict
 from core.q_constants import BLACK, GRAY, WHITE, V2_SEAL
@@ -77,7 +79,12 @@ class BaseWorker:
             'contributions': 0,
             'avg_coherence': 0.0
         }
-        
+
+        # Worker personal fold (warm-start context)
+        self.fold_dir = Path(f"memory/worker_folds/{worker_type}")
+        self.personal_context = None
+        self._load_worker_fold()
+
         print(f"[{self.worker_id}] ✅ Initialized")
         print(f"  Type: {worker_type}")
         print(f"  Model: EM field (51.61% better)")
@@ -193,6 +200,55 @@ class BaseWorker:
             'avg_coherence': self.stats['avg_coherence'],
             'current_coherence': self.substrate.get_worker_coherence(self.worker_id)
         }
+
+
+    def _load_worker_fold(self):
+        """Load most recent personal fold to warm this worker's context."""
+        self.fold_dir.mkdir(parents=True, exist_ok=True)
+        folds = sorted(self.fold_dir.glob("fold_*.json"))
+        if not folds:
+            print(f"[{self.worker_id}] No personal fold — cold start")
+            return
+        latest = folds[-1]
+        try:
+            with open(latest) as f:
+                data = json.load(f)
+            self.personal_context = np.array(data['context_vector'])
+            resonance = data.get('resonance', 0.0)
+            print(f"[{self.worker_id}] Personal fold loaded — resonance: {resonance:.6f}")
+        except Exception as e:
+            print(f"[{self.worker_id}] Personal fold load failed: {e}")
+
+    def _warm_input(self, input_vec: np.ndarray) -> np.ndarray:
+        """Blend current input with personal context (70% current / 30% history)."""
+        if input_vec is None:
+            return None
+        if self.personal_context is None:
+            return input_vec
+        return input_vec * 0.7 + self.personal_context * 0.3
+
+    def seal_worker_fold(self, output: np.ndarray, resonance: float):
+        """Seal current output as this worker's personal BLACK fold."""
+        if output is None:
+            return
+        ts = datetime.utcnow().isoformat().replace(":", "-").split(".")[0]
+        fold = {
+            "worker_id":      self.worker_id,
+            "worker_type":    self.worker_type,
+            "color_plane":    getattr(self, 'COLOR_PLANE', 'unknown'),
+            "hz":             getattr(self, 'HZ', 'unknown'),
+            "resonance":      resonance,
+            "context_vector": output.tolist(),
+            "timestamp":      ts,
+            "q_state":        BLACK,
+            "q_state_label":  "BLACK",
+            "sealed_by":      V2_SEAL
+        }
+        path = self.fold_dir / f"fold_{self.worker_id}_{ts}.json"
+        with open(path, 'w') as f:
+            json.dump(fold, f, indent=2)
+        self.personal_context = output
+        print(f"[{self.worker_id}] Personal fold sealed → {path.name}")
 
 
 if __name__ == "__main__":

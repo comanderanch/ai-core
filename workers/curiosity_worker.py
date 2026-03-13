@@ -16,7 +16,10 @@ class CuriosityWorker(BaseWorker):
     """
     The Curiosity Worker - Always asking questions
     """
-    
+
+    COLOR_PLANE = 'orange'
+    HZ = '520hz'
+
     def __init__(
         self,
         worker_id: str = "curiosity_001",
@@ -82,20 +85,23 @@ Format: One question per line, no numbering."""
         else:
             return None
         
-        output = self.model.forward(input_vec)
+        warmed = self._warm_input(input_vec)
+        output = self.model.forward(warmed)
         if isinstance(output, tuple):
             output = output[0]
 
         # WHITE -> GRAY -> BLACK — fold output into Queen's Fold
         if output is not None:
+            resonance = float(np.mean(np.abs(output)))
             from queens_fold.queens_fold_engine import collapse, save_fold
             fold_input = [{
                 'token_id': self.worker_id,
                 'hue_state': 'orange',       # curiosity color plane
-                'resonance': float(np.mean(np.abs(output)))
+                'resonance': resonance
             }]
             fold = collapse(fold_input)
             save_fold(fold)
+            self.seal_worker_fold(output, resonance)
             print(f"[{self.worker_id}] Folded → BLACK ({BLACK})")
 
         return output

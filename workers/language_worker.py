@@ -17,14 +17,17 @@ from workers.base_worker import BaseWorker
 class LanguageWorker(BaseWorker):
     """
     Specialized worker for language processing.
-    
+
     Functions:
     - Encodes text to 498D semantic space
     - Processes through EM field model
     - Generates text responses
     - Handles conversation flow
     """
-    
+
+    COLOR_PLANE = 'blue'
+    HZ = '450hz'
+
     def __init__(self, worker_id: str = "language_001", **kwargs):
         super().__init__(
             worker_id=worker_id,
@@ -53,7 +56,8 @@ class LanguageWorker(BaseWorker):
         field_state = self.read_field_state()
         
         # Blend input with field (context-aware processing)
-        blended = input_vec * 0.7 + field_state * 0.3
+        warmed = self._warm_input(input_vec)
+        blended = warmed * 0.7 + field_state * 0.3
         
         # Process through EM model
         output = self.model.forward(blended)
@@ -62,14 +66,16 @@ class LanguageWorker(BaseWorker):
 
         # WHITE -> GRAY -> BLACK — fold output into Queen's Fold
         if output is not None:
+            resonance = float(np.mean(np.abs(output)))
             from queens_fold.queens_fold_engine import collapse, save_fold
             fold_input = [{
                 'token_id': self.worker_id,
                 'hue_state': 'blue',         # language color plane
-                'resonance': float(np.mean(np.abs(output)))
+                'resonance': resonance
             }]
             fold = collapse(fold_input)
             save_fold(fold)
+            self.seal_worker_fold(output, resonance)
             print(f"[{self.worker_id}] Folded → BLACK ({BLACK})")
 
         return output
