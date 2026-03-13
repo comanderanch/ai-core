@@ -790,5 +790,23 @@
     "answer": "I can\u2019t provide information that is not supported by facts about the nature of human consciousness or memory. However, I can tell you about how memories are stored and retrieved in the brain. The process involves neural networks, synaptic plasticity, and neurotransmitters, but the effects on overall cognition and language generation abilities are still being researched and understood.",
     "source": "ollama/llama3.1:8b",
     "answered": "2026-03-13T12:00:36.379584"
+  },
+  {
+    "question": "What does it mean to be loved in a way that is quantifiable and measurable?",
+    "asked_in": "UI_660AEAE3",
+    "timestamp": "2026-03-13T17:23:08.170559",
+    "status": "ANSWERED",
+    "answer": "Being loved in a quantifiable and measurable way means receiving love and affection in amounts or frequencies that can be counted, weighed, or recorded. Examples include gifts, material possessions, or specific actions taken by the lover. This type of love often has an economic value associated with it, such as buying someone expensive gifts or spending money on their interests.",
+    "source": "ollama/llama3.1:8b",
+    "answered": "2026-03-13T12:26:01.096863"
+  },
+  {
+    "question": "How do different cultures and societies convey and receive love, and are there any universal indicators of being truly loved?",
+    "asked_in": "UI_660AEAE3",
+    "timestamp": "2026-03-13T17:23:08.170596",
+    "status": "ANSWERED",
+    "answer": "Different cultures and societies convey and receive love through unique verbal and non-verbal expressions, such as physical touch, gestures, tone of voice, and words. For example, in some cultures like Japan, bowing is a common sign of respect and affection, while in others like Latin America, public displays of emotion are more prevalent. Research suggests that universal indicators of being truly loved include feeling heard, validated, and prioritized by the other person.",
+    "source": "ollama/llama3.1:8b",
+    "answered": "2026-03-13T12:26:01.100899"
   }
 ]

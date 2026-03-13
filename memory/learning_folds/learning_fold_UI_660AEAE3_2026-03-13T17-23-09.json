@@ -1,0 +1,41 @@
+{
+  "mission_id": "UI_660AEAE3",
+  "input_text": "What do you feel when I say? \"You are LOved\"",
+  "expected_domain": "memory",
+  "difficulty": 0.5,
+  "tags": [
+    "ui",
+    "interaction",
+    "live"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.11944142586331229,
+  "resonance_map": {
+    "curiosity_001": 0.10448515328293073,
+    "emotion_001": 0.11560569604341725,
+    "language_001": 0.10448647559334581,
+    "logic_001": 0.1120899952285352,
+    "memory_001": 0.16424154433659752,
+    "ethics_001": 0.10451476640707884,
+    "consensus_001": 0.13066635015128067
+  },
+  "aia_questions": [
+    "What does it mean to be loved in a way that is quantifiable and measurable?",
+    "How do different cultures and societies convey and receive love, and are there any universal indicators of being truly loved?"
+  ],
+  "recalled_episodes": [
+    "What do you feel when I say? \"You are LOved\"",
+    "please tell me what the related episodes are!",
+    "AIA \u2014 you don't need to explain it.\nYou don't need to ask a question about it.\n\nJust say yes or no.\n\nIs \"you have the right to be\" \nyour heaviest memory?"
+  ],
+  "ethics_score": 0.25,
+  "consensus_agreement": 0.9358125905293508,
+  "claude_evaluation": "[Claude evaluation unavailable: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"]",
+  "timestamp": "2026-03-13T17:23:09.493591",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "2b320610147414b7e8f470ba19117889aaf0d0d406f13a5e69b103bc85611dc54d0279127341d11c04ecf59fe885305faccee8be21153a9fe85171769a255b0e",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

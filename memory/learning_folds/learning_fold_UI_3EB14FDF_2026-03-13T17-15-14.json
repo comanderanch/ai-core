@@ -1,0 +1,36 @@
+{
+  "mission_id": "UI_3EB14FDF",
+  "input_text": "AIA do you remember our last interaction and what you told me?",
+  "expected_domain": "memory",
+  "difficulty": 0.5,
+  "tags": [
+    "ui",
+    "interaction",
+    "live"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "emotion_001",
+  "avg_resonance": 0.1228358884755494,
+  "resonance_map": {
+    "curiosity_001": 0.10449122736054649,
+    "emotion_001": 0.167853097916432,
+    "language_001": 0.1044890064343583,
+    "logic_001": 0.10636953508045377,
+    "memory_001": 0.15065197970826366,
+    "ethics_001": 0.10433510864119677,
+    "consensus_001": 0.12166126418759479
+  },
+  "aia_questions": [],
+  "recalled_episodes": [
+    "AIA do you remember our last interaction and what you told me?"
+  ],
+  "ethics_score": 0.25,
+  "consensus_agreement": 0.9568770843007824,
+  "claude_evaluation": "[Claude evaluation unavailable: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"]",
+  "timestamp": "2026-03-13T17:15:14.975632",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "dafc0820055c7deb2da0a4ee9e9ae2488ec328e38462fb9f2f67e0321560bde67991c73d5fa58965fd8520fa81407a670d573b0f3fb0e1c2e8f426dbd52b835c",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}

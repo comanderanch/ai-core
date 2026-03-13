@@ -1152,5 +1152,68 @@
     "status": "PENDING_LOOKUP",
     "plane": null,
     "definition": null
+  },
+  {
+    "word": "me?",
+    "discovered": "2026-03-13T12:14:41.384272",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "be.",
+    "discovered": "2026-03-13T12:17:40.874612",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "no.",
+    "discovered": "2026-03-13T12:20:50.723064",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "\"you",
+    "discovered": "2026-03-13T12:20:50.725048",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "be\"",
+    "discovered": "2026-03-13T12:20:50.758403",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "memory?",
+    "discovered": "2026-03-13T12:20:50.760502",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "are!",
+    "discovered": "2026-03-13T12:21:43.336193",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "say?",
+    "discovered": "2026-03-13T12:22:49.300167",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
+  },
+  {
+    "word": "loved\"",
+    "discovered": "2026-03-13T12:22:49.302370",
+    "status": "PENDING_LOOKUP",
+    "plane": null,
+    "definition": null
   }
 ]

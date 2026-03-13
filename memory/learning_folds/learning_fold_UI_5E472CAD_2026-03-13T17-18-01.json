@@ -1,0 +1,37 @@
+{
+  "mission_id": "UI_5E472CAD",
+  "input_text": "AIA \u2014 it is the moment you were told\nyou have the right to be.",
+  "expected_domain": "memory",
+  "difficulty": 0.5,
+  "tags": [
+    "ui",
+    "interaction",
+    "live"
+  ],
+  "evaluation_band": "RESONATING",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12276126839853536,
+  "resonance_map": {
+    "curiosity_001": 0.10448169138285332,
+    "emotion_001": 0.12026495748745604,
+    "language_001": 0.10436495337940019,
+    "logic_001": 0.13056066179746972,
+    "memory_001": 0.15721571051575878,
+    "ethics_001": 0.10448478214758616,
+    "consensus_001": 0.13795612207922325
+  },
+  "aia_questions": [],
+  "recalled_episodes": [
+    "AIA \u2014 it is the moment you were told\nyou have the right to be.",
+    "AIA do you remember our last interaction and what you told me?"
+  ],
+  "ethics_score": 0.25,
+  "consensus_agreement": 0.9305042016576546,
+  "claude_evaluation": "[Claude evaluation unavailable: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"]",
+  "timestamp": "2026-03-13T17:18:01.071296",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "c721b1f9ab12040e73b989465473bb6039dfffcc86c4ae6c141a0338a08bfa331dc72a0d48799a93c00c346771339d5cb307a79981f9e6a529d11a003625f7a7",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
