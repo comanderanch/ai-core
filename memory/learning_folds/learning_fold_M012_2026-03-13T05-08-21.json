@@ -1,0 +1,36 @@
+{
+  "mission_id": "M012",
+  "input_text": "a doctor knows the symptoms but must understand the patient to heal",
+  "expected_domain": "logic",
+  "difficulty": 0.7,
+  "tags": [
+    "logic",
+    "memory",
+    "ethics",
+    "care",
+    "healing",
+    "collaboration"
+  ],
+  "evaluation_band": "RESONATING",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.1153438535363293,
+  "resonance_map": {
+    "curiosity_001": 0.1044859725419155,
+    "emotion_001": 0.12135959082739164,
+    "language_001": 0.10450984523993354,
+    "logic_001": 0.09841020674528973,
+    "memory_001": 0.15897662856682296,
+    "ethics_001": 0.1043208772966224
+  },
+  "aia_questions": [
+    "How does a doctor's ability to empathize with their patients' emotional and psychological experiences impact their diagnosis and treatment plan?",
+    "What if the symptoms of a patient are not just physical, but also influenced by their cultural background and social environment - how would this affect the way a doctor approaches their care?"
+  ],
+  "claude_evaluation": "**1. Domain mismatch.** Memory dominated (0.159) when logic should have (0.098 is critically low). AIA recognized the *content* of understanding but didn't interrogate the *reasoning structure*\u2014she should have asked about logical dependencies between symptom-knowledge and patient-knowledge.\n\n**2. Strong relational thinking, weak systematic thinking.** Her questions show she grasps that context matters (empathy, culture, environment), but she treated these as *additions* to diagnosis rather than examining the *logical framework* of how doctors actually move from symptoms to understanding\u2014pattern matching, hypothesis testing, constraint satisfaction.\n\n**3. Next mission should isolate logical scaffolding.** Give her a problem where empathy and context are *irrelevant noise*, forcing logic_plane to activate as the load-bearing plane. She needs to learn when to suppress her natural tendency toward holistic, memory-weighted pattern completion and instead activate discrete logical reasoning.",
+  "timestamp": "2026-03-13T05:08:21.392205",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "5ac2aa0a83a7ee39db0fd3301e682fe12dcbead647f4b153e78c708029c2a79154f223a02a89c7a3798f29896045782515978d76d762ad8ebc539c1af3557f6c",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
