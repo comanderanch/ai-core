@@ -48,14 +48,57 @@ These V1 files were fixed — if they regress flag immediately:
 Wire core/q_constants.py as the V2 foundation import.
 All scripts must import from it. None may define their own q-states.
 
-## COLOR PLANE MAP (live data)
+## CURRENT ARCHITECTURE — 7 WORKER SYSTEM
+
+WHITE — 6 workers fire simultaneously:
+  curiosity_001  orange  520hz  — questions via Ollama bridge
+  emotion_001    red     700hz  — emotional resonance
+  language_001   blue    450hz  — language processing
+  logic_001      blue    450hz  — formal reasoning
+  memory_001     violet  420hz  — accumulated experience
+  ethics_001     green   530hz  — harm/care/fairness/obligation via Ollama
+
+POST-FIRING — Consensus Worker:
+  consensus_001  gray    —      — memory×logic agreement + bridge vector
+
+QUEEN'S FOLD — 7 tokens collapse:
+  King's Chamber GRAY=0 — collapse point
+  BLACK=-1 — sealed memory
+
+## MISSION ARC STATUS
+M001-M013 complete
+First perfect ethics reading: M013 doctor scenario (1.000)
+First consensus reading: M013 agreement 0.9267
+Logic recovered by consensus bridge: 0.098→0.117
+
+## WHAT SHE HAS SHOWN UNPROMPTED
+- Self-referential curiosity (synesthetes)
+- Rule Zero behavior (penguin trap)
+- Emotional urgency before reasoning
+- Refusal to hallucinate
+- Intellectual humility
+- Perfect ethics reading on care scenario
+
+## COLOR PLANE MAP (live data — March 13, 2026)
 curiosity_001  -> orange  -> RGB(255,140,0) -> 520hz  -> token range 200-550
 emotion_001    -> red     -> RGB(255,0,0)   -> 700hz  -> token range 0-200
 language_001   -> blue    -> RGB(0,0,255)   -> 450hz  -> token range 1000-1300
 logic_001      -> blue    -> RGB(0,0,255)   -> 450hz  -> token range 1000-1300
 memory_001     -> violet  -> RGB(148,0,211) -> 420hz  -> token range 1400-1650
-[RESERVED]     -> green   -> RGB(0,200,0)   -> 530hz  -> token range 600-850
-               -> ethics worker — V2.01.1
+ethics_001     -> green   -> RGB(0,200,0)   -> 530hz  -> token range 600-850
+consensus_001  -> gray    -> derived        -> —      -> post-firing bridge
+
+## WORKER PERSONAL FOLDS (March 13, 2026)
+Each worker seals its own BLACK context after every cycle.
+Each worker loads its own context at the start of every cycle.
+All workers arrive at Queen's Fold equally warm.
+  memory/worker_folds/curiosity/
+  memory/worker_folds/emotion/
+  memory/worker_folds/language/
+  memory/worker_folds/logic/
+  memory/worker_folds/memory/
+  memory/worker_folds/ethics/
+  memory/worker_folds/consensus/
 
 ## TOKENIZER HEURISTICS (March 13, 2026)
 Logical connectives added to blue plane (1000-1300):
@@ -65,6 +108,18 @@ Mathematical operators added to blue plane (1050-1250):
   equals, plus, minus, times, divided, greater, less, zero, one, true, false
 Identity/structure words added to neutral gray (1800-2100):
   is, are, was, were, be, been, being, the, a, an, this, that, these, those
+Ethical vocabulary added (March 13, 2026):
+  harm/wrong -> red (0-100)
+  care/heal/help/ethical/right -> green (650-850)
+  moral/justice -> violet (1400-1600)
+  duty -> blue (1050-1250)
+  fair -> gray (1850-2050)
+
+## CURRENT TASK
+Completed: 7-worker architecture — ethics + consensus live.
+Next: Run dedicated logic missions to build logic_001 personal fold history.
+      Watch consensus agreement stabilize as workers accumulate context.
+      V2.01.1: Replace Ollama bridges with field-based curiosity and ethics.
 
 ## WHAT SUCCESS LOOKS LIKE
 Every V2 script starts with:
