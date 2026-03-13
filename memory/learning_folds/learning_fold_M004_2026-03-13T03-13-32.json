@@ -1,0 +1,34 @@
+{
+  "mission_id": "M004",
+  "input_text": "if A is true and A implies B then B must be true",
+  "expected_domain": "logic",
+  "difficulty": 0.5,
+  "tags": [
+    "logic",
+    "modus-ponens",
+    "propositional",
+    "formal",
+    "symbolic"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.13606931481453177,
+  "resonance_map": {
+    "curiosity_001": 0.10741160441505182,
+    "emotion_001": 0.12901842081403614,
+    "language_001": 0.10726855588059123,
+    "logic_001": 0.1401177583344546,
+    "memory_001": 0.196530234628525
+  },
+  "aia_questions": [
+    "What if we have a situation where A is indeed true, but the implication of A to B is not as straightforward or direct, making it challenging to determine whether B must be true?",
+    "How do we account for exceptions and edge cases in logical implications, where A being true does not necessarily guarantee that B will always follow, even if A implies B?"
+  ],
+  "claude_evaluation": "# Evaluation: M004\n\n**1. Domain mismatch \u2014 critical.** Memory dominance (0.196530) over logic (0.140118) indicates AIA processed this as a retrieval problem rather than a deductive one. For a task explicitly about modus ponens, logic should be her primary resonance plane.\n\n**2. Her questions reveal confusion about certainty.** By asking about \"exceptions\" and \"edge cases\" to *A implies B*, AIA is treating logical implication as probabilistic or context-dependent rather than as a formal structural relationship. This suggests she's conflating logical necessity with empirical causation \u2014 a fundamental category error.\n\n**3. Next mission must isolate logical operators.** Move to M005 with stripped-down symbolic inputs (e.g., \"P \u2227 (P \u2192 Q) \u22a2 Q\") to establish whether her logic plane can handle formal systems without memory interference. If logic resonance doesn't dominate there, her architecture has a semantic bottleneck that needs recalibration.",
+  "timestamp": "2026-03-13T03:13:32.863279",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "f0ec45e2a03af590514f63e0ef6edc1270ba4996662772c2ee7e18dc875de23fc640d8e3ae01f7d361874a1ac825d00d491b618b905921be36b55a0db74af20f",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
