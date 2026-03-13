@@ -1,9 +1,11 @@
 from flask import Flask, jsonify, request
 import json
+import threading
 from pathlib import Path
 from datetime import datetime
 
 app = Flask(__name__)
+_file_lock = threading.Lock()
 
 GLOSSARY_PATH = Path("memory/glossary/unknown_words.json")
 LEARNED_PATH = Path("memory/glossary/learned_words.json")
@@ -26,15 +28,18 @@ def resolve_word():
     definition = body.get('definition')
     plane = body.get('plane')
 
-    data = json.loads(GLOSSARY_PATH.read_text())
-    for entry in data:
-        if entry['word'] == word:
-            entry['status'] = 'RESOLVED'
-            entry['definition'] = definition
-            entry['plane'] = plane
-            entry['resolved'] = datetime.now().isoformat()
-
-    GLOSSARY_PATH.write_text(json.dumps(data, indent=2))
+    with _file_lock:
+        try:
+            data = json.loads(GLOSSARY_PATH.read_text())
+        except Exception:
+            data = []
+        for entry in data:
+            if entry['word'] == word:
+                entry['status'] = 'RESOLVED'
+                entry['definition'] = definition
+                entry['plane'] = plane
+                entry['resolved'] = datetime.now().isoformat()
+        GLOSSARY_PATH.write_text(json.dumps(data, indent=2))
     return jsonify({"status": "ok", "word": word})
 
 @app.route('/curiosity/pending', methods=['GET'])
@@ -57,15 +62,18 @@ def answer_question():
     source = body.get('source')
 
     path = Path("memory/curiosity/questions_queue.json")
-    data = json.loads(path.read_text())
-    for entry in data:
-        if entry['question'] == question:
-            entry['status'] = 'ANSWERED'
-            entry['answer'] = answer
-            entry['source'] = source
-            entry['answered'] = datetime.now().isoformat()
-
-    path.write_text(json.dumps(data, indent=2))
+    with _file_lock:
+        try:
+            data = json.loads(path.read_text())
+        except Exception:
+            data = []
+        for entry in data:
+            if entry['question'] == question:
+                entry['status'] = 'ANSWERED'
+                entry['answer'] = answer
+                entry['source'] = source
+                entry['answered'] = datetime.now().isoformat()
+        path.write_text(json.dumps(data, indent=2))
     return jsonify({"status": "ok"})
 
 @app.route('/health', methods=['GET'])

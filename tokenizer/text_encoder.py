@@ -249,6 +249,7 @@ class ConstraintLatticeEncoder:
             'that': (1850, 2050),
             'these': (1850, 2050),
             'those': (1850, 2050),
+            'of': (1800, 2100),
         }
     
     def encode_word(
@@ -429,7 +430,7 @@ class ConstraintLatticeEncoder:
         if word not in known_unknowns:
             entry = {
                 "word": word,
-                "discovered": datetime.utcnow().isoformat(),
+                "discovered": datetime.now().isoformat(),
                 "status": "PENDING_LOOKUP",
                 "plane": None,
                 "definition": None
