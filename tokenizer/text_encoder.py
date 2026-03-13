@@ -157,6 +157,27 @@ class ConstraintLatticeEncoder:
             'health': (650, 850),
             'go': (700, 800),
             'safe': (700, 800),
+
+            # Green plane — ethical care vocabulary (650-850): ethics_001 domain
+            'care': (650, 800),
+            'heal': (650, 800),
+            'help': (650, 800),
+            'ethical': (650, 850),
+            'right': (700, 800),
+
+            # Red plane — harm/danger signals (0-100): harm maps to red, not green
+            'harm': (0, 100),
+            'wrong': (0, 100),
+
+            # Violet plane — wisdom ethics (1400-1600)
+            'moral': (1400, 1600),
+            'justice': (1400, 1600),
+
+            # Blue plane — logical obligation (1050-1250)
+            'duty': (1050, 1250),
+
+            # Gray plane — balance/fairness (1850-2050)
+            'fair': (1850, 2050),
             
             # Blue family (1000-1400): Cool, calm, depth
             'cool': (1000, 1200),

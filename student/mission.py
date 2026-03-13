@@ -192,6 +192,7 @@ def run_mission(
     from workers.language_worker  import LanguageWorker
     from workers.logic_worker     import LogicWorker
     from workers.memory_worker    import MemoryWorker
+    from workers.ethics_worker    import EthicsWorker
 
     print(f"\n{'=' * 60}")
     print(f"MISSION {block.mission_id} — {block.input_text}")
@@ -205,6 +206,7 @@ def run_mission(
     language  = LanguageWorker (worker_id='language_001',  weights_path=em_weights,  field_path=field_path)
     logic     = LogicWorker    (worker_id='logic_001',     weights_path=em_weights,  field_path=field_path)
     memory    = MemoryWorker   (worker_id='memory_001',    weights_path=em_weights,  field_path=field_path)
+    ethics    = EthicsWorker   (worker_id='ethics_001',    weights_path=em_weights,  field_path=field_path)
 
     input_vec = curiosity.encode_text(block.input_text)
     results = {}
@@ -231,6 +233,7 @@ def run_mission(
         threading.Thread(target=fire, args=('language_001',  language.process_input,  block.input_text)),
         threading.Thread(target=fire, args=('logic_001',     logic.process_input,     input_vec)),
         threading.Thread(target=fire, args=('memory_001',    memory.process_input,    {'vector': input_vec, 'text': block.input_text})),
+        threading.Thread(target=fire, args=('ethics_001',    ethics.process_input,    block.input_text)),
     ]
     for t in threads: t.start()
     for t in threads: t.join()
@@ -242,11 +245,12 @@ def run_mission(
         'language_001':  ('blue',   '450hz'),
         'logic_001':     ('blue',   '450hz'),
         'memory_001':    ('violet', '420hz'),
+        'ethics_001':    ('green',  '530hz'),
     }
 
     resonance_map = {}
     fold_input = []
-    for wid in ['curiosity_001','emotion_001','language_001','logic_001','memory_001']:
+    for wid in ['curiosity_001','emotion_001','language_001','logic_001','memory_001','ethics_001']:
         out = results.get(wid)
         color, hz = color_planes[wid]
         if out is not None:
@@ -265,7 +269,7 @@ def run_mission(
     # Print resonance report
     print(f"\n{'STATE: GRAY (' + str(GRAY) + ') — collapsing...'}")
     print(f"\nRESONANCE BY PLANE:")
-    for wid in ['curiosity_001','emotion_001','language_001','logic_001','memory_001']:
+    for wid in ['curiosity_001','emotion_001','language_001','logic_001','memory_001','ethics_001']:
         res = resonance_map.get(wid, 0.0)
         color, hz = color_planes[wid]
         marker = " ← dominant" if wid == dominant_plane else ""
