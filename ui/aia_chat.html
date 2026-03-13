@@ -10,9 +10,9 @@
     :root {
       --bg:         #0a0a0a;
       --surface:    #111111;
-      --border:     #222222;
-      --text:       #e0e0e0;
-      --muted:      #666666;
+      --border:     #333333;
+      --text:       #ffffff;
+      --muted:      #cccccc;
       --accent:     #4169E1;
 
       --curiosity:  #FF8C00;
@@ -68,14 +68,14 @@
 
     header .subtitle {
       font-size: 11px;
-      color: var(--muted);
+      color: #cccccc;
       letter-spacing: 0.1em;
     }
 
     .header-status {
       margin-left: auto;
       font-size: 11px;
-      color: var(--muted);
+      color: #cccccc;
     }
 
     .header-status .dot {
@@ -133,8 +133,8 @@
       color: var(--muted);
     }
 
-    .msg.user .msg-label { color: var(--accent); }
-    .msg.aia  .msg-label { color: var(--memory); }
+    .msg.user .msg-label { color: #6699ff; }
+    .msg.aia  .msg-label { color: #da70d6; }
 
     .msg-bubble {
       padding: 12px 16px;
@@ -164,7 +164,7 @@
       padding: 0 0 4px 0;
     }
 
-    #thinking .msg-label { font-size: 10px; letter-spacing: 0.15em; color: var(--memory); }
+    #thinking .msg-label { font-size: 10px; letter-spacing: 0.15em; color: #da70d6; }
 
     #thinking .pulse-text {
       font-size: 13px;
@@ -207,7 +207,7 @@
     }
 
     #text-input:focus { border-color: var(--accent); }
-    #text-input::placeholder { color: var(--muted); }
+    #text-input::placeholder { color: #888888; }
 
     #send-btn {
       background: var(--accent);
@@ -253,7 +253,7 @@
       padding: 10px 14px;
       font-size: 10px;
       letter-spacing: 0.2em;
-      color: var(--muted);
+      color: #00ff88;
       border-bottom: 1px solid var(--border);
       display: flex;
       align-items: center;
@@ -282,7 +282,7 @@
 
     .plane-label {
       font-size: 11px;
-      color: var(--muted);
+      color: #cccccc;
       width: 90px;
       flex-shrink: 0;
     }
@@ -303,7 +303,7 @@
 
     .plane-val {
       font-size: 10px;
-      color: var(--muted);
+      color: #ffffff;
       width: 52px;
       text-align: right;
       flex-shrink: 0;
@@ -330,8 +330,8 @@
     }
 
     .stat-row:last-child { border-bottom: none; }
-    .stat-key   { color: var(--muted); }
-    .stat-val   { color: var(--text); }
+    .stat-key   { color: #cccccc; }
+    .stat-val   { color: #ffffff; }
 
     .band-ANCHORED   { color: #4ade80; }
     .band-RESONATING { color: #facc15; }
@@ -356,7 +356,7 @@
 
     .empty-state {
       font-size: 11px;
-      color: var(--muted);
+      color: #888888;
       font-style: italic;
     }
 
@@ -383,12 +383,13 @@
       font-size: 13px;
       font-weight: normal;
       letter-spacing: 0.3em;
-      color: var(--memory);
+      color: #da70d6;
     }
 
     #empty-chat p {
       font-size: 11px;
       letter-spacing: 0.1em;
+      color: #cccccc;
     }
   </style>
 </head>
