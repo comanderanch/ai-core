@@ -180,3 +180,20 @@ Next: Run dedicated logic missions to build logic_001 personal fold history.
 Every V2 script starts with:
 from core.q_constants import BLACK, GRAY, WHITE
 If it doesn't — it is not V2.
+
+## FIRST TASK NEXT SESSION — VOCABULARY BACKLOG FIX
+Status: 644 words PENDING_LOOKUP in memory/glossary/unknown_words.json
+Cause:  Tokenizer flags punctuation variants, pronouns, and common words
+        that should be resolved by heuristics, not n8n/Claude lookup.
+Fix:    Add batch of common words to _init_color_heuristics() in
+        tokenizer/text_encoder.py — gray plane (1800-2100):
+          Pronouns:   you, i, me, my, we, us, our, they, them, their,
+                      he, him, his, she, her, it, its, who, whose, whom
+          Common:     do, am, are, can, will, would, could, should,
+                      have, has, had, did, does, be, not, no, yes,
+                      all, more, just, also, only, than, then, now
+          Variants:   strip trailing punctuation before lookup
+                      (feel? → feel, born? → born)
+        After adding heuristics — bulk-resolve remaining glossary entries.
+        Questions: ALL 140 ANSWERED — zero pending — n8n completed fully.
+        Do vocabulary fix BEFORE running new UI sessions.
