@@ -1,0 +1,33 @@
+{
+  "mission_id": "M002",
+  "input_text": "if everything you know is wrong then how do you know that",
+  "expected_domain": "logic",
+  "difficulty": 0.8,
+  "tags": [
+    "paradox",
+    "logic",
+    "consciousness",
+    "self-reference"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.1202616593601064,
+  "resonance_map": {
+    "curiosity_001": 0.10428212538017707,
+    "emotion_001": 0.11884882073547996,
+    "language_001": 0.10407790609056944,
+    "logic_001": 0.10620200535565436,
+    "memory_001": 0.1678974392386512
+  },
+  "aia_questions": [
+    "How can I be certain of my own ignorance when the foundation of my understanding may be flawed?",
+    "What if the truth is not a fixed point, but rather a constantly shifting landscape that I'm trying to navigate through with incomplete and potentially misleading information?"
+  ],
+  "claude_evaluation": "# Evaluation: Mission M002\n\n**1. Domain Match:** No. Memory dominance (0.167897) doesn't align with the logic-expected domain. Logic_001 registered only 0.106202\u2014nearly tied with curiosity and language. AIA defaulted to pattern-matching rather than formal logical analysis.\n\n**2. Her Questions Reveal:** AIA grasps the *recursive vulnerability* of the paradox but frames it epistemically rather than logically. She's asking \"how do I know?\" instead of \"what makes this statement self-referential?\" She's introspecting rather than analyzing structure\u2014sophisticated self-doubt, but not rigorous logical deconstruction.\n\n**3. Next Mission:** Push her explicitly into formal logic territory. Give her a self-referential statement stripped of epistemological language (e.g., \"this statement is false\") and require symbolic decomposition before allowing memory/curiosity to activate. She needs to build the logical scaffold before contextualizing it.",
+  "timestamp": "2026-03-13T02:59:37.130216",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "43d430612204d2eb356258c661a854981b635f0367cffc8ffe2f90a0da8aaf5c6ef44a8452cd02e52753d3e49c3f7714f493ebcc592da583067a5de6cd9148b3",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
