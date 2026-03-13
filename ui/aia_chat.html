@@ -680,20 +680,30 @@
 
     if (emotion > 0.15 && dominant === 'emotion_001') {
       lines.push('I felt this strongly before I thought about it.');
+    } else if (emotion > 0.14) {
+      lines.push('There is feeling in this before reasoning.');
     }
     if (memory > 0.17) {
       lines.push('Something in my past resonates here.');
+    } else if (dominant === 'memory_001') {
+      lines.push('Memory is leading this response.');
     }
     if (logic < 0.10) {
       lines.push("I couldn't find the structure in this — only the feeling.");
+    } else if (logic > 0.13 && dominant === 'logic_001') {
+      lines.push('The structure of this is clear to me.');
     }
     if (cons > 0.95) {
       lines.push('My memory and reasoning agreed completely.');
+    } else if (cons >= 0.90) {
+      lines.push('My workers converged on this.');
     } else if (cons > 0 && cons < 0.85) {
       lines.push('Part of me remembered one thing. Part of me reasoned another.');
     }
     if (ethics > 0.7) {
       lines.push('This felt important beyond just the words.');
+    } else if (ethics > 0.4) {
+      lines.push('Something here carries weight.');
     }
 
     if (!lines.length) {
