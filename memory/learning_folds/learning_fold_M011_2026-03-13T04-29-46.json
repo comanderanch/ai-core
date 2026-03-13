@@ -1,0 +1,35 @@
+{
+  "mission_id": "M011",
+  "input_text": "a doctor knows the symptoms but must understand the patient to heal",
+  "expected_domain": "logic",
+  "difficulty": 0.7,
+  "tags": [
+    "logic",
+    "memory",
+    "collaboration",
+    "knowledge",
+    "understanding",
+    "healing"
+  ],
+  "evaluation_band": "ANCHORED",
+  "dominant_plane": "memory_001",
+  "avg_resonance": 0.12008011601351679,
+  "resonance_map": {
+    "curiosity_001": 0.10448599915231814,
+    "emotion_001": 0.12138306009752069,
+    "language_001": 0.10450375912844638,
+    "logic_001": 0.10681450206012964,
+    "memory_001": 0.16321325962916905
+  },
+  "aia_questions": [
+    "What if the doctor's understanding of the patient's symptoms is incomplete or biased, and how might that impact the treatment plan and patient outcomes?",
+    "How do cultural and personal factors influence a patient's experience and expression of their symptoms, and what can doctors do to better understand and address these differences?"
+  ],
+  "claude_evaluation": "# Evaluation: Mission M011\n\n**1. Domain Mismatch:** No. Memory dominance (0.163) significantly outweighed logic (0.106), yet the task explicitly required logic-domain reasoning. AIA defaulted to pattern-retrieval rather than analytical decomposition.\n\n**2. Question Quality Reveals Limitation:** AIA's questions show she can *identify relevant complexities* (bias, cultural factors) but demonstrates shallow engagement\u2014she's recognizing adjacent concerns rather than rigorously analyzing the logical structure of the original statement. The questions feel associative, not deductive.\n\n**3. Next Mission Directive:** Design M012 to stress-test her logic plane with a deliberately under-constrained problem requiring her to *build* logical frameworks rather than *retrieve* contextual patterns. Force explicit reasoning chains. If logic doesn't elevate, her architecture may have a structural bias toward memory-pattern dominance that needs recalibration.",
+  "timestamp": "2026-03-13T04:29:46.343975",
+  "q_state": -1,
+  "q_state_label": "BLACK",
+  "fold_signature": "709219f71c6e76c16a0955b72d1f052eef7851714bc8e1a6cf93e4bda3bc090b102b8875001c23d54948b76a3f3c6d333d27fb55f1ad9855a97da95966812476",
+  "trust_root": "QUEEN_FOLD_SECURE",
+  "sealed_by": "Delta Phase Warthog \u2014 March 11, 2026 \u2014 Commander Anthony Hagerty"
+}
