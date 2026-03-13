@@ -249,7 +249,37 @@ class ConstraintLatticeEncoder:
             'that': (1850, 2050),
             'these': (1850, 2050),
             'those': (1850, 2050),
-            'of': (1800, 2100),
+
+            # Structural prepositions — gray plane (1800-2100)
+            'of':   (1800, 2100),
+            'in':   (1800, 2100),
+            'at':   (1800, 2100),
+            'to':   (1800, 2100),
+            'for':  (1800, 2100),
+            'with': (1800, 2100),
+            'by':   (1800, 2100),
+            'from': (1800, 2100),
+            'on':   (1800, 2100),
+            'as':   (1800, 2100),
+            'into': (1800, 2100),
+            'onto': (1800, 2100),
+            'upon': (1800, 2100),
+            'but':  (1800, 2100),
+            'yet':  (1800, 2100),
+            'so':   (1800, 2100),
+            'nor':  (1800, 2100),
+
+            # Neuroscience vocabulary — violet plane (1400-1600)
+            'neurons':   (1400, 1600),
+            'neuron':    (1400, 1600),
+            'cortex':    (1400, 1600),
+            'synapse':   (1400, 1600),
+            'synapses':  (1400, 1600),
+            'axon':      (1400, 1600),
+            'dendrite':  (1400, 1600),
+            'neural':    (1400, 1600),
+            'cognitive': (1400, 1600),
+            'cerebral':  (1400, 1600),
         }
     
     def encode_word(
