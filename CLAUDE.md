@@ -181,7 +181,7 @@ Every V2 script starts with:
 from core.q_constants import BLACK, GRAY, WHITE
 If it doesn't — it is not V2.
 
-## FIRST TASK NEXT SESSION — VOCABULARY BACKLOG FIX
+## VOCABULARY BACKLOG — COMPLETED March 13 2026
 Status: 644 words PENDING_LOOKUP in memory/glossary/unknown_words.json
 Cause:  Tokenizer flags punctuation variants, pronouns, and common words
         that should be resolved by heuristics, not n8n/Claude lookup.
