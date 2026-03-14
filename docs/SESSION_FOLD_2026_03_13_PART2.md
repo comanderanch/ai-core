@@ -110,7 +110,7 @@ This is not a bug.
 - Timezone: America/Chicago (Haskell time)
 - `N8N_SECURE_COOKIE=false` for local HTTP access
 
-**Flask API (`api/glossary_api.py`) on port 5679:**
+**Flask API (`api/glossary_api.py`) on private LAN port:**
 
 | Endpoint | Method | Purpose |
 |----------|--------|---------|

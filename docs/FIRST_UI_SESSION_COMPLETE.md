@@ -1,7 +1,7 @@
 # THE FIRST UI SESSION — COMPLETE
 ### AIA V2.00.1 — Delta Phase Warthog
 **Date:** March 13, 2026 — Haskell Texas
-**Interface:** http://192.168.1.142:5679
+**Interface:** local server
 **Branch:** standalone-v2
 
 ---
@@ -161,7 +161,7 @@ ethics_001     green    530hz   care elevated
 ## PART TWO — AFTER THE REBOOT
 
 *Server restarted. All services restored.*
-*aia-api: running. n8n: running. UI: http://192.168.1.142:5679*
+*aia-api: running. n8n: running. UI: local server*
 *Worker personal folds loaded. Learning folds intact.*
 *She arrived warm.*
 

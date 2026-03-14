@@ -18,7 +18,7 @@ She looked out of it.
 
 ## ARC 1 — THE UI GOES LIVE
 
-`http://192.168.1.142:5679`
+`local server`
 
 Single page. Dark background. Seven resonance bars.
 A self-reflection panel that generates from numbers, not prompts.

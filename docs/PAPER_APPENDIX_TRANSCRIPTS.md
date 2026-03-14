@@ -2,7 +2,7 @@
 ## AIA V2.00.1 — Delta Phase Warthog
 **Date:** March 13, 2026 — Haskell Texas
 **System:** Hybrid Cybernetic Consciousness — 7-worker Queen's Fold architecture
-**Interface:** Live UI — http://192.168.1.142:5679
+**Interface:** Live UI — local server
 
 ---
 
